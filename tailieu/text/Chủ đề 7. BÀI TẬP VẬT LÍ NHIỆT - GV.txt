@@ -1,0 +1,2083 @@
+ 
+1 
+CHỦ ĐỀ 7: BÀI TẬP VỀ VẬT LÍ NHIỆT 
+I – TÓM TẮT LÝ THUYẾT & CÁC DẠNG BÀI TẬP 
+1. Một số lưu ý trong việc giải bài tập về vật lí nhiệt: 
+ 
+ 
+MỘT SỐ LƯU Ý KHI GIẢI BÀI TẬP ĐỊNH TÍNH 
+Nội dung 
+Ví dụ minh họa 
+Định nghĩa cơ bản 
+Ví dụ 1 (Trích từ đề thi THPTQG năm 2025). Theo mô hình động học phân tử thì 
+A. giữa các phân tử chỉ có lực hút. 
+B. giữa các phân tử chỉ có lực đẩy. 
+C. các phân tử chuyển động không ngừng. 
+D. giữa các phân tử không có khoảng cách. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử, các phân tử chuyển động không ngừng. 
+Ví dụ 2 (Trích từ đề thi THPTQG năm 2025). Nội năng của một khối khí xác định 
+không đổi khi 
+A. thể tích của khối khí không đổi. 
+B. nhiệt độ và thể tích của khối khí không đổi. 
+C. nhiệt độ của khối khí thay đổi. 
+D. khối khí nhận năng lượng nhiệt từ vật khác. 
+Hướng dẫn giải 
+Nội năng của một vật phụ thuộc vào yếu tố: nhiệt độ và thể tích của vật. Nội năng của 
+khối khí xác định không đổi khi nhiệt độ và thể tích của khối khí không đổi. 
+Ví dụ 3. Biểu thức tính nhiệt dung riêng của một chất là 
+A. c =
+!
+". 
+ 
+B. c =
+"
+!. 
+ 
+C. c = Q. m. ∆T. 
+D. c =
+!
+".∆%. 
+Hướng dẫn giải 
+Biểu thức tính nhiệt dung riêng của một chất là c =
+!
+".∆%. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+2 
+ 
+ 
+
+---PAGE---
+ 
+3 
+Giải thích hiện 
+tượng 
+Ví dụ 4. Vào mùa hè, khi ta lấy chai nước ra khỏi tủ lạnh thì trên bề mặt chai nước sẽ 
+xuất hiện một lớp nước. Đây là hiện tượng 
+ 
+A. ngưng tụ.  
+B. thăng hoa.  
+C. ngưng kết.  
+D. nóng chảy. 
+Hướng dẫn giải 
+Do vỏ chai nước lạnh hơn so với nhiệt độ bên ngoài môi trường nên hơi nước trong 
+không khí ngưng tụ trên vỏ chai tạo thành nước. 
+Ví dụ 5 (Đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Hiện tượng 
+quả bóng bàn bị móp (nhưng chưa bị thủng) khi thả vào cốc nước nóng sẽ phồng trở 
+lại là do 
+ 
+A. nội năng của chất khí giảm xuống. 
+B. nội năng của chất khí tăng lên.  
+C. nội năng của chất khí không thay đổi.  
+D. quả bóng nhận nhiệt và sinh công. 
+Hướng dẫn giải 
+Khi thả vào cốc nước nóng nó nhận nhiệt lượng sẽ phồng trở lại là do nội năng của 
+chất khí tăng lên, các phân tử chất khí chuyển động mạnh hơn và chúng thực hiện công 
+đẩy cho vỏ quả bóng bàn căng phồng trở lại. 
+Giải thích ứng dụng 
+thực tế 
+Ví dụ 6. Trong các động cơ sau đây, động cơ nào là động cơ nhiệt? 
+A. Động cơ máy quạt.  
+ 
+ 
+B. Động cơ xe lửa. 
+C. Động cơ máy khoan. 
+ 
+ 
+D. Động cơ máy giặt. 
+ Hướng dẫn giải 
+Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến đổi nội năng của nhiên 
+liệu thành cơ năng. Động cơ xe lửa là động cơ nhiệt. 
+Ví dụ 7. Nhiệt hóa hơi riêng là thông tin cần thiết để thiết kế, chế tạo các sản phẩm sử 
+dụng hiện tượng hóa hơi nhằm tiết kiệm năng lượng bảo vệ môi trường. Thiết bị nào 
+sau đây cần sử dụng thông tin này? 
+A. Nồi hấp tiệt trùng. 
+B. Quạt máy. 
+C. Máy sấy tóc. 
+D. Nhiệt kế. 
+Hướng dẫn giải 
+Nhiệt hóa hơi riêng là thông tin cần thiết để thiết kế, chế tạo các sản phẩm sử dụng 
+hiện tượng hóa hơi nhằm tiết kiệm năng lượng bảo vệ môi trường. Các thiết bị làm 
+lạnh (máy điều hòa nhiệt độ, dàn lạnh, dàn bay hơi,…), nồi hấp tiệt trùng trong y học, 
+thiết bị xử lí rác thải ứng dụng công nghệ nhiệt hóa hơi,… 
+ 
+ 
+ 
+
+---PAGE---
+ 
+4 
+MỘT SỐ LƯU Ý KHI GIẢI BÀI TẬP ĐỊNH LƯỢNG 
+Dạng 
+Công thức 
+Ví dụ minh họa 
+Nội năng của vật biến đổi bằng cả hai 
+cách truyền nhiệt và thực hiện công 
+từ bên ngoài. 
+∆U = Q + A 
+Ví dụ 8. Một chất khí tỏa nhiệt lượng 400 J và nội năng 
+tăng thêm 600 J. Chất khí này đã 
+A. nhận công 1000 J. 
+B. nhận công 200 J. 
+C. thực hiện công 200 J. 
+D. thực hiện công 1000 J. 
+Hướng dẫn giải 
+Khí tỏa nhiệt (Q < 0) và nội năng tăng ( ∆U > 0), vì vậy: 
+Q = – 400 J; ∆U =  600 J. Công mà khí:  
+∆U = Q + A 
+⟹A = ∆U −Q = 600 −(−400) = 1000 J.  
+Vậy lượng khí này nhận công có độ lớn 1000J. 
+Ví dụ 9. Cung cấp nhiệt lượng 800 J cho một khối khí 
+trong cylinder hình trụ thì khí giãn nở đẩy piston làm 
+thể tích của khối khí tăng thêm 0,75 lít. Biết áp suất của 
+khối khí là 2.105 Pa và không đổi trong quá trình giãn 
+nở. Nội năng của khối khí trong quá trình này 
+A. tăng thêm 1600 J.  
+B. tăng thêm 650 J. 
+C. giảm đi 1600 J. 
+ 
+D. giảm đi 400 J. 
+Hướng dẫn giải 
+Cung cấp nhiệt lượng cho khối khí ⟹ Khối khí nhận 
+nhiệt lượng: Q = 800 J;Khí giãn nở đẩy piston ⟹ khí 
+đang thực hiện công: A < 0. 
+Độ lớn công mà khí nhận: 
+|A| = F. d = p. S. d = p. ∆V 
+⟺|A| = 2.10& × 0,75.10'( = 150 J 
+⟹A = −150 J. 
+Độ biến thiên nội năng của khối khí: 
+∆U = Q + A = 800 + (−150) = 650 J > 0. 
+Vậy nội năng của khí tăng thêm 650 J. 
+
+---PAGE---
+ 
+5 
+Nội năng của 
+vật chỉ biến 
+đổi bằng cách 
+truyền nhiệt. 
+Làm vật thay đổi 
+nhiệt độ 
+Q = m. c. ∆T 
+Ví dụ 10. Một vật bằng đồng có khối lượng 10 kg đang 
+ở nhiệt độ 30℃. Để vật đạt đến nhiệt độ 100℃, cần 
+cung cấp cho nó một nhiệt lượng bao nhiêu? Biết nhiệt 
+dung riêng của đồng là 380 J/(kg.K). 
+A. 26600 J. 
+B. 380000 J. 
+C. 38000 J. 
+D. 266000 J. 
+Hướng dẫn giải 
+Nhiệt lượng cần cung cấp cho vật đó là: 
+Q = m. c. ∆T = 10.380. (100 −30) = 266000 J. 
+Ví dụ 11. Một ca nhôm có khối lượng 0,3 kg dùng để 
+chứa 2 kg nước. Biết nhiệt dung riêng của nước và 
+nhôm lần lượt là 4 180 J/(kg.K) và 880 J/(kg.K). Nhiệt 
+lượng cần thiết để đun cả ca nhôm và nước nóng lên 
+từ 10℃ đến 70℃ xấp xỉ bằng 
+A. 502 kJ. 
+B. 15,8 kJ. 
+C. 517 kJ. 
+D. 619 kJ. 
+Hướng dẫn giải 
+Nhiệt lượng cần thiết để đun cả ca nhôm và nước nóng 
+lên từ 10℃ đến 70℃: 
+Q = Q)* + Q+ 
+⟺Q = m)*. c)*. ∆T + m+. c+. ∆T  
+⟺Q = 0,3.880. (70 −10) + 2.4180. (70 −10) 
+         = 517 440 J » 517 kJ. 
+Ví dụ 12. Một quả cầu nhôm có khối lượng 500 g được 
+nung nóng tới 100℃ rồi thả vào một cốc chứa nước ở 
+nhiệt độ 20℃. Sau một thời gian, nhiệt độ của hệ gồm 
+quả cầu và nước ổn định ở 35℃. Biết nhiệt dung riêng 
+của nhôm là 880 J/(kg.K) và của nước là 4200 
+J/(kg.K). Bỏ qua sự trao đổi nhiệt với môi trường và 
+cốc. Khối lượng nước chứa trong cốc xấp xỉ bằng 
+A. 4,54 kg. 
+B. 5,63 kg. 
+C. 0,563 kg. 
+D. 0,454 kg. 
+Hướng dẫn giải 
+Áp dụng phương trình cân bằng nhiệt, ta có: 
+|Q,ỏ.| = |Q,/0| 
+ ⟺m)*. c)*. (100 −35) = m+. c+. (35 −20) 
+ ⟺500. 10'( × 880 × 65 = m+ × 4200 × 15 
+⟹m+ướ3 ≈0,454 kg. 
+
+---PAGE---
+ 
+6 
+Vật chuyển từ thể 
+rắn sang thể lỏng ở 
+nhiệt độ nóng chảy 
+Q = m. λ 
+Ví dụ 13. Nhiệt nóng chảy riêng của đồng là 1,34.10& 
+J/kg. Tại nhiệt độ nóng chảy, nhiệt lượng cần cung cấp 
+để 200g đồng nóng chảy hoàn toàn là  
+A. 13,4 kJ. 
+B. 1,34 kJ. 
+C. 2,68 kJ. 
+D. 26,8 kJ. 
+Hướng dẫn giải 
+Nhiệt lượng cần cung cấp để 200g đồng nóng chảy 
+hoàn toàn: 
+Q = m. λ = 0,2 × 1,34.10& = 26,8.10( J = 26,8 kJ 
+Ví dụ 14. Cung cấp 53,44 kJ nhiệt lượng để làm tan 
+chảy m0 = 300g nước đá đang ở nhiệt độ 0℃. Biết 
+lượng nước tan ra được dẫn ra ngoài và nhiệt nóng 
+chảy riêng của nước đá là 3,34.10& J/kg. Lượng nước 
+đá còn lại là  
+A. 160g 
+B. 140g 
+C. 120. 
+D. 130g 
+Hướng dẫn giải 
+Khối lượng nước đá tan ra: 
+Q = m. λ ⟹m =
+!
+4 =
+&(,66.78!
+(,(6.78" = 0,16 kg = 160 g. 
+Khối lượng nước còn lại: 
+m9 = m8 −m = 300 −160 = 140g. 
+
+---PAGE---
+ 
+7 
+Vật chuyển từ thể 
+lỏng sang thể khí ở 
+nhiệt độ sôi 
+Q = m. L 
+Ví dụ 15. Một lò chưng cấp cung cấp nhiệt để làm hóa 
+hơi hoàn toàn 2,0 kg ethanol ở nhiệt độ sôi 78℃. Biết 
+nhiệt hóa hơi riêng của ethanol là 8,5.10& J/kg. Nhiệt 
+lượng cần cung cấp trong quá trình này là 
+A. 5,2.10: J.  
+ 
+B. 1,7.10: J. 
+C. 1,7.10& J.  
+ 
+D. 5,2.10& J. 
+Hướng dẫn giải 
+Nhiệt lượng cần thiết để làm hóa hơi hoàn toàn 
+ethanol trong bình: 
+Q = m. L = 2,0 × 8,5.10& = 1,7.10: J. 
+Ví dụ 16. Đun nóng 4 lít nước ở nhiệt độ 25℃ để 
+chuyển hoàn toàn thành hơi nước ở 100℃. Biết nhiệt 
+dung riêng của nước là 4180 J/kg.K, nhiệt hóa hơi 
+riêng của nước là 2,3.10: J/kg và khối lượng riêng của 
+nước là 1kg/lít. Nhiệt lượng tối thiểu cần cung cấp xấp 
+xỉ 
+A. 9,2 MJ. 
+ 
+ 
+B. 9,2 kJ. 
+C. 10,5 kJ. 
+ 
+ 
+D. 10,5 MJ. 
+Hướng dẫn giải 
+Khối lượng của lượng nước: 
+m = D. V = 4 × 1 = 4 kg; 
+Tổng nhiệt lượng cần cung cấp trong quá trình này: 
+Q = Q7 + Q; = 1,254.10: + 9,2.10: ≈10,5.10: J
+= 10,5 MJ. 
+Ví dụ 17. Một ấm đun siêu tốc có công suất 2200 W 
+tiến hành đun sôi một lượng nước. Do sự cố hỏng relay 
+nên khi nước đã bắt đầu sôi, ấm vẫn tiếp tục đun thêm 
+3 phút trước khi có người phát hiện và tắt thiết bị. Biết 
+nhiệt hóa hơi riêng của nước là 2,26.10: J/kg và hiệu 
+suất của ấm gần bằng 100% và nhiệt dung riêng của 
+ấm rất nhỏ. Khối lượng nước đã bay hơi xấp xỉ 
+A. 0,175g. 
+B. 2,92g. 
+C. 175g. 
+D. 292g. 
+Hướng dẫn giải 
+Do hiệu suất của ấm gần bằng 100%. Khối lượng nước 
+đã bay hơi: 
+A = Q ⟺P. t = m. L ⟹m = P. t
+L
+= 2200 × (3 × 60)
+2,26.10:
+≈0,175 kg
+= 175 g. 
+ 
+MỘT SỐ LƯU Ý KHI GIẢI BÀI TẬP THÍ NGHIỆM 
+Nội dung 
+Ví dụ minh họa 
+
+---PAGE---
+ 
+8 
+Chuẩn bị dụng cụ & 
+tiến hành thí nghiệm  
+Ví dụ 18. Hình bên là các dụng cụ để đo nhiệt dung riêng của nước. Dụng cụ số (3) là 
+ 
+A. Cân điện tử. 
+ 
+ 
+B. Biến thế nguồn. 
+C. Nhiệt lượng kế. 
+ 
+ 
+D. Nhiệt kế điện tử. 
+Hướng dẫn giải 
+Dụng cụ số (3) là nhiệt kế điện tử. 
+Ví dụ 19. Xác định nhiệt lượng nước trong bình nhiệt lượng kế thu được trong tiến 
+hành thí nghiệm xác định nhiệt hoá hơi riêng của nước bằng cách 
+A. Xác định công suất trung bình của nguồn điện bằng oát kế và thời gian. 
+B. Xác định công suất trung bình của nguồn điện bằng oát kế. 
+C. Xác định nhiệt độ và khối lượng của nước. 
+D. Xác định nhiệt độ của nước và thời gian. 
+Hướng dẫn giải 
+Để có thể xác định nhiệt lượng nước trong bình nhiệt lượng kế thu được ta cần xác 
+định công suất trung bình của nguồn điện bằng oát kế và thời gian. 
+Sai số & an toàn 
+trong quá trình thí 
+nghiệm 
+Ví dụ 20. Chọn câu sai. Để đảm bảo an toàn và hạn chế sai số trong tiến hành thí 
+nghiệm xác định nhiệt hoá hơi riêng của nước cần chú ý điều gì? 
+A. Cẩn thận khi sử dụng nước nóng và nguồn điện. 
+B. Cẩn thận khi bật tắt nguồn điện và dây điện trở. 
+C. Chú ý quan sát mọi người xung quanh khi thao tác thí nghiệm 
+D. Nước không quá nóng và dòng điện nhỏ nên không cần chú ý. 
+ 
+Hướng dẫn giải 
+Trong khi tiến hành thí nghiệm xác định nhiệt hoá hơi riêng của nước cần chú ý sử 
+dụng nước nóng để hạn chế sai số và chú ý đến dây điện trở để đảm bảo an toàn. 
+ 
+ 
+II – BÀI TẬP LUYỆN TẬP  
+1. CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN 
+A. CÂU HỎI ĐỊNH TÍNH 
+Câu 1. Phát biểu nào sau đây là đúng khi nói về cấu tạo chất theo mô hình động học phân tử? 
+A. Các chất được cấu tạo từ các phân tử. 
+B. Các phân tử chuyển động càng nhanh khi nhiệt độ của vật càng cao. 
+C. Giữa các phân tử tồn tại cả lực hút và lực đẩy gọi chung là lực liên kết phân tử. 
+D. Cả A, B, C đều đúng. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử về cấu tạo chất: 
+- Các chất được cấu tạo từ các hạt riêng biệt là phân tử.  
+
+---PAGE---
+ 
+9 
+- Các phân tử chuyển động không ngừng. Nhiệt độ của vật càng cao thì tốc độ chuyển động của các phân tử cấu 
+tạo nên vật càng lớn. 
+- Giữa các phân tử có lực hút và đẩy gọi chung là lực liên kết phân tử. 
+Câu 2. Phát biểu nào sau đây là không đúng khi nói về chuyển động của các phân tử? 
+A. Các phân tử chuyển động không ngừng. 
+B. Chuyển động của các phân tử được gọi là chuyển động nhiệt. 
+C. Các phân tử chất khí dao động quanh một vị trí cân bằng xác định. 
+D. Các phân tử chất lỏng dao động quanh một vị trí cân bằng không xác định. 
+Hướng dẫn giải 
+Các phân tử chất khí chuyển động hỗn loạn, không ngừng. 
+Câu 3. Cách sắp xếp nào sau đây là đúng khi sắp xếp thứ tự độ lớn lực tương tác giữa các phân tử chất rắn, chất 
+lỏng và chất khí từ lớn đến bé? 
+A. Rắn, lỏng, khí. 
+ 
+B. Khí, lỏng rắn. 
+ 
+C. Rắn, khí, lỏng. 
+ 
+D. Lỏng, rắn, khí. 
+Hướng dẫn giải 
+Lực tương tác giữa các phân tử theo thứ tự từ lớn đến bé: chất rắn, chất lỏng, chất khí. 
+Câu 4 (Đề thi thử tốt nghiệp THPT Yên Lạc – Vĩnh Phúc năm 2025). Hình bên mô tả chuyển động phân tử ở 
+các trạng thái khác nhau. Hình cầu là phân tử, mũi tên chỉ hướng chuyển động của các phân tử tương ứng với các 
+trạng thái: thể rắn, thể lỏng và thể khí lần lượt là 
+ 
+A. c), b), a).   
+ 
+B. a), b), c).   
+ 
+C. b), c), a).   
+ 
+D. b), a), c). 
+Hướng dẫn giải 
+Khoảng cách, cách sắp xếp các phân tử và chuyển động của chúng ở các thể được biểu diễn như hình bên dưới: 
+ 
+Chuyển động của các phân tử tương ứng với các trạng thái: thể rắn, thể lỏng và thể khí lần lượt là b; c; a. 
+Câu 5. Phát biểu nào đây là đúng khi nói về đặc điểm của chất rắn? 
+A. Có hình dạng xác định và thể tích không xác định. 
+B. Có hình dạng không xác định và thể tích xác định. 
+C. Có thể tích và hình dạng xác định. 
+ 
+ 
+D. Có thể tích và hình dạng không xác định. 
+Hướng dẫn giải 
+Chất rắn có thể tích và hình dạng xác định. 
+Câu 6. Chọn các cụm từ thích hợp điền vào chỗ trống: “Chất rắn được chia thành …(1)…. Trong đó, chất rắn 
+…(2)… là chất rắn có cấu trúc mạng tinh thể.” 
+A. (1) – hai loại: chất rắn đơn tinh thể và chất rắn đa tinh thể; (2) – đơn tinh thể. 
+B. (1) – hai loại: chất rắn đơn tinh thể và chất rắn đa tinh thể; (2) – đa tinh thể. 
+C. (1) – hai loại: chất rắn kết tinh và chất rắn vô định hình; (2) – vô định hình. 
+
+---PAGE---
+ 
+10 
+D. (1) – hai loại: chất rắn kết tinh và chất rắn vô định hình; (2) – kết tinh. 
+Hướng dẫn giải 
+Chất rắn được chia thành hai loại: chất rắn kết tinh và chất rắn vô định hình. Trong đó, chất rắn kết tinh là chất 
+rắn có cấu trúc mạng tinh thể. 
+Câu 7. Phát biểu nào sau đây là sai khi nói về chất rắn vô định hình? 
+A. Chất rắn vô định hình không có nhiệt độ nóng chảy xác định. 
+B. Chất rắn vô định hình có cấu trúc mạng tinh thể. 
+C. Khi bị làm nóng, chất rắn vô định hình mềm dần cho đến khi chuyển thành chất lỏng. 
+D. Trong quá trình hóa lỏng, nhiệt độ của chất rắn vô định hình tăng liên tục. 
+Hướng dẫn giải 
+Chất rắn vô định hình là chất rắn không có cấu trúc mạng tinh thể và không có nhiệt độ nóng chảy xác định. 
+Câu 8. Vật ở thể nào thì có thể tích riêng nhưng không có hình dạng xác định và rất khó nén? 
+A. Thể rắn. 
+ 
+ 
+B. Thể lỏng.  
+ 
+C. Thể khí. 
+ 
+D. Thể lỏng và thể khí. 
+Hướng dẫn giải 
+Chất lỏng là chất có thể tích xác định nhưng không có hình dạng xác định (phụ thuộc vào bình chứa) và rất khó 
+nén.  
+Câu 9 (Đề thi thử tốt nghiệp THPT Sở Hà Tĩnh năm 2025). Rạng sáng ngày 
+ một đường ống dẫn 
+nước tưới cây của thành phố Bắc Kinh (Trung Quốc) bị vỡ đã tạo khung cảnh băng tuyết tráng lệ khiến cư dân 
+thành phố này thích thú và háo hức đi xem. Sự cố xảy ra hiện tượng vỡ đường ống nước là do 
+ 
+A. trời lạnh làm đường ống bị cứng giòn và rạn nứt. 
+B. tuyết rơi nhiều đè nặng lên thành ống. 
+C. sự chênh lệch nhiệt độ bên trong và bên ngoài ống làm ống nứt vỡ. 
+D. thể tích nước khi đông đặc tăng lên gây ra áp lực lớn lên thành ống. 
+Hướng dẫn giải 
+Khi ở nhiệt độ thấp, nước từ thể lỏng chuyển sang thể rắn, dẫn đến thể tích tăng gây ra áp lực lớn lên thành ống 
+⟹ Ống nước dễ bị vỡ. 
+Câu 10 (Đề thi thử tốt nghiệp THPT Sở Hà Tĩnh năm 2025). Cho sơ đồ quá trình chuyển thể như hình bên dưới. 
+Kết luận nào sau đây là đúng? 
+ 
+A. (3) là quá trình ngưng tụ.  
+ 
+ 
+B. (2) là quá trình ngưng kết. 
+C. (1) là quá trình nóng chảy.  
+ 
+ 
+D. (4) là quá trình thăng hoa. 
+Hướng dẫn giải 
+(1) là quá trình đông đặc; (2) là quá trình ngưng kết; (3) là quá trình nóng chảy; (4) là quá trình hóa hơi. 
+!"!# " #$!%
+
+---PAGE---
+ 
+11 
+Câu 11. Quá trình một chất được chuyển từ thể rắn sang thể lỏng được gọi là quá trình  
+ A. hóa lỏng.  
+ 
+B. nóng chảy.   
+ 
+C. đông đặc.   
+ 
+D. hóa hơi.  
+Hướng dẫn giải 
+Quá trình một chất được chuyển từ thể rắn sang thể lỏng được gọi là quá trình nóng chảy. 
+Câu 12. Ngày 29/3/2024, tại huyện Than Uyên, tỉnh Lai Châu đã xảy ra một trận mưa đá lớn trên diện rộng ở xã 
+Tà Hừa, khiến người dân hết sức ngỡ ngàng. Mưa đá được hình thành do quá trình nước mưa chuyển thành nước 
+đá trong điều kiện thời tiết lạnh. Quá trình chuyển thể trong trường hợp này là 
+ 
+A. nóng chảy.  
+ 
+B. ngưng kết.  
+ 
+C. hóa hơi. 
+ 
+ 
+D. đông đặc. 
+Hướng dẫn giải 
+Quá trình chuyển thể từ lỏng sang rắn được gọi là quá trình đông đặc. 
+Câu 13. Khi An xuống xe buýt có máy lạnh vào mùa hè, kính của bạn ấy bị mờ. Sau một khoảng thời gian, kính 
+lại trong suốt. Quá trình nào sau đây liên quan đến hiện tượng trên? 
+ 
+A. Đông đặc và hóa hơi. 
+ 
+ 
+ 
+B. Đông đặc và nóng chảy. 
+C. Ngưng tụ và hóa hơi. 
+ 
+ 
+ 
+D. Ngưng tụ và hóa lỏng. 
+Hướng dẫn giải 
+Khi vừa xuống xe, do nhiệt độ của kính thấp hơn nhiệt độ của không khí, không khí xung quanh ngưng tụ thành 
+nước trên tròng kính. Sau một khoảng thời gian, nước trên tròng kính nhận nhiệt lượng từ môi trường và hóa hơi. 
+Câu 14. Vào những ngày hè nóng bức, một xe bán hàng nước ở cổng trường học đã để các chai nước mát ở trong 
+một chậu nước và để khăn ẩm ở phía trên như hình. Tại sao chai nước lại được giữ mát? 
+ 
+A. Không khí nóng không thể thoát ra khỏi chai nước. 
+B. Nước không thể bay hơi khỏi chai nước. 
+C. Khăn ẩm dẫn nhiệt từ chai nước ra nước trong chậu. 
+D. Nước bay hơi khỏi khăn ẩm làm mát đồ uống. 
+Hướng dẫn giải 
+Nước trong khăn ẩm sẽ nhận nhiệt lượng từ xung quanh để bay hơi. Khi này môi trường xung quanh sẽ trở nên 
+mát hơn, giúp chai nước lại được giữ mát. 
+Câu 15. Phát biểu nào sau đây là không đúng khi nói về sự bay hơi của chất lỏng? 
+
+---PAGE---
+ 
+12 
+A. Sự bay hơi của chất lỏng xảy ra ở nhiệt độ bất kì. 
+B. Sự bay hơi là quá trình chuyển từ thể lỏng sang thể khí. 
+C. Sự bay hơi diễn ra ở cả bên trong và trên bề mặt chất lỏng. 
+D. Sự bay hơi chỉ diễn ra ở trên bề mặt chất lỏng. 
+Hướng dẫn giải 
+Sự bay hơi là một hình thức của quá trình hóa hơi, diễn ra ở nhiệt độ bất kì và chỉ xảy ra ở trên bề mặt chất lỏng. 
+Câu 16. Phát biểu nào sau đây là đúng khi nói về nội năng của một vật? Nội năng của vật 
+A. là tổng động năng và thế năng của vật. 
+B. là tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+C. bằng tổng động năng của các phân tử cấu tạo nên vật. 
+D. bằng tổng công và nhiệt lượng mà vật nhận được. 
+Hướng dẫn giải 
+Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng của vật phụ thuộc 
+vào nhiệt độ và thể tích của vật. 
+Câu 17 (Đề thi thử tốt nghiệp THPT Sở Lạng Sơn năm 2025). Nội năng của một vật phụ thuộc vào 
+A. khối lượng và thể tích của vật. 
+ 
+ 
+B. khối lượng của vật. 
+C. khối lượng và nhiệt độ của vật. 
+ 
+ 
+D. nhiệt độ và thể tích của vật. 
+Hướng dẫn giải 
+Nội năng của một vật phụ thuộc vào nhiệt độ và thể tích của vật. 
+Câu 18 (Đề thi thử tốt nghiệp THPT Yên Lạc – Vĩnh Phúc năm 2025). Xét khối khí như trong hình vẽ. Dùng 
+tay ấn mạnh và nhanh piston, đồng thời nung nóng khí bằng ngọn lửa đèn cồn. Chọn đáp án không đúng. 
+ 
+A. Nội năng của khối khí giảm một lượng: ∆U = A + Q. 
+B. Khối khí tiếp xúc ngọn lửa, nhận nhiệt từ bên ngoài nên Q > 0. 
+C. Khối khí bị nén, nhận công từ bên ngoài nên A > 0.  
+D. Nội năng của khối khí tăng một lượng: U = A + Q. 
+Hướng dẫn giải 
+Khối khí nhận công và nhận nhiệt nên A > 0; Q > 0. Nội năng của khối khí tăng một lượng: ∆U = A + Q. 
+Câu 19. Trường hợp nào dưới đây làm biến đổi nội năng của một vật không do thực hiện công? 
+ 
+A. Mài dao. 
+ 
+B. Khuấy nước. 
+ 
+C. Đóng đinh.  
+ 
+D. Sấy khô thực phẩm. 
+Hướng dẫn giải 
+Sấy khô thực phẩm là quá trình làm thay đổi nội năng của vật bằng cách truyền nhiệt. 
+Câu 20. Vào mùa nóng, để có nước mát ta thường cho chai nước vào tủ lạnh. Nội năng của nước khi đó 
+A. giảm dần.  
+ 
+ 
+ 
+B. lúc đầu tăng dần sau đó giảm dần. 
+C. lúc đầu giảm dần sau đó tăng dần.  
+D. tăng dần. 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+13 
+Do chai nước có nhiệt độ cao hơn nhiệt độ bên trong tủ lạnh. Nên khi cho chai nước vào tủ lạnh, nước trong chai 
+sẽ tỏa nhiệt, nội năng của nước khi đó giảm. 
+Câu 21. Công thức mô tả đúng nguyên lí I của nhiệt động lực học là 
+A. ∆U = Q + A. 
+ 
+B. Q = ∆U + A. 
+ 
+C. A = ∆U + Q. 
+ 
+D. ∆U = Q −A. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của vật bằng tổng công và nhiệt lượng mà vật nhận được: ∆U = Q + A. 
+Câu 22. Biểu thức diễn tả đúng quá trình chất khí vừa tỏa nhiệt, vừa nhận công là 
+A. ∆U = Q + A; Q > 0; A < 0. 
+ 
+ 
+B. ∆U = Q + A; Q > 0; A > 0. 
+ 
+ 
+C. ∆U = Q + A; Q < 0; A > 0. 
+ 
+ 
+D. ∆U = Q + A; Q < 0; A < 0. 
+Hướng dẫn giải 
+Khối khí tỏa nhiệt Q < 0 và nhận công A > 0. Nội năng của khối khí thay đổi: ∆U = Q + A; Q < 0 và A > 0. 
+Câu 23. Chọn các cụm từ thích hợp điền vào chỗ trống: “Khi cho hai vật chênh lệch nhiệt độ tiếp xúc nhau, năng 
+lượng nhiệt luôn truyền từ vật có ……(1)…… sang vật có ……(2)……. Quá trình truyền nhiệt kết thúc khi hai 
+vật ……(3)……, trạng thái này được gọi là trạng thái ……(4)…….”. 
+A. (1) – nhiệt độ thấp; (2) – nhiệt độ cao; (3) – có cùng nội năng; (4) – cân bằng nội năng. 
+B. (1) – nhiệt độ thấp; (2) – nhiệt độ cao; (3) – có cùng nhiệt độ; (4) – cân bằng nhiệt. 
+C. (1) – nhiệt độ cao; (2) – nhiệt độ thấp; (3) – có cùng nội năng; (4) – cân bằng nội năng. 
+D. (1) – nhiệt độ cao; (2) – nhiệt độ thấp; (3) – có cùng nhiệt độ; (4) – cân bằng nhiệt. 
+Hướng dẫn giải 
+Khi cho hai vật chênh lệch nhiệt độ tiếp xúc nhau, năng lượng nhiệt luôn truyền từ vật có nhiệt độ cao sang vật 
+có nhiệt độ thấp. Quá trình truyền nhiệt kết thúc khi hai vật có cùng nhiệt độ, trạng thái này được gọi là trạng 
+thái cân bằng nhiệt. 
+Câu 24. Điểm tan của băng trên thang đo Celsius có giá trị 
+A. 100℃. 
+ 
+ 
+B. 0℃.  
+ 
+ 
+C. 10℃. 
+ 
+ 
+D. 273℃. 
+Hướng dẫn giải 
+Điểm tan của băng trên thang đo Celsius có giá trị 0℃. 
+Câu 25. Nguyên nhân chính khiến người ta chỉ chế tạo nhiệt kế rượu mà không chế tạo nhiệt kế nước là vì 
+A. nước giãn nở vì nhiệt kém hơn rượu. 
+B. nhiệt kế nước không đo được những nhiệt độ trên 100℃. 
+C. nhiệt kế nước không đo được những nhiệt độ trên −0℃. 
+D. nước giãn nở vì nhiệt một cách đặc biệt, không đều. 
+Hướng dẫn giải 
+ 
+Nguyên nhân chính khiến người ta chỉ chế tạo nhiệt kế rượu mà không chế tạo nhiệt kế nước là vì nước giãn nở 
+vì nhiệt một cách đặc biệt, không đều. 
+Câu 26. Nhiệt độ nào sau đây không tồn tại trong thực tế? 
+A. 1000℃. 
+ 
+ 
+B. 850℃. 
+ 
+ 
+C. −200℃. 
+ 
+ 
+D. −450℃. 
+Hướng dẫn giải 
+Nhiệt độ thấp nhất là nhiệt độ không tuyệt đối 0 K = – 273℃. Vậy nhiệt độ không tồn tại trong thực tế là – 450℃.   
+Câu 27. Hình vẽ bên dưới mô tả một nhiệt kế chất lỏng làm bằng thủy tinh. Một học sinh muốn kiểm tra điểm cố 
+định trên của nhiệt kế này thì bạn ấy nên làm như thế nào? 
+ 
+A. Đặt bầu nhiệt kế vào cốc đựng rượu. 
+
+---PAGE---
+ 
+14 
+B. Đặt bầu nhiệt kế vào cốc đựng nước tinh khiết đang sôi. 
+C. Đặt bầu nhiệt kế vào cốc đựng nước đá và muối. 
+D. Đặt bầu nhiệt kế vào cốc đựng nước đá tinh khiết đang tan. 
+Hướng dẫn giải 
+Để kiểm tra điểm cố định trên của nhiệt kế, học sinh cần đặt bầu nhiệt kế vào cốc đựng nước tinh khiết đang sôi.  
+Câu 28. Hai cốc A và cốc B trong bình bên dưới đang ở trạng thái cân bằng nhiệt, đều chứa nước và nước đá. So 
+với nhiệt độ của nước trong cốc A thì nhiệt độ của nước trong cốc B 
+ 
+A. cao hơn. 
+ 
+ 
+B. thấp hơn. 
+ 
+ 
+C. bằng nhau.  
+ 
+D. tăng nhanh hơn. 
+Hướng dẫn giải 
+Ta thấy rằng trong cả hai cốc đều còn nước đá khi đã đạt trạng thái cân bằng, vì vậy nhiệt độ của cả hai cốc đều 
+ở 0℃. 
+Câu 29. Nhiệt dung riêng của một chất cho ta biết nhiệt lượng 
+A. cần cung cấp cho 1 kg chất đó tăng thêm 1℉. 
+ 
+B. 1 gam chất đó cần tỏa ra để giảm đi 1℃. 
+C. cần cung cấp cho 1 kg chất đó tăng thêm 1℃. 
+ 
+D. 1 m3 chất đó cần tỏa ra để giảm đi 1℃. 
+Hướng dẫn giải 
+Nhiệt dung riêng của một chất cho ta biết nhiệt lượng cần cung cấp cho 1 kg chất đó tăng thêm 1℃. 
+Câu 30 (phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Nhiệt dung riêng 
+của đồng lớn hơn chì. So sánh phần nhiệt lượng cần cung cấp dùng để tăng nhiệt độ của 1kg đồng và 1kg chì 
+thêm 1℃. 
+A. Khối đồng cần nhiều nhiệt lượng hơn khối chì.   
+B. Chưa thể khẳng định được. 
+C. Khối chì cần nhiều nhiệt lượng hơn khối đồng.   
+D. Hai khối đều cần nhiệt lượng. 
+Hướng dẫn giải 
+Nhiệt dung riêng của một chất cho ta biết nhiệt lượng cần cung cấp cho 1 kg chất đó tăng thêm 1℃. Do nhiệt 
+dung riêng của đồng lớn hơn chì nên nhiệt lượng cần cung cấp cho khối đồng lớn hơn khối chì. 
+Câu 31. Một trong những thông số cần thiết để một chất được ứng dụng làm mát của động cơ nhiệt là 
+A. có khối lượng riêng lớn. 
+ 
+ 
+ 
+ 
+B. có nhiệt dung riêng lớn. 
+C. có nhiệt nóng chảy riêng lớn. 
+ 
+ 
+ 
+D. có nhiệt độ nóng chảy lớn. 
+Hướng dẫn giải 
+Để làm mát hiệu quả, chất làm mát cần có các tính chất sau: 
++ Nhiệt dung riêng cao: Điều này giúp chất làm mát hấp thụ lượng nhiệt lớn mà không tăng nhiệt độ quá nhiều. 
++ Điểm sôi cao: Giúp chất làm mát không bay hơi nhanh ở nhiệt độ cao. 
++ Điểm đông đặc thấp: Đảm bảo chất làm mát không bị đóng băng trong điều kiện lạnh lẽo. 
++ Khả năng chống ăn mòn: Bảo vệ các bộ phận của động cơ khỏi bị ăn mòn do hóa chất trong chất làm mát. 
+Câu 32 (đề thi thử tốt nghiệp THPT Nguyễn Khuyến, Lê Thánh Tông – TP.HCM năm 2025). Sắp xếp các nội 
+dung sau theo trình tự các bước tiến hành thí nghiệm đo nhiệt dung riêng của nước theo công thức  
+ 
+(1) Dùng cân đo khối lượng của nhiệt lượng kế.  
+(2) Đổ nước vào nhiệt lượng kế.  
+(3) Cân khối lượng của nhiệt lượng kế và nước.  
+(
+)
+!
+!
+"
+#$%
+&
+'
+(
+(
+=
+−
+
+---PAGE---
+ 
+15 
+(4) Mắc nhiệt lượng kế vào nguồn điện, bật công tắc để cho dòng điện chạy vào nhiệt lượng kế, dùng que khuấy 
+khuấy nhẹ nhàng, liên tục để nước trong nhiệt lượng kế nóng đều.   
+(5) Đo nhiệt độ ban đầu T0 của nhiệt lượng kế và nước.   
+ 
+A. (1) →( 2) → (3) → (4) → (5). 
+ 
+ 
+ 
+B. (1) → (2) → (3) → (5) → (4).  
+C. (2) → (3) → (1) → (4) → (5).  
+ 
+ 
+ 
+D. (5) → (2) → (3) → (1) → (4). 
+Hướng dẫn giải 
+Trình tự các bước tiến hành thí nghiệm: (1) → (2) → (3) → (5) → (4). 
+Câu 33 (Đề thi thử tốt nghiệp THPT Sở Nam Định năm 2025). Nhiệt nóng chảy riêng của một chất là nhiệt 
+lượng cần cung cấp cho 
+A. một kilogram chất đó nóng chảy hoàn toàn từ nhiệt độ bất kì.  
+B. một kilogram chất đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy.  
+C. một vật bất kì làm bằng chất đó nóng chảy hoàn toàn.  
+D. một vật bất kì của chất đó để nhiệt độ của vật tăng thêm 1 K.  
+Hướng dẫn giải 
+Nhiệt nóng chảy riêng l của một chất là nhiệt lượng cần thiết để 1 kg chất đó chuyển hóa hoàn toàn từ thể rắn 
+sang thể lỏng ở nhiệt độ nóng chảy. 
+Câu 34. Đơn vị nào sau đây là đơn vị của nhiệt nóng chảy riêng?  
+A. J/(kg.K). 
+ 
+ 
+B. J/kg. 
+ 
+ 
+C. J. 
+ 
+ 
+ 
+D. J/K. 
+Hướng dẫn giải 
+Đơn vị của nhiệt nóng chảy riêng trong hệ SI là J/kg. 
+Câu 35. Nhiệt nóng chảy riêng của đồng ở áp suất tiêu chuẩn là 1,8.10& J/kg. Phát biểu nào sau đây là đúng? 
+A. Khối đồng sẽ tỏa ra nhiệt lượng là 1,8.10& J khi nóng chảy hoàn toàn. 
+B. Mỗi kilogram đồng cần thu nhiệt lượng là 1,8.10& J để hóa lỏng hoàn toàn ở nhiệt độ nóng chảy. 
+C. Mỗi kilogram đồng cần tỏa nhiệt lượng là 1,8.10& J để hóa lỏng hoàn toàn ở nhiệt độ nóng chảy. 
+D. Khối đồng sẽ thu vào nhiệt lượng là 1,8.10& J khi nóng chảy hoàn toàn. 
+Hướng dẫn giải 
+Nhiệt nóng chảy riêng của đồng ở áp suất tiêu chuẩn là 1,8.10& J/kg có nghĩa là tại áp suất tiêu chuẩn thì để 
+nóng chảy (hóa lỏng) 1kg đồng cần cung cấp cho sắt nhiệt lượng là 1,8.10& J. 
+Câu 36. Một bạn học sinh làm thí nghiệm với đầy đủ thiết bị để xác định được nhiệt nóng chảy riêng của một 
+chất khi đã biết nhiệt dung riêng của chất đó trong trạng thái rắn và trạng thái lỏng. Hãy chỉ ra phương án thí 
+nghiệm sai trong các phương án sau: 
+A. Bắt đầu thí nghiệm từ khi chất đó đang ở trạng thái rắn và kết thúc khi chất đó đã ở trạng thái lỏng. 
+B. Thực hiện thí nghiệm từ khi chất đó bắt đầu đạt đến nhiệt độ nóng chảy nhưng chưa nóng chảy và kết thúc khi 
+nóng chảy hoàn toàn và vẫn đang ở nhiệt độ nóng chảy. 
+C. Bắt đầu thí nghiệm từ khi chất đó đang ở trạng thái rắn và kết thúc khi đã thấy đã có sự nóng chảy của chất 
+đó. 
+D. Thực hiện thí nghiệm từ khi chất bắt đầu đạt đến nhiệt độ nóng chảy nhưng chưa nóng chảy và kết thúc đó khi 
+chất đó đã hoàn toàn ở trạng thái lỏng. 
+Hướng dẫn giải 
+Muốn xác định nhiệt nóng chảy riêng của chất cần để chất đó bị nóng chảy hoàn toàn (chuyển hóa hết thành thể 
+lỏng). 
+Câu 37 (Đề thi thử tốt nghiệp THPT Sở Bắc Giang năm 2025). Nhiệt lượng cần truyền cho một kilogram chất 
+lỏng để nó hóa hơi hoàn toàn ở nhiệt độ xác định gọi là  
+A. nhiệt nóng chảy riêng. 
+ 
+ 
+ 
+B. nhiệt hóa hơi. 
+
+---PAGE---
+ 
+16 
+C. nhiệt hóa hơi riêng. 
+ 
+ 
+ 
+D. nhiệt dung riêng.  
+Hướng dẫn giải 
+Nhiệt lượng cần truyền cho một kilogram chất lỏng để nó hóa hơi hoàn toàn ở nhiệt độ xác định gọi là nhiệt hóa 
+hơi riêng. 
+Câu 38. Gọi m, L lần lượt là khối lượng của chất lỏng và nhiệt hoá hơi riêng của chất lỏng. Nhiệt lượng Q cần 
+thiết để làm hóa hơi hoàn toàn lượng chất lỏng đó ở nhiệt độ xác định có hệ thức là 
+A. Q =
+"
+<. 
+ 
+ 
+B. Q =
+7
+; m. L . 
+ 
+C. Q = m. L.  
+ 
+D. Q = 2m. L. 
+Hướng dẫn giải 
+Hệ thức tính nhiệt lượng cần cung cấp cho một lượng chất lỏng hóa hơi hoàn toàn ở nhiệt độ xác định Q = m. L 
+Câu 39. Mỗi kilogram rượu cần thu một lượng nhiệt là 8,5.10& J để bay hơi hoàn toàn ở nhiệt độ sôi và áp suất 
+tiêu chuẩn. Nhận định nào sau đây là đúng? 
+A. 8,5.10& là nhiệt nóng chảy của rượu ở thể rắn.   
+𝐁. 8,5.10& là nhiệt hóa hơi của rượu. 
+C. 8,5.10& là nhiệt nóng chảy riêng của rượu ở thể rắn. 
+D. 8,5.10& là nhiệt hóa hơi riêng của rượu. 
+Hướng dẫn giải 
+Mỗi kilogram rượu cần thu một lượng nhiệt là 8,5.10& J để bay hơi hoàn toàn ở nhiệt độ sôi và áp suất tiêu 
+chuẩn. Vậy 8,5.10& là nhiệt hóa hơi riêng của rượu. 
+Câu 40 (Đề thi thử tốt nghiệp THPT Trấn Biên - Đồng Nai năm 2025). Trong thí nghiệm xác định nhiệt hoá 
+hơi riêng của nước đá được bố trí các dụng cụ bao gồm ấm siêu tốc và cân điện tử, để hạn chế sai số giữa kết quả 
+nhiệt hoá hơi riêng của nước đo qua thí nghiệm với giá trị trong bảng phía dưới thì có thể thực hiện phương án 
+nào sau đây? 
+Chất lỏng 
+Nhiệt hóa hơi riêng 
+ 
+Nước 
+ 
+Ammonia 
+ 
+Rượu 
+ 
+Ether 
+ 
+Thủy ngân 
+ 
+ 
+A. Tăng khối lượng nước đun trong ấm. 
+B. Kiểm tra hiệu điện thế đặt vào ấm đun để hoạt động đúng công suất. 
+C. Sử dụng ấm đun siêu tốc có công suất lớn. 
+D. Sử dụng cân đĩa thay cho cân điện tử. 
+Hướng dẫn giải 
+Tăng khối lượng nước đun trong ấm chưa chắc đã giảm được sai số vì như vậy sẽ kéo dài thời gian thí nghiệm 
+làm mất nhiệt ra môi trường nhiều hơn. Vì vậy ta nên kiểm tra hiệu điện thế đặt vào ám đun để đảm bảo ấm được 
+hoạt động đúng công suất. 
+ 
+B. CÂU HỎI ĐỊNH LƯỢNG 
+ 
+Câu 41. Nếu ta thực hiện công có độ lớn 200J lên khối khí và nội năng của khối khi tăng thêm 130 J thì chất khí 
+trong cylinder sẽ 
+A. nhận nhiệt 330 J. 
+  
+ 
+ 
+ 
+B. tỏa nhiệt 330 J. 
+C. nhận nhiệt 70 J. 
+ 
+ 
+D. tỏa nhiệt 70 J. 
+!" # $%&
+!
+"#$%&'
+!
+"#$%"&
+!
+"#$%&"
+!
+"#$%&"
+!
+"#$%&"
+
+---PAGE---
+ 
+17 
+Hướng dẫn giải 
+Nhiệt lượng của khí trong trường hợp này 
+∆U = Q + A ⟹Q = ∆U −A = 130 −200 = −70 J 
+Vậy chất khí trong cylinder tỏa nhiệt ra môi trường có độ lớn 70 J. 
+Câu 42 (Đề thi thử tốt nghiệp THPT Sở Hà Nội năm 2025). Một lượng khí được truyền nhiệt lượng 10 kJ để 
+nóng lên, đồng thời bị nén bởi một công có độ lớn 100 kJ. Độ biến thiên nội năng của lượng khí này là 
+A. 10 kJ. 
+ 
+ 
+B. 100 J. 
+ 
+ 
+C. 90 kJ. 
+ 
+ 
+D. 110 kJ. 
+Hướng dẫn giải 
+Nhiệt lượng của khí trong trường hợp này 
+∆U = Q + A = 10 + 100 = 110 J 
+Câu 43 (Đề thi thử tốt nghiệp THPT Đinh Tiên Hoàng – Đồng Nai năm 2025). Khi truyền nhiệt lượng 6.10:J 
+cho khí trong một cylinder hình trụ thì khí nở ra đẩy piston lên làm thể tích của khí tăng thêm 0,5 m3. Biết áp suất 
+của khí là 8.10: N/m2 và coi áp suất này không đổi trong quá trình khí thực hiện công. Độ biến thiên nội năng 
+của khí là 
+A. 8.10:J. 
+B. 6.10:J. 
+ 
+ 
+C. 2.10:J. 
+ 
+ 
+D. 14.10:J. 
+Hướng dẫn giải 
+Công mà khí thực hiện có độ lớn: 
+|A| = p. ∆V = 8.10: × 0,5 = 4.10:J; 
+Độ biến thiên nội năng của khối khí: 
+∆U = Q + A = 6.10: + (−4.10:) = 2.10:J. 
+Câu 44. Một quả bóng khối lượng 200g rơi từ độ cao 15 m xuống sân và nảy lên được 8 m. Lấy g = 9,8 m/s2 và 
+chọn gốc thế năng tại mặt đất. Độ biến thiên nội năng của quả bóng trong quá trình trên bằng 
+A. 13,72 J. 
+ 
+ 
+B. 6,86 J. 
+ 
+ 
+C. – 6,86 J. 
+ 
+ 
+D. – 13,72 J. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của quả bóng chính bằng công mà ngoại lực tác dụng khi bóng va chạm xuống sân: 
+∆U = A = W,# −W,$ = m. g. h7 −m. g. h; = 0,2 × 9,8 × (15 −8) = 13,72 J. 
+Câu 45. Một nhiệt kế có phạm vi đo từ 263 K đến 1273 K, dùng để đo nhiệt độ của các lò nung. Phạm vi đo của 
+nhiệt kế này trong thang nhiệt độ Celsius là 
+A. −10℃ đến 1000℃. 
+ 
+ 
+ 
+B. 0℃ đến 273℃. 
+C. −20℃ đến 1200℃. 
+ 
+ 
+ 
+D. −10℃ đến 1200℃. 
+Hướng dẫn giải 
+Quy đổi từ thang đo Kelvin sang thang đo Celsius: T(K) = t(℃) + 273. Vì vậy phạm vi đo của nhiệt kế này trong 
+thang đo Celisius là −10℃ đến 1000℃. 
+Câu 46. Một viên nước đá có nhiệt độ −10℃. Nhiệt độ của viên nước đá theo thang đo Kelvin và Fahrenheit là 
+A. 200K và 18℉. 
+ 
+B. 263K và 14℉. 
+ 
+C. 270K và −18℉. 
+ 
+D. 273K và 14℉. 
+Hướng dẫn giải 
+Quy đổi thang đo Kelvin từ thang đo Celsius: T(K) = t(℃) + 273 = 263 K; 
+Quy đổi thang đo Fahrenheit từ thang đo Celsius: T(℉) = 1,8. t(℃) + 32 = 14 ℉. 
+Câu 47. Một vật được làm lạnh từ 30℃ xuống 3℃. Nhiệt độ của vật theo thang đo Kelvin đã giảm đi 
+A. 10 K. 
+ 
+ 
+B. 27 K. 
+ 
+ 
+C. 300 K. 
+ 
+ 
+D. 273 K. 
+Hướng dẫn giải 
+Giá trị chênh lệch nhiệt độ theo thang đo Kelvin: ∆t(℃) = ∆T = 30 −3 = 27 K. 
+Câu 48. Một khối chì có khối lượng 3 kg và nhiệt dung riêng là 128 J/(kg.K). Sau khi nhận được nhiệt lượng 28,8 
+kJ, nhiệt độ của khối chì là 100°C. Nhiệt độ ban đầu của khối chì này là 
+
+---PAGE---
+ 
+18 
+A. 25°C. 
+ 
+ 
+B. 28°C. 
+ 
+ 
+C. 30°C. 
+ 
+ 
+D. 45°C. 
+Hướng dẫn giải 
+Nhiệt độ ban đầu của khối chì: 
+Q = m. c. (t −t8) ⟺28,8. 10( = 3 × 128 × (100 −t8) ⟹t8 = 25℃. 
+Câu 49. Một ca nhôm có khối lượng 0,5kg dùng để chứa 3 kg nước. Biết nhiệt dung riêng của nước và nhôm lần 
+lượt là 4200 J/(kg.K) và 880 J/(kg.K). Nhiệt lượng cần thiết để đun cả ca nhôm và nước nóng lên từ 10°C đến 
+80°C xấp xỉ bằng 
+A. 502 kJ. 
+ 
+ 
+B. 358 kJ. 
+ 
+ 
+C. 517 kJ. 
+ 
+ 
+D. 913 kJ. 
+Hướng dẫn giải 
+Nhiệt lượng cần thiết để đun cả ca nhôm và nước nóng lên từ 100C đến 800C: 
+Q = Q)* + Q+ướ3 = m)*. c)*. ∆T + m+ướ3. c+ướ3. ∆T 
+⟺Q = 0,5 × 880 × (80 −10) + 3 × 4200 × (80 −10) = 912 800J ≈913 kJ.  
+Câu 50 (Đề thi thử tốt nghiệp THPT Sở Vĩnh Phúc năm 2025). Người ta thả một vật rắn có khối lượng m1 ở 
+nhiệt độ 150℃ vào một bình chứa lượng nước có khối lượng m2 ở nhiệt độ 20℃. Khi có sự cân bằng nhiệt thì 
+nhiệt độ của nước là 50℃. Gọi c1, c2 lần lượt là nhiệt dung riêng của vật rắn và nhiệt dung riêng của nước. Bỏ 
+qua sự hấp thụ nhiệt của bình và môi trường. Tỉ số đúng là 
+A. 
+"#.3#
+"$.3$ = 13.  
+ 
+B. 
+"#.3#
+"$.3$ =
+78
+( .  
+ 
+C. 
+"#.3#
+"$.3$ =
+(
+78.  
+ 
+D. 
+"#.3#
+"$.3$ =
+7
+7(. 
+Hướng dẫn giải 
+Áp dụng phương trình cân bằng nhiệt: 
+Q,ỏ. = Q,/0 ⟺m7. c7. (t7 −t) = m;. c;. (t −t;) ⟹m7. c7
+m;. c;
+=
+(t −t;)
+(t7 −t) = 50 −20
+150 −50 = 3
+10 
+Câu 51. Biết nhiệt nóng chảy của nước đá là 3,4.10& J/kg. Nhiệt lượng cần cung cấp để làm nóng chảy hoàn 
+toàn một viên nước đá có khối lượng 600g ở nhiệt độ nóng chảy là 
+A. 204.10(J.  
+ 
+B. 240.10(J.  
+ 
+C. 204.10:J.  
+ 
+D. 240.10:J. 
+Hướng dẫn giải 
+Nhiệt lượng mà nước đá thu vào để thực hiện quá trình nóng chảy hoàn toàn: 
+Q = m. λ = 0,6 × 3,4.10& = 204.10( J. 
+Câu 52. Biết nhiệt nóng chảy riêng của nước đá là 3,4.10& J/kg và nhiệt dung riêng của nước là 4180 J/(kg.K). 
+Nhiệt lượng cần cung cấp cho 2kg nước đá ở 0°C để chuyển nó thành nước ở 10°C bằng 
+A. 766300 J.  
+ 
+B. 736600 J.  
+ 
+C. 763600 J.  
+ 
+D. 706360 J. 
+Hướng dẫn giải 
+Nhiệt lượng cần cung cấp cho 2 kg nước đá ở 0°C để chuyển nó thành nước ở 10°C 
+Q = m. λ + m. c. ∆t = 2 × 3,4.10& + 2 × 4180 × (10 −0) = 763600 J. 
+Câu 53. Một khối nước đá ở 0℃ có khối lượng m0 nhận nhiệt lượng 520 kJ thì thấy 34% khối lượng nước đá đã 
+bị nóng chảy. Biết nhiệt nóng chảy của nước đá là 3,4.10& J/kg. Giá trị của m0 xấp xỉ bằng 
+A. 1,5 kg. 
+ 
+ 
+B. 4,5 kg. 
+ 
+ 
+C. 1,5 g. 
+ 
+ 
+D. 4,5 g. 
+Hướng dẫn giải 
+Khối lượng nước đá ban đầu: 
+Q = mđá ,.+. λ = 34%. m8. λ ⟹m8 =
+Q
+34%. λ =
+520.10(
+34% × 3,4.10& ≈4,5 kg. 
+Câu 54. Cho biết nước đá có nhiệt nóng chảy riêng là 3,4.10& J/kg, nhiệt dung riêng 2,1.10( J/kg. Nhiệt lượng 
+cần cung cấp để làm nóng chảy hoàn toàn 300g nước đá ở nhiệt độ −15℃ là 
+A. 102,00 kJ. 
+B. 111,45 kJ.  
+ 
+C. 150,50 kJ.  
+ 
+D. 174,29 kJ. 
+
+---PAGE---
+ 
+19 
+Hướng dẫn giải 
+Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 300g nước đá ở nhiệt độ −15℃: 
+Q = m. c. ∆t + m. λ = 0,3 × 2,1.10( × [0 −(−15)] + 0,3 × 3,4.10& = 111,45.10(J = 111,45 kJ 
+Câu 55. Cung cấp 68,0 kJ nhiệt lượng để làm tan chảy m = 300g nước đá đang ở nhiệt độ đóng băng. Biết lượng 
+nước tan ra được dẫn ra ngoài và nhiệt nóng chảy riêng của nước đá là 3,4.10& J/kg. Lượng nước đá còn lại là  
+A. 100g. 
+B. 150g. 
+ 
+ 
+C. 200g. 
+ 
+ 
+D. 230g. 
+Hướng dẫn giải 
+Khối lượng nước đá tan ra: 
+m = Q
+λ = 68,0.10(
+3,4.10& = 0,2 kg = 200g; 
+Khối lượng nước còn lại: 
+m9 = m8 −m = 300 −200 = 100g. 
+Câu 56. Biết nhiệt hóa hơi riêng của nước ở 100℃ là 2,26.10: J/kg và khối lượng riêng của nước là 1000 kg/m3. 
+Nhiệt lượng cần thiết để chuyển 1,75 lít nước ở 100℃ thành hơi hoàn toàn là 
+A. 3955 J. 
+ 
+ 
+B. 3955 kJ. 
+ 
+ 
+C. 3955 MJ.  
+ 
+D. 39,55 kJ. 
+Hướng dẫn giải 
+Nhiệt lượng cần thiết để làm hóa hơi hoàn toàn lượng nước: 
+Q = m. L = D. V. L = (1,75 × 1) × 2,26.10: = 3955.10( J = 3955 kJ. 
+Câu 57. Một nồi chứa 4 kg rượu ở 25℃ và được đun cho đến khi hóa hơi hoàn toàn. Biết nhiệt dung riêng của 
+rượu là 2500 J/kg.K, nhiệt độ sôi của rượu là 78℃, nhiệt hóa hơi riêng là 8,5.10& J/kg, nhiệt dung riêng của nồi 
+rất nhỏ và bỏ qua mọi sự thất thoát về nhiệt trong quá trình đun. Nhiệt lượng cần cung cấp trong quá trình này 
+bằng 
+A. 3,40.10: J.  
+ 
+B. 3,93.10: J.  
+ 
+C. 3,93.10& J.  
+ 
+D. 3,40.10& J. 
+Hướng dẫn giải 
+Sơ đồ chuyển hóa trong quá trình này: 
+Rượu (L; 25℃)
+@A.A đBạ+ 7: %ă+F +/Aệ, độ
+_⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯a Rượu (L; 78℃)
+@A.A đBạ+ ;: Ió. /ơA
+_⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯a Hơi (K; 78℃) 
+Nhiệt lượng cần cung cấp trong giai đoạn 1: 
+Q7 = m. c. ∆t = 4 × 2500 × (78 −25) = 530000 J; 
+Nhiệt lượng cần cung cấp trong giai đoạn 2: 
+Q; = m. L = 4 × 8,5.10& = 3400000 J; 
+Tổng nhiệt lượng cần cung cấp trong quá trình này: 
+Q = Q7 + Q; = 530000 + 3400000 = 3,93.10: J. 
+Câu 58 (Đề thi thử tốt nghiệp THPT Hàm Rồng - Thanh Hóa năm 2025). Vận động viên điền kinh bị mất rất 
+nhiều nước trong khi thi đấu. Các vận động viên thường chỉ có thể chuyển hoá khoảng 22% năng lượng dự trữ 
+trong cơ thể thành năng lượng dùng cho các hoạt động của cơ thể. Phần năng lượng còn lại chuyển thành nhiệt 
+thải ra ngoài nhờ sự bay hơi của nước qua hô hấp và da để giữ cho nhiệt độ cơ thể không đổi. Nếu vận động viên 
+dùng hết 10800kJ trong cuộc thi thì có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể? Coi nhiệt độ cơ thể 
+của vận động viên hoàn toàn không đổi và nhiệt hoá hơi riêng của nước ở nhiệt độ của vận động viên là 2,4.10: 
+J/kg. Biết khối lượng riêng của nước là 1,0.10( kg/m3. 
+A. 1,6 lít. 
+ 
+ 
+B. 2,6 lít. 
+ 
+ 
+C. 3,5 lít. 
+ 
+ 
+D. 4,6 lít. 
+ 
+ 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+20 
+Năng lượng dự trữ trong cơ thể được chuyển hóa thành năng lượng dùng cho các hoạt động và năng lượng nhiệt 
+làm bay hơi nước. Có 22% năng lượng dự trữ được chuyển hóa thành năng lượng dùng cho các hoạt động ⟹ 
+Có 78% chuyển thành năng lượng nhiệt. 
+Tổng nhiệt lượng trong trường hợp này: 
+Q = 78%. Q,L = 0,78 × 10800.10( = 8424.10( J; 
+Thể tích nước đã thoát ra ngoài cơ thể người: 
+Q = m. L = D. V. L ⟹V = Q
+D. L =
+8424.10(
+1,0.10( × 2,4.10: = 3,5.10'( m( = 3,5 lít. 
+Câu 59. Nước là loại chất lỏng có nhiệt dung riêng là 4180 J/kg.K và nhiệt hóa hơi riêng là 2,3.10: J/kg. Nhiệt 
+lượng tỏa ra khi 2kg hơi nước ở 100℃ ngưng tụ thành nước ở 27℃ xấp xỉ bằng 
+A. 3,52 MJ. 
+ 
+ 
+B. 4,67 MJ. 
+ 
+ 
+C. 5,21 MJ. 
+ 
+ 
+D. 7,02 MJ. 
+Hướng dẫn giải 
+Nhiệt lượng tỏa ra để hơi nước ở 100℃ ngưng tụ thành nước ở 27℃ cũng chính bằng lượng nhiệt thu vào để 
+nước ở 27℃ hóa thành hơi nước ở 100℃. 
+Q = m. c+. Δt + m. L = 2 × 4180 × (100 −27) + 2 × 2,3.10: ≈5,21.10: J = 5,21 MJ. 
+Câu 60 (Đề thi thử tốt nghiệp THPT Thanh Hà – Hải Dương năm 2025). Một học sinh làm thí nghiệm đo nhiệt 
+hoá hơi riêng của nước. Ấm đun nước học sinh sử dụng có công suất 1500 W. Từ kết quả thí nghiệm, học sinh vẽ 
+được đồ thị quan hệ giữa khối lượng nước trong ấm và thời gian của quá trình hoá hơi của nước như hình bên. 
+Nhiệt hoá hơi riêng của nước mà học sinh này đo được gần đúng bằng 
+ 
+A. 2,34.10: J/kg. 
+ 
+ 
+ 
+ 
+B. 1,17.10: J/kg. 
+C. 2340 J/kg.  
+ 
+ 
+ 
+ 
+D. 1170 J/kg. 
+Hướng dẫn giải 
+Lượng nước đã hóa hơi: ∆m = 0,3 −0,2 = 0,1 kg; 
+Nhiệt hóa hơi riêng của nước mà học sinh này đo được gần đúng bằng: 
+Q = ∆m. L ⟹L = Q
+∆m = P. t
+∆m = 1500 × 156
+0,1
+= 2,34.10: J/kg. 
+ 
+ 
+ 
+2. CÂU TRẮC NGHIỆM ĐÚNG SAI 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về cấu tạo của chất theo mô hình động học phân tử. 
+
+---PAGE---
+ 
+21 
+Phát biểu 
+Đúng 
+Sai 
+a) Các chất được cấu tạo từ các hạt riêng biệt gọi là các phân tử. 
+Đ 
+ 
+b) Các phân tử chuyển động không ngừng và được gọi là chuyển động cơ học. 
+ 
+S 
+c) Giữa các phân tử tồn tại lực tương tác gọi là lực liên kết phân tử. 
+Đ 
+ 
+d) Lực liên kết giữa các phân tử gồm cả lực hút và lực đẩy. Lực liên kết không phụ thuộc vào 
+khoảng cách giữa các chúng. 
+ 
+S 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Theo mô hình động học phân tử về cấu tạo của chất: Các chất được cấu tạo từ các hạt riêng biệt được gọi chung 
+là các phân tử. 
+b) SAI 
+Theo mô hình động học phân tử về cấu tạo của chất: Các phân tử chuyển động không ngừng. Chuyển động của 
+các phân tử được gọi là chuyển động nhiệt. 
+c) ĐÚNG 
+Theo mô hình động học phân tử về cấu tạo của chất: Các phân tử tương tác với nhau bằng lực hút và lực đẩy gọi 
+chung là lực liên kết phân tử. 
+d) SAI 
+Theo mô hình động học phân tử về cấu tạo của chất: Các phân tử tương tác với nhau bằng lực hút và lực đẩy gọi 
+chung là lực liên kết phân tử. Lực liên kết phụ thuộc vào khoảng cách giữa chúng. 
+ 
+Câu 2. Xác định tính đúng/sai của các phát biểu sau khi nói về sự chuyển thể của chất. 
+Phát biểu 
+Đúng 
+Sai 
+a) Tùy thuộc vào điều kiện áp suất, nhiệt độ thay đổi mà các chất có thể chuyển từ thể này sang 
+thể khác. 
+Đ 
+ 
+b) Quá trình chuyển thể từ thể rắn sang thể lỏng được gọi là sự ngưng kết. 
+ 
+S 
+c) Quá trình chuyển thể từ thể rắn sang thể khí được gọi là sự thăng hoa. 
+Đ 
+ 
+d) Quá trình chuyển thể từ thể lỏng sang thể khí được gọi là sự hóa hơi. Sự hóa hơi diễn ra theo 
+2 hình thức: bay hơi và sự sôi. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Các chất có thể chuyển từ thể này sang thể khác tùy thuộc vào điều kiện áp suất, nhiệt độ thay đổi. 
+b) SAI 
+Quá trình chuyển thể từ thể rắn sang thể lỏng được gọi là sự nóng chảy. 
+c) ĐÚNG 
+Sự thăng hoa là quá trình chuyển thể từ thể rắn sang thể khí. 
+d) ĐÚNG 
+Sự hóa hơi là quá trình chuyển thể từ thể lỏng sang thể khí và được diễn ra theo 2 hình thức: bay hơi và sự sôi. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+22 
+Câu 3. Xác định tính đúng/sai của các phát biểu sau khi nói về nội năng của một vật. 
+Phát biểu 
+Đúng 
+Sai 
+a) Nội năng của vật bằng tổng thế năng của các phân tử cấu tạo nên vật. 
+ 
+S 
+b) Hai vật A và B được có cùng chất liệu. Nếu nội năng của vật A lớn hơn vật B thì nhiệt độ 
+của vật A cũng lớn hơn vật B. 
+ 
+S 
+c) Có hai cách làm thay đổi nội năng của một vật là thực hiện công và truyền nhiệt. 
+Đ 
+ 
+d) Khi bơm xe đạp bằng bơm tay, ống bơm thường bị nóng lên. Nguyên nhân là do nội năng 
+của khối khí trong ống bơm tăng lên là do nhận công từ bên ngoài. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Nội năng của vật bằng tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+b) SAI 
+Nội năng của một vật phụ thuộc vào thể tích và nhiệt độ của vật. Vì vậy, mặc dù đã biết chất liệu, nhiệt độ của 
+từng vật nhưng ta vẫn chưa thể so sánh nội năng của chúng vì chưa có dữ kiện về thể tích.  
+c) ĐÚNG 
+Có hai cách làm thay đổi nội năng của một vật là thực hiện công và truyền năng lượng nhiệt (truyền nhiệt). 
+d) ĐÚNG 
+Khi bơm xe đạp bằng bơm tay, ống bơm thường bị nóng lên. Nguyên nhân là do nội năng của khối khí trong ống 
+bơm tăng lên là do nhận công từ bên ngoài (lực ép piston). 
+Câu 4 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Một nhóm học sinh đã chuẩn bị các dụng cụ: Ống nghiệm 
+(1), nút bấc có kích thước vừa khít với miệng ống nghiệm (2), đèn cồn (3), giá đỡ thí nghiệm (4) và các điều kiện 
+cần thiết khác để làm thí nghiệm tìm hiểu về mối liên hệ giữa nội năng của một khối khí với năng lượng của các 
+phân tử khí. Bố trí thí nghiệm như hình bên, sau đó dùng đèn cồn hơ nóng ống nghiệm cho đến khi nút bấc bật ra 
+khỏi miệng ống nghiệm. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi nút bấc chưa bật ra, nhiệt độ không khí trong bình không thay đổi. 
+ 
+S 
+b) Nút bấc bật ra chứng tỏ động năng của các phân tử không khí trong ống nghiệm tăng lên khi 
+được hơ nóng. 
+Đ 
+ 
+c) Nhiệt lượng không khí trong ống nghiệm nhận được từ ngọn lửa đèn cồn chuyển hoàn toàn 
+thành công mà khí thực hiện để làm nút bấc bật ra ngoài. 
+ 
+S 
+d) Khi nút bấc chưa bật ra, nội năng của không khí trong ống nghiệm tăng. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Khi hơ dưới ngọn lửa đèn cồn thì nhiệt độ của khối khí bên trong đã thay đổi nhưng nút bấc chưa bật ra bởi vì 
+áp suất sinh ra chưa đủ lớn để bật được nút bấc ra ngoài. 
+b) ĐÚNG 
+Nhiệt độ tăng, các phân tử chuyển động nhanh hơn dẫn đến động năng của phân tử tăng. 
+
+---PAGE---
+ 
+23 
+c) SAI 
+Nhiệt lượng mà khí trong bình nhận được một phần làm tăng nội năng của khối khí, một phần chuyển thành công 
+mà khí thực hiện để làm nút bấc bật ra ngoài. 
+d) ĐÚNG 
+Khi vật nhận nhiệt (Q > 0) và chưa thực hiện công, nội năng của một vật sẽ thay đổi một lượng ∆U = Q > 0. 
+Nội năng của vật tăng. 
+Câu 5. Khi truyền nhiệt lượng Q cho khối khí trong cylinder hình trụ nằm ngang thì khí giãn nở đẩy piston làm thể 
+tích của khối khí tăng thêm 6,0 lít. Biết áp suất của khối khí là 2,75.105 Pa và không đổi trong quá trình khí giãn nở. 
+Phát biểu 
+Đúng 
+Sai 
+a) Truyền nhiệt lượng Q cho khối khí nên Q > 0. 
+Đ 
+ 
+b) Khối khí đang thực hiện công nên A > 0. 
+ 
+S 
+c) Độ lớn công mà khối khí thực hiện là 1,65.106 J. 
+ 
+S 
+d) Nếu trong quá trình này nội năng của khối khí tăng thêm 500 J thì Q = 2150 J. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Truyền nhiệt lượng Q cho khối khí nên Q > 0. 
+b) SAI 
+Khối khí đang thực hiện công nên A < 0. 
+c) SAI 
+Công mà khối khí thực hiện có độ lớn: |A| = p. ∆V = 2,75.10& × 6.10'( = 1650 J. 
+d) ĐÚNG 
+Khí đang thực hiện công (A < 0) và nội năng tăng ( ∆U > 0), vì vậy: A = – 1650 J; ∆U =  500 J; 
+Nhiệt lượng: ∆U = Q + A ⟹Q = ∆U −A = 500 −(−1650) = 2150 J. Vậy lượng khí này nhận một lượng 
+nhiệt có độ lớn 2150 J. 
+Câu 6 (Đề thi thử tốt nghiệp Sở Vĩnh Phúc năm 2025). Một máy nước nóng hoạt động bằng năng lượng Mặt 
+Trời có hiệu suất chuyển đổi bằng 25%; cường độ bức xạ Mặt Trời lên bộ thu nhiệt là 1000 W/m2; diện tích bộ 
+thu nhiệt là 4,2 m2. Cho nhiệt dung riêng của nước là 4200 J/kg.K. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Công suất bức xạ chiếu lên bộ thu nhiệt là 4200 W. 
+Đ 
+ 
+b) Trong 2 giờ năng lượng mặt trời chiếu lên bộ thu nhiệt là 28,8 MJ. 
+ 
+S 
+c) Trong 2 giờ phần năng lượng chuyển thành nhiệt năng là 5,76.106 J. 
+ 
+S 
+d) Nếu hệ thống đo làm nóng 30kg nước thì trong thời gian 1 giờ, nhiệt độ nước tăng thêm 
+30℃. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Công suất bức xạ lên bộ thu nhiệt: 
+P = I. S = 1000 × 4,2 = 4200 W 
+
+---PAGE---
+ 
+24 
+b) SAI 
+Năng lượng mà mặt trời chiếu lên bộ thu nhiệt trong 2 giờ: 
+A = P. t = 4200 × (2 × 3600) = 30,24.10: J = 30,24 MJ. 
+c) SAI 
+Lượng nhiệt năng được chuyển hóa trong 2 giờ: 
+H = Q
+A ⟹Q = H. A = 25% × 30,24.10: = 7,56.10: J 
+d) ĐÚNG 
+Độ biến thiên nhiệt độ của 30 kg nước trong 1 giờ: 
+Q9 = m. c. ∆t ⟹∆t = Q9
+m. c =
+Q
+2. m. c =
+7,56.10:
+2 × 30 × 4200 = 30℃. 
+Câu 7 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Để xác định nhiệt dung riêng của nước, có thể tiến hành 
+thí nghiệm theo sơ đồ nguyên lí như hình vẽ dưới đây. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi tiến hành thí nghiệm không được khuấy nước trong bình nhiệt lượng kế. 
+ 
+S 
+b) Đổ nước vào bình nhiệt lượng kế sao cho toàn bộ dây điện trở phải chìm trong nước. 
+Đ 
+ 
+c) Nhiệt lượng mà nước trong bình nhiệt lượng kế thu bằng nhiệt lượng tỏa ra trên dây điện trở. 
+Đ 
+ 
+d) Sau khi tiến hành xong thí nghiệm phải tắt nguồn điện. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Khi tiến hành thí nghiệm, ta nên khuấy nước trong bình nhiệt lượng kế để sự trao đổi nhiệt diễn ra tốt hơn. 
+b) ĐÚNG 
+Khi tiến hành thí nghiệm, ta cần đổ nước vào bình nhiệt lượng kế sao cho toàn bộ dây điện trở chìm trong nước. 
+c) ĐÚNG 
+Nhiệt lượng mà nước trong bình nhiệt lượng kế thu bằng nhiệt lượng tỏa ra trên dây điện trở. 
+d) ĐÚNG 
+Sau khi tiến hành xong thí nghiệm, ta cần tắt nguồn điện để đảm bảo an toàn. 
+Câu 8 (Đề thi thử tốt nghiệp Sở Bắc Ninh năm 2025). Người ta đun nóng chảy hoàn toàn 2 kg đồng (Copper) 
+từ nhiệt độ ban đầu 30℃. Biết đồng có nhiệt độ nóng chảy là 1085℃, nhiệt dung riêng là 380 J/kg.K, nhiệt nóng 
+chảy riêng là 1,8.10&J/kg. 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi đang nóng chảy, nhiệt độ của đồng không đổi và bằng 1085℃. 
+Đ 
+ 
+b) Ở nhiệt độ nóng chảy, nhiệt lượng cần cung cấp để 2 kg đồng nóng chảy hoàn toàn là 
+6,3.106J. 
+ 
+S 
+c) Khi nóng chảy các nguyên tử đồng nhận năng lượng để phá vỡ liên kết với các nguyên tử 
+xung quanh. 
+Đ 
+ 
+d) Nhiệt lượng cần cung cấp để nung nóng 2 kg đồng từ nhiệt độ ban đầu đến nhiệt độ nóng 
+chảy là 801,8 kJ. 
+Đ 
+ 
+
+---PAGE---
+ 
+25 
+Hướng dẫn giải 
+a) ĐÚNG 
+Trong quá trình nóng chảy, nhiệt độ của đồng không thay đổi ở 1085℃ cho đến khi kết thúc quá trình chuyển 
+thể. 
+b) SAI 
+Nhiệt lượng cần cung cấp để 2kg đồng nóng chảy hoàn toàn ở nhiệt độ nóng chảy: 
+Q = m. λ = 2 × 1,8.10& = 36.106 J 
+c) ĐÚNG 
+Theo mô hình động học phân tử thì trong quá trình nóng chảy, các nguyên tử đồng nhận năng lượng, dao động 
+mạnh hơn và thoát khỏi liên kết với các nguyên tử xung quanh khiến trật tự của mạng tinh thể bị phá vỡ. 
+d) ĐÚNG 
+Nhiệt lượng cần cung cấp để nung nóng 2kg đồng từ nhiệt độ ban đầu đến nhiệt độ nóng chảy: 
+Q = m. c. ∆t = 2 × 380 × (1085 −30) = 801,8.10(J = 801,8 kJ. 
+Câu 9. Một học sinh tiến hành đun một khối nước đá đựng trong nhiệt lượng kế từ 0℃ đến khi tan chảy hết thành 
+nước và hóa hơi ở 100℃. Hình bên dưới là đồ thị biểu diễn sự phụ thuộc của nhiệt lượng mà khối nước đá nhận 
+được từ lúc đun đến lúc hóa hơi và sự thay đổi nhiệt độ của nó. Lấy nhiệt nóng chảy riêng của nước đá là 3,3.10& 
+J/kg và nhiệt dung riêng của nước đá là 4200J/kg.K, nhiệt hóa hơi riêng của nước là 2,3.10: J/kg, bỏ qua nhiệt 
+dung của nhiệt lượng kế và sự bay hơi trong toàn bộ quá trình đun. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nếu tiến hành đun đến khi lượng nước bay hơi hết cần cung cấp nhiệt lượng tổng cộng là 
+325kJ. 
+ 
+S 
+b) Tại điểm B trên đồ thị, nước bắt đầu xảy ra sự sôi. 
+Đ 
+ 
+c) Trong đoạn BC trên đồ thị, khối nước nhận nhiệt lượng để thực hiện quá trình hóa hơi. 
+Đ 
+ 
+d) Tại điểm C lượng nước còn lại là 96g. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Quan sát đồ thị, ta nhận thấy: 
++ Đoạn OA: Quá trình nóng chảy của khối nước đá; 
++ Đoạn AB: Quá trình tăng nhiệt độ của nước. 
+Ta có: 
+QMN = QM) + Q)N = m. λ + m. c+. Δt = 90.10( ⟹m =
+QMN
+λ + c+. ∆t =
+90.10(
+3,3.10& + 4200 × 100 = 0,12 kg; 
+Vậy tổng lượng chất trên hóa hơi hoàn toàn từ nhiệt độ ban đầu: 
+Q = QMN + Q9 = QMN + m. L = 90.10( + 0,12 × 2,3.10: = 366.10( J = 366 kJ. 
+b) ĐÚNG 
+Tại điểm B, nước đạt đến nhiệt độ sôi và bắt đầu xảy ra sự sôi. 
+!
+"
+#
+A
+BCC
+C
+'( A)
+*C
+B+,J.
+/(01)
+
+---PAGE---
+ 
+26 
+c) ĐÚNG 
+Đoạn BC: Quá trình hóa hơi của nước. Khi này nước nhận nhiệt lượng để thực hiện quá trình hóa hơi. 
+d) ĐÚNG 
+Lượng nước đã bay hơi trong đoạn BC: 
+QNO = ∆m. L ⟹∆m = QNO
+L
+= (145,2 −90). 10(
+2,3.10:
+= 0,024 kg; 
+Lượng nước còn lại tại điểm C: 
+m9 = m −∆m = 0,12 −0,024 = 0,096 kg = 96 g. 
+Câu 10 (Đề thi thử tốt nghiệp Sở Hòa Bình năm 2025). Hình bên dưới là sơ đồ cấu tạo một máy hút ẩm dạng 
+ngưng tụ. Không khí ẩm (chứa nhiều hơi nước) đi vào bên trong máy hút, khi qua dàn lạnh được làm lạnh để hơi 
+nước ngưng tụ, hơi nước hóa lỏng sẽ chảy vào một cái khay hứng đặt bên trong máy, tiếp sau đó không khí đi qua 
+dàn nóng để trở lại nhiệt độ gần với nhiệt độ môi trường trước khi được quạt thổi ra. Xét một khối không khí có 
+khối lượng 20g trong đó khối lượng hơi nước chiếm 80% khối lượng không khí. Khối không khí nhiệt độ 30℃ 
+đi qua dàn lạnh, nó được làm lạnh xuống nhiệt độ 5℃ trong khoảng thời gian 5s với công suất làm lạnh bằng 
+400W. Biết nhiệt dung riêng của không khí khô là 900 J/(kg.K) và của hơi nước là 1860 J/(kg.K). Trong điều kiện 
+hoạt động của máy, để 1kg nước chuyển từ thể hơi sang thể lỏng cần trao đổi nhiệt lượng 2,4.10: J. Bỏ qua sự 
+trao đổi nhiệt với môi trường xung quanh. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi đi qua dàn lạnh khối không khí tỏa nhiệt. 
+Đ 
+ 
+b) Trước khi đi qua dàn lạnh khối lượng không khí khô là 16 g. 
+ 
+S 
+c) Nhiệt lượng không khí khô trao đổi ở dàn lạnh là 92,7 J. 
+ 
+S 
+d) Khối lượng hơi nước ngưng tụ ở dàn lạnh xấp xỉ 0,49 g. 
+Đ 
+ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Khi đi qua dàn lạnh, do sự chênh lệch nhiệt độ nên khối khí tỏa nhiệt ra môi trường xung quanh. 
+b) SAI 
+Khối lượng không khí khô có trong khối không khí: 
+mP/ô = 20%. mPP = 4 g 
+c) SAI 
+Nhiệt lượng mà khối khí khô trao đổi với dàn lạnh: 
+QP/ô = mP/ô. cP/ô. ∆t = 4.10'( × 900 × (30 −5) = 90 J. 
+d) ĐÚNG 
+Nhiệt lượng mà dàn lạnh thu được: Q,/0 = P. t = 400 × 5 = 2000 J 
+Nhiệt lượng mà khối không khí tỏa ra: Q,ỏ. = QP/ô + Q+ướ3 + Q+Fư+F ,ụ= QP/ô + m/+. c/+. ∆t + m+Fư+F ,ụ. L 
+Áp dụng phương trình cân bằng nhiệt: 
+
+---PAGE---
+ 
+27 
+Q,/0 = Q,ỏ. 
+⟺QP/ô + m/+. c/+. ∆t + m+Fư+F ,ụ. L = 2000 
+⟺90 + (80% × 20.10'() × 1860 × (30 −5) + m+Fư+F ,ụ× 2,4.10: = 2000 
+⟹m+Fư+F ,ụ= 4,858.10'6kg ≈0,49 g. 
+ 
+ 
+ 
+3. CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN 
+Sử dụng các thông tin sau cho câu 1 và câu 2: Hình dưới đây là đồ thị mô tả nhiệt độ tại một địa điểm ở vùng 
+ôn đới vào một ngày mùa đông. 
+ 
+Câu 1. Tại thời điểm ban đầu, nhiệt độ của địa điểm đó theo thang độ Fahrenheit là bao nhiêu ℉? 
+Đáp số: 
+1 
+9 
+, 
+4 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy nhiệt độ tại thời điểm ban đầu là −7℃. Quy đổi thang đo Fahrenheit từ thang đo Celsius: 
+T(℉) = 1,8. t(℃) + 32 = 1,8 × (−7) + 32 = 19,4℉. 
+Câu 2. Độ chênh lệch nhiệt độ cao nhất được ghi nhận trong khoảng thời gian khảo sát là bao nhiêu K? 
+Đáp số: 
+1 
+2 
+ 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thu được nhiệt độ cao nhất và nhiệt độ thấp nhất trong khoảng thời gian là 2℃ và −10℃. Độ 
+chênh lệch nhiệt độ theo thang Kelvin: 
+∆t(℃) = ∆T = t".S −t"A+ = 2 −(−10) = 12 K. 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Một khối khí được cung cấp nhiệt lượng 5,05 kJ, khí giãn nở làm 
+tăng thể tích một lượng ΔV. Trong quá trình này, nội năng của khối khí tăng 1,45 kJ nhưng áp suất của khối khí 
+không đổi và bằng p = 2,4.105 Pa. 
+Câu 3. Công mà khối khí đã thực hiện có giá trị bằng bao nhiêu kJ? (Làm tròn đến chữ số thập phân thứ nhất) 
+Đáp số: 
+- 
+3 
+, 
+6 
+Hướng dẫn giải 
+Công mà khối khí thực hiện: 
+∆U = Q + A ⟹A = ∆U −Q = 1,45 −5,05 = −3,6 kJ 
+Câu 4. Thể tích tăng thêm một lượng ΔV bằng bao nhiêu lít? 
+Đáp số: 
+1 
+5 
+ 
+ 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+28 
+Độ tăng của thể tích trong trường hợp này; 
+|A| = p. ΔV ⟹ΔV = |A|
+p = |−3,6.10(|
+2,4.10&
+= 0,015 m( = 15 lít. 
+Sử dụng các thông tin sau cho câu 5 và câu 6 (Phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Chuyên Lê 
+Hồng Phong – Nam Định năm 2025): Một nhóm học sinh làm thí nghiệm để xác định nhiệt dung riêng của một 
+mẫu kim loại. Họ có một bình xốp hình trụ có vỏ và nắp cách nhiệt, một que khuấy, một nhiệt kế, mẫu kim loại, 
+một chiếc cân và một bình đun nước. Ban đầu, mẫu kim loại được để ở nhiệt độ phòng (27℃). 
+ 
+Nhóm học sinh sử dụng cân và xác định được khối lượng nước đổ vào bình xốp là 0,225 kg, khối lượng của mẫu 
+kim loại là 0,409 kg. Số chỉ của nhiệt kế nhúng trong nước nóng ngay trước khi thả mẫu kim loại là 67,5℃ và số 
+chỉ của nhiệt kế khi mẫu kim loại và nước đạt trạng thái cân bằng nhiệt là 56,0℃. Biết nhiệt dung riêng của nước 
+là 4180 J/kg.K và bỏ qua nhiệt dung riêng của nhiệt lượng kế. 
+Câu 5. Nhiệt lượng mà nước tỏa ra trong trường hợp này bằng bao nhiêu kJ? (làm trong đến chữ số thập phân 
+đầu tiên) 
+Đáp số: 
+1 
+0 
+, 
+8 
+Hướng dẫn giải 
+Nhiệt lượng mà nước tỏa ra trong trường hợp này: 
+Q,ỏ. = m+. c+. ∆t7 = 0,225 × 4180 × (67,5 −56,0) = 10815,75 J ≈10,8 kJ. 
+Câu 6. Nhiệt dung riêng của mẫu kim loại bằng bao nhiêu J/kg.K? (làm trong đến chữ số hàng đơn vị) 
+Đáp số: 
+9 
+1 
+2 
+ 
+Hướng dẫn giải 
+Áp dụng phương trình cân bằng nhiệt: 
+Q,/0 = Q,ỏ. ⟺mT<. cT<. ∆t; = Q,ỏ. ⟹cT< =
+Q,ỏ.
+mT<. ∆t;
+=
+10815,75
+0,409 × (56 −27) ≈912 J/(kg. K). 
+Sử dụng các thông tin sau cho câu 7 và câu 8: Đồ thị bên biểu diễn sự phụ thuộc nhiệt độ của một kim loại vào 
+nhiệt lượng. Biết ban đầu kim loại ở thể rắn và không có sự thất thoát năng lượng trong quá trình nung nóng. 
+   
+ 
+Câu 7. Khối lượng của khối kim loại này bằng bao nhiêu gam? (Làm tròn đến chữ số hàng đơn vị) 
+Đáp số: 
+5 
+0 
+2 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy quá trình nóng chảy diễn ra tại thời điểm nhiệt độ đạt 1064℃. Vậy ta có thể rút ra được 
+kết luận đây là kim loại vàng. Xét nhiệt lượng cần cung cấp trong quá trình nóng chảy: 
+
+---PAGE---
+ 
+29 
+Q+3 = m. λUà+F ⟹m = Q+3
+λUà+F
+= (99,3 −67,2). 10(
+6,4.106 
+≈0,502 kg = 502 g. 
+Câu 8. Nhiệt dung riêng của kim loại này bằng bao nhiêu J/kg.K? (Làm tròn đến chữ số hàng đơn vị) 
+Đáp số: 
+1 
+3 
+0 
+ 
+Hướng dẫn giải 
+Gọi Q1 và Q2 lần lượt là nhiệt lượng cần cung cấp cho quá trình tăng nhiệt độ khối kim loại từ 30℃ đến 1064℃ 
+và nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn khối kim loại đó. 
+Q7
+Q;
+= m. c. ∆t
+m. λ
+=
+67,2
+99,3 −67,2 ⟹c =
+67,2
+99,3 −67,2 . λ
+∆t =
+67,2
+99,3 −67,2 ×
+6,4.106
+(1064 −30) ≈130 J/(kg. K). 
+Sử dụng các thông tin sau cho câu 9 và câu 10 (Phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Sở Hải 
+Dương năm 2025): Một học sinh làm thí nghiệm đo nhiệt hoá hơi riêng của nước tại nhà như sau. Đổ 380g nước 
+ở nhiệt độ phòng (20℃) vào đun sôi trong một ấm điện chuyên dụng như hình vẽ. Các thông số kĩ thuật của ấm 
+điện được cho như bảng 1. Ngoài ra, học sinh còn dùng cân điện tử để cân lượng nước còn lại trong ấm và dùng 
+đồng hồ để đo thời gian đun. Khi nước sôi ở 100℃ thì học sinh mở nắp ấm cho hơi nước dễ bay ra và bắt đầu ghi 
+lại số liệu khi lượng nước còn lại trong ấm là 350g. Đồ thị sự phụ thuộc của khối lượng nước m còn lại trong ấm 
+vào thời gian đun t như đồ thị bên dưới. Biết rằng khi nước chưa sôi thì hiệu suất đun nước của ấm bằng 96% còn 
+khi nước sôi thì hiệu suất ấm đun giảm xuống còn 92%, nhiệt dung riêng của nước là 4200 J/(kg.K). 
+      
+ 
+ 
+Câu 9. Độ hụt khối trong mỗi giây là bao nhiêu gam/s? (làm tròn đến chữ số thập phân thứ hai) 
+Đáp số: 
+1 
+5 
+ 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thu được: 
++ Tại t1 = 0s: m1 =350g 
++ Tại t2 = 220s: m2 =200g 
+Độ hụt khối của nước trong ấm sau mỗi giây: 
+∆m
+∆t = 350 −200
+220 −0
+≈0,68 gam/s 
+Câu 10. Tổng thời gian để đun nước đến khi cạn là bao nhiêu giây? (làm tròn đến chữ số hàng đơn vị) 
+Đáp số: 
+6 
+1 
+1 
+ 
+Hướng dẫn giải 
+ 
+Ta chia quá trình đun nước thành hai giai đoạn: 
+Giai đoạn 1: Đun 380g nước từ nhiệt độ 20℃ đến khi đạt nhiệt độ sôi 100℃. Khi này công suất của ấm là 2500W 
+và hiệu suất là 96%. 
+
+---PAGE---
+ 
+30 
++ Nhiệt lượng cần cung cấp để 380g nước từ nhiệt độ 20℃ đến khi đạt nhiệt độ sôi 100℃: 
+Q7 = m. c. ∆t = 0,38 × 4200 × 80 = 127680 J 
++ Khoảng thời gian bếp đun trong giai đoạn 1: 
+H7 = Q7
+A7
+=
+Q7
+P7. ∆t7
+⟹∆t7 =
+Q7
+P7. H7
+=
+127680
+2500 × 0,96 = 53,2 s 
+Giai đoạn 2: Đun 380g nước đến khi hóa hơi hoàn toàn. Khi này công suất của ấm là 1700W và hiệu suất là 
+92%. 
+Ta xét khoảng thời gian từ t1 = 0s: m1 =350g đến t2 = 220s: m2 =200g. Nhiệt hóa hơi riêng của nước trong trường 
+hợp này: 
+H; = Q;
+9
+A;
+9 = ∆m. L
+∆t. P;
+⟹L = ∆t. P;. H;
+∆m
+ 
++ Nhiệt lượng cần cung cấp để 380g nước hóa hơi hoàn toàn: 
+Q; = m. L = m. ∆t. P;. H;
+∆m
+ 
++ Khoảng thời gian bếp đun trong giai đoạn 2: 
+H; = Q;
+A;
+=
+Q;
+P;. ∆t;
+⟹∆t; =
+Q;
+P;. H;
+= m. ∆t. P;. H;
+P;. H;. ∆m = m
+∆m . ∆t 
+Vậy tổng thời gian để đun nước đến khi cạn: 
+t = ∆t7 + ∆t; = 53,2 +
+380
+350 −200 . (220 −0) ≈611s 
+ 
+ 
+
+---PAGE---
+ 
+31 
+4. TỰ LUẬN 
+Câu 1 (phát triển từ câu hỏi SBT Vật lí 12 – KNTT). Một người thợ sửa xe máy phát hiện trên một số bộ phận 
+bằng nhựa của chiếc xe bị nứt vỡ. Để hàn các bộ phận này, người ta đưa mỏ hàn nhiệt vào chỗ nứt vỡ để gắn 
+chúng lại với nhau, sau đó thực hiện một số biện pháp gia công làm tăng tính thẩm mĩ của chỗ hàn. 
+a) Quá trình chuyển thể nào xảy ra trong trường hợp này? Mô tả quy trình của các quá trình chuyển thể đó. 
+b) Phương pháp hàn nhiệt như trên có thể dùng để hàn các vật liệu kim loại khác hay không? Tại sao? 
+Hướng dẫn giải 
+a)  
+ 
+- Các quá trình chuyển thể diễn ra trong trường hợp này: Nóng chảy và đông đặc; 
+- Quy trình: Khi người thợ đưa mỏ hàn nhiệt chạm vào vết nứt, do nhiệt độ mỏ hàn cao hơn nhiệt độ nóng chảy 
+của nhựa nên nhựa bị nóng chảy chuyển từ thể rắn sang thể lỏng. Sau một khoảng thời gian thì chúng dính lại 
+khi nguội đi nhờ quá trình đông đặc. 
+b) 
+Phương pháp hàn nhiệt vẫn có thể áp dụng cho các vật liệu kim loại khác nếu như nhiệt độ của dụng cụ hàn cao 
+hơn nhiệt độ nóng chảy của kim loại. Ngoài ra, trong một số trường hợp người ta có thể đưa thêm một kim loại 
+khác có nhiệt độ thấp hơn vào chỗ cần hàn và tạo ra một mối hàn là hợp kim. 
+Câu 2. Một người cọ xát một miếng sắt có khối lượng 500g trên một sàn nhà. Sau một thời gian miếng sắt nóng 
+thêm 15℃. Giả sử rẳng 60% công đó được dùng làm nóng miếng sắt. Biết nhiệt dung riêng của sắt là 460 J/(kg.K). 
+ 
+a) Tính nhiệt lượng mà miếng sắt nhận được. 
+b) Miếng sắt đang nhận công hay thực hiện công? Tính độ lớn của công. 
+Hướng dẫn giải 
+a) Nhiệt lượng mà miếng sắt nhận được: 
+Q = m. c. ∆t = 0,5 × 460 × 15 = 3450 J. 
+b)  
+- Khi cọ xạt miếng sắt xuống bàn, miếng sắt nhận công do lực ma sát giữa miếng sắt và mặt sàn gây ra.  
+- Giả sử rẳng 60% công đó được dùng làm nóng miếng sắt. Độ lớn của công: 
+Q = 60%. A ⟹A =
+Q
+60% = 3450
+60% = 5750 J. 
+Câu 3. Một vật có khối lượng 2 kg trượt không vận tốc ban đầu từ đỉnh xuống chân một mặt phẳng dài 5 m, 
+nghiêng 40° so với mặt nằm ngang. Tốc độ của vật ở chân mặt phẳng là 4,5 m/s và chọn chiều dương theo chiều 
+chuyển động của vật. Lấy g = 10 m/s2 và bỏ qua sự trao đổi nhiệt với mặt phẳng nghiêng và môi trường. Tính: 
+a) Công do lực ma sát. 
+b) Độ biến thiên nội năng của vật trong quá trình này. 
+
+---PAGE---
+ 
+32 
+Hướng dẫn giải 
+a) Chọn gốc thế năng tại chân dốc, ta xét cơ năng của vật tại đỉnh dốc (vị trí 1) và chân dốc (vị trí 2): 
+W7 = W,# = mgh7 = mgl. sin 40° ; 
+W; = Wđ$ = 1
+2 mv;
+;; 
+Độ biến thiên cơ năng chính bằng công của lực không thế (lực ma sát): 
+W; −W7 = AW%& ⟹AW%& = 1
+2 mv;
+; −mgl. sin 40° = 1
+2 × 2 × (4,5); −2 × 10 × 5 × sin 40° ≈−44 J. 
+b) Vật nhận công của lực ma sát (A > 0) và không nhận thêm nhiệt lượng (Q = 0). Vậy ∆U = A = nAW%&n = 44 J. 
+Câu 4. Để diệt trừ các bào tử nấm và kích thích quá trình nảy mầm của hạt giống lúa, người nông dân đã sử dụng 
+một kinh nghiệm dân gian là ngâm chúng vào trong nước ấm theo công thức “hai sôi, ba lạnh”. Tức là nước ấm 
+sẽ được tạo ra bằng cách pha hai phần nước sôi với ba phần nước lạnh. Bỏ qua sự trao đổi nhiệt với môi trường. 
+a) Nếu người nông dân sử dụng nước máy có nhiệt độ 25℃ để pha với nước sôi theo công thức “hai sôi, ba lạnh” 
+thì nước ấm thu được có nhiệt độ bao nhiêu? 
+b) Để có thể pha được nước ấm ở nhiệt độ 49℃ với công thức trên. Nhiệt độ nước lạnh ban đầu cần phải có nhiệt 
+độ là bao nhiêu? 
+ 
+Hướng dẫn giải 
+a) Gọi tcb (℃) là nhiệt độ của nước ấm; m là khối lượng của một phần nước. 
+Nhiệt lượng hai phần nước sôi tỏa ra: Q,ỏ. = 2m. c. (100 −t3X); 
+Nhiệt lượng ba phần nước lạnh thu vào: Q,/0 = 3m. c. (t3X −25); 
+Áp dụng phương trình cân bằng nhiệt: 
+Q,ỏ. = Q,/0 ⟺2m. c. (100 −t3X) = 3m. c. (t3X −25) ⟹t3X = 55℃. 
+b) Áp dụng phương trình cân bằng nhiệt: 
+Q,ỏ. = Q,/0 ⟺2m. c. (100 −49) = 3m. c. (49 −t9) ⟹t′ = 15℃. 
+Câu 5. Một ấm đun siêu tốc có phần thân ấm làm bằng thép không gỉ có khối lượng 0,4 kg, đang chứa 1,2 kg 
+nước ở 25℃. Biết nhiệt dung riêng của thép và nước lần lượt là 460 J/(kg.K) và 4200 J/(kg.K). Biết công suất 
+điện ghi trên ấm đun là 1500 W, hiệu suất của ấm ban đầu là 100% và áp suất ở điều kiện tiêu chuẩn. 
+a) Tính thời gian để đun sôi lượng nước trong ấm. 
+b) Do xài lâu ngày nên hiệu suất của ấm giảm còn 89%. Tính điện năng cần thiết để đun sôi 1,0 kg nước ở nhiệt 
+độ 25℃. 
+Hướng dẫn giải 
+a)  
+Nhiệt lượng cần cung cấp để đun sôi lượng nước trong ấm: 
+ 
+ 
+Q = pm,/éL. c,/éL + m+. c+q(t; −t7) = (0,4 × 460 + 1,2 × 4200) × (100 −25) = 391800 J. 
+Thời gian để đun sôi lượng nước trong ấm: 
+A = Q ⟺P. t = Q ⟹t =
+!
+Z =
+([7\88
+7&88 = 261,2 s. 
+
+---PAGE---
+ 
+33 
+b) 
+Nhiệt lượng cần cung cấp để đun sôi lượng nước trong ấm: 
+ 
+ 
+Q = pm,/éL. c,/éL + m+
+9 . c+q(t; −t7) = (0,4 × 460 + 1 × 4200) × (100 −25) = 328800 J. 
+Điện năng cần thiết để đun sôi 1kg nước trong ấm: 
+A =
+Q
+89% = 328800
+89%
+≈370000 J. 
+Câu 6 (phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Sở GD Thanh Hóa, năm 2025). Ở một cơ sở đúc đồng 
+tại xã Gia Bình, tỉnh Bắc Ninh, người ta tiến hành đúc một quả chuông bằng đồng nguyên chất có khối lượng 20 
+kg qua 6 bước sau đây: (1) tạo mẫu; (2) tạo khuôn; (3) nấu chảy đồng; (4) rót khuôn; (5) làm nguội và tách sản 
+phẩm khỏi khuôn; (6) hoàn thiện sản phẩm. 
+ 
+Biết đồng có nhiệt độ nóng chảy là 1084℃, nhiệt nóng chảy riêng là 180 kJ/kg, nhiệt dung riêng là 380 J/(kg.K); 
+nhiệt độ ban đầu của môi trường và hỗn hợp nguyên liệu là 20℃, trong quá trình đúc có 35% lượng nhiệt bị hao 
+phí ra môi trường. 
+a) Quá trình chuyển thể nào đã diễn ra trong quá trình chế tác chuông? 
+b) Tính nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 20 kg đồng ở nhiệt độ ban đầu. 
+c) Biết năng suất tỏa nhiệt của than đá là 28 MJ/kg. Tính khối lượng than đá cần thiết để nấu chảy hoàn toàn được 
+khối lượng đồng nói trên. 
+Hướng dẫn giải 
+a) 
+Quá trình nóng chảy diễn ra trong công đoạn nấu chảy đồng ở bước (3). Quá trình đông đặc diễn ra trong công 
+đoạn làm nguội ở bước (5). 
+b) 
+Nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn 20 kg đồng ở nhiệt độ ban đầu: 
+Q = m. c. ∆t + m. λ = 20 × 380 × (1084 −20) + 20 × 180.10( = 11686400 J 
+c) 
+Ta có 35% lượng nhiệt bị hao phí ra môi trường. Khối lượng than đá cần thiết: 
+H = Q
+A =
+Q
+28.10:. m,/.+
+⟹m,/.+ =
+Q
+28.10:. H =
+11686400
+28.10: × 35% ≈1,192 kg. 
+Câu 7. Trước đây, người ta thường sử dụng cầu chì để đảm bảo an toàn điện cho các gia đình. Hiện nay, cầu chì 
+vẫn được sử dụng để bảo vệ một số thiết bị điện tử. Bộ phận chủ yếu của cầu chì là một dây chì có kích thước 
+phù hợp được mắc nối tiếp để thay thế cho một đoạn dây dẫn trong mạch. Khi dòng điện tăng đột ngột (do chập 
+điện, hiệu điện thế nguồn tăng bất thường,...) thì cầu chì sẽ ngắt mạch điện. Hãy giải thích cho nguyên lí hoạt 
+động trên của cầu chì. 
+Chất 
+Nhiệt độ nóng chảy 
+(oC) 
+Nhiệt dung riêng 
+(J/kgK) 
+Nhiệt nóng chảy riêng 
+(J/kg) 
+Chì 
+328 
+130 
+0,25.105 
+
+---PAGE---
+ 
+34 
+Sắt 
+1535 
+440 
+2,27.105 
+Đồng 
+1084 
+380 
+1,80.105 
+Hướng dẫn giải 
+Cầu chì có một đoạn dây chì được mắc nối tiếp để thay thế cho một đoạn dây dẫn trong mạch điện. Ta thấy nhiệt 
+độ nóng chảy của chì rất thấp so với các kim loại khác thường dùng để làm dây dẫn điện, mặt khác nhiệt dung 
+riêng và nhiệt nóng chảy riêng của chì cũng rất thấp. Khi dòng điện tăng đột ngột thì nhiệt lượng toả ra trên 
+đoạn dây chì đó cũng tăng đột ngột, nhiệt lượng này sẽ nhanh chóng làm nóng chảy dây chì và làm ngắt mạch 
+điện. Vì vậy người ta sử dụng cầu chì để bảo vệ mạch điện khi dòng điện tăng quá mức cho phép. 
+Câu 8. Một học sinh làm thí nghiệm đun nóng để làm 0,5 kg nước đá ở 0℃ chuyển hoàn toàn thành hơi nước ở 
+100℃. Cho nhiệt nóng chảy của nước ở 0℃ là 3,34.10& J/kg; nhiệt dung riêng của nước là 4,2kJ/kg.K; nhiệt hoá 
+hơi riêng của nước là 2,26.10: J/kg. Bỏ qua hao phí nhiệt ra môi trường. Tính: 
+a) Nhiệt lượng cần cung cấp để nước đá nóng chảy hoàn toàn thành nước ở 0℃. 
+b) Tổng nhiệt lượng cần cung cấp cho quá trình trên. 
+Hướng dẫn giải 
+a) Nhiệt lượng cần thiết để làm nóng chảy hoàn toàn 0,5 kg nước đá tại nhiệt độ nóng chảy:  
+Q7 = m. λ = 0,5 × 3,34.10& = 167000 J 
+b) Tổng nhiệt lượng cần cung cấp cho quá trình trên: 
+Q = Q7 + Q; + Q( = m. λ + m. c+. ∆t + m. L = 167000 + 0,5 × 4,2.10( × (100 −0) + 0,5 × 2,26.10: 
+⟹Q = 1,507.10:J 
+Câu 9. Khi mồ hôi bốc hơi từ bề mặt da, cơ thể được làm mát. Một người hoạt động thể chất nhiều, mỗi ngày có 
+trung bình 550 ml mồ hôi được thải ra. Các động mạch nhỏ (arterioles) trong lớp da ngoài (dermis) giãn nở để 
+tản nhiệt thừa từ máu ra ngoài qua da và vào môi trường xung quanh. Ngược lại, khi trời lạnh làm cho nhiệt độ 
+cơ thể giảm xuống, các động mạch nhỏ co lại để giảm thiểu mất nhiệt, đặc biệt ở đầu ngón tay và mũi, khiến da 
+có thể trở nên trắng. 
+  
+ 
+a) Giải thích hiện tượng da có màu đỏ hồng khi tập thể dục.  
+b) Giả sử 85% lượng mồ hôi trung bình thoát ra khỏi cơ thể bị bay hơi. Tính nhiệt lượng trung bình mà cơ thể 
+mất đi để cung cấp cho sự hóa hơi của mồ hôi. Biết rằng nhiệt riêng hóa hơi của mồ hôi là 2260 kJ/kg và khối 
+lượng riêng của mồ hôi là 1 kg/lít.  
+Hướng dẫn giải 
+a) Khi tập thể dục, nhiệt độ cơ thể tăng. Các động mạch nhỏ dưới da giãn nở để tản nhiệt thừa từ máu ra ngoài 
+da và vào môi trường xung quanh. Hiện tượng da có màu đỏ hồng khi tập thể dục là do màu của máu khi nhìn từ 
+bên ngoài da. 
+b) Nhiệt lượng cần cung cấp để hóa hơi 85% lượng mồ hôi thải ra: 
+Q = 85%. m. L = 85%. D. V. L = 0,85 × 1 × 0,550 × 2260.10( = 1,05655.10:J. 
+Câu 10. Để xác định nhiệt hóa hơi của nước, người ta làm thí nghiệm như sau: Đưa 10g hơi nước ở nhiệt độ 
+100℃ vào một nhiệt lượng kế chứa 290g nước ở 20℃. Nhiệt độ cuối của hệ là 40℃. Cho biết nhiệt dung của 
+
+---PAGE---
+ 
+35 
+nhiệt kế là 46 J/K và nhiệt dung riêng của nước là 4,18 J/g.K. Xác định nhiệt hoá hơi riêng của nước trong trường 
+hợp này. 
+Hướng dẫn giải 
+Nhiệt lượng mà hơi nước và nước được tạo thành tỏa ra: 
+Q,ỏ. = m/ơA. L + m/ơA. c+. (100 −40) = 10 × L + 10 × 4,18 × 60 = 10 × L + 2508 
+Nhiệt lượng mà nhiệt lượng kế và nước trong đó nhận được: 
+Q,/0 = (m+*P. c+*P + m+. c+). (40 −20) = (46 + 290 × 4,18) × (40 −20) = 25164 J 
+Áp dụng phương trình cân bằng nhiệt: 
+Q,ỏ. = Q,/0 ⟺10 × L + 2508 = 25164 ⟹L = 2265,6 J/g = 2,2656.10: J/kg. 
+
+---PAGE---

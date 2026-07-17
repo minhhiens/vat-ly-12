@@ -1,0 +1,2122 @@
+ 
+ 
+1 
+CHỦ ĐỀ 2: NỘI NĂNG. ĐỊNH LUẬT I CỦA NHIỆT ĐỘNG LỰC HỌC 
+ 
+I – TÓM TẮT LÝ THUYẾT  
+1. Khái niệm nội năng  
+Mô hình động học phân tử 
+Dạng năng lượng tồn tại 
+Đặc điểm của dạng năng lượng 
+Các phân tử chuyển động không ngừng 
+Động năng phân tử 
+Động năng phân tử phụ thuộc vào 
+tốc độ chuyển động của phân tử. 
+Các phân tử tương tác với nhau bằng 
+lực liên kết phân tử 
+Thế năng tương tác phân tử 
+(gọi tắt là thế năng phân tử) 
+Thế năng phân tử phụ thuộc vào 
+khoảng cách giữa các phân tử. 
+Kết luận: Các phân tử vừa có động năng, vừa có thế năng tương tác. 
+- Khái niệm nội năng: Tổng động năng và thế năng của các phân tử cấu tạo nên vật gọi là nội năng của vật. 
+- Đặc điểm của nội năng: 
++ Nội năng được kí hiệu là U, đơn vị là Joule (J); 
++ Nội năng của các phân tử phụ thuộc vào nhiệt độ và thể tích của vật. 
+ Tại sao nội năng của vật lại phụ thuộc vào nhiệt độ và thể tích của vật? 
++ Nhiệt độ 
+Động năng phân tử phụ thuộc vào tốc độ chuyển động của phân tử. Theo mô hình động học phân tử, nhiệt độ 
+của vật càng cao thì tốc độ chuyển động của các phân tử càng lớn ⟹ Khi nhiệt độ thay đổi, động năng của các 
+phân tử thay đổi ⟹ Nội năng thay đổi. 
+ 
+Hình 1. (A) mô tả chuyển động của các phân tử ở nhiệt độ t1; 
+                          (B) mô tả chuyển động của các phân tử ở nhiệt độ t2 (t2 > t1). 
++ Thể tích 
+Thế năng phân tử phụ thuộc vào khoảng cách giữa các phân tử. Khi thể tích của vật thay đổi dẫn đến khoảng 
+cách giữa các phân tử thay đổi ⟹ Khi thể tích thay đổi, thế năng phân tử cũng thay đổi ⟹ Nội năng thay đổi. 
+ 
+Hình 2. Mối quan hệ giữa thế năng phân tử và khoảng cách giữa chúng. 
+
+---PAGE---
+ 
+ 
+2 
+Lưu ý: Vì các phân tử cấu tạo nên vật chuyển động không ngừng nên tốc độ và khoảng cách giữa các phân tử 
+luôn thay đổi. Vì vậy, động năng và thế năng phân tử mà ta đang xét được hiểu là động năng và thế năng trung 
+bình của các phân tử cấu tạo nên vật. 
+ 
+2. Định luật I của nhiệt động lực học 
+a. Cách làm thay đổi nội năng 
+Nội năng phụ thuộc vào nhiệt độ và thể tích của vật. Nếu ta làm thay đổi nhiệt độ hoặc thể tích của vật thì nội 
+năng sẽ thay đổi. Có hai cách làm thay đổi nội năng: Thực hiện công và truyền năng lượng nhiệt (gọi tắt là 
+truyền nhiệt) 
+ 
+Thực hiện công 
+Truyền nhiệt 
+Miếng 
+kim loại 
+Dùng tay thực hiện công cọ xát một miếng kim 
+loại lên sàn nhà thì miếng kim loại nóng lên, nội 
+năng của nó đã thay đổi. 
+ 
+Làm nóng miếng kim loại bằng cách cho nó tiếp 
+xúc với nguồn nhiệt (thả vào nước nóng, hơ trên 
+ngọn lửa…) khi đó nội năng của vật tăng. 
+ 
+ 
+Khối 
+khí 
+Dùng tay ấn mạnh và nhanh piston của một 
+cylinder chứa khí, thể tích trong cylinder giảm, 
+đồng thời khối khí nóng lên. Nội năng của khí 
+tăng lên. 
+ 
+Làm nóng khối khí bên trong cylinder bằng cách 
+hơ trên ngọn lửa đèn cồn. 
+ 
+ 
+Lưu ý:  
++ Trong quá trình thực hiện công, có sự chuyển hóa từ dạng năng lượng khác (cơ năng) thành nội năng. 
++ Trong quá trình truyền nhiệt, không có sự chuyển hóa năng lượng từ dạng này sang dạng khác mà chỉ có sự 
+truyền nội năng từ vật này sang vật khác. 
+b. Định luật I của nhiệt động lực học 
+Phát biểu: Độ biến thiên nội năng của vật bằng tổng công và nhiệt lượng mà vật nhận được 
+ 
+
+---PAGE---
+ 
+ 
+3 
+Trong đó ∆U: độ biến thiên nội năng (J); 
+     Q: Nhiệt lượng mà vật nhận được (J);  
+     A: Công mà vật nhận được (J). 
+Lưu ý: Q và A là các giá trị đại số và được quy ước như sau 
++ Vật nhận nhiệt lượng: Q > 0,  vật tỏa nhiệt lượng: Q < 0; 
++ Vật nhận công: A > 0,  vật sinh công: A < 0. 
++ Nội năng tăng: ∆𝐔> 𝟎, nội năng giảm: ∆𝐔< 𝟎. 
+c. Động cơ nhiệt 
+Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến đổi nội năng của nhiên liệu thành cơ năng. 
+Mỗi động cơ nhiệt đều có ba bộ phận chính: 
+- Nguồn nóng có nhiệt độ T1 cung cấp nhiệt lượng cho động cơ; 
+- Bộ phận phát động trong đó tác nhân nhận nhiệt từ nguồn nóng, giãn nở sinh công; 
+- Nguồn lạnh có nhiệt độ T2 < T1 nhận nhiệt lượng do động cơ tỏa ra. 
+ 
+ 
+3. Ví dụ + Phương pháp giải : 
+DẠNG I. TÍNH ĐỘ BIẾN THIÊN NỘI NĂNG DỰA TRÊN CÔNG VÀ NHIỆT LƯỢNG  
+Ví dụ 1 (Phát triển câu hỏi sách Vật lí 12 CTST): Giả sử cung cấp cho vật một công là 200 J nhưng nhiệt lượng 
+bị thất thoát ra môi trường bên ngoài là 120 J. Nội năng của vật 
+A. tăng thêm 320 J. 
+ 
+B. tăng thêm 80 J. 
+ 
+ A. giảm đi 80 J. 
+ 
+B. giảm đi 320 J. 
+Hướng dẫn giải 
+Vật nhận công: 𝐴= 200 𝐽; vật bị thất thoát nhiệt lượng ra môi trường: 𝑄= −120 𝐽; 
+Độ biến thiên nội năng của khối khí: ∆𝑈= 𝑄+ 𝐴= (−120) + 200 = 80 𝐽> 0. Vậy nội năng của khí tăng thêm 
+80 J. 
+Ví dụ 2: Trong quá trình nén khí thì khí nhận công 800 J đồng thời tỏa nhiệt lượng 200 J. Nội năng của khí 
+A. giảm đi 600 J. 
+ 
+B. tăng thêm 600 J. 
+ 
+C. giảm đi 1000 J. 
+ 
+D. tăng thêm 1000 J. 
+Hướng dẫn giải 
+Khối khí nhận công: 𝐴= 800 𝐽; Khí tỏa nhiệt lượng: 𝑄= −200 𝐽; 
+Độ biến thiên nội năng của khối khí: ∆𝑈= 𝑄+ 𝐴= (−200) + 800 = 600 𝐽> 0. Vậy nội năng của khí tăng 
+thêm 600J. 
+ 
+DẠNG II. TÍNH ĐỘ BIẾN THIÊN NỘI NĂNG TRONG CYLINDER VÀ PISTON NẰM NGANG 
+Ví dụ 3: Cung cấp nhiệt lượng 40 J cho một lượng khí trong một cylinder đặt nằm ngang đồng thời nhấn piston với 
+lực không đổi 40 N để nén khí, piston chuyển động một đoạn 25 cm. Nội năng của lượng khí của quá trình này 
+A. tăng thêm 50 J. 
+ 
+B. tăng thêm 30 J. 
+ 
+C. giảm đi 30 J. 
+ 
+D. giảm đi 50 J. 
+
+---PAGE---
+ 
+ 
+4 
+Hướng dẫn giải 
+Cung cấp nhiệt lượng cho khối khí ⟹ Khối khí nhận nhiệt lượng: 𝑄= 40 𝐽; 
+Khí bị nén ⟹ Khí nhận công: 𝐴 > 0. Độ lớn công mà khí nhận: |𝐴| = 𝐹. 𝑑= 40 × 0,25 = 10 𝐽 ⟹𝐴= 10 𝐽 
+Độ biến thiên nội năng của khối khí: ∆𝑈= 𝑄+ 𝐴= 40 + 10 = 50 𝐽> 0. Vậy nội năng của khí tăng thêm 50J. 
+Ví dụ 4: Cung cấp nhiệt lượng 1000 J cho một khối khí trong cylinder hình trụ nằm ngang thì khí giãn nở đẩy piston 
+làm thể tích của khối khí tăng thêm 2 lít. Biết áp suất của khối khí là 3.105 Pa và không đổi trong quá trình giãn nở. 
+Nội năng của khối khí trong quá trình này 
+A. tăng thêm 1600 J.  
+B. tăng thêm 400 J. 
+ 
+C. giảm đi 1600 J. 
+ 
+D. giảm đi 400 J. 
+Hướng dẫn giải 
+ 
+Cung cấp nhiệt lượng cho khối khí ⟹ Khối khí nhận nhiệt lượng: 𝑄= 1000 𝐽; 
+Khí giãn nở đẩy piston ⟹ khí đang thực hiện công: 𝐴< 0. Độ lớn công mà khí nhận: |𝐴| = 𝐹. 𝑑= 𝑝. 𝑆. 𝑑=
+𝑝. ∆𝑉= 3.10! × 2.10"# = 600 𝐽 ⟹𝐴= −600 𝐽; 
+Độ biến thiên nội năng của khối khí: ∆𝑈= 𝑄+ 𝐴= 1000 + (−600) = 400 𝐽> 0. Vậy nội năng của khí tăng 
+thêm 400J. 
+ 
+DẠNG III. TÍNH ĐỘ BIẾN THIÊN NỘI NĂNG CỦA MỘT VẬT ĐANG CHUYỂN ĐỘNG 
+Ví dụ 5 (Phát triển câu hỏi sách Vật lí 12 KNTT): Một vật có khối lượng 1kg trượt không vận tốc ban đầu từ 
+đỉnh xuống chân một mặt phẳng dài 21 m, nghiêng 30° so với mặt nằm ngang. Tốc độ của vật ở chân mặt phẳng 
+là 4,1 m/s. Lấy g = 9,8 m/s2 và bỏ qua sự trao đổi nhiệt với mặt phẳng nghiêng và môi trường. 
+a) Công của lực ma sát trong trường hợp này bằng 
+A. 100,9 J. 
+ 
+ 
+B. 94,5 J. 
+ 
+ 
+C. – 94,5 J. 
+ 
+ 
+D. – 100,9 J.  
+Hướng dẫn giải 
+Chọn gốc thế năng tại chân dốc, ta xét cơ năng của vật tại đỉnh dốc (vị trí 1) và chân dốc (vị trí 2): 
+𝑊$ = 𝑊%! = 𝑚𝑔ℎ$ = 𝑚𝑔𝑙. 𝑠𝑖𝑛30° ; 
+𝑊& = 𝑊đ" = 1
+2 𝑚𝑣&
+&; 
+Độ biến thiên cơ năng chính bằng công của lực không thế (lực ma sát): 
+𝑊& −𝑊$ = 𝐴(#$ ⟹𝐴(#$ = 1
+2 𝑚𝑣&
+& −𝑚𝑔𝑙. 𝑠𝑖𝑛30° = 1
+2 × 1 × 4,1& −1 × 9,8 × 21 × 𝑠𝑖𝑛30° = −94,5 𝐽. 
+b) Nội năng của vật trong quá trình này 
+A. tăng thêm 100,9 J.  
+B. tăng thêm 94,5 J.  
+C. giảm đi 94,5 J. 
+ 
+D. giảm đi 100,9 J. 
+Hướng dẫn giải 
+Vật đang nhận công của lực ma sát (A > 0) và không nhận thêm nhiệt lượng (Q = 0). Vậy ∆𝑈= 𝐴= 94,5 𝐽.  
+ 
+ 
+
+---PAGE---
+ 
+ 
+5 
+II – BÀI TẬP LUYỆN TẬP  
+1. CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN 
+ 
+a) CÂU HỎI ĐỊNH TÍNH 
+Câu 1. Phát biểu nào sau đây là đúng khi nói về nội năng của một vật? Nội năng của vật 
+A. là tổng động năng và thế năng của vật. 
+B. là tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+C. chỉ phụ thuộc vào nhiệt độ và không phụ thuộc vào thể tích của vật. 
+D. bằng tổng công và nhiệt lượng mà vật nhận được. 
+Hướng dẫn giải 
+Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng của vật phụ thuộc 
+vào nhiệt độ và thể tích của vật. 
+Câu 2 (SBT KNTT Vật lí 12). Nội năng của một vật là 
+A. tổng động năng của các phân tử cấu tạo nên vật. 
+B. tổng thế năng của các phân tử cấu tạo nên vật. 
+C. năng lượng nhiệt của vật. 
+D. tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+Hướng dẫn giải 
+Nội năng của một vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật.  
+Câu 3. Khi nhiệt độ của vật tăng thì 
+A. động năng trung bình của các phân tử tăng. 
+B. thế năng trung bình của các phân tử tăng. 
+C. động năng trung bình của các phân tử giảm. 
+D. thế năng trung bình của các phân tử giảm. 
+Hướng dẫn giải 
+Khi nhiệt độ của vật tăng tức là chuyển động của các phân tử càng mạnh. Như vậy, động năng phân tử tăng. 
+ 
+Câu 4 (SBT KNTT Vật lí 12). Nội năng của một vật phụ thuộc vào 
+A. nhiệt độ và thể tích của vật. 
+ 
+ 
+B. nhiệt độ, áp suất và thể tích của vật. 
+C. khoảng cách trung bình giữa các phân tử.  
+D. tốc độ trung bình của các phân tử. 
+Hướng dẫn giải 
+Nội năng của một vật phụ thuộc vào yếu tố: nhiệt độ và thể tích của vật. 
+Câu 5 (Đề thi THPTQG năm 2025). Nội năng của một khối khí xác định không đổi khi 
+A. thể tích của khối khí không đổi. 
+ 
+ 
+B. nhiệt độ và thể tích của khối khí không đổi. 
+C. nhiệt độ của khối khí thay đổi. 
+ 
+ 
+D. khối khí nhận năng lượng nhiệt từ vật khác. 
+Hướng dẫn giải 
+Nội năng của một vật phụ thuộc vào yếu tố: nhiệt độ và thể tích của vật. Nội năng của khối khí xác định không 
+đổi khi nhiệt độ và thể tích của khối khí không đổi. 
+Câu 6. Dựa vào kết luận “Nội năng phụ thuộc vào hai yếu tố: nhiệt độ và thể tích của vật”, một học sinh đưa ra 
+hai nhận định như sau: 
+Nhận định 1: Nhiệt độ của vật liên quan đến tốc độ chuyển động của các phân tử, điều này có nghĩa nhiệt độ liên 
+quan đến động năng phân tử; 
+Nhận định 2: Thể tích của vật liên quan đến khoảng cách giữa các phân tử, điều này liên quan đến lực tương tác 
+phân tử và thế năng phân tử. 
+
+---PAGE---
+ 
+ 
+6 
+Nhận định nào sau đây là đúng? 
+A. Nhận định (1). 
+ 
+ 
+ 
+ 
+B. Nhận định (2). 
+C. Cả hai nhận định đều đúng. 
+ 
+ 
+D. Cả hai nhận định đều sai. 
+Hướng dẫn giải 
+Động năng phân tử phụ thuộc vào tốc độ chuyển động của phân tử. Theo mô hình động học phân tử, nhiệt độ của 
+vật càng cao thì tốc độ chuyển động của các phân tử càng lớn ⟹ Khi nhiệt độ thay đổi, động năng của các phân 
+tử thay đổi. 
+Thế năng phân tử phụ thuộc vào khoảng cách giữa các phân tử. Khi thể tích của vật thay đổi dẫn đến khoảng 
+cách giữa các phân tử thay đổi ⟹ Khi thể tích thay đổi, lực tương tác phân tử và thế năng phân tử cũng thay 
+đổi. 
+Câu 7. Đơn vị của nội năng là 
+A. Joule (J). 
+ 
+ 
+B. Newton (N). 
+ 
+C. Watt (W).  
+ 
+D. mã lực (HP). 
+Hướng dẫn giải 
+Đơn vị của nội năng là Joule (J). 
+Câu 8. Phát biểu nào sau đây là đúng khi nói về nội năng? 
+A. Các vật ở cùng một nhiệt độ thì có cùng nội năng. 
+B. Nội năng của một vật phụ thuộc vào nhiệt độ nhưng không phụ thuộc vào thể tích của vật. 
+C. Nhiệt độ của vật càng lớn thì động năng trung bình của các phân tử càng lớn. 
+D. Nội năng của một vật không phụ thuộc vào nhiệt độ. 
+Hướng dẫn giải 
+Khi nhiệt độ của vật tăng tức là chuyển động của các phân tử càng mạnh. Như vậy, động năng trung bình phân 
+tử tăng. 
+Câu 9. Phát biểu nào sau đây không đúng? 
+A. Nội năng của vật phụ thuộc vào nhiệt độ và thể tích của vật. 
+B. Vật được làm nóng sao cho thể tích không đổi thì nội năng tăng lên. 
+C. Nội năng của vật bằng tổng động năng của các phân tử cấu tạo nên vật. 
+D. Nhiệt độ của vật càng lớn thì động năng trung bình của các phân tử càng lớn. 
+Hướng dẫn giải 
+Tổng động năng và thế năng của các phân tử cấu tạo nên vật gọi là nội năng của vật. 
+Câu 10 (phát triển câu hỏi SBT KNTT Vật lí 12). Khi nội năng của một vật tăng lên thì năng lượng trung bình 
+của các phân tử cấu tạo nên vật cũng tăng lên. Khi đó 
+A. chỉ có động năng của các phân tử tăng lên. 
+B. chỉ có thế năng của các phân tử tăng lên. 
+C. động năng hoặc thế năng hoặc cả hai đều tăng. 
+D. động năng và thế năng phân tử chắc chắn cùng tăng lên. 
+Hướng dẫn giải 
+Nội năng của vật là tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng của vật tăng có thể là 
+do động năng tăng hoặc thế năng tăng hoặc cả động năng và thế năng cùng tăng. 
+Câu 11 (Đề minh họa THPTQG năm 2025). Một vật đang được làm lạnh sao cho thể tích của vật không thay 
+đổi. Nội năng của của vật 
+A. tăng lên. 
+ 
+ 
+B. giảm đi. 
+ 
+ 
+C. không thay đổi. 
+ 
+D. tăng rồi giảm. 
+Hướng dẫn giải 
+Khi một vật được làm lạnh, chuyển động của các phân tử chậm lại ⟹ Động năng phân tử giảm; 
+Thể tích của vật không thay đổi ⟹ Thế năng phân tử không đổi. 
+⟹ Nội năng của vật giảm. 
+
+---PAGE---
+ 
+ 
+7 
+Câu 12. Phát biểu nào sau đây là đúng khi nói về cách thay đổi nội năng của một vật? 
+A. Chỉ có thể làm thay đổi nội năng của một vật bằng cách thực hiện công. 
+B. Chỉ có thể làm thay đổi nội năng của một vật bằng cách truyền năng lượng nhiệt. 
+C. Có thể làm thay đổi nội năng của một vật: truyền năng lượng nhiệt và thực hiện công. 
+D. Có thể làm thay đổi nội năng của một vật bằng cách đưa vật đó lên cao. 
+Hướng dẫn giải 
+Có hai cách làm thay đổi nội năng: Thực hiện công và truyền năng lượng nhiệt (gọi tắt là truyền nhiệt). 
+Câu 13. Khi nói về truyền nhiệt và thực hiện công, phát biểu nào sau đây là không đúng?  
+A. Thực hiện công là quá trình có thể làm thay đổi nội năng của vật. 
+B. Trong quá trình thực hiện công có sự chuyển hóa từ nội năng thành cơ năng. 
+C. Trong quá trình truyền nhiệt có sự truyền nội năng từ vật này sang vật khác. 
+D. Trong quá trình truyền nhiệt có sự chuyển hóa từ nội năng thành cơ năng. 
+Hướng dẫn giải 
+Trong quá trình truyền nhiệt, không có sự chuyển hóa năng lượng từ dạng này sang dạng khác mà chỉ có sự 
+truyền nội năng từ vật này sang vật khác. 
+Câu 14. Phát biểu nào sau đây là đúng khi nói về quá trình truyền nhiệt? Truyền nhiệt là quá trình 
+A. truyền nhiệt độ. 
+ 
+ 
+ 
+ 
+B. truyền trực tiếp nội năng từ vật này sang vật khác. 
+C. chuyển hóa nội năng thành năng lượng khác. 
+D. chuyển hóa năng lượng khác sang nội năng. 
+Hướng dẫn giải 
+Trong quá trình truyền nhiệt, không có sự chuyển hóa năng lượng từ dạng này sang dạng khác mà chỉ có sự 
+truyền trực tiếp nội năng từ vật này sang vật khác. 
+Câu 15. Trường hợp nào sau đây không làm biến đổi nội năng của vật? 
+ 
+A. Keo nến được hơ nóng ( Hình 1 ).  
+ 
+ 
+B. Thả vật rơi tự do trong chân không ( Hình 2 ). 
+C. Vật được đẩy trên mặt phẳng có ma sát ( Hình 3 ). 
+D. Xoa tay để làm ấm khi thời tiết lạnh ( Hình 4 ). 
+Hướng dẫn giải 
+Có hai cách làm thay đổi nội năng: Thực hiện công và truyền năng lượng nhiệt (gọi tắt là truyền nhiệt). Khi vật 
+rơi tự do trong chân không, trọng lực sinh công có tác dụng làm tăng tốc độ của vật, không có tác dụng làm tăng 
+tốc độ của các phân tử cấu tạo nên vật.  
+Câu 16 (phát triển câu hỏi SBT CTST Vật lí 12). Trường hợp nào sau đây làm biến đổi nội năng của vật không 
+phải do thực hiện công? 
+
+---PAGE---
+ 
+ 
+8 
+ 
+   A. Mài dao.  
+           B. Đóng đinh.  
+    C. Khuấy nước. 
+       D. Nung đồng trong lò. 
+Hướng dẫn giải 
+Trong quá trình thực hiện công, có sự chuyển hóa từ một dạng năng lượng khác (cơ năng) sang nội năng và 
+ngược lại.  
+Trong quá trình nung đồng, lò truyền nhiệt vào đồng làm tăng nội năng của đồng. Đây là quá trình truyền nhiệt. 
+ 
+Câu 17. Trường hợp nào sau đây nội năng của vật bị thay đổi nhờ quá trình truyền nhiệt? 
+        
+ 
+A. Bàn tay của vận động viên nóng lên khi kéo co ( Hình 1 ). 
+B. Mũi khoan nóng lên trong quá tình khoan ( Hình 2 ). 
+C. Cơ thể người ấm lên khi ngồi trước máy sưởi ( Hình 3 ). 
+D. Nén khí trong cylinder ( Hình 4 ). 
+Hướng dẫn giải 
+Nội năng của cơ thể người thay đổi khi ngồi trước máy sưởi nhờ quá trình truyền nhiệt. 
+Sử dụng các thông tin sau cho câu 18 và câu 19: Trong quá trình rèn dao truyền thống, người thợ cần thực hiện 
+theo các công đoạn sau: 
+ 
+Công đoạn (1) – Nung sắt: thanh sắt được đưa vào lò rèn đến khi đỏ rực; 
+Công đoạn (2) – Tạo hình: Người thợ tiến hành dùng búa đập để tạo hình cho thanh sắt; 
+Công đoạn (3) – Tôi thép: Nhúng thanh sắt nóng vào nước hoặc dầu nguội đột ngột; 
+Công đoạn (4) – Mài dao: Dùng đá mài để mài lưỡi dao sắt bén; 
+Công đoạn (5) – Hoàn thiện: Gắn cán gỗ hoặc nhữa vào phần chuôi kim loại. 
+Câu 18. Nội năng của thanh sắt thay đổi do thực hiện công trong  
+A. chỉ công đoạn (4).  
+ 
+ 
+B. công đoạn (2) và (4). 
+C. công đoạn (1) và (3). 
+ 
+ 
+D. tất cả các công đoạn. 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+ 
+9 
+Nội năng của thanh sắt thay đổi nhờ quá trình thực hiện công trong giai đoạn (2) và (4). 
+Câu 19. Công đoạn nào khiến nội năng của thanh sắt giảm đi? 
+A. Công đoạn (5). 
+ 
+ 
+ 
+B. Công đoạn (2) và (4). 
+C. Công đoạn (1) và (3). 
+ 
+ 
+D. Công đoạn (3). 
+Hướng dẫn giải 
+Công đoạn (3) làm giảm nội năng của vật vì khi nhúng thanh sắt vào nước hoặc dầu nguội thì nhiệt độ của thanh 
+sắt giảm khiến cho nội năng giảm. 
+Câu 20 (Đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Hiện tượng quả bóng bàn bị móp 
+(nhưng chưa bị thủng) khi thả vào cốc nước nóng sẽ phồng trở lại là do 
+ 
+A. nội năng của chất khí giảm xuống.  
+B. nội năng của chất khí tăng lên.  
+C. nội năng của chất khí không thay đổi.  
+D. quả bóng nhận nhiệt và sinh công. 
+Hướng dẫn giải 
+Khi thả vào cốc nước nóng nó nhận nhiệt lượng sẽ phồng trở lại là do nội năng của chất khí tăng lên, các phân 
+tử chất khí chuyển động mạnh hơn và chúng thực hiện công đẩy cho vỏ quả bóng bàn căng phồng trở lại. 
+Câu 21 (Đề thi thử tốt nghiệp THPT Hậu Lộc 1 – Thanh Hóa năm 2025). Nội năng của vật trong hình nào sau 
+đây đang giảm? 
+ 
+             ( Hình 1 ) 
+ 
+ 
+( Hình 2 ) 
+ 
+ 
+( Hình 3 ) 
+ 
+       ( Hình 4 ) 
+ 
+A. Ấm nước đang đun trên bếp ( Hình 1 ). 
+B. Tô phở nóng đặt trong không khí ( Hình 2 ). 
+C. Mối hàn kim loại đang được mài nhẵn ( Hình 3 ). 
+D. Ly đá lạnh đặt trong không khí ( Hình 4 ). 
+ 
+Hướng dẫn giải 
+Tô phở đang tỏa nhiệt ra bên ngoài không khí, tức là nội năng của tô phở đang giảm. 
+Câu 22 (phát triển câu hỏi SBT CTST Vật lí 12). Đặt thanh gỗ A đứng yên, bạn học sinh tiến hành cọ xát thanh 
+gỗ B lên thanh gỗ A thì 
+
+---PAGE---
+ 
+ 
+10 
+ 
+A. nhiệt độ thanh gỗ A không đổi, nhiệt độ thanh gỗ B tăng lên. 
+B. nhiệt độ cả hai thanh gỗ đều tăng. 
+C. nhiệt độ thanh gỗ A tăng lên, nhiệt độ thanh gỗ B không đổi. 
+D. nhiệt độ cả hai thanh gỗ đều không đổi. 
+Hướng dẫn giải 
+Khi cọ xát hai thanh gỗ, hai thanh gỗ đều nhận công từ lực ma sát, làm nội năng của hai thanh gỗ tăng. Điều này 
+dẫn đến nhiệt độ của chúng tăng. 
+Câu 23 (Đề thi thử tốt nghiệp THPT Triệu Sơn 4 – Thanh Hóa năm 2025). Khi ôtô đóng kín cửa để ngoài trời 
+nắng nóng, nhiệt độ không khí trong xe tăng rất cao so với nhiệt độ bên ngoài, làm giảm tuổi thọ các thiết bị trong 
+xe. Nguyên nhân gây ra sự tăng nhiệt độ này là 
+ 
+A. do thể tích khối khí trong ôtô thay đổi nên nhiệt lượng mà khối khí trong ôtô nhận được chủ yếu làm tăng nội 
+năng của khối khí. 
+B. do thể tích khối khí trong ôtô không đổi nên nhiệt lượng mà khối khí trong ôtô nhận được chủ yếu làm giảm 
+nội năng của khối khí. 
+C. do thể tích khối khí trong ôtô thay đổi nên nhiệt lượng mà khối khí trong ôtô nhận được chủ yếu làm tăng nội 
+giảm của khối khí. 
+D. do thể tích khối khí trong ôtô không đổi nên nhiệt lượng mà khối khí trong ôtô nhận được chủ yếu làm tăng 
+nội năng của khối khí. 
+Hướng dẫn giải 
+Nhiệt độ trong xe tăng lên là do khi xe đóng kín cửa và để ngoài trời nắng nóng, khối khí nhận nhiệt lượng và thể 
+tích của xe không đổi khiến cho nội năng của khối khí tăng. 
+Câu 24. Trong các hiện tượng sau, hiện tượng  nào không thuộc biến đổi nội năng bằng cách thực hiện công ? 
+ 
+A. Lưỡi cưa nóng lên trong quá trình cưa gỗ ( Hình 1 ). 
+B. Thở vào tay để làm ấm trong mùa đông ( Hình 2 ). 
+
+---PAGE---
+ 
+ 
+11 
+C. Quẹt diêm làm đầu que diêm bốc cháy ( Hình 3 ). 
+D. Lốp xe nóng lên khi xe phanh gấp ( Hình 4 ). 
+Hướng dẫn giải 
+Khi thở vào tay, khí bên trong cơ thể truyền nhiệt cho tay khiến cho nội năng của tay ấm lên. 
+Câu 25. Phát biểu nào sau đây là đúng khi nói về định luật 1 của nhiệt động lực học? Độ biến thiên nội năng của 
+vật bằng 
+A. tổng động năng và thế năng của vật. 
+B. tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+C. hiệu công và nhiệt lượng mà vật nhận được. 
+D. tổng công và nhiệt lượng mà vật nhận được. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của vật bằng tổng công và nhiệt lượng mà vật nhận được. 
+Câu 26. Công thức mô tả đúng nguyên lí I của nhiệt động lực học là 
+A. ∆U = Q + A. 
+ 
+B. Q = ∆U + A. 
+ 
+C. A = ∆U + Q. 
+ 
+D. ∆U = Q −A. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của vật bằng tổng công và nhiệt lượng mà vật nhận được: ∆U = Q + A. 
+Câu 27 (Đề thi THPTQG năm 2025). Công thức định luật 1 của nhiệt động lực học là ∆U = A + Q, với A là kí 
+hiệu công và Q là kí hiệu 
+A. nhiệt độ. 
+ 
+ 
+ 
+ 
+ 
+B. nhiệt lượng. 
+C. nhiệt dung riêng.  
+ 
+ 
+ 
+D. nhiệt nóng chảy riêng. 
+Hướng dẫn giải 
+Công thức định luật 1 của nhiệt động lực học là ∆U = A + Q, với A là kí hiệu công và Q là kí hiệu nhiệt lượng 
+mà vật nhận được. 
+Câu 28 (phát triển câu hỏi SBT CTST Vật lí 12). Hệ thức ∆U = A + Q với A > 0, Q < 0 diễn tả cho quá trình 
+nào của chất khí? 
+A. Nhận công và truyền nhiệt. 
+ 
+ 
+B. Nhận nhiệt và sinh công. 
+C. Truyền nhiệt và nội năng giảm. 
+ 
+ 
+D. Nhận công và nội năng tăng. 
+Hướng dẫn giải 
+Giá trị của công A và nhiệt lượng Q được quy ước theo sơ đồ sau: 
+ 
+Câu 29 (phát triển câu hỏi SBT CTST Vật lí 12). Hệ thức nào sau đây phù hợp với quá trình khối khí được làm 
+lạnh và giữa nguyên thể tích? 
+A. ∆U = A; A > 0. 
+ 
+B. ∆U = A; A < 0. 
+ 
+C. ∆U = Q; Q > 0. 
+ 
+D. ∆U = Q; Q < 0. 
+Hướng dẫn giải 
+Thể tích khối khí không đổi: A = 0; Khí được làm lạnh, khí tỏa nhiệt: Q < 0. Nội năng của khối khí thay đổi: 
+∆U = Q; Q < 0. 
+Câu 30 (phát triển câu hỏi SBT CTST Vật lí 12). Một khối khí xác định nhận nhiệt và thực hiện công thì nội 
+năng của nó sẽ thay đổi như thế nào? 
+
+---PAGE---
+ 
+ 
+12 
+A. Tăng lên.  
+ 
+B. giảm đi. 
+ 
+ 
+C. không đổi.  
+D. Chưa đủ căn cứ kết luận. 
+Hướng dẫn giải 
+Khối khí nhận nhiệt (Q > 0) và thực hiện công (A < 0) nên biểu thức ∆U = A + Q chưa xác định được dấu. 
+Câu 31. Một khối khí xác định nhận nhiệt và nhận công thì nội năng của nó sẽ thay đổi như thế nào? 
+A. Tăng lên.  
+ 
+B. giảm đi. 
+ 
+ 
+C. không đổi.  
+D. Chưa đủ căn cứ kết luận. 
+Hướng dẫn giải 
+Khối khí nhận nhiệt (Q > 0) và nhận công (A > 0) nên biểu thức ∆U = A + Q > 0. 
+Câu 32. Một khối khí xác định tỏa nhiệt và thực hiện công thì nội năng của nó sẽ thay đổi như thế nào? 
+A. Tăng lên.  
+ 
+B. giảm đi. 
+ 
+ 
+C. không đổi.  
+D. Chưa đủ căn cứ kết luận. 
+Hướng dẫn giải 
+Khối khí tỏa nhiệt (Q < 0) và thực hiện công (A < 0) nên biểu thức ∆U = A + Q < 0. 
+Câu 33. Biểu thức diễn tả đúng quá trình chất khí vừa tỏa nhiệt, vừa nhận công là 
+A. ∆U = Q + A; Q > 0; A < 0. 
+ 
+ 
+B. ∆U = Q + A; Q > 0; A > 0. 
+ 
+ 
+C. ∆U = Q + A; Q < 0; A > 0. 
+ 
+ 
+D. ∆U = Q + A; Q < 0; A < 0. 
+Hướng dẫn giải 
+Khối khí tỏa nhiệt Q < 0 và nhận công A > 0. Nội năng của khối khí thay đổi: ∆U = Q + A; Q < 0 và A > 0. 
+Câu 34. Dùng tay nén piston đồng thời nung nóng khí trong một cylinder. Xác định dấu của A và Q trong biểu 
+thức của định luật I nhiệt động lực học. 
+ 
+A. A > 0; Q > 0. 
+ 
+B. A < 0; Q > 0. 
+ 
+C. A > 0; Q < 0. 
+ 
+D. A < 0; Q < 0. 
+Hướng dẫn giải 
+Khối khí được nung nóng và nhận công của lực do tay tác dụng: Q > 0; A > 0. 
+Câu 35. Đơn vị của độ biến thiên nội năng ∆U là 
+A. ℃.  
+ 
+ 
+B. W.  
+ 
+ 
+C. J. 
+ 
+ 
+ 
+D. Pa. 
+Hướng dẫn giải 
+Đơn vị của độ biến thiên nội năng ∆𝑈 là Joule (J). 
+Câu 36. Khối khí thực hiện công trong trường hợp nào sau đây? 
+A. Nhiệt lượng mà khí nhận được lớn hơn độ tăng nội năng của khí. 
+B. Nhiệt lượng mà khí nhận được nhỏ hơn độ tăng nội năng của khí. 
+C. Nhiệt lượng mà khí nhận được bằng độ tăng nội năng của khí. 
+D. Khí thực hiện quá trình nén đẳng nhiệt. 
+Hướng dẫn giải 
+Khối khí thực hiện công: A < 0. Dựa vào biểu thức của định luật I nhiệt động lực học, ta có: A = ∆U −Q. Vậy 
+công A < 0 khi ∆U < Q. 
+Câu 37. Cấu tạo của một chiếc ghế nâng hạ như hình vẽ. Một khối khí xác định bị giam giữa hai ống M và N, M 
+có thể trượt lên xuống dọc theo thành trong của N. Giả sử khí không trao đổi nhiệt với bên ngoài. Khi M trượt 
+xuống dưới thì khối khí 
+
+---PAGE---
+ 
+ 
+13 
+ 
+A. nhận công và nội năng của khối khí tăng.  
+ 
+B. nhận công và nội năng của khối khí giảm. 
+C. thực hiện công và nội năng của khối khí tăng. 
+ 
+D. thực hiện công và nội năng của khối khí giảm. 
+Hướng dẫn giải 
+Khi M trượt xuống dưới, khối khí bị ép lại và nhận công do lực ép xuống. Vì vậy khối khí nhận công và nội năng 
+của khối khí tăng. 
+Câu 38. Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến đổi 
+A. cơ năng của nhiên liệu thành cơ năng của máy.  
+B. nội năng của nhiên liệu thành hóa năng. 
+C. cơ năng của nhiên liệu thành nhiệt năng.  
+ 
+D. nội năng của nhiên liệu thành cơ năng. 
+ 
+Hướng dẫn giải 
+Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến nội năng của nhiên liệu thành cơ năng. 
+ 
+Câu 39. Hình bên dưới là sơ đồ thí nghiệm của Joule, thí nghiệm này có thể minh họa cho định luật I của nhiệt 
+động lực học. Khi hai vật nặng chuyển động làm cho trục quay quay, kéo theo các cánh cản quay, dẫn đến nước 
+trong bình có nhiệt độ tăng lên. Bỏ qua quá trình trao đổi nhiệt với thiết bị và môi trường xung quanh. Như vậy, 
+nước trong bình 
+ 
+A. nhận công, nội năng của nó tăng. 
+ 
+B. nhận công, nội năng của nó giảm. 
+C. thực hiện công, nội năng của nó giảm. 
+ 
+D. thực hiện công, nội năng của nó không thay đổi. 
+Hướng dẫn giải 
+Nước trong bình đang nhận công do lực cánh cản gây ra và nội năng của nước tăng. 
+Câu 40. Hình bên dưới mô tả máy hơi nước hay động cơ hơi nước, nó gồm ba bộ phận chính: 1 là nồi súp de, 2 
+là cylinder và piston, 3 là bình ngưng hơi. Tại bình ngưng hơi, hơi nước sẽ tỏa nhiệt và bắt đầu quá trình ngưng 
+tụ, vậy bình ngưng hơi có tác dụng 
+
+---PAGE---
+ 
+ 
+14 
+ 
+A. nhận nhiệt. 
+ 
+B. sinh công. 
+C. tỏa nhiệt. 
+ 
+ 
+D. nhận công. 
+Hướng dẫn giải 
+Khi máy hơi nước hoạt động, nước trong nồi súp de nhận nhiệt, sôi và hóa hơi, hơi nước thực hiện công lên piston 
+làm piston chuyển động tịnh tiến trong cylinder, chuyển động thẳng của piston được chuyển thành chuyển động 
+quay để quay bánh xe hay truyền động cho các bộ phận cơ khí khác. Bình ngưng hơi là nơi để hơi nước ngưng tụ 
+thành nước, như vậy bình ngưng hơi nhận nhiệt. 
+Câu 41. Trong các động cơ sau đây, động cơ nào là động cơ nhiệt? 
+ 
+ 
+         
+ 
+A. Động cơ máy quạt ( Hình 1 ). 
+B. Động cơ xe lửa ( Hình 2 ). 
+C. Quẹt diêm làm đầu que diêm bốc cháy ( Hình 3 ). 
+D. Lốp xe nóng lên khi xe phanh gấp ( Hình 4 ). 
+ 
+Hướng dẫn giải 
+Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến đổi nội năng của nhiên liệu thành cơ năng. Động 
+cơ xe lửa là động cơ nhiệt. 
+ 
+Câu 42. Trong các động cơ sau, động cơ nào không phải là động cơ nhiệt? 
+ 
+ 
+
+---PAGE---
+ 
+ 
+15 
+A. Động cơ xe máy chạy bằng xăng ( Hình 1 ). 
+B. Động cơ thuyền ( Hình 2 ). 
+C. Động cơ máy bay ( Hình 3 ). 
+D. Động cơ của máy phát điện tại nhà máy thủy điện ( Hình 4 ). 
+Hướng dẫn giải 
+Động cơ nhiệt là động cơ hoạt động dựa trên nguyên tắc biến đổi nội năng của nhiên liệu thành cơ năng. Động 
+cơ của máy phát điện tại các nhà máy thủy điện hoạt động dựa trên quá trình chuyển hóa năng lượng từ cơ năng 
+thành điện năng. 
+Câu 43. Khi thực hiện một quá trình kín (còn gọi là chu trình) thì nội năng của khối khí 
+A. tăng lên. 
+B. giảm đi. 
+ 
+C. không đổi.  
+ 
+D. giảm rồi lại tăng. 
+Hướng dẫn giải 
+Trong một chu trình, nội năng của khối khí sẽ không thay đổi. Toàn bộ phần nhiệt lượng mà khối khí nhận từ môi 
+trường sẽ chuyển thành công thực hiện ra bên ngoài. 
+ 
+b)  CÂU HỎI ĐỊNH LƯỢNG 
+ 
+Câu 44. Một hệ nhận công 200 J và tỏa ra nhiệt lượng 100 J thì độ biến thiên nội năng của hệ bằng 
+A. 300 J. 
+ 
+ 
+B. 100 J. 
+ 
+ 
+C. – 100 J. 
+ 
+ 
+D. – 300 J. 
+Hướng dẫn giải 
+Hệ nhận công (A > 0) và tỏa nhiệt (Q < 0), vì vậy: A = 200 J; Q = – 100 J; 
+Độ biến thiên nội năng của hệ: ∆U = Q + A = (−100) + 200 = 100 J. 
+Câu 45 (Đề thi thử tốt nghiệp THPT Nguyễn Khuyến, Lê Thánh Tông – TP.HCM năm 2025). Người ta thực 
+hiện công 1200J để nén khí trong cylinder. Khí truyền ra bên ngoài nhiệt lượng 800 J. Độ biến thiên nội năng của 
+khí là  
+ A. 1000 J.  
+ 
+ 
+B. 400 J.  
+ 
+ 
+C. 300 J.  
+ 
+ 
+D. 600 J. 
+Hướng dẫn giải 
+Khí nhận công từ người (A > 0) và tỏa nhiệt (Q < 0), vì vậy: A = 1200 J; Q = – 800 J; 
+Độ biến thiên nội năng của khí: ∆U = Q + A = (−800) + 1200 = 140 J. 
+Câu 46 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Người ta cung cấp nhiệt lượng 500 J cho một lượng 
+khí trong cylinder, khí thực hiện một công 200 J để đẩy piston lên. Nội năng của khí  
+ A. tăng 300 J.  
+ 
+B. giảm 700 J.  
+ 
+C. giảm 300 J.  
+ 
+D. tăng 700 J. 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = – 200 J; Q =  500 J; 
+Độ biến thiên nội năng của hệ: ∆U = Q + A = 500 + (−200) = 300 J. 
+Câu 47 (Đề thi thử tốt nghiệp Sở Bình Dương năm 2025). Một khối khí được chứa trong một cylinder. Một 
+người thực hiện công 80 J làm không khí trong cylinder nén lại. Khi đó khí nóng lên và tỏa ra môi trường nhiệt 
+lượng 50 J. Độ biến thiên nội năng của khối khí là  
+ A. – 130 J.  
+ 
+ 
+B. 130 J.  
+ 
+ 
+C. –  30 J.  
+ 
+ 
+D. 30 J. 
+Hướng dẫn giải 
+Khí nhận công từ người (A > 0) và tỏa nhiệt (Q < 0), vì vậy: A = 80 J; Q = – 50 J; 
+Độ biến thiên nội năng của khí: ∆U = Q + A = (−50) + 80 = 30 J. 
+ 
+
+---PAGE---
+ 
+ 
+16 
+Câu 48 (Đề thi thử tốt nghiệp Sở Bình Phước năm 2025). Truyền cho khối khí trong cylinder một nhiệt lượng 
+100 J, khối khí nở ra và sinh một công 70 J đẩy piston lên. Nội năng của khối khí trong cylinder  
+ A. giảm 30 J.   
+ 
+B. tăng 30 J.   
+ 
+C. tăng 170 J.   
+ 
+D. không đổi. 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = – 70 J; Q =  100 J; 
+Độ biến thiên nội năng của hệ: ∆U = Q + A = 100 + (−70) = 30 J. 
+Câu 49 (Đề thi thử tốt nghiệp Sở Hà Nội năm 2025). Một lượng khí được truyền nhiệt lượng 10 kJ để nóng lên, 
+đồng thời bị nén bởi một công có độ lớn 100 kJ. Độ biến thiên nội năng của lượng khí này là 
+A. 10 kJ. 
+ 
+ 
+B. 100 J. 
+ 
+ 
+C. 90 kJ. 
+ 
+ 
+D. 110 kJ. 
+Hướng dẫn giải 
+Khí nhận công do được nén (A > 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = 100 kJ; Q =  10 kJ; 
+Độ biến thiên nội năng của hệ: ∆U = Q + A = 10 + 100 = 110 kJ. 
+Câu 50. Trong một quá trình nén khí thì khí nhận công 1,2.105 J và nội năng khí tăng thêm 8.104 J. Lượng khí 
+này đã 
+A. tỏa nhiệt 2.105 J. 
+ 
+B. tỏa nhiệt 4.104 J. 
+ 
+C. nhận nhiệt 4.104 J.  
+D. nhận nhiệt 2.105 J. 
+Hướng dẫn giải 
+Khí nhận công do được nén (A > 0) và nội năng tăng ( ∆U > 0), vì vậy: A = 1,2.105 J; ∆U =  8.104 J; 
+Nhiệt lượng: ∆U = Q + A ⟹Q = ∆U −A = 8.10) + 1,2.10! = −4.10) J. Vậy lượng khí này tỏa một lượng 
+nhiệt có độ lớn 4.104 J. 
+Câu 51. Một chất khí tỏa nhiệt lượng 400 J và nội năng tăng thêm 600 J. Chất khí này đã 
+A. nhận công 1000 J.  
+ 
+ 
+B. nhận công 200 J. 
+ 
+ 
+C. thực hiện công 200 J. 
+ 
+ 
+D. thực hiện công 1000 J. 
+Hướng dẫn giải 
+Khí tỏa nhiệt (Q < 0) và nội năng tăng ( ∆U > 0), vì vậy: Q = – 400 J; ∆U =  600 J; 
+Công: ∆U = Q + A ⟹A = ∆U −Q = 600 −(−400) = 1000 J. Vậy lượng khí này nhận công có độ lớn 1000J. 
+Câu 52. Cung cấp nhiệt lượng 1,5 J cho một khối khí trong một cylinder đặt nằm ngang. Chất khí nở ra, đẩy piston 
+đi một đoạn 5 cm. Biết lực ma sát giữa piston và cylinder có độ lớn 20 N và coi piston chuyển động thẳng đều. Độ 
+biến thiên nội năng của khối khí bằng 
+A. 2,5 J. 
+ 
+ 
+B. 0,5 J. 
+ 
+ 
+C. – 0,5 J. 
+ 
+ 
+D. – 2,5 J. 
+Hướng dẫn giải 
+Cung cấp nhiệt lượng cho khối khí ⟹ Khối khí nhận nhiệt lượng: Q = 1,5 J; 
+Khí đẩy piston ⟹ Khí sinh công: 𝐴< 0. Độ lớn công của khí: |A| = F. d = 20 × 0,05 = 1 J ⟹A = − 1 J 
+Độ biến thiên nội năng của khối khí: ∆U = Q + A = 1,5 + (−1) = 0,5 J. 
+Câu 53. Cung cấp nhiệt lượng 800 J cho một khối khí trong cylinder hình trụ thì khí giãn nở đẩy piston làm thể tích 
+của khối khí tăng thêm 0,75 lít. Biết áp suất của khối khí là 2.105 Pa và không đổi trong quá trình giãn nở. Nội năng 
+của khối khí trong quá trình này 
+A. tăng thêm 1600 J.  
+B. tăng thêm 650 J. 
+ 
+C. giảm đi 1600 J. 
+ 
+D. giảm đi 400 J. 
+Hướng dẫn giải 
+Cung cấp nhiệt lượng cho khối khí ⟹ Khối khí nhận nhiệt lượng: Q = 800 J; 
+Khí giãn nở đẩy piston ⟹ khí đang thực hiện công: A < 0. Độ lớn công mà khí nhận: |A| = F. d = p. S. d =
+p. ∆V = 2.10! × 0,75.10"# = 150 J ⟹A = −150 J; 
+
+---PAGE---
+ 
+ 
+17 
+Độ biến thiên nội năng của khối khí: ∆U = Q + A = 800 + (−150) = 650 J > 0. Vậy nội năng của khí tăng 
+thêm 650 J. 
+Câu 54. Một vật có khối lượng 3 kg trượt không vận tốc ban đầu từ đỉnh xuống chân một mặt phẳng dài 4 m, 
+nghiêng 30° so với mặt nằm ngang. Tốc độ của vật ở chân mặt phẳng là 4 m/s. Lấy g = 10 m/s2 và bỏ qua sự trao 
+đổi nhiệt với mặt phẳng nghiêng và môi trường. Nội năng của vật trong quá trình này 
+A. tăng thêm 36 J. 
+ 
+B. tăng thêm 18 J. 
+ 
+C. giảm đi 18 J. 
+ 
+D. giảm đi 36 J. 
+Hướng dẫn giải 
+Chọn gốc thế năng tại chân dốc, ta xét cơ năng của vật tại đỉnh dốc (vị trí 1) và chân dốc (vị trí 2): 
+W$ = W*! = mgh$ = mgl. sin 30° ; 
+W& = Wđ" = 1
+2 mv&
+&; 
+Độ biến thiên cơ năng chính bằng công của lực không thế (lực ma sát): 
+W& −W$ = A+%& ⟹A+%& = 1
+2 mv&
+& −mgl. sin 30° = 1
+2 × 3 × 4& −3 × 10 × 4 × sin 30° = −36 J. 
+Vật nhận công của lực ma sát (A > 0) và không nhận thêm nhiệt lượng (Q = 0). Vậy ∆U = A = dA+%&d = 36 J. 
+Câu 55. Một quả bóng có khối lượng 500g rơi từ độ cao 10 m xuống sân và nảy lên được 7 m. Lấy g = 10 m/s2 
+và bỏ qua lực cản không khí. Độ biến thiên nội năng của quả bóng là 
+ 
+A. 350 J. 
+ 
+ 
+B. 50 J. 
+ 
+ 
+C. 35 J. 
+ 
+ 
+D. 15 J. 
+Hướng dẫn giải 
+Độ lớn công của ngoại lực tác dụng lên quả bóng trong quá trình va chạm với mặt đất chính bằng độ biến thiên 
+nội năng của quả bóng, do bóng nhận công và không nhận nhiệt lượng nên  ∆U = A = |A+| > 0. Công của ngoại 
+lực tác dụng lên quả bóng chính bằng độ biến thiên cơ năng của quả bóng: 
+∆U = |A+| = dW*! −W*"d = |mgh$ −mgh&| = |0,5 × 10 × (10 −7)| = 15 J 
+ 
+ 
+
+---PAGE---
+ 
+ 
+18 
+2. CÂU TRẮC NGHIỆM ĐÚNG SAI 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về nội năng của một vật. 
+Phát biểu 
+Đúng 
+Sai 
+a) Nội năng của vật bằng tổng đại số công và nhiệt lượng mà vật nhận được. 
+ 
+S 
+b) Nội năng của một vật phụ thuộc vào thể tích và nhiệt độ của vật. 
+Đ 
+ 
+c) Hai vật A và B được có cùng chất liệu. Nếu nội năng của vật A lớn hơn vật B thì nhiệt độ 
+của vật A cũng lớn hơn vật B. 
+ 
+S 
+d) Có hai cách làm thay đổi nội năng của một vật là thực hiện công và truyền nhiệt. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Nội năng của vật bằng tổng động năng và thế năng của các phân tử cấu tạo nên vật. 
+b) ĐÚNG 
+Nội năng của một vật phụ thuộc vào thể tích và nhiệt độ của vật. 
+c) SAI 
+Nội năng của một vật phụ thuộc vào thể tích và nhiệt độ của vật. Ta chưa đủ dữ kiện để kết luận nội năng của vật 
+A lớn hơn vật B vì nội năng còn phụ thuộc vào thể tích của vật. 
+d) ĐÚNG 
+Có hai cách làm thay đổi nội năng của một vật là thực hiện công và truyền năng lượng nhiệt (truyền nhiệt). 
+Câu 2. Xác định tính đúng/sai của các phát biểu sau khi nói về nội năng của một vật. 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi vật thực hiện công và cách nhiệt với bên ngoài thì nội năng của vật tăng. 
+ 
+S 
+b) Khi vật truyền nhiệt cho vật khác thì nội năng của nó giảm. 
+Đ 
+ 
+c) Khi bơm xe đạp bằng bơm tay, ống bơm thường bị nóng lên, nội năng của ống bơm tăng 
+lên là do nhận nhiệt từ bên ngoài. 
+ 
+S 
+d) Số đo độ biến thiên nội năng trong quá trình truyền nhiệt gọi là nhiệt lượng. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Khi vật thực hiện công (A < 0) và cách nhiệt với bên ngoài (Q = 0), nội năng của một vật sẽ thay đổi một lượng 
+∆U = −A < 0. Nội năng của vật giảm. 
+b) ĐÚNG 
+Khi vật truyền nhiệt (tỏa nhiệt) (Q < 0), nội năng của một vật sẽ thay đổi một lượng ∆U = −Q < 0. Nội năng 
+của vật giảm. 
+c) SAI 
+Khi bơm xe đạp, hệ ống bơm và khí bên trong ống nóng lên do quá trình nhận công từ bên ngoài. 
+d) ĐÚNG 
+Nhiệt lượng là số đo nhiệt năng (hay số đo biến thiên nội năng) được truyền từ vật này sang vật khác trong quá 
+trình truyền nhiệt. 
+Câu 3 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Một nhóm học sinh đã chuẩn bị các dụng cụ: Ống nghiệm 
+(1), nút bấc có kích thước vừa khít với miệng ống nghiệm (2), đèn cồn (3), giá đỡ thí nghiệm (4) và các điều kiện 
+cần thiết khác để làm thí nghiệm tìm hiểu về mối liên hệ giữa nội năng của một khối khí với năng lượng của các 
+phân tử khí. Bố trí thí nghiệm như hình bên, sau đó dùng đèn cồn hơ nóng ống nghiệm cho đến khi nút bấc bật ra 
+khỏi miệng ống nghiệm. 
+
+---PAGE---
+ 
+ 
+19 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi nút bấc chưa bật ra, nhiệt độ không khí trong bình không thay đổi. 
+ 
+S 
+b) Nút bấc bật ra chứng tỏ động năng của các phân tử không khí trong ống nghiệm tăng lên 
+khi được hơ nóng. 
+Đ 
+ 
+c) Nhiệt lượng không khí trong ống nghiệm nhận được từ ngọn lửa đèn cồn chuyển hoàn toàn 
+thành công mà khí thực hiện để làm nút bấc bật ra ngoài. 
+ 
+S 
+d) Khi nút bấc chưa bật ra, nội năng của không khí trong ống nghiệm tăng. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Khi hơ dưới ngọn lửa đèn cồn thì nhiệt độ của khối khí bên trong đã thay đổi nhưng nút bấc chưa bật ra bởi vì 
+áp suất sinh ra chưa đủ lớn để bật được nút bấc ra ngoài. 
+b) ĐÚNG 
+Nhiệt độ tăng, các phân tử chuyển động nhanh hơn dẫn đến động năng của phân tử tăng. 
+c) SAI 
+Nhiệt lượng mà khí trong bình nhận được một phần làm tăng nội năng của khối khí, một phần chuyển thành công 
+mà khí thực hiện để làm nút bấc bật ra ngoài. 
+d) ĐÚNG 
+Khi vật nhận nhiệt (Q > 0) và chưa thực hiện công, nội năng của một vật sẽ thay đổi một lượng ∆U = Q > 0. 
+Nội năng của vật tăng. 
+Câu 4 (phát triển câu hỏi đề thi thử tốt nghiệp THPT Vĩnh Kim – Kiên Giang năm 2025). Hình vẽ bên dưới 
+thể hiện hai cách làm thay đổi nội năng của một vật đó là dùng tay cọ xát miếng đồng trên mặt bàn (hình 1) và 
+cho nước sôi vào trong cốc có sẵn miếng đồng ở nhiệt độ phòng (hình 2). 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Hình 1 mô tả quá trình làm thay đổi nội năng của miếng đồng bằng cách truyền nhiệt. 
+ 
+S 
+b) Hình 2 mô tả quá trình làm thay đổi nội năng của miếng đồng bằng cách thực hiện công. 
+ 
+S 
+c) Trong hình 1, có sự chuyển hóa năng lượng từ dạng năng lượng khác sang nội năng. 
+Đ 
+ 
+d) Trong hình 2, không có sự chuyển hóa năng lượng từ dạng này sang dạng khác. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Hình 1 mô tả quá trình làm thay đổi nội năng của miếng đồng bằng cách thực hiện công. 
+
+---PAGE---
+ 
+ 
+20 
+b) SAI 
+Hình 2 mô tả quá trình làm thay đổi nội năng của miếng đồng bằng cách truyền nhiệt. 
+c) ĐÚNG 
+Trong quá trình thực hiện công, có sự chuyển hóa từ một dạng năng lượng khác sang nội năng. 
+d) ĐÚNG 
+Trong quá trình truyền nhiệt, không có sự chuyển hóa các dạng năng lượng khác sang nội năng. 
+Câu 5 (Đề minh họa THPTQG năm 2025). Một nhóm học sinh tìm hiểu về mối liên hệ giữa sự thay đổi nội năng 
+của một khối khí xác định và nhiệt độ của nó. Họ đã thực hiện các nội dung sau: (I) Chuẩn bị các dụng cụ: cylinder 
+có piston và cảm biến nhiệt độ (hình vẽ); (II) Họ cho rằng khi làm thay đổi nội năng của khối khí trong cylinder 
+bằng cách tăng, giảm thể tích thì nhiệt độ của khối khí thay đổi; (III) Họ đã làm thí nghiệm nén khối khí trong 
+cylinder và thu được kết quả là nhiệt độ khối khí tăng lên; (IV) Họ kết luận rằng thí nghiệm này đã chứng minh 
+được nội dung ở (II). 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nội dung (I) thể hiện việc thực hiện một phần kế hoạch nghiên cứu. 
+Đ 
+ 
+b) Nội dung (II) là giả thuyết của nhóm học sinh. 
+Đ 
+ 
+c) Nội dung (III) là đủ để đưa ra kết luận (IV). 
+ 
+S 
+d) Trong thí nghiệm ở nội dung (III), nội năng của khối khí tăng lên là do khối khí đã nhận 
+công 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Nội dung (I) liên quan đến quá trình chuẩn bị dụng cụ thể hiện một phần trong tiến trình nghiên cứu, kiểm chứng. 
+b) ĐÚNG 
+Nội dung (II) là nhận định của nhóm học sinh chưa được kiểm chứng nên chính là giả thuyết của nhóm học sinh. 
+c) SAI 
+Nội dung (III) chưa đủ để đưa ra kết luận (IV) vì chỉ thực hiện nén khối khí và chưa xét đến trường hợp làm giãn 
+khối khí. 
+d) ĐÚNG 
+Trong nội dung (III), khối khí đang nhận công nên nội năng của khối khí tăng. 
+Câu 6. Một nhóm học sinh tìm hiểu về mối liên hệ giữa sự thay đổi nội năng của một khối khí xác định và nhiệt 
+độ của nó bằng bộ thí nghiệm như hình bên dưới. Họ cho rằng khi làm thay đổi thể tích của khối khí trong cylinder 
+thì nhiệt độ khối khí thay đổi. 
+
+---PAGE---
+ 
+ 
+21 
+ 
+ 
+ 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Họ thực hiện thí nghiệm theo trình tự: (1) Đọc số chỉ của cảm biến nhiệt độ; (2) Điều chỉnh 
+piston để thay đổi thể tích của khối khí; (3) Đọc số chỉ của cảm biến nhiệt độ; (4). Thực hiện 
+lặp lại nhiều lần các bước trên. 
+Đ 
+ 
+b) Trong quá trình nén, khối khí trong cylinder đang thực hiện công. 
+ 
+S 
+c) Nhận thấy khi nén khí, nhiệt độ khối khí trong cylinder tăng. Điều này đã đủ để kết luận nhận 
+định của họ là chính xác. 
+ 
+S 
+d) Khi piston nén khí, một phần công bị tiêu hao do ma sát giữa piston và thành cylinder. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Trình tự thí nghiệm: (1) Đọc số chỉ của cảm biến nhiệt độ; (2) Điều chỉnh piston để thay đổi thể tích của khối 
+khí; (3) Đọc số chỉ của cảm biến nhiệt độ; (4). Thực hiện lặp lại nhiều lần các bước trên. 
+b) SAI 
+Trong quá trình nén, khối khí trong cylinder nhận công.  
+c) SAI 
+Chỉ thực hiện quá trình nén khí là chưa đủ để đưa ra kết luận vì chưa xét đến trường hợp làm giãn khối khí. 
+d) ĐÚNG 
+Trong quá trình nén khí, một phần công bị tiêu hao do công cản của lực ma sát trong quá trình piston di chuyển 
+trong cylinder. 
+Câu 7. Xét khối khí đựng trong một cylinder như trong hình. Dùng tay ấn mạnh và nhanh piston, vừa nung nóng 
+bằng ngọn lửa đèn cồn. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Công A < 0 vì khối khí đang bị nén.    
+ 
+S 
+
+---PAGE---
+ 
+ 
+22 
+b) Nhiệt lượng Q > 0 do khí nhận nhiệt lượng từ đèn cồn.  
+Đ 
+ 
+c) Ta chưa thể kết luận nội năng của khối khí tăng hay giảm vì chưa đủ dữ kiện. 
+ 
+S 
+d) Nội năng của khối khí trong trường hợp trên thay đổi là do động năng của các phân tử khí 
+thay đổi và thế năng phân tử không đổi.   
+ 
+S 
+Hướng dẫn giải 
+a) SAI 
+Khối khí bị nén tức là khối khí nhận công: A > 0. 
+b) ĐÚNG 
+Khối khí đang nhận nhiệt do quá trình nung nóng bằng đèn cồn Q > 0. 
+c) SAI 
+Khối khí nhận nhiệt (Q > 0) và nhận công (A > 0) nên biểu thức ∆U = A + Q > 0. Nội năng của khối khí tăng. 
+d) SAI 
+Trong trường hợp trên, ta vừa đun nóng và vừa nén khí. Khi ta đun nóng khối khí, các phân tử chuyển động nhanh 
+hơn làm thay đổi động năng phân tử . Khi ta nén khí, thể tích của khối khí giảm làm thay đổi thế năng phân tử. 
+Câu 8 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Khi truyền nhiệt lượng Q cho khối khí trong cylinder 
+hình trụ thì khí giãn nở đẩy piston làm thể tích của khối khí tăng thêm 7,0 lít. Biết áp suất của khối khí là 3,0.105 Pa 
+và không đổi trong quá trình khí giãn nở. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Truyền nhiệt lượng Q cho khối khí nên 
+. 
+ 
+S 
+b) Thể tích khí trong cylinder là 7,0 lít. 
+ 
+S 
+c) Độ lớn công mà khối khí thực hiện là 2100 J. 
+Đ 
+ 
+d) Nếu trong quá trình này nội năng của khối khí giảm đi 1100 J thì Q = 1,0.103 J. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Truyền nhiệt lượng Q cho khối khí nên Q > 0. 
+b) SAI 
+Thể tích của khối khí tăng thêm 7,0 lít. 
+c) ĐÚNG 
+Công mà khối khí thực hiện có độ lớn: |A| = p. ∆V = 3.10! × 7.10"# = 2100 J. 
+d) ĐÚNG 
+Khí đang thực hiện công (A < 0) và nội năng giảm ( ∆U < 0), vì vậy: A = – 2100 J; ∆U =  –  1100 J; 
+Nhiệt lượng: ∆U = Q + A ⟹Q = ∆U −A = (−1100) −(−2100) = 1.10# J. Vậy lượng khí này nhận một 
+lượng nhiệt có độ lớn 1.103 J. 
+Câu 9. Một lượng khí chứa trong một cylinder có piston di chuyển được. Ở trạng thái cân bằng, chất khí chiếm 
+thể tích V (m3) và tác dụng lên piston một áp suất 4.105 N/m2. Khối khí nhận một nhiệt lượng 800 J và giãn nở 
+đẩy piston lên làm thể tích khí tăng thêm 3 lít. Coi rằng áp suất chất khí không đổi trong suốt quá trình khảo sát. 
+!
+"
+<
+
+---PAGE---
+ 
+ 
+23 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Lượng khí bên trong cylinder đang nhận nhiệt và sinh công. 
+Đ 
+ 
+b) Theo quy ước về dấu thì Q = – 800 J. 
+ 
+S 
+c) Công mà khối khí thực hiện có độ lớn bằng 1200 J. 
+Đ 
+ 
+d) Độ biến thiên nội năng của khối khí bằng – 400 J. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Khối khí đang nhận nhiệt và sinh công (đẩy piston lên). 
+b) SAI 
+Theo quy ước về dấu thì Q = 800 J. 
+c) ĐÚNG 
+Công mà khối khí thực hiện có độ lớn: |A| = p. ∆V = 4.10! × 3.10"# = 1200 J. 
+d) ĐÚNG 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = – 1200 J; Q =  800 J; 
+Độ biến thiên nội năng của hệ: ∆U = Q + A = 800 + (−1200) = −400 J. 
+Câu 10. Một cylinder có piston cách nhiệt và nằm ngang. Piston chia cylinder thành hai phần. Truyền nhiệt lượng 
+100 J cho khí bên ngăn A thì piston chuyển động đều một đoạn d = 0,2 m về phía ngăn B. Biết lực ma sát giữa 
+cylinder và piston là 20 N và bỏ qua sự trao đổi nhiệt với môi trường xung quanh. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Độ biến thiên nội năng ở ngăn A là 104 J. 
+ 
+S 
+b) Độ biến thiên nội năng ở ngăn B là 4 J. 
+Đ 
+ 
+c) Tổng độ biến thiên nội năng cả ngăn A và ngăn B là 100 J. 
+Đ 
+ 
+d) Độ biến thiên nội năng ở ngăn A bé hơn ở ngăn B. 
+ 
+S 
+Hướng dẫn giải 
+a) SAI 
+Khí trong ngăn A nhận nhiệt lượng QA = 100 J và thực hiện công đẩy piston: A, = −F. d = −20 × 0,2 = −4 J. 
+Vậy độ biến thiên nội năng của khí trong ngăn A: ∆U, = A, + Q, = (−4) + 100 = 96 J. 
+b) ĐÚNG 
+Khí ở ngăn B không nhận nhiệt lượng QB = 0 J và nhận công do khí A đẩy piston: A- = |A,| = 4 J. 
+Vậy độ biến thiên nội năng của khí trong ngăn B: ∆U- = A- + Q- = 4 J. 
+c) ĐÚNG 
+
+---PAGE---
+ 
+ 
+24 
+ ∆U = ∆U, + ∆U- = 96 + 4 = 100 J. 
+d) SAI 
+Câu 11 (Đề thi thử tốt nghiệp THPT Lương Thế Vinh – Hà Nội năm 2025). Người ta thực hiện công 800 J để 
+nén khí trong cylinder thì khí truyền ra môi trường xung quanh nhiệt lượng 300 J. 
+Phát biểu 
+Đúng 
+Sai 
+a) Nội năng của khí trong cylinder là tổng động năng và thế năng của các phân tử khí. 
+Đ 
+ 
+b) Áp suất của khối khí trong cylinder không thay đổi. 
+ 
+S 
+c) Khí trong cylinder nhận công A = – 800 J. 
+ 
+S 
+d) Độ biến thiên nội năng của khí trong cylinder là 500 J. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Nội năng của khí trong cylinder là tổng động năng và thế năng của các phân tử khí. 
+b) SAI 
+Đề bài nói nén khí không biết áp suất có thay đổi hay không. 
+c) SAI 
+Khí trong cylinder nhận công A =  800 J. 
+d) ĐÚNG 
+∆U = Q + A = (−300) + 800 = 500 J. 
+Câu 12 (Đề thi thử tốt nghiệp THPT Hậu Lộc 1 – Thanh Hóa năm 2025). Người ta truyền cho khí trong cylinder 
+một nhiệt lượng 300 J. Khí nở ra và thực hiện công 240 J đẩy piston lên. 
+Phát biểu 
+Đúng 
+Sai 
+a) Khối khí trong cylinder nhật nhiệt lượng là một lượng bằng 
+ 
+Đ 
+ 
+b) Khối khí thực hiện công nên A < 0 và có giá trị là – 240 J. 
+Đ 
+ 
+c) Biểu thức nguyên lí I nhiệt động lực học trong trường hợp này là Q = A −∆U. 
+ 
+S 
+d) Độ biến thiên nội năng của khí có giá trị là 60 J. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Người ta truyền cho khí trong cylinder một nhiệt lượng 300 J, tức khối khí trong cylinder nhật nhiệt lượng là một 
+lượng bằng 300 J. 
+b) ĐÚNG 
+Khối khí nở ra và thực hiện công A = – 240 J. 
+c) SAI 
+Biểu thức nguyên lí I nhiệt động lực học trong trường hợp này là ∆U = Q + A. 
+d) ĐÚNG 
+∆U = Q + A = 300 + (−240) = 60 J. 
+Câu 13. Một động cơ nhiệt hoạt động giữa hai nguồn nhiệt có nhiệt độ T1 và T2 (như hình vẽ). Động cơ nhận 
+nhiệt lượng Q1 = 4000 J từ nguồn nóng trong mỗi giây, công suất của động cơ là 1,5 kW. 
+!""#$%
+
+---PAGE---
+ 
+ 
+25 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt độ của nguồn nóng lớn hơn nhiệt độ của nguồn lạnh. 
+Đ 
+ 
+b) Công của động cơ trong mỗi phút là 1,5 kJ.  
+ 
+S 
+c) Nhiệt lượng tỏa ra cho nguồn lạnh trong mỗi giây là 2,5 kJ. 
+Đ 
+ 
+d) Hiệu suất của động cơ này là 40,0%. 
+ 
+S 
+Hướng dẫn giải 
+a) ĐÚNG 
+Nhiệt lượng nhận từ nguồn nóng một phần chuyển hóa thành công của động cơ, một phần tỏa ra ở nguồn lạnh. 
+Vì vậy Q$ > Q& ⟹T$ > T&. 
+b) SAI 
+Công của động cơ trong mỗi phút: 
+A = P. t = 1500 × 60 = 90000 J = 90 kJ. 
+c) ĐÚNG 
+Nhiệt lượng tỏa ra cho nguồn lạnh trong mỗi giây: 
+Q$ = A + Q& ⟹Q& = Q$ −A = 4000 −(1500 × 1) = 2500 J = 2,5 kJ. 
+d) SAI 
+Hiệu suất của động cơ: 
+H = A
+Q$
+. 100% = 1500
+4000 × 100% = 37,5%. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+26 
+3. CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN 
+Câu 1. Người ta cung cấp một nhiệt lượng 4,0 J cho chất khí đựng trong cylinder đặt nằm ngang. Khí nở ra đẩy 
+piston chuyển động đều một đoạn 4 cm. Biết lực ma sát giữa piston và cylinder có độ lớn 15 N. Độ biến thiên nội 
+năng của chất khí này bằng bao nhiêu J? 
+ 
+Đáp số: 
+3 
+, 
+4 
+ 
+ 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = −F. d = −15 × 0,04 = − 0,6 J; Q = 4,0 J; 
+Độ biến thiên nội năng của khí: ∆U = Q + A = 4,0 + (−0,6) = 3,4 J. 
+Câu 2 (Đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Một khối khí được cung cấp nhiệt 
+lượng 4,98 kJ, khí giãn nở làm tăng thể tích một lượng ΔV (dm3). Trong quá trình này, nội năng của khối khí tăng 
+1,23 kJ nhưng áp suất của khối khí không đổi và bằng p = 2,5.105 Pa. Giá trị của ΔV là bao nhiêu dm3? 
+Đáp số: 
+1 
+5 
+ 
+ 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = −p. ∆V; Q = 4,98.10# J; 
+Độ biến thiên nội năng của khí:  
+∆U = Q + A ⟺1,23.10# = 4,98.10# + (−2,5.10! × ∆V) ⟹∆V = 0,015 m# = 15 dm#. 
+Câu 3 (Đề thi thử tốt nghiệp cụm các trường THPT – Bắc Ninh năm 2025). Khi trời lạnh cơ thể chúng ta dễ bị 
+mất nhiệt lượng vào môi trường. Sự mất nhiệt lượng này sẽ dẫn đến các hệ quả như cơ thể bị run rẩy, kiệt sức. 
+Trong một trận bóng đá ngoài trời vào ngày lạnh, một cầu thủ bắt đầu cảm thấy kiệt sức sau khi tiêu hao khoảng 
+8.105 J nội năng. Biết nhiệt lượng do cơ thể cầu thủ truyền ra môi trường là 4,2.105 J. Tổng công mà cầu thủ này 
+đã thực hiện có độ lớn bằng bao nhiêu MJ? 
+Đáp số: 
+0 
+, 
+3 
+8 
+Hướng dẫn giải 
+Độ biến thiên nội năng của cầu thủ:  
+∆U = Q + A ⟹A = ∆U −Q = (−8.10!) −(−4,2.10!) = −3,8.10!J ⟹|A| = 3,8.10!J = 0,38 MJ. 
+Câu 4. Một lượng khí bị nén đã nhận được công là 180 kJ. Khí nóng lên và đã toả nhiệt lượng là 97 kJ ra môi 
+trường. Độ biến thiên nội năng của lượng khí bằng bao nhiêu kJ? 
+Đáp số: 
+8 
+3 
+ 
+ 
+Hướng dẫn giải 
+Độ biến thiên nội năng của khí:  
+∆U = Q + A = (−97) + 180 = 83 kJ. 
+Sử dụng các thông tin sau cho câu 5 và câu 6: Cung cấp một nhiệt lượng 3,5 J cho chất khí đựng trong một 
+cylinder đặt nằm ngang. Khí nở ra đẩy piston đi một đoạn 8 cm. Biết lực ma sát giữa piston và cylinder có độ lớn 
+20 N, coi piston chuyển động thẳng đều. 
+
+---PAGE---
+ 
+ 
+27 
+ 
+Câu 5. Độ lớn công của khối khí thực hiện bằng bao nhiêu J? (Làm tròn đến chữ số thập phân thứ nhất) 
+Đáp số: 
+1 
+, 
+6 
+ 
+Hướng dẫn giải 
+Công mà khối khí thực hiện: |A| = F. d = 20 × 0,08 = 1,6 J. 
+Câu 6. Độ biến thiên nội năng của khối khí bằng bao nhiêu J? 
+Đáp số: 
+1 
+, 
+9 
+ 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = − 1,6 J; Q = 3,5 J; 
+Độ biến thiên nội năng của khí: ∆U = Q + A = 3,5 + (−1,6) = 1,9 J. 
+Câu 7 (Đề thi thử tốt nghiệp THPT Nguyễn Khuyến Lê Thánh Tông – Bắc Ninh năm 2025). Một hệ kín nhận 
+200 kJ năng lượng nhiệt ở thể tích không đổi. Sau đó, nó giải phóng 100 kJ năng lượng nhiệt đồng thời thực hiện 
+một công 50 kJ ở áp suất không đổi. Nội năng của hệ biến thiên một lượng bao nhiêu kJ ? (kết quả làm tròn đến 
+hàng đơn vị) 
+Đáp số: 
+5 
+0 
+ 
+ 
+Hướng dẫn giải 
+Độ biến thiên nội năng của hệ: ∆U = Q./ậ. + Q*ỏ2 + A = 200 + (−100) + (−50) = 50 kJ. 
+Câu 8. Một viên đạn chì khối lượng m = 10 g có vận tốc giảm từ v1 = 400 m/s xuống v2 = 200 m/s khi xuyên qua 
+một tấm ván. Biết rằng chỉ có 80% công mà viên đạn sinh ra khi xuyên qua tấm ván chuyển thành nhiệt Q tỏa ra 
+môi trường. Độ lớn của Q bằng bao nhiêu J? 
+ 
+Đáp số: 
+4 
+8 
+0 
+ 
+Hướng dẫn giải 
+Công mà viên đạn nhận được chính bằng độ lớn công của lực cản. Áp dụng định lí động năng: 
+A = dA+'d = l1
+2 mv&
+& −1
+2 mv$
+&l = l1
+2 × 0,01 × (200& −400&)l = 600 J. 
+Nhiệt lượng mà viên đạn tỏa ra môi trường: 
+|Q| = |80%. A| = 0,8 × 600 = 480 J. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+28 
+4. TỰ LUẬN 
+Câu 1 (Sách Vật lí 12 CTST): Hơ nóng một khối khí trong ống nghiệm có nút đậy kín (hình 1) và kết quả (hình 
+2). Vận dụng mô hình động học phân tử, hãy giải thích hiện tượng nút bị đẩy bật ra khỏi ống trong hình bên dưới. 
+ 
+Hướng dẫn giải 
+Khi ta hơ nóng ống nghiệm, khối khí bên trong ống bị nóng lên. Nhiệt độ khối khí tăng lên dẫn đến nội năng của 
+khối khí tăng. Theo mô hình động học phân tử, khi nhiệt độ khối khi tăng tức là các phân tử khí chuyển động 
+nhanh hơn. Điều này dẫn đến các phân tử khí va chạm với thành bình nhiều và mạnh hơn dẫn đến áp suất khí 
+trong ống tăng lên. Đến một nhiệt độ nào đó, lực đẩy do áp suất tạo ra đủ lớn và làm bật nút đậy ra khỏi ống 
+nghiệm. 
+Câu 2 (phát triển câu hỏi sách Vật lí 12 CTST). Hiện nay, kính cường lực (kính chịu lực rất tốt) thường được 
+sử dụng để làm một phần tường của các toàn nhà, chung cư thương mại,… thay thế vật liệu gạch, bê tông. Tuy 
+nhiên, vào những ngày mùa hè, nếu bước vào những căn phòng có tường làm bằng kính cường lực bị đóng kín, 
+ta thường thấy không khí trong phòng nóng hơn so với bên ngoài. Tại sao lại có hiện tượng này? 
+ 
+Hướng dẫn giải 
+Do mặt trời chiếu sáng, không khí trong phòng nhận nhiệt lượng Q (Q > 0). Do phòng đóng kín nên thể tích khí 
+không đổi dẫn đến khí không sinh công (A = 0). Theo định luật I nhiệt đông lực học: ∆U = Q + A = Q > 0, nội 
+năng của không khí trong phòng tăng làm cho nhiệt độ trong phòng tăng, trong phòng nóng hơn ngoài trời. 
+ 
+Câu 3 (câu hỏi SBT Vật lí 12 CTST). So sánh sự giống và khác nhau của hai cách làm thay đổi nội năng của vật. 
+Hướng dẫn giải 
+ 
+Thực hiện công 
+Truyền nhiệt 
+Giống nhau 
+Đều làm thay đổi nội năng của vật 
+Khác nhau 
+Là hình thức làm thay đổi nội năng của vật 
+thông qua tác dụng lực lên vật, làm cho vật 
+đó dịch chuyển 
+Là hình thức làm thay đổi nội năng của vật 
+khi cho vật tiếp xúc với vật khác có nhiệt độ 
+chênh lệch với vật đó. 
+ 
+Có sự chuyển hóa từ dạng năng lượng khác 
+(cơ năng) thành nội năng. 
+Không có sự chuyển hóa năng lượng từ dạng 
+này sang dạng khác mà chỉ có sự truyền nội 
+năng từ vật này sang vật khác. 
+
+---PAGE---
+ 
+ 
+29 
+ 
+ 
+Câu 4. Vận dụng Định luật I nhiệt động lực học, giải thích tại sao khi tập thể dục giúp ta giảm cân? 
+ 
+Hướng dẫn giải 
+Cơ thể chúng ta được xem như một hệ nhiệt động lực học. Khi bạn tập thể dục, cơ thể bạn sẽ thực hiện công A < 
+0 (chẳng hạn như việc cơ thể thực hiện công để nâng toàn bộ cơ thể bạn lên khi bạn chống đẩy). Ngoài ra, cơ thể 
+bạn cũng ấm lên trong khi tập thể dục và cơ thể tự giải phóng lượng nhiệt này thông qua mồ hôi và một số cách 
+khác, do đó Q < 0. Vì Q âm và A âm nên độ biến thiên nội năng ∆𝑈= 𝑄 + 𝐴< 0 và năng lượng bên trong cơ 
+thể giảm. Đó là lý do tại sao tập thể dục giúp bạn giảm cân: Quá trình này sử dụng năng lượng chuyển hoá từ 
+chất béo (nhiên liệu trong cơ thể). 
+ 
+Câu 5. Người ta thực hiện công 900 J để nén khí trong một cylinder. Tính độ biến thiên nội năng của khối khí, 
+biết khí truyền ra môi trường xung quanh nhiệt lượng 530 J. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của khối khí: 
+∆U = Q + A = (−530) + 900 = 370 J. 
+Câu 6. Một lượng khí nhận nhiệt lượng 350 kJ do được đun nóng; đồng thời nhận công 400 kJ do bị nén. 
+a) Xác định độ tăng nội năng của lượng khí. 
+b) Xác định độ biến thiên nội năng của lượng khí trên nếu đồng thời với việc cung cấp nhiệt lượng 350 kJ, lượng 
+khí này giãn ra và thực hiện công 200 kJ lên môi trường xung quanh nó. 
+Hướng dẫn giải 
+a) Độ biến thiên nội năng của khối khí: 
+∆U = Q + A = 350 + 400 = 750 J. 
+b) Độ biến thiên nội năng của khối khí: 
+∆U = Q + A = 350 + (−200) = 150 J. 
+Câu 7 (SBT Vật lí 12 KNTT). Một động cơ hơi nước cần một nồi hơi “súp de” để đun nước sôi tạo hơi. Việc 
+giãn nở của hơi tạo áp lực đẩy lên piston hay các cánh turbine, khi đó chuyển động thẳng được chuyển thành 
+chuyển động quay để quay bánh xe hay truyền động cho các bộ phận khí khác. Để vận hành một động cơ hơi 
+nước có công suất 30 kW thì nồi hơi súp de cần liên tục nhận được nhiệt lượng bằng 40000 J mỗi giây. 
+ 
+a) Tính phần hao phí nhiệt lượng của nồi hơi súp de trong mỗi giây. 
+b) Người ta cung cấp nhiệt lượng cho nồi hơi súp de bằng việc đốt than đá, hiệu suất động cơ hơi nước này là 
+20%. Hãy tính công suất tỏa nhiệt ở lò than. 
+
+---PAGE---
+ 
+ 
+30 
+Hướng dẫn giải 
+a) Nhiệt lượng hao phí của nồi súp de trong mỗi giây:  
+Q/3 = Q*3 −A = 40000 −30000 × 1 = 10000 J. 
+b) Công suất tỏa nhiệt của lò than: 
+H = A
+Q*3
+=
+A
+P4ò. t ⟹P4ò = A
+H. t = 30000
+20% = 150000 J. 
+ 
+III – ĐỀ KIỂM TRA TỰ LUYỆN 
+ 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi 
+câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1. Phát biểu nào sau đây là đúng khi nói về nội năng của vật? Nội năng của một vật 
+A. bằng tổng động năng và thế năng của một phân tử cấu tạo nên vật. 
+B. bằng tổng động năng của các phân tử cấu tạo nên vật. 
+C. có đơn vị là Watt (W). 
+D. phụ thuộc vào nhiệt độ và thể tích của vật. 
+Câu 2. Khi hai vật có nhiệt độ khác nhau tiếp xúc với nhau thì xảy ra quá trình truyền nhiệt. Quá trình này làm 
+thay đổi  
+ A. trọng lượng của các vật.  
+ 
+ 
+B. nhiệt dung riêng của các vật.  
+ C. khối lượng của các vật. 
+ 
+ 
+ 
+D. nội năng của các vật.  
+Câu 3. ΔU là độ biến thiên nội năng của một vật, Q là nhiệt lượng vật trao đổi với môi trường, vật thực hiện 
+hoặc nhận một công A. Công thức nào sau đây là công thức tổng quát của nguyên lý I của nhiệt động lực học?  
+ A. ΔU = A.   
+ 
+B. ΔU = Q.  
+ 
+ 
+C. A + Q = 0.   
+ 
+D. ΔU = A + Q.  
+Câu 4. Khi cho muỗng inox vào cốc nước nóng (nhiệt độ cao hơn muỗng inox). Sau một thời gian thì nội năng 
+của muỗng inox 
+ 
+ A. và của nước đều tăng.   
+ 
+ 
+ 
+B. và của nước đều giảm.  
+ C. tăng, nội năng của nước giảm.  
+ 
+ 
+D. giảm, nội năng của nước tăng.  
+Câu 5.  Một bạn học sinh hơ nóng một đồng xu bằng đèn cồn, sau đó bỏ đồng xu vào một cốc nước đá đang 
+tan, trước khi trạng thái cân bằng nhiệt được thiết lập thì nội năng của đồng xu sẽ 
+
+---PAGE---
+ 
+ 
+31 
+ 
+  
+A. tăng lên rồi giảm đi.  
+ 
+B. giảm đi.  
+   
+ 
+C. tăng lên.  
+     
+ 
+D. không đổi. 
+Câu 6. Để dao được sắc nhọn người ta thường cọ xát lưỡi dao vào một tấm đá mài. Khi cọ xát thấy lưỡi dao nóng 
+dần lên, làm thay đổi nội năng của lưỡi dao. Phát biểu nào sau đây là đúng? 
+ 
+A. Trong quá trình trên, không có sự chuyển hoá năng năng lượng từ dạng này sang dạng khác.  
+B. Trong quá trình trên, có sự chuyển hoá năng lượng từ cơ năng sang nội năng. 
+C. Nội năng của lưỡi dao thay đổi bằng cách truyền nhiệt. 
+D. Nội năng của lưỡi tăng do nó thực hiện công. 
+Câu 7. Phát biểu nào sau đây nói về nhiệt lượng là không đúng? 
+A. Nhiệt lượng là số đo độ biến thiên nội năng của vật trong quá trình truyền nhiệt. 
+B. Một vật lúc nào cũng có nội năng nên lúc nào cũng có nhiệt lượng. 
+C. Đơn vị của nhiệt lượng cũng là đơn vị của nội năng. 
+D. Nhiệt lượng không phải là nội năng. 
+Câu 8. Truyền cho khối khí trong cylinder một nhiệt lượng Q, khối khí nở ra và thực hiện một công A để đẩy 
+piston đi một đoạn. Độ biến thiên nội năng của lượng khí trong cylinderlà ΔU = A + Q, với  
+ A. Q > 0; A < 0.  
+ 
+B. Q > 0; A > 0.  
+ 
+C. Q < 0; A < 0. 
+ 
+D. Q < 0; A > 0. 
+Câu 9. Nội năng của hệ sẽ thay đổi như thế nào nếu hệ nhận công và tỏa nhiệt? 
+A. Giảm đi. 
+ 
+ 
+B. Tăng lên. 
+ 
+ 
+C. Không đổi.  
+ 
+D. Chưa thể kết luận. 
+Câu 10. Trong các hiện tượng sau, hiện tượng nào không thuộc biến đổi nội năng bằng cách thực hiện công ? 
+ 
+A. Lưỡi cưa nóng lên trong khi cắt nền bê tông ( Hình 1 ).  
+B. Cơ thể em bé ấm lên khi phơi nắng vào buổi sáng ( Hình 2 ). 
+
+---PAGE---
+ 
+ 
+32 
+C. Lửa được tạo ra từ dụng cụ đánh lửa ( Hình 3 ). 
+D. Ống bơm nóng lên trong quá trình bơm ( Hình 4 ). 
+Câu 11. Người ta truyền cho khí trong cylinder nhiệt lượng 180 J. Khí nở ra thực hiện công 90 J đẩy piston lên. 
+Độ biến thiên nội năng của khí là  
+A. – 270 J. 
+B. – 90 J. 
+C. 90 J. 
+ D. 270 J. 
+Câu 12. Một hệ có nội năng ban đầu là 2800 J. Hệ nhận 1500 J nhiệt lượng và thực hiện công 1200 J ra môi 
+trường. Nội năng lúc sau của hệ có giá trị bằng 
+A. 100 J. 
+ 
+ 
+B. 3100 J. 
+ 
+ 
+C. 4300 J. 
+ 
+ 
+D. 5500 J. 
+PHẦN II. Câu trắc nghiệm đúng sai (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở 
+mỗi câu, thí sinh chọn đúng hoặc sai. 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về nội năng của một hệ. 
+ 
+ 
+ 
+Phát biểu 
+Đ 
+S 
+a) Nội năng là tổng động năng của các phân tử cấu tạo nên hệ. 
+ 
+ 
+b) Nội năng của hệ phụ thuộc vào nhiệt độ và thể tích của hệ. 
+ 
+ 
+c) Quá trình thực hiện công làm thay đổi nội năng của hệ có sự chuyển hoá từ dạng năng lượng 
+khác sang nội năng. 
+ 
+ 
+d) Quá trình truyền nhiệt làm thay đổi nội năng của hệ chỉ có sự truyền nội năng từ vật này sang 
+vật khác mà không có sự chuyển hoá năng lượng từ dạng này sang dạng khác. 
+ 
+ 
+Câu 2. Một nhóm học sinh đã chuẩn bị các dụng cụ: cylinder có piston và cảm biến nhiệt độ (hình vẽ). Họ dùng 
+piston nén khí trong cylinder thì thấy nhiệt độ của khí tăng lên. 
+ 
+Phát biểu 
+Đ 
+S 
+a) Nội năng của khối khí tăng lên do khối khí đã nhận công trong quá trình bị nén. 
+ 
+ 
+b) Nhiệt độ của khí tăng lên chứng tỏ khối khí đã nhận nhiệt lượng từ bên ngoài.   
+ 
+ 
+c) Thí nghiệm đủ để chứng minh có thể thay đổi nội năng của vật bằng cách thay đổi thể tích 
+của khối khí.  
+ 
+ 
+d) Toàn bộ công mà khối khí nhận được đều dùng để làm tăng nội năng cho khối khí. 
+ 
+ 
+ 
+PHẦN III. Câu trắc nghiệm trả lời ngắn (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng 
+được 0,5 điểm. 
+Sử dụng các thông tin sau cho câu 1 và câu 2: Cung cấp nhiệt lượng 1500 J cho một khối khí trong cylinder hình 
+trụ thì khí giãn nở đẩy piston làm thể tích của khối khí tăng thêm 2,5 lít. Biết áp suất của khối khí là 4.105 Pa và 
+không đổi trong quá trình giãn nở. 
+Câu 1. Công mà khối khí thực hiện có độ lớn bằng bao nhiêu J? 
+
+---PAGE---
+ 
+ 
+33 
+Câu 2. Độ biến thiên nội năng của khối khí có giá trị bằng bao nhiêu kJ? 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Một động cơ nhiệt hoạt động giữa hai nguồn nhiệt có nhiệt độ T1 
+và T2 (như hình vẽ). Động cơ nhận nhiệt lượng Q1 = 3 kJ từ nguồn nóng trong mỗi giây, công suất của động cơ là 
+1,2 kW. 
+ 
+Câu 3. Nhiệt lượng mà nguồn lạnh nhận được trong mỗi giây là bao nhiêu kJ? (làm tròn đến chữ số thập phân 
+thứ nhất). 
+Câu 4. Hiệu suất của động cơ này bằng bao nhiêu phần trăm (%)? 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm). Nêu các cách làm thay đổi nội năng của vật. Cho ví dụ minh họa. 
+Câu 2 (2,0 điểm). Cung cấp một nhiệt lượng 12 J cho chất khí đựng trong một cylinder đặt nằm ngang. Khí nở ra 
+đẩy cylinder đi một đoạn 12 cm. Biết lực ma sát giữa cylinder và piston có độ lớn 15 N, coi piston chuyển động 
+thẳng đều. 
+a) Tính độ lớn công của khối khí thực hiện. (1,0 điểm) 
+b) Tính độ biến thiên nội năng của khối khí. (1,0 điểm) 
+ 
+ 
+
+---PAGE---
+ 
+ 
+34 
+HƯỚNG DẪN GIẢI  
+ 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi 
+câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1. Phát biểu nào sau đây là đúng khi nói về nội năng của vật? Nội năng của một vật 
+A. bằng tổng động năng và thế năng của một phân tử cấu tạo nên vật. 
+B. bằng tổng động năng của các phân tử cấu tạo nên vật. 
+C. có đơn vị là Watt (W). 
+D. phụ thuộc vào nhiệt độ và thể tích của vật. 
+Hướng dẫn giải 
+Nội năng của một vật bằng tổng động năng và thế năng của các phân tử cấu tạo nên vật. Nội năng của một vật 
+phụ thuộc vào nhiệt độ T và thể tích V. 
+Câu 2. Khi hai vật có nhiệt độ khác nhau tiếp xúc với nhau thì xảy ra quá trình truyền nhiệt. Quá trình này làm 
+thay đổi  
+ A. trọng lượng của các vật.  
+ 
+ 
+B. nhiệt dung riêng của các vật.  
+ C. khối lượng của các vật. 
+ 
+ 
+ 
+D. nội năng của các vật.  
+Hướng dẫn giải 
+Quá trình truyền nhiệt làm thay đổi nội năng của các vật. 
+Câu 3. ΔU là độ biến thiên nội năng của một vật, Q là nhiệt lượng vật trao đổi với môi trường, vật thực hiện 
+hoặc nhận một công A. Công thức nào sau đây là công thức tổng quát của nguyên lý I của nhiệt động lực học?  
+ A. ΔU = A.   
+ 
+B. ΔU = Q.  
+ 
+ 
+C. A + Q = 0.   
+ 
+D. ΔU = A + Q.  
+Hướng dẫn giải 
+Độ biến thiên nội năng của hệ: ∆U = Q + A.  
+Câu 4. Khi cho muỗng inox vào cốc nước nóng (nhiệt độ cao hơn muỗng inox). Sau một thời gian thì nội năng 
+của muỗng inox 
+ 
+ A. và của nước đều tăng.   
+ 
+ 
+ 
+B. và của nước đều giảm.  
+ C. tăng, nội năng của nước giảm.  
+ 
+ 
+D. giảm, nội năng của nước tăng.  
+Hướng dẫn giải 
+Khi cho muỗng inox vào cốc nước nóng (nhiệt độ cao hơn muỗng inox).Có sự trao đổi nhiệt giữa muỗng inox và 
+cốc nước nóng, nước trong cốc tỏa nhiệt, muỗng inox thu nhiệt ⟹ Nội năng của muỗng inox tăng, nội năng của 
+nước giảm. 
+Câu 5.  Một bạn học sinh hơ nóng một đồng xu bằng đèn cồn, sau đó bỏ đồng xu vào một cốc nước đá đang 
+tan, trước khi trạng thái cân bằng nhiệt được thiết lập thì nội năng của đồng xu sẽ 
+
+---PAGE---
+ 
+ 
+35 
+ 
+ A. tăng lên rồi giảm đi.  
+ 
+B. giảm đi.  
+   
+ 
+C. tăng lên.  
+     
+ 
+D. không đổi. 
+Hướng dẫn giải 
+Khi cho đồng xu ở nhiệt độ cao vào cốc nước đá, đồng xu sẽ tỏa nhiệt. Nội năng của đồng xu giảm. 
+Câu 6. Để dao được sắc nhọn người ta thường cọ xát lưỡi dao vào một tấm đá mài. Khi cọ xát thấy lưỡi dao nóng 
+dần lên, làm thay đổi nội năng của lưỡi dao. Phát biểu nào sau đây là đúng? 
+ 
+A. Trong quá trình trên, không có sự chuyển hoá năng năng lượng từ dạng này sang dạng khác.  
+B. Trong quá trình trên, có sự chuyển hoá năng lượng từ cơ năng sang nội năng. 
+C. Nội năng của lưỡi dao thay đổi bằng cách truyền nhiệt. 
+D. Nội năng của lưỡi tăng do nó thực hiện công. 
+Hướng dẫn giải 
+Khi mài dao, lưỡi dao đang nhận công từ quá trình mài. Khi này có sự chuyển hóa năng lượng từ dạng khác (cơ 
+năng) sang nội năng. 
+Câu 7. Phát biểu nào sau đây nói về nhiệt lượng là không đúng? 
+A. Nhiệt lượng là số đo độ biến thiên nội năng của vật trong quá trình truyền nhiệt. 
+B. Một vật lúc nào cũng có nội năng nên lúc nào cũng có nhiệt lượng. 
+C. Đơn vị của nhiệt lượng cũng là đơn vị của nội năng. 
+D. Nhiệt lượng không phải là nội năng. 
+Hướng dẫn giải 
+Nhiệt lượng là số đo độ biến thiên nội năng của vật trong quá trình truyền nhiệt. Một vật lúc nào cũng có nội 
+năng nhưng không tham gia vào quá trình truyền nhiệt thì nội năng không biến đổi nên không có nhiệt lượng 
+được nhận thêm hay mất đi. 
+Câu 8. Truyền cho khối khí trong cylinder một nhiệt lượng Q, khối khí nở ra và thực hiện một công A để đẩy 
+piston đi một đoạn. Độ biến thiên nội năng của lượng khí trong cylinderlà ΔU = A + Q, với  
+ A. Q > 0; A < 0.  
+ 
+B. Q > 0; A > 0.  
+ 
+C. Q < 0; A < 0. 
+ 
+D. Q < 0; A > 0. 
+Hướng dẫn giải 
+Khối khí nhận nhiệt Q > 0 và thực hiện công A < 0. 
+Câu 9. Nội năng của hệ sẽ thay đổi như thế nào nếu hệ nhận công và tỏa nhiệt? 
+A. Giảm đi. 
+ 
+ 
+B. Tăng lên. 
+ 
+ 
+C. Không đổi.  
+ 
+D. Chưa thể kết luận. 
+Hướng dẫn giải 
+Hệ tỏa nhiệt (Q < 0) và nhận công (A > 0) nên biểu thức ∆U = A + Q chưa xác định được dấu. 
+Câu 10. Trong các hiện tượng sau, hiện tượng nào không thuộc biến đổi nội năng bằng cách thực hiện công ? 
+
+---PAGE---
+ 
+ 
+36 
+ 
+A. Lưỡi cưa nóng lên trong khi cắt nền bê tông ( Hình 1 ).  
+B. Cơ thể em bé ấm lên khi phơi nắng vào buổi sáng ( Hình 2 ). 
+C. Lửa được tạo ra từ dụng cụ đánh lửa ( Hình 3 ). 
+D. Ống bơm nóng lên trong quá trình bơm ( Hình 4 ). 
+Hướng dẫn giải 
+Cơ thể em bé ấm lên là do quá trình truyền nhiệt, làm nội năng của em bé tăng. 
+Câu 11. Người ta truyền cho khí trong cylinder nhiệt lượng 180 J. Khí nở ra thực hiện công 90 J đẩy piston lên. 
+Độ biến thiên nội năng của khí là  
+A. – 270 J. 
+B. – 90 J. 
+C. 90 J. 
+ D. 270 J. 
+Hướng dẫn giải 
+Khí thực hiện công (A < 0) và nhận nhiệt lượng  (Q > 0), vì vậy: A = – 90 J; Q =  180 J; 
+Độ biến thiên nội năng của khí: ∆U = Q + A = 180 + (−90) = 90 J. 
+Câu 12. Một hệ có nội năng ban đầu là 2800 J. Hệ nhận 1500 J nhiệt lượng và thực hiện công 1200 J ra môi 
+trường. Nội năng lúc sau của hệ có giá trị bằng 
+A. 100 J. 
+ 
+ 
+B. 3100 J. 
+ 
+ 
+C. 4300 J. 
+ 
+ 
+D. 5500 J. 
+Hướng dẫn giải 
+Độ biến thiên nội năng của khí:  
+∆U = Q + A ⇔U6 −Uđ = Q + A ⟹U6 = Q + A + Uđ = 1500 + (−1200) + 2800 = 3100 J.  
+ 
+PHẦN II. Câu trắc nghiệm đúng sai (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở 
+mỗi câu, thí sinh chọn đúng hoặc sai. 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về nội năng của một hệ. 
+Phát biểu 
+Đ 
+S 
+a) Nội năng là tổng động năng của các phân tử cấu tạo nên hệ. 
+ 
+S 
+b) Nội năng của hệ phụ thuộc vào nhiệt độ và thể tích của hệ. 
+Đ 
+ 
+c) Quá trình thực hiện công làm thay đổi nội năng của hệ có sự chuyển hoá từ dạng năng lượng 
+khác sang nội năng. 
+Đ 
+ 
+d) Quá trình truyền nhiệt làm thay đổi nội năng của hệ chỉ có sự truyền nội năng từ vật này sang 
+vật khác mà không có sự chuyển hoá năng lượng từ dạng này sang dạng khác. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Nội năng là tổng động năng và thế năng của các phân tử cấu tạo nên hệ. 
+b) ĐÚNG 
+Nội năng của hệ phụ thuộc vào nhiệt độ và thể tích của hệ. 
+
+---PAGE---
+ 
+ 
+37 
+c) ĐÚNG 
+Quá trình thực hiện công làm thay đổi nội năng của hệ có sự chuyển hoá từ dạng năng lượng khác sang nội năng. 
+d) ĐÚNG 
+Quá trình truyền nhiệt làm thay đổi nội năng của hệ chỉ có sự truyền nội năng từ vật này sang vật khác mà không 
+có sự chuyển hoá năng lượng từ dạng này sang dạng khác. 
+ 
+ 
+Câu 2. Một nhóm học sinh đã chuẩn bị các dụng cụ: cylinder có piston và cảm biến nhiệt độ (hình vẽ). Họ dùng 
+piston nén khí trong cylinder thì thấy nhiệt độ của khí tăng lên. 
+ 
+Phát biểu 
+Đ 
+S 
+a) Nội năng của khối khí tăng lên do khối khí đã nhận công trong quá trình bị nén. 
+Đ 
+ 
+b) Nhiệt độ của khí tăng lên chứng tỏ khối khí đã nhận nhiệt lượng từ bên ngoài.   
+ 
+S 
+c) Thí nghiệm đủ để chứng minh có thể thay đổi nội năng của vật bằng cách thay đổi thể tích 
+của khối khí.  
+ 
+S 
+d) Toàn bộ công mà khối khí nhận được đều dùng để làm tăng nội năng cho khối khí. 
+ 
+S 
+Hướng dẫn giải 
+a) ĐÚNG 
+Khối khí nhận công từ bên ngoài làm cho nội năng của khối khí tăng. 
+b) SAI 
+Khối khí nhận công, nội năng của khối khí tăng dẫn đến nhiệt độ của khối khí tăng. 
+c) SAI 
+Cần khảo sát thêm trường hợp giãn nở khối khí. 
+d) SAI 
+Công mà khối khí nhận được một phần làm tăng nội năng, một phần tỏa ra môi trường. 
+ 
+PHẦN III. Câu trắc nghiệm trả lời ngắn (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng 
+được 0,5 điểm. 
+Sử dụng các thông tin sau cho câu 1 và câu 2: Cung cấp nhiệt lượng 1500 J cho một khối khí trong cylinder hình 
+trụ thì khí giãn nở đẩy piston làm thể tích của khối khí tăng thêm 2,5 lít. Biết áp suất của khối khí là 4.105 Pa và 
+không đổi trong quá trình giãn nở. 
+Câu 1. Công mà khối khí thực hiện có độ lớn bằng bao nhiêu J? 
+Đáp số: 
+1 
+0 
+0 
+0 
+Hướng dẫn giải 
+Công mà khối khí thực hiện có độ lớn: 
+|A| = p. ∆V = 4.10! × 2,5.10"# = 1000 J. 
+Câu 2. Độ biến thiên nội năng của khối khí có giá trị bằng bao nhiêu kJ? 
+Đáp số: 
+0 
+, 
+5 
+ 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+ 
+38 
+Độ biến thiên nội năng của khí: ∆U = Q + A = 1500 + (−1000) = 500 J = 0,5 kJ. 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Một động cơ nhiệt hoạt động giữa hai nguồn nhiệt có nhiệt độ T1 
+và T2 (như hình vẽ). Động cơ nhận nhiệt lượng Q1 = 3 kJ từ nguồn nóng trong mỗi giây, công suất của động cơ là 
+1,2 kW. 
+ 
+Câu 3. Nhiệt lượng mà nguồn lạnh nhận được trong mỗi giây là bao nhiêu kJ? (làm tròn đến chữ số thập phân 
+thứ nhất). 
+Đáp số: 
+1 
+, 
+8 
+ 
+Hướng dẫn giải 
+Mỗi giây, động cơ thực hiện được một công: A = P. t = 1200 J = 1,2 kJ; 
+Nhiệt lượng mà nguồn lạnh nhận được trong mỗi giây: Q& = Q$ −A = 3 = 1,2 = 1,8 kJ. 
+Câu 4. Hiệu suất của động cơ này bằng bao nhiêu phần trăm (%)? 
+Đáp số: 
+4 
+0 
+ 
+ 
+Hướng dẫn giải 
+Hiệu suất của động cơ: 
+H = A
+Q$
+= 1,2
+3 × 100% = 40%. 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm). Nêu các cách làm thay đổi nội năng của vật. Cho ví dụ minh họa. 
+Hướng dẫn giải 
+ 
+Hướng dẫn giải 
+Điểm 
+ 
+Có hai cách làm thay đổi nội năng của vật: Thực hiện công và truyền năng lượng nhiệt. 
++ Ví dụ về thực hiện công: Cọ xát miếng kim loại lên mặt sàn; nén khối khí trong cylinder;… 
++ Ví dụ về truyền nhiệt: Đun nóng nước trong nồi; thả miếng kim loại vào cốc nước nóng;… 
+0,5 đ 
+0,25đ 
+0,25đ 
+ 
+Câu 2 (2,0 điểm). Cung cấp một nhiệt lượng 12 J cho chất khí đựng trong một cylinder đặt nằm ngang. Khí nở ra 
+đẩy cylinder đi một đoạn 12 cm. Biết lực ma sát giữa cylinder và piston có độ lớn 15 N, coi piston chuyển động 
+thẳng đều. 
+a) Tính độ lớn công của khối khí thực hiện. (1,0 điểm) 
+b) Tính độ biến thiên nội năng của khối khí. (1,0 điểm) 
+Hướng dẫn giải 
+ 
+Hướng dẫn giải 
+Điểm 
+a 
+Độ lớn công của khối khí thực hiện: 
+|A| = F. d = 15 × 0,12 = 1,8 J. 
+1,0 đ 
+b 
+Độ biến thiên nội năng của khối khí:  
+∆U = Q + A = 12 + (−1,8) = 10,2 J. 
+1,0 đ 
+
+---PAGE---
+ 
+ 
+39 
+ 
+ 
+
+---PAGE---

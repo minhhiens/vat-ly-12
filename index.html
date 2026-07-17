@@ -3,552 +3,338 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Ôn tập Vật Lý 12 - Bài 1: Cấu trúc của chất & Sự chuyển thể | Chương trình GDPT 2018">
-    <title>📚 Vật Lý 12 — Bài 1: Cấu trúc của chất & Sự chuyển thể</title>
+    <meta name="description" content="Ôn tập Vật Lý 12 — Chương 1: Vật Lý Nhiệt. 467 câu trắc nghiệm có đáp án và giải thích chi tiết.">
+    <title>📚 Vật Lý 12 — Chương 1: Vật Lý Nhiệt</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 </head>
 <body>
-    <!-- Floating Particles Background -->
-    <div class="particles" id="particles" aria-hidden="true"></div>
-
-    <!-- Reading Progress Bar -->
-    <div class="reading-progress" id="readingProgress" aria-hidden="true"></div>
-
-    <!-- Navigation -->
-    <nav class="nav" id="mainNav">
-        <div class="nav-inner">
-            <a href="#top" class="nav-logo">
-                <span class="nav-logo-icon">⚛️</span>
-                <span class="nav-logo-text">Vật Lý 12</span>
-            </a>
-            <div class="nav-links" id="navLinks">
-                <a href="#lessons" class="nav-link">📖 Lý Thuyết</a>
-                <a href="#formulas" class="nav-link">📋 Công Thức</a>
-                <a href="#quiz" class="nav-link nav-link-quiz">✍️ Trắc Nghiệm</a>
-            </div>
-            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
-                <span></span><span></span><span></span>
-            </button>
+    <!-- ═══════════════════════════════════════ -->
+    <!-- NAVBAR                                  -->
+    <!-- ═══════════════════════════════════════ -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-brand">
+            <span class="nav-icon">⚛️</span>
+            <span class="nav-title">Vật Lý 12</span>
         </div>
+        <div class="nav-links">
+            <a href="#" class="nav-link active" data-section="home" id="nav-home">🏠 Tổng quan</a>
+            <a href="#" class="nav-link" data-section="lessons" id="nav-lessons">📖 Bài giảng</a>
+            <a href="#" class="nav-link" data-section="quiz-select" id="nav-quiz">📝 Trắc nghiệm</a>
+            <a href="#" class="nav-link" data-section="progress" id="nav-progress">📊 Tiến trình</a>
+        </div>
+        <button class="nav-menu-btn" id="nav-menu-btn" aria-label="Menu">☰</button>
     </nav>
 
-    <!-- Hero Section -->
-    <header class="hero" id="top">
-        <div class="hero-content">
-            <div class="hero-badge">Chương trình GDPT 2018 • Lớp 12 • Chương 1</div>
-            <h1 class="hero-title">
-                <span class="hero-title-line1">Bài 1</span>
-                <span class="hero-title-line2">Cấu Trúc Của Chất & Sự Chuyển Thể</span>
-            </h1>
-            <p class="hero-subtitle">Tổng hợp lý thuyết trọng tâm + 20 câu trắc nghiệm theo 4 mức độ: Nhận biết → Thông hiểu → Vận dụng → Vận dụng cao</p>
-            <div class="hero-actions">
-                <a href="#lessons" class="btn btn-primary">
-                    <span>📖</span> Học Lý Thuyết
-                </a>
-                <a href="#quiz" class="btn btn-secondary">
-                    <span>✍️</span> Làm Trắc Nghiệm
-                </a>
-            </div>
-            <div class="hero-stats">
-                <div class="hero-stat">
-                    <div class="hero-stat-number">4</div>
-                    <div class="hero-stat-label">Phần Lý Thuyết</div>
-                </div>
-                <div class="hero-stat">
-                    <div class="hero-stat-number">20</div>
-                    <div class="hero-stat-label">Câu Trắc Nghiệm</div>
-                </div>
-                <div class="hero-stat">
-                    <div class="hero-stat-number">4</div>
-                    <div class="hero-stat-label">Mức Độ</div>
-                </div>
-            </div>
+    <!-- ═══════════════════════════════════════ -->
+    <!-- MOBILE NAV OVERLAY                      -->
+    <!-- ═══════════════════════════════════════ -->
+    <div class="mobile-nav-overlay" id="mobile-nav-overlay">
+        <div class="mobile-nav-menu">
+            <a href="#" class="mobile-nav-link" data-section="home">🏠 Tổng quan</a>
+            <a href="#" class="mobile-nav-link" data-section="lessons">📖 Bài giảng</a>
+            <a href="#" class="mobile-nav-link" data-section="quiz-select">📝 Trắc nghiệm</a>
+            <a href="#" class="mobile-nav-link" data-section="progress">📊 Tiến trình</a>
         </div>
-    </header>
+    </div>
 
-    <!-- Main Content -->
-    <main>
-        <!-- Lessons Section -->
-        <section class="section" id="lessons">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">📖 Lý Thuyết Trọng Tâm</h2>
-                    <p class="section-desc">Nhấn vào từng phần để mở rộng. Nắm chắc lý thuyết trước khi làm trắc nghiệm!</p>
-                </div>
-
-                <!-- Part 1: Mô hình động học phân tử -->
-                <div class="lesson-card" data-lesson="1">
-                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson1-content">
-                        <div class="lesson-number">I</div>
-                        <div class="lesson-info">
-                            <h3 class="lesson-title">Mô Hình Động Học Phân Tử</h3>
-                            <p class="lesson-subtitle">Thuyết động học phân tử về cấu tạo chất</p>
-                        </div>
-                        <div class="lesson-toggle">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </div>
-                    </button>
-                    <div class="lesson-content" id="lesson1-content">
-                        <div class="lesson-body">
-                            <div class="concept-card concept-highlight">
-                                <div class="concept-icon">📌</div>
-                                <div class="concept-text">
-                                    <strong>Nội dung chính:</strong> Thuyết động học phân tử giải thích cấu tạo và tính chất của các chất dựa trên sự chuyển động và tương tác của các phân tử, nguyên tử.
-                                </div>
-                            </div>
-
-                            <h4>3 luận điểm cơ bản của thuyết:</h4>
-                            <div class="key-points">
-                                <div class="key-point">
-                                    <div class="key-point-num">1</div>
-                                    <div class="key-point-content">
-                                        <strong>Vật chất được cấu tạo từ các hạt riêng biệt (phân tử, nguyên tử)</strong>
-                                        <p>Giữa các phân tử có khoảng cách. Kích thước phân tử cỡ 10⁻¹⁰ m (angstrom).</p>
-                                    </div>
-                                </div>
-                                <div class="key-point">
-                                    <div class="key-point-num">2</div>
-                                    <div class="key-point-content">
-                                        <strong>Các phân tử chuyển động không ngừng — gọi là chuyển động nhiệt</strong>
-                                        <p>Chuyển động nhiệt càng nhanh khi nhiệt độ càng cao. Đây là bản chất vi mô của nhiệt độ.</p>
-                                    </div>
-                                </div>
-                                <div class="key-point">
-                                    <div class="key-point-num">3</div>
-                                    <div class="key-point-content">
-                                        <strong>Giữa các phân tử có lực tương tác: lực hút và lực đẩy</strong>
-                                        <p>Khi khoảng cách phân tử <strong>lớn</strong> → lực hút chiếm ưu thế. Khi khoảng cách <strong>nhỏ</strong> → lực đẩy chiếm ưu thế. Tại khoảng cách cân bằng r₀: lực hút = lực đẩy.</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="concept-card concept-warning">
-                                <div class="concept-icon">⚠️</div>
-                                <div class="concept-text">
-                                    <strong>Chuyển động Brown:</strong> Hiện tượng các hạt phấn hoa chuyển động hỗn loạn trong nước (Robert Brown, 1827). Đây là <strong>bằng chứng thực nghiệm</strong> cho sự tồn tại của chuyển động nhiệt phân tử. Lưu ý: chuyển động Brown là chuyển động của <strong>hạt phấn hoa</strong> (không phải phân tử nước).
-                                </div>
-                            </div>
-
-                            <h4>Hiện tượng khuếch tán:</h4>
-                            <div class="concept-card">
-                                <div class="concept-icon">🔬</div>
-                                <div class="concept-text">
-                                    <strong>Khuếch tán</strong> là hiện tượng các chất tự hòa trộn vào nhau do chuyển động nhiệt của phân tử.<br>
-                                    • Xảy ra ở cả 3 thể: rắn, lỏng, khí<br>
-                                    • Nhiệt độ càng cao → khuếch tán càng nhanh<br>
-                                    • VD: Nhỏ mực vào nước, mùi nước hoa lan trong phòng
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Part 2: Ba thể của chất -->
-                <div class="lesson-card" data-lesson="2">
-                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson2-content">
-                        <div class="lesson-number">II</div>
-                        <div class="lesson-info">
-                            <h3 class="lesson-title">Ba Thể Của Chất</h3>
-                            <p class="lesson-subtitle">So sánh cấu trúc & tính chất thể rắn, lỏng, khí</p>
-                        </div>
-                        <div class="lesson-toggle">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </div>
-                    </button>
-                    <div class="lesson-content" id="lesson2-content">
-                        <div class="lesson-body">
-                            <h4>🧊💧💨 So sánh chi tiết 3 thể:</h4>
-                            <div class="comparison-table">
-                                <div class="comparison-col comparison-solid">
-                                    <div class="comparison-header">🧊 THỂ RẮN</div>
-                                    <div class="comparison-analogy">Cấu trúc trật tự</div>
-                                    <ul>
-                                        <li>Phân tử <strong>dao động</strong> quanh vị trí cân bằng <strong>cố định</strong></li>
-                                        <li>Khoảng cách phân tử: <strong>rất nhỏ</strong> (≈ kích thước phân tử)</li>
-                                        <li>Lực liên kết: <strong>rất mạnh</strong></li>
-                                        <li>Có <strong>hình dạng</strong> và <strong>thể tích</strong> xác định</li>
-                                    </ul>
-                                    <div class="comparison-example">Chất rắn kết tinh (muối, kim cương) & vô định hình (thủy tinh, nhựa)</div>
-                                </div>
-                                <div class="comparison-col comparison-liquid">
-                                    <div class="comparison-header">💧 THỂ LỎNG</div>
-                                    <div class="comparison-analogy">Trật tự gần</div>
-                                    <ul>
-                                        <li>Phân tử <strong>dao động</strong> quanh VTCB nhưng VTCB <strong>thay đổi</strong></li>
-                                        <li>Khoảng cách phân tử: <strong>lớn hơn</strong> thể rắn</li>
-                                        <li>Lực liên kết: <strong>yếu hơn</strong> thể rắn</li>
-                                        <li>Có <strong>thể tích</strong> xác định, <strong>không có</strong> hình dạng cố định</li>
-                                    </ul>
-                                    <div class="comparison-example">Mang hình dạng vật chứa. Có hiện tượng căng bề mặt, mao dẫn.</div>
-                                </div>
-                                <div class="comparison-col comparison-gas">
-                                    <div class="comparison-header">💨 THỂ KHÍ</div>
-                                    <div class="comparison-analogy">Hoàn toàn hỗn loạn</div>
-                                    <ul>
-                                        <li>Phân tử <strong>chuyển động tự do</strong>, hỗn loạn</li>
-                                        <li>Khoảng cách phân tử: <strong>rất lớn</strong> (>> kích thước phân tử)</li>
-                                        <li>Lực liên kết: <strong>rất yếu</strong> (gần = 0)</li>
-                                        <li><strong>Không có</strong> hình dạng, <strong>không có</strong> thể tích xác định</li>
-                                    </ul>
-                                    <div class="comparison-example">Chiếm toàn bộ thể tích bình chứa. Dễ nén, dễ giãn nở.</div>
-                                </div>
-                            </div>
-
-                            <div class="concept-card concept-highlight">
-                                <div class="concept-icon">💡</div>
-                                <div class="concept-text">
-                                    <strong>Mẹo nhớ thứ tự:</strong> Rắn → Lỏng → Khí: khoảng cách phân tử <strong>tăng dần</strong>, lực liên kết <strong>giảm dần</strong>, mức độ hỗn loạn <strong>tăng dần</strong>.
-                                </div>
-                            </div>
-
-                            <h4>Chất rắn kết tinh vs. Chất rắn vô định hình:</h4>
-                            <div class="two-cols">
-                                <div class="col-card col-heat">
-                                    <div class="col-card-icon">💎</div>
-                                    <h5>Rắn kết tinh</h5>
-                                    <p>Cấu trúc mạng tinh thể trật tự. Có nhiệt độ nóng chảy xác định.</p>
-                                    <div class="col-card-example">VD: Muối ăn, kim cương, đồng, sắt</div>
-                                </div>
-                                <div class="col-card col-work">
-                                    <div class="col-card-icon">🔮</div>
-                                    <h5>Rắn vô định hình</h5>
-                                    <p>Không có cấu trúc trật tự. Không có nhiệt độ nóng chảy xác định (mềm dần khi đun nóng).</p>
-                                    <div class="col-card-example">VD: Thủy tinh, nhựa, cao su, sáp nến</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Part 3: Sự chuyển thể -->
-                <div class="lesson-card" data-lesson="3">
-                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson3-content">
-                        <div class="lesson-number">III</div>
-                        <div class="lesson-info">
-                            <h3 class="lesson-title">Sự Chuyển Thể</h3>
-                            <p class="lesson-subtitle">6 quá trình chuyển thể và đặc điểm nhiệt học</p>
-                        </div>
-                        <div class="lesson-toggle">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </div>
-                    </button>
-                    <div class="lesson-content" id="lesson3-content">
-                        <div class="lesson-body">
-                            <h4>🔄 Sơ đồ chuyển thể:</h4>
-                            <div class="phase-diagram">
-                                <div class="phase phase-solid">🧊 RẮN</div>
-                                <div class="phase-arrow phase-arrow-right">
-                                    <span class="arrow-label">Nóng chảy</span>
-                                    <span class="arrow-icon">→</span>
-                                </div>
-                                <div class="phase phase-liquid">💧 LỎNG</div>
-                                <div class="phase-arrow phase-arrow-right">
-                                    <span class="arrow-label">Bay hơi / Sôi</span>
-                                    <span class="arrow-icon">→</span>
-                                </div>
-                                <div class="phase phase-gas">💨 KHÍ</div>
-                            </div>
-                            <div class="phase-diagram phase-diagram-reverse">
-                                <div class="phase phase-solid">🧊 RẮN</div>
-                                <div class="phase-arrow phase-arrow-left">
-                                    <span class="arrow-label">Đông đặc</span>
-                                    <span class="arrow-icon">←</span>
-                                </div>
-                                <div class="phase phase-liquid">💧 LỎNG</div>
-                                <div class="phase-arrow phase-arrow-left">
-                                    <span class="arrow-label">Ngưng tụ</span>
-                                    <span class="arrow-icon">←</span>
-                                </div>
-                                <div class="phase phase-gas">💨 KHÍ</div>
-                            </div>
-
-                            <h4>📋 Bảng tổng hợp 6 quá trình chuyển thể:</h4>
-                            <div class="info-table">
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Nóng chảy</div>
-                                    <div class="info-table-cell">Rắn → Lỏng</div>
-                                    <div class="info-table-cell info-table-example">Thu nhiệt • Nhiệt độ không đổi (chất kết tinh)</div>
-                                </div>
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Đông đặc</div>
-                                    <div class="info-table-cell">Lỏng → Rắn</div>
-                                    <div class="info-table-cell info-table-example">Tỏa nhiệt • Quá trình ngược của nóng chảy</div>
-                                </div>
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Bay hơi</div>
-                                    <div class="info-table-cell">Lỏng → Khí</div>
-                                    <div class="info-table-cell info-table-example">Thu nhiệt • Xảy ra ở mọi nhiệt độ, chỉ ở bề mặt</div>
-                                </div>
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Sôi</div>
-                                    <div class="info-table-cell">Lỏng → Khí</div>
-                                    <div class="info-table-cell info-table-example">Thu nhiệt • Xảy ra ở nhiệt độ sôi, trong lòng & trên bề mặt</div>
-                                </div>
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Ngưng tụ</div>
-                                    <div class="info-table-cell">Khí → Lỏng</div>
-                                    <div class="info-table-cell info-table-example">Tỏa nhiệt • Quá trình ngược của bay hơi</div>
-                                </div>
-                                <div class="info-table-row">
-                                    <div class="info-table-cell info-table-label">Thăng hoa</div>
-                                    <div class="info-table-cell">Rắn → Khí</div>
-                                    <div class="info-table-cell info-table-example">Thu nhiệt • Không qua thể lỏng (băng khô, long não)</div>
-                                </div>
-                            </div>
-
-                            <div class="concept-card concept-warning">
-                                <div class="concept-icon">⚠️</div>
-                                <div class="concept-text">
-                                    <strong>Điểm mấu chốt (thường ra đề thi):</strong><br>
-                                    • Trong quá trình nóng chảy/sôi của chất kết tinh: nhiệt độ <strong>KHÔNG ĐỔI</strong> dù vẫn cung cấp nhiệt.<br>
-                                    • Nhiệt lượng cung cấp được dùng để <strong>phá vỡ liên kết phân tử</strong>, chuyển đổi cấu trúc, không dùng để tăng nhiệt độ.<br>
-                                    • Bay hơi ≠ Sôi: Bay hơi xảy ra ở <strong>mọi nhiệt độ</strong>, chỉ ở bề mặt. Sôi xảy ra ở <strong>nhiệt độ sôi</strong>, trong toàn bộ khối chất lỏng.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Part 4: Nhiệt nóng chảy riêng & Nhiệt hóa hơi riêng -->
-                <div class="lesson-card" data-lesson="4">
-                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson4-content">
-                        <div class="lesson-number">IV</div>
-                        <div class="lesson-info">
-                            <h3 class="lesson-title">Nhiệt Nóng Chảy Riêng & Nhiệt Hóa Hơi Riêng</h3>
-                            <p class="lesson-subtitle">Công thức tính nhiệt lượng khi chuyển thể</p>
-                        </div>
-                        <div class="lesson-toggle">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
-                        </div>
-                    </button>
-                    <div class="lesson-content" id="lesson4-content">
-                        <div class="lesson-body">
-                            <h4>🫠 Nhiệt nóng chảy riêng (λ):</h4>
-                            <div class="concept-card concept-highlight">
-                                <div class="concept-icon">📌</div>
-                                <div class="concept-text">
-                                    <strong>Định nghĩa:</strong> Nhiệt nóng chảy riêng (λ) của một chất là nhiệt lượng cần cung cấp để làm nóng chảy hoàn toàn <strong>1 kg</strong> chất đó ở nhiệt độ nóng chảy. Đơn vị: J/kg.
-                                </div>
-                            </div>
-
-                            <div class="formula-box">
-                                <div class="formula-title">Công thức nhiệt nóng chảy</div>
-                                <div class="formula-main">Q = λ × m</div>
-                                <div class="formula-explain">
-                                    <p>• <strong>Q</strong>: Nhiệt lượng cần cung cấp (J)</p>
-                                    <p>• <strong>λ</strong> (lambda): Nhiệt nóng chảy riêng (J/kg)</p>
-                                    <p>• <strong>m</strong>: Khối lượng chất rắn cần nóng chảy (kg)</p>
-                                    <p>📌 Nước đá: λ = 3,34 × 10⁵ J/kg = 334 000 J/kg</p>
-                                </div>
-                            </div>
-
-                            <h4>💨 Nhiệt hóa hơi riêng (L):</h4>
-                            <div class="concept-card concept-highlight">
-                                <div class="concept-icon">📌</div>
-                                <div class="concept-text">
-                                    <strong>Định nghĩa:</strong> Nhiệt hóa hơi riêng (L) của một chất lỏng là nhiệt lượng cần cung cấp để làm bay hơi hoàn toàn <strong>1 kg</strong> chất lỏng đó ở nhiệt độ sôi. Đơn vị: J/kg.
-                                </div>
-                            </div>
-
-                            <div class="formula-box">
-                                <div class="formula-title">Công thức nhiệt hóa hơi</div>
-                                <div class="formula-main">Q = L × m</div>
-                                <div class="formula-explain">
-                                    <p>• <strong>Q</strong>: Nhiệt lượng cần cung cấp (J)</p>
-                                    <p>• <strong>L</strong>: Nhiệt hóa hơi riêng (J/kg)</p>
-                                    <p>• <strong>m</strong>: Khối lượng chất lỏng cần hóa hơi (kg)</p>
-                                    <p>📌 Nước: L = 2,26 × 10⁶ J/kg = 2 260 000 J/kg</p>
-                                </div>
-                            </div>
-
-                            <div class="concept-card concept-warning">
-                                <div class="concept-icon">⚠️</div>
-                                <div class="concept-text">
-                                    <strong>So sánh quan trọng:</strong><br>
-                                    • L (nhiệt hóa hơi) >> λ (nhiệt nóng chảy) → Giai đoạn sôi → hơi cần nhiệt lượng <strong>lớn nhất</strong><br>
-                                    • Quá trình ngược (đông đặc, ngưng tụ) sẽ <strong>tỏa ra</strong> lượng nhiệt tương ứng<br>
-                                    • Các công thức trên chỉ áp dụng khi vật đang ở <strong>nhiệt độ chuyển thể</strong>
-                                </div>
-                            </div>
-
-                            <div class="example-box">
-                                <div class="example-title">📝 Bài tập mẫu — Bài toán tổng hợp:</div>
-                                <p class="example-question"><strong>Đề:</strong> Tính tổng nhiệt lượng cần cung cấp để biến 0,5 kg nước đá ở 0°C thành hơi nước ở 100°C. Cho: λ = 3,34×10⁵ J/kg; c = 4200 J/(kg.K); L = 2,26×10⁶ J/kg.</p>
-                                <div class="example-steps">
-                                    <div class="example-step">
-                                        <div class="step-num">1</div>
-                                        <div class="step-content">Đá 0°C → Nước 0°C: Q₁ = λ.m = 3,34×10⁵ × 0,5 = <strong>167 000 J</strong></div>
-                                    </div>
-                                    <div class="example-step">
-                                        <div class="step-num">2</div>
-                                        <div class="step-content">Nước 0°C → Nước 100°C: Q₂ = m.c.ΔT = 0,5 × 4200 × 100 = <strong>210 000 J</strong></div>
-                                    </div>
-                                    <div class="example-step">
-                                        <div class="step-num">3</div>
-                                        <div class="step-content">Nước 100°C → Hơi 100°C: Q₃ = L.m = 2,26×10⁶ × 0,5 = <strong>1 130 000 J</strong></div>
-                                    </div>
-                                    <div class="example-step">
-                                        <div class="step-num">🎯</div>
-                                        <div class="step-content">Q = Q₁ + Q₂ + Q₃ = 167 000 + 210 000 + 1 130 000 = <strong>1 507 000 J ≈ 1507 kJ</strong></div>
-                                    </div>
-                                </div>
-                                <p class="experiment-result">→ Nhận xét: Q₃ >> Q₂ > Q₁. Giai đoạn hóa hơi tiêu tốn năng lượng lớn nhất!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Formulas Summary Section -->
-        <section class="section section-formulas" id="formulas">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">📋 Tổng Hợp Công Thức</h2>
-                    <p class="section-desc">Tất cả công thức cần nhớ của Bài 1</p>
-                </div>
-                <div class="formulas-grid">
-                    <div class="formula-card">
-                        <div class="formula-card-num">1</div>
-                        <div class="formula-card-formula">Q = λ × m</div>
-                        <div class="formula-card-name">Nhiệt nóng chảy</div>
-                        <div class="formula-card-when">Rắn ↔ Lỏng (tại nhiệt độ nóng chảy)</div>
-                    </div>
-                    <div class="formula-card">
-                        <div class="formula-card-num">2</div>
-                        <div class="formula-card-formula">Q = L × m</div>
-                        <div class="formula-card-name">Nhiệt hóa hơi</div>
-                        <div class="formula-card-when">Lỏng ↔ Khí (tại nhiệt độ sôi)</div>
-                    </div>
-                    <div class="formula-card">
-                        <div class="formula-card-num">3</div>
-                        <div class="formula-card-formula">Q = m × c × ΔT</div>
-                        <div class="formula-card-name">Nhiệt lượng (thay đổi nhiệt độ)</div>
-                        <div class="formula-card-when">Khi vật nóng lên/lạnh đi (không chuyển thể)</div>
-                    </div>
-                    <div class="formula-card">
-                        <div class="formula-card-num">4</div>
-                        <div class="formula-card-formula">T(K) = t(°C) + 273</div>
-                        <div class="formula-card-name">Đổi nhiệt độ</div>
-                        <div class="formula-card-when">Celsius ↔ Kelvin</div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Quiz Section -->
-        <section class="section section-quiz" id="quiz">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">✍️ Trắc Nghiệm Bài 1</h2>
-                    <p class="section-desc">20 câu hỏi chia đều 4 mức độ: Nhận biết • Thông hiểu • Vận dụng • Vận dụng cao</p>
-                </div>
-
-                <!-- Quiz Navigator (20 numbered circles) -->
-                <div class="quiz-navigator" id="quizNavigator" style="display:none;">
-                    <div class="quiz-nav-header">
-                        <span class="quiz-nav-title">📋 Tiến trình làm bài</span>
-                        <span class="quiz-nav-count" id="quizNavCount">0/20 đã làm</span>
-                    </div>
-                    <div class="quiz-nav-grid" id="quizNavGrid">
-                        <!-- 20 buttons will be generated by JS -->
-                    </div>
-                    <div class="quiz-nav-legend">
-                        <span class="legend-item"><span class="legend-dot legend-current"></span>Đang xem</span>
-                        <span class="legend-item"><span class="legend-dot legend-answered"></span>Đã làm</span>
-                        <span class="legend-item"><span class="legend-dot legend-unanswered"></span>Chưa làm</span>
-                    </div>
-                </div>
-
-                <!-- Quiz Container -->
-                <div class="quiz-container" id="quizContainer">
-                    <!-- Questions will be dynamically generated -->
-                </div>
-
-                <!-- Quiz Bottom Navigation -->
-                <div class="quiz-bottom-nav" id="quizBottomNav" style="display:none;">
-                    <button class="btn btn-outline" id="prevQuestionBtn" disabled>
-                        ← Câu trước
-                    </button>
-                    <button class="btn btn-primary" id="submitQuizBtn" style="display:none;">
-                        📝 Nộp bài
-                    </button>
-                    <button class="btn btn-outline" id="nextQuestionBtn2">
-                        Câu sau →
-                    </button>
-                </div>
-
-                <!-- Unanswered Warning Modal -->
-                <div class="quiz-warning-overlay" id="quizWarningOverlay" style="display:none;">
-                    <div class="quiz-warning-modal">
-                        <div class="quiz-warning-icon">⚠️</div>
-                        <h3>Còn câu chưa làm!</h3>
-                        <p id="quizWarningText">Bạn còn X câu chưa trả lời.</p>
-                        <div class="quiz-warning-list" id="quizWarningList"></div>
-                        <div class="quiz-warning-actions">
-                            <button class="btn btn-outline" id="warningGoBack">Quay lại làm tiếp</button>
-                            <button class="btn btn-primary" id="warningSubmit">Nộp luôn</button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Quiz Results -->
-                <div class="quiz-results" id="quizResults" style="display:none;">
-                    <div class="results-card">
-                        <div class="results-icon" id="resultsIcon">🎉</div>
-                        <h3 class="results-title" id="resultsTitle">Kết quả</h3>
-                        <div class="results-score">
-                            <span class="results-score-num" id="resultsScore">0</span>
-                            <span class="results-score-total">/ <span id="resultsTotalScore">20</span></span>
-                        </div>
-                        <p class="results-message" id="resultsMessage">Nhận xét chi tiết</p>
-                        <div class="results-breakdown" id="resultsBreakdown"></div>
-                        <button class="btn btn-primary btn-large" id="reviewQuizBtn">
-                            <span>📖</span> Xem lại đáp án
-                        </button>
-                        <button class="btn btn-outline btn-large" id="retryQuizBtn" style="margin-top:0.5rem;">
-                            <span>🔄</span> Làm Lại
-                        </button>
-                    </div>
-                </div>
-
-                <!-- Quiz Start -->
-                <div class="quiz-start" id="quizStart">
-                    <div class="quiz-start-card">
-                        <div class="quiz-start-icon">🧠</div>
-                        <h3>Sẵn sàng kiểm tra?</h3>
-                        <p>20 câu trắc nghiệm • 4 mức độ • Có giải thích đáp án</p>
-                        <div class="quiz-levels-preview">
-                            <span class="level-tag level-nhanbiết">🟢 Nhận biết: 5 câu</span>
-                            <span class="level-tag level-thonghieu">🔵 Thông hiểu: 5 câu</span>
-                            <span class="level-tag level-vandung">🟠 Vận dụng: 5 câu</span>
-                            <span class="level-tag level-vandungcao">🔴 Vận dụng cao: 5 câu</span>
-                        </div>
-                        <button class="btn btn-primary btn-large" id="startQuizBtn">
-                            <span>🚀</span> Bắt Đầu Ngay!
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="footer">
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: HOME                           -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section active" id="section-home">
         <div class="container">
-            <p>Ôn tập Vật Lý 12 — Bài 1: Cấu trúc của chất & Sự chuyển thể</p>
-            <p class="footer-sub">Chương trình GDPT 2018 • Chương 1: Vật Lí Nhiệt</p>
+            <div class="hero">
+                <div class="hero-badge">Chương trình GDPT 2018</div>
+                <h1 class="hero-title">Chương 1: Vật Lý Nhiệt</h1>
+                <p class="hero-subtitle">467 câu trắc nghiệm • 8 chủ đề • Giải thích chi tiết</p>
+                <div class="hero-actions">
+                    <button class="btn btn-primary btn-lg" id="btn-start-learn">📖 Bắt đầu học</button>
+                    <button class="btn btn-secondary btn-lg" id="btn-start-quiz">📝 Làm trắc nghiệm</button>
+                </div>
+            </div>
+
+            <!-- Quick Progress -->
+            <div class="quick-progress" id="quick-progress">
+                <h2 class="section-title">📊 Tiến trình của bạn</h2>
+                <div class="progress-grid" id="home-progress-grid">
+                    <!-- JS will populate -->
+                </div>
+            </div>
+
+            <!-- Topic Cards -->
+            <h2 class="section-title">📚 Các chủ đề</h2>
+            <!-- Grid Chủ Đề -->
+            <div class="topic-cards" id="home-topic-cards">
+                <!-- JS will populate -->
+            </div>
+            
+            <p id="easter-egg-btn" style="opacity: 0.2; font-size: 0.8rem; text-align: center; margin-top: 60px; cursor: pointer; transition: opacity 0.3s; user-select: none;">Made with ❤️</p>
         </div>
-    </footer>
+    </section>
 
-    <!-- Back to Top -->
-    <button class="back-to-top" id="backToTop" aria-label="Lên đầu trang">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
-    </button>
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: LESSONS                        -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section" id="section-lessons">
+        <div class="container">
+            <h2 class="section-title">📖 Bài giảng lý thuyết</h2>
+            <p class="section-desc">Đọc kỹ lý thuyết trước khi làm bài trắc nghiệm</p>
 
+            <!-- Lesson Tab Buttons -->
+            <div class="lesson-tabs" id="lesson-tabs">
+                <button class="lesson-tab active" data-topic="1">🔬 CĐ1</button>
+                <button class="lesson-tab" data-topic="2">⚡ CĐ2</button>
+                <button class="lesson-tab" data-topic="3">🌡️ CĐ3</button>
+                <button class="lesson-tab" data-topic="4">🔥 CĐ4</button>
+                <button class="lesson-tab" data-topic="5">❄️ CĐ5</button>
+                <button class="lesson-tab" data-topic="6">💨 CĐ6</button>
+                <button class="lesson-tab" data-topic="7">📊 CĐ7</button>
+            </div>
+
+            <!-- Lesson Content Area -->
+            <div class="lesson-content" id="lesson-content">
+                <!-- JS will populate based on selected tab -->
+            </div>
+
+            <div class="lesson-footer">
+                <button class="btn btn-primary" id="btn-lesson-to-quiz">📝 Làm trắc nghiệm chủ đề này</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: QUIZ SELECT                    -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section" id="section-quiz-select">
+        <div class="container">
+            <h2 class="section-title">📝 Chọn chế độ ôn tập</h2>
+
+            <!-- Mode: By Topic -->
+            <div class="quiz-mode-group">
+                <h3 class="mode-group-title">📚 Ôn theo Chủ đề</h3>
+                <div class="quiz-topic-grid" id="quiz-topic-grid">
+                    <!-- JS will populate topic cards with progress -->
+                </div>
+            </div>
+
+            <!-- Mode: Mock Exam -->
+            <div class="quiz-mode-group">
+                <h3 class="mode-group-title">🏆 Thi thử</h3>
+                <div class="exam-card" id="exam-card">
+                    <div class="exam-card-inner">
+                        <div class="exam-icon">🏆</div>
+                        <div class="exam-info">
+                            <h4>Thi thử Chương I</h4>
+                            <p>40 câu ngẫu nhiên • 50 phút • Cần PASS 7/7 CĐ</p>
+                        </div>
+                        <div class="exam-status" id="exam-status">🔒</div>
+                    </div>
+                    <button class="btn btn-primary btn-block" id="btn-start-exam" disabled>Bắt đầu thi thử</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: PROGRESS DASHBOARD             -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section" id="section-progress">
+        <div class="container">
+            <h2 class="section-title">📊 Tiến trình học tập</h2>
+
+            <!-- Stats Overview -->
+            <div class="stats-grid" id="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-total-done">0</div>
+                    <div class="stat-label">Câu đã làm</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-accuracy">0%</div>
+                    <div class="stat-label">Tỉ lệ đúng</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-passed">0/8</div>
+                    <div class="stat-label">CĐ đã PASS</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="stat-streak">🔥 0</div>
+                    <div class="stat-label">Streak</div>
+                </div>
+            </div>
+
+            <!-- Detailed Progress -->
+            <div class="progress-detail" id="progress-detail">
+                <!-- JS will populate -->
+            </div>
+
+            <!-- Reset -->
+            <div class="reset-section">
+                <button class="btn btn-danger" id="btn-reset-progress">🗑️ Xóa toàn bộ tiến trình</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: QUIZ (Active Quiz)             -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section" id="section-quiz">
+        <div class="container">
+            <!-- Quiz Header -->
+            <div class="quiz-header">
+                <div class="quiz-header-left">
+                    <button class="btn btn-ghost" id="btn-quiz-back">← Quay lại</button>
+                    <h3 class="quiz-topic-title" id="quiz-topic-title">CĐ1: Cấu trúc của chất</h3>
+                </div>
+                <div class="quiz-header-right">
+                    <div class="quiz-timer" id="quiz-timer" style="display:none;">
+                        <span class="timer-icon">⏱️</span>
+                        <span class="timer-value" id="timer-value">50:00</span>
+                    </div>
+                    <div class="quiz-score-mini">
+                        <span id="quiz-answered-count">0</span>/<span id="quiz-total-count">0</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question Navigator -->
+            <div class="quiz-navigator" id="quiz-navigator">
+                <!-- JS: buttons 1..N -->
+            </div>
+
+            <!-- Question Card -->
+            <div class="question-card" id="question-card">
+                <div class="question-meta">
+                    <span class="question-number" id="question-number">Câu 1</span>
+                    <span class="question-level" id="question-level">Nhận biết</span>
+                    <span class="question-source" id="question-source"></span>
+                </div>
+                <div class="question-text" id="question-text"></div>
+                <div class="question-svg" id="question-svg" style="display:none;"></div>
+                <div class="options-list" id="options-list">
+                    <!-- JS: option buttons -->
+                </div>
+
+                <!-- Hint Panel -->
+                <div class="hint-panel" id="hint-panel">
+                    <button class="btn btn-hint" id="btn-show-hint">💡 Gợi ý (<span id="hints-remaining">3</span> lượt)</button>
+                    <div class="hint-content" id="hint-content" style="display:none;">
+                        <div class="hint-text" id="hint-text"></div>
+                    </div>
+                </div>
+
+                <!-- Explanation (shown after submit) -->
+                <div class="explanation-panel" id="explanation-panel" style="display:none;">
+                    <h4 class="explanation-title">📝 Giải thích chi tiết</h4>
+                    <div class="explanation-content" id="explanation-content"></div>
+                </div>
+            </div>
+
+            <!-- Bottom Navigation -->
+            <div class="quiz-bottom-nav">
+                <button class="btn btn-secondary" id="btn-prev-q">← Câu trước</button>
+                <button class="btn btn-primary" id="btn-next-q">Câu sau →</button>
+                <button class="btn btn-success" id="btn-submit-quiz" style="display:none;">📋 Nộp bài</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- SECTION: QUIZ RESULT                    -->
+    <!-- ═══════════════════════════════════════ -->
+    <section class="section" id="section-result">
+        <div class="container">
+            <div class="result-card" id="result-card">
+                <div class="result-icon" id="result-icon">🎉</div>
+                <h2 class="result-title" id="result-title">Kết quả</h2>
+                <div class="result-score" id="result-score">15/20</div>
+                <div class="result-percentage" id="result-percentage">75%</div>
+                <div class="result-badge" id="result-badge">✅ PASS</div>
+                <div class="result-details">
+                    <div class="result-detail-item">
+                        <span>⏱️ Thời gian:</span>
+                        <span id="result-time">12:30</span>
+                    </div>
+                    <div class="result-detail-item">
+                        <span>💡 Gợi ý đã dùng:</span>
+                        <span id="result-hints">3</span>
+                    </div>
+                    <div class="result-detail-item">
+                        <span>📈 Điểm cao nhất:</span>
+                        <span id="result-best">18/20</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Wrong Answers List -->
+            <div class="wrong-answers-section" id="wrong-answers-section" style="display:none;">
+                <h3 class="wrong-title">❌ Các câu sai (<span id="wrong-count">0</span> câu)</h3>
+                <div class="wrong-answers-list" id="wrong-answers-list">
+                    <!-- JS will populate -->
+                </div>
+            </div>
+
+            <!-- Result Actions -->
+            <div class="result-actions">
+                <button class="btn btn-primary btn-lg" id="btn-review-wrong" style="display:none;">🔄 Ôn lại câu sai</button>
+                <button class="btn btn-secondary btn-lg" id="btn-review-all">📖 Xem lại toàn bộ</button>
+                <button class="btn btn-secondary btn-lg" id="btn-retry-quiz">📝 Làm lại</button>
+                <button class="btn btn-ghost btn-lg" id="btn-result-home">🏠 Về trang chủ</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- MODAL: Confirm Submit                   -->
+    <!-- ═══════════════════════════════════════ -->
+    <div class="modal-overlay" id="modal-submit" style="display:none;">
+        <div class="modal-card">
+            <div class="modal-icon">⚠️</div>
+            <h3 class="modal-title">Nộp bài?</h3>
+            <p class="modal-text" id="modal-submit-text">Bạn còn 3 câu chưa làm.</p>
+            <div class="modal-unanswered" id="modal-unanswered">
+                <!-- JS: list of unanswered question numbers -->
+            </div>
+            <div class="modal-actions">
+                <button class="btn btn-secondary" id="btn-modal-cancel">Quay lại làm tiếp</button>
+                <button class="btn btn-primary" id="btn-modal-confirm">Nộp bài</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- MODAL: Reset Confirm                    -->
+    <!-- ═══════════════════════════════════════ -->
+    <div class="modal-overlay" id="modal-reset" style="display:none;">
+        <div class="modal-card">
+            <div class="modal-icon">🗑️</div>
+            <h3 class="modal-title">Xóa tiến trình?</h3>
+            <p class="modal-text">Toàn bộ điểm số, lịch sử sẽ bị xóa. Không thể hoàn tác!</p>
+            <div class="modal-actions">
+                <button class="btn btn-secondary" id="btn-reset-cancel">Hủy</button>
+                <button class="btn btn-danger" id="btn-reset-confirm">Xóa hết</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════════════════════════════════════ -->
+    <!-- MODAL: Easter Egg                       -->
+    <!-- ═══════════════════════════════════════ -->
+    <div class="modal-overlay" id="modal-easter-egg" style="display:none;">
+        <div class="modal-card" style="text-align: center; max-width: 320px;">
+            <div class="modal-icon" style="font-size: 3rem; margin-bottom: 10px;">🎁</div>
+            <h3 class="modal-title" style="color: #ff69b4; margin-bottom: 10px;">Dành riêng cho Nhi!</h3>
+            <p class="modal-text" style="margin-bottom: 20px;">Chúc Nhi học thật giỏi Vật Lý 12, thi đạt điểm tuyệt đối nhé! ❤️🚀</p>
+            <div class="modal-actions" style="justify-content: center;">
+                <button class="btn btn-primary" id="btn-close-easter-egg">Đóng</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="quizBank.js"></script>
     <script src="app.js"></script>
 </body>
 </html>

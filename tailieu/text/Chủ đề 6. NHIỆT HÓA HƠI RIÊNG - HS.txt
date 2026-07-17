@@ -1,0 +1,1336 @@
+ 
+ 
+1 
+CHỦ ĐỀ 6: NHIỆT HÓA HƠI RIÊNG 
+I – TÓM TẮT LÝ THUYẾT & CÁC DẠNG BÀI TẬP 
+1. Khái niệm nhiệt hóa hơi riêng 
+1.1. Hệ thức tính nhiệt lượng trong quá trình truyền nhiệt khi một lượng chất lỏng hóa hơi ở nhiệt độ không 
+đổi. 
+XÁC ĐỊNH NHIỆT LƯỢNG CẦN CUNG CẤP CHO QUÁ TRÌNH HÓA HƠI CỦA CHẤT LỎNG 
++ Mô tả: Xét khối nước lỏng có khối lượng m được đun nóng bởi nguồn nhiệt. Khi nhiệt độ đạt xấp xỉ 100℃ 
+ở điều kiện tiêu chuẩn, nước bắt đầu sôi. 
+ 
++ Nhận xét: 
+- Trong quá trình sôi, nhiệt độ của chất lỏng hầu như không đổi; 
+- Với cùng một chất lỏng, khối lượng khác nhau thì nhiệt lượng cần cung cấp cho quá trình hóa hơi khác nhau; 
+- Với các chất lỏng khác nhau, cùng khối lượng thì nhiệt lượng cần cung cấp cho quá trình hóa hơi khác nhau. 
++ Kết luận: 
+- Thí nghiệm cho thấy nhiệt lượng cần cung cấp cho một lượng chất lỏng hóa hơi ở nhiệt độ không đổi phụ 
+thuộc vào khối lượng và bản chất của chất lỏng. 
+ 
+⟹ Hệ thức tính nhiệt lượng cần cung cấp cho một lượng chất lỏng hóa hơi hoàn toàn ở nhiệt độ không đổi: 
+         
+ 
+Trong đó: Q là nhiệt lượng cần truyền cho chất lỏng (J); 
+ 
+     m là khối lượng của chất lỏng (kg); 
+ 
+     L được gọi là nhiệt hóa hơi riêng của chất lỏng, đặc trưng cho mỗi chất lỏng khác nhau (J/kg). 
+1.2. Định nghĩa nhiệt hóa hơi riêng 
+Từ biểu thức (1), ta thu được: 
+             
+ 
+Định nghĩa: Nhiệt hóa hơi riêng của một chất lỏng là nhiệt lượng cần để làm cho một kilogram chất lỏng đó hóa 
+hơi hoàn toàn ở nhiệt độ sôi. 
+Lưu ý: Chất lỏng có thể hóa hơi ở các nhiệt độ khác nhau. Thường thì nhiệt hóa hơi riêng của một chất tăng khi 
+nhiệt độ giảm. Ví dụ: nhiệt hóa hơi của nước ở 100℃ là 2,26.10! J/kg, ở nhiệt độ 50℃ là 2,39.10! J/kg. 
+ 
+Q = L. m       (1) 
+L = Q
+m         (2) 
+
+---PAGE---
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+2. Thực hành đo nhiệt hóa hơi riêng của nước 
+2.1. Mục đích thí nghiệm. 
+ Xác định nhiệt hoá hơi riêng của nước ở nhiệt độ sôi (100℃). 
+2.2. Dụng cụ thí nghiệm. 
+- Biến thế nguồn (1). 
+- Bộ đo công suất nguồn điện (Watt kế) có tích hợp chức năng đo 
+thời gian (2). 
+- Nhiệt lượng kế bằng nhựa có vỏ xốp, kèm điện trở nhiệt (gắn ở 
+trong bình) (3). 
+- Cân điện tử (4) (hoặc bình đong). 
+- Các dây nối. 
+- Một lượng nước nóng. 
+ 
+2.3. Thiết kế phương án thí nghiệm. 
+- Để xác định nhiệt hoá hơi riêng của nước cần xác định nhiệt lượng cần cung cấp cho nước hoá hơi và khối lượng 
+của nước. 
+- Nhiệt lượng làm cho nước trong bình nhiệt lượng kế hoá hơi lấy từ nguồn điện. 
+- Đảm bảo an toàn trong khi tiến hành thí nghiệm như: kiểm tra các thiết bị trước khi sử dụng tuân thủ các quy 
+tắc an toàn khi làm việc với nguồn nhiệt và thiết bị điện, sử dụng các dụng cụ bảo hộ, tránh tiếp xúc trực tiếp với 
+nguồn nhiệt và giữ khoảng cách an toàn. 
+2.4. Tiến hành thí nghiệm. 
+
+---PAGE---
+ 
+ 
+3 
+ 
+
+---PAGE---
+ 
+ 
+4 
+2.5. Kết quả thí nghiệm. 
+Ghi nhận kết quả thí nghiệm vào bảng sau: 
+Thời gian t (s) 
+0 
+120 
+240 
+360 
+480 
+600 
+720 
+840 
+Công suất P(W) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Khối lượng m (kg) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Từ kết quả thí nghiệm thu được: 
+- Vẽ đồ thị khối lượng m theo t 
+ 
+- Vẽ đường thẳng đi gần các điểm thực nghiệm nhất 
+- Tính công suất trung bình của dòng điện qua điện trở của nhiệt lượng kế.  
+P8 = P" + ⋯+ P#
+n
+ 
+- Tính nhiệt hoá hơi riêng của nước theo công thức  
+L = Q
+m = P8. <t$ −t%?
+m% −m$
+ 
+Trong đó: 
++ P8. <t$ −t%?: nhiệt lượng do dòng điện qua điện trở toả ra trong thời gian  t$ −t% 
++ m% −m$ : Khối lượng nước đã hoá hơi trong thời gian trên 
+- Xác định sai số của phép đo nhiệt hoá hơi riêng của nước. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+5 
+3. Các dạng bài tập về nhiệt hóa hơi riêng 
+DẠNG I. TÍNH NHIỆT LƯỢNG CẦN CUNG CẤP ĐỂ CHẤT LỎNG HÓA HƠI TẠI NHIỆT ĐỘ SÔI 
+Ví dụ 1: Một ấm điện chứa 1,5 kg nước đang ở nhiệt độ 100℃. Biết nhiệt hóa hơi riêng của nước trong ấm là 
+2,26.10! J/kg và toàn bộ nhiệt lượng mà bếp cung cấp đều được truyền cho quá trình hóa hơi của nước. Tính 
+nhiệt lượng cần thiết để làm cạn hết nước trong bình. 
+Hướng dẫn giải 
+Để nước trong bình cạn hết, nước sẽ chuyển thành hơi nước. Nhiệt lượng cần thiết để làm cạn hết nước trong 
+bình: 
+Q = m. L = 1,5 × 2,26.10! = 3,39.10! J = 3,39 MJ. 
+Ví dụ 2: Rượu etylic có nhiệt hóa hơi riêng là 0,9.10! J/kg và khối lượng riêng là D = 0,8 kg/lít. Tính nhiệt lượng 
+cần thiết để 10 lít rượu etylic hóa hơi hoàn toàn ở nhiệt độ sôi.  
+Hướng dẫn giải 
+Khối lượng của rượu etylic đang xét: 
+m = D. V = 0,8 × 10 = 8 kg; 
+Nhiệt lượng cần thiết để rượu etylic hóa hơi hoàn toàn ở nhiệt độ sôi: 
+Q = m. L = 8 × 0,9.10! = 7,2.10! J = 7,2 MJ. 
+ 
+DẠNG II. TÍNH NHIỆT LƯỢNG CẦN CUNG CẤP ĐỂ CHẤT LỎNG HÓA HƠI TẠI MỘT NHIỆT 
+ĐỘ BẤT KÌ. 
+Ví dụ 3 (KNTT): Tính nhiệt lượng cần thiết để làm cho 10 kg nước ở 25℃ chuyển hoàn toàn thành hơi ở 100℃. 
+Cho nhiệt dung riêng của nước là 4200 J/kg.K; nhiệt hóa hơi riêng của nước ở 100℃ là 2,26.10! J/kg. 
+Hướng dẫn giải 
+Sơ đồ chuyển hóa trong quá trình này: 
+Nước (L; 25℃)
+&'(' đ+ạ# ": .ă#0 #1'ệ3 độ
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M Nước (L; 100℃)
+&'(' đ+ạ# 5: 6ó( 1ơ'
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M Hơi nước (K; 100℃) 
+Nhiệt lượng cần cung cấp trong giai đoạn 1: 
+Q" = m. c. ∆t = 10 × 4200 × (100 −25) = 3,15.10! J; 
+Nhiệt lượng cần cung cấp trong giai đoạn 2: 
+Q5 = m. L = 10 × 2,26.10! = 22,6.10! J; 
+Tổng nhiệt lượng cần cung cấp trong quá trình này: 
+Q = Q" + Q5 = 3,15.10! + 22,6.10! = 25,75.10! J. 
+ 
+DẠNG III. BÀI TOÁN LIÊN QUAN ĐẾN NHIỆT LƯỢNG CẦN CUNG CẤP ĐỂ CHẤT LỎNG HÓA 
+HƠI, CÔNG SUẤT VÀ HIỆU SUẤT CỦA BẾP. 
+Ví dụ 4 (Phát triển từ câu hỏi sách Vật lí 12 - KNTT): Một ấm điện công suất 1000W, trong bình chứa 300g 
+nước ở nhiệt độ ban đầu là 20℃ ở áp suất tiêu chuẩn. Lấy nhiệt dung riêng và nhiệt hóa hơi riêng của nước là 
+c = 4,2.109 J/kg.K và L = 2,26.10! J/kg. Xem như toàn bộ nhiệt lượng mà bếp cung cấp đều được truyền cho 
+quá trình hóa hơi của nước. 
+a) Tính thời gian cần thiết để đun sôi 300g nước đó. 
+b) Nếu để nước trong ấm sôi thêm 2 phút thì lượng nước còn lại trong ấm là bao nhiêu? 
+
+---PAGE---
+ 
+ 
+6 
+Hướng dẫn giải 
+Sơ đồ chuyển hóa trong quá trình này: 
+Nước (L; 20℃)
+&'(' đ+ạ# ": .ă#0 #1'ệ3 độ
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M Nước (L; 100℃)
+&'(' đ+ạ# 5: 6ó( 1ơ' :ộ3 ;1ầ#
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M T Hơi nước (K; 100℃)
+Nước còn lại (L; 100℃) 
+a)  
+Nhiệt lượng cần cung cấp để đun sôi nước: 
+Q" = m. c. ∆t = 0,3 × 4,2.109 × (100 −20) = 100800 J; 
+Toàn bộ nhiệt lượng mà bếp cung cấp đều được truyền cho quá trình hóa hơi của nước, thời gian cần thiết để 
+đun sôi 300g nước: 
+Q" = A ⟺Q" = P. t ⟹t = Q"
+P = 100800
+1000
+= 100,8 s. 
+b) 
+Nhiệt lượng mà bếp cung cấp trong 2 phút: 
+A = Q = P. t = 1000 × (2 × 60) = 120000 J; 
+Toàn bộ phần nhiệt lượng này được cung cấp cho giai đoạn hóa hơi của nước, khối lượng nước đã hóa hơi: 
+Q = m1ó( 1ơ'. L ⟹m1ó( 1ơ' = Q
+L = 120000
+2,26.10! ≈0,053 kg; 
+Lượng nước còn lại trong ấm: 
+m= = m −m1ó( 1ơ' = 0,3 −0,053 = 0,247 kg. 
+Ví dụ 5 (Phát triển từ câu hỏi sách Vật lí 12 - KNTT): Dùng bếp điện để đun một ấm nhôm khối lượng 600g 
+đựng 1,5 lít nước ở nhiệt độ 20℃ ở điều kiện áp suất tiêu chuẩn. Sau 35 phút đã có 20% lượng nước trong ấm 
+hóa hơi ở nhiệt độ 100℃. Tính nhiệt lượng trung bình mà bếp điện cung cấp cho ấm nước trong mỗi giây, biết 
+chỉ có 75% nhiệt lượng mà bếp tỏa ra được dùng vào việc đun ấm nước. Biết nhiệt dung riêng của nhôm và nước 
+lần lượt là 880 J/kg.K và 4200 J/kg.K; nhiệt hóa hơi riêng của nước ở nhiệt độ sôi 100℃ là 2,26.10! J/kg. Khối 
+lượng riêng của nước là 1 kg/lít. 
+Hướng dẫn giải 
+Sơ đồ chuyển hóa trong quá trình này: 
+Hệ (20℃) T Nước (L)
+Nhôm (R)
+&'(' đ+ạ# ": .ă#0 #1'ệ3 độ
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M Hệ (100℃) T Nước (L)
+Nhôm (R)
+&'(' đ+ạ# 5: 1ó( 1ơ'
+K⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯M `
+Hơi nước (K)
+ 
+Hệ T Nước còn lại (L)
+Nhôm (R)
+ 
+Khối lượng của nước ban đầu: 
+m = D. V = 1 × 1,5 = 1,5 kg; 
+Nhiệt lượng cần cung cấp trong giai đoạn 1: 
+Q" = m#. c#. ∆t + m>?. c>?. ∆t = 1,5 × 4200 × (100 −20) + 0,6 × 880 × (100 −20) = 546240 J; 
+Nhiệt lượng cần cung cấp trong giai đoạn 2: 
+Q5 = m1ó( 1ơ'. L = 0,2. m. L = 0,2 × 1,5 × 2,26.10! = 678000 J; 
+Tổng nhiệt lượng cần cung cấp trong quá trình này: 
+Q = Q" + Q5 = 546240 + 678000 = 1224240 J. 
+Chỉ có 75% nhiệt lượng mà bếp tỏa ra được dùng vào việc đun ấm nước, nhiệt lượng mà bếp bếp điện cung cấp 
+trong 35 phút: 
+
+---PAGE---
+ 
+ 
+7 
+H =
+Q
+A9@;
+⟹A9@; = Q
+H = 1224240
+75%
+= 1632320 J; 
+Nhiệt lượng trung bình mà bếp cung cấp cho ấm trong mỗi giây: 
+A"A = A9@;
+t
+= 1632320
+(35 × 60) ≈777,3 J. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+8 
+II – BÀI TẬP LUYỆN TẬP  
+1. CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN 
+A. CÂU HỎI ĐỊNH TÍNH 
+ 
+Câu 1. Nhiệt hóa hơi riêng là 
+A. nhiệt lượng cần để làm cho một kilogram chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi. 
+B. nhiệt lượng cần để làm cho một gram chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi. 
+C. nhiệt lượng cần để làm cho một kilogram chất đó để làm cho nhiệt độ của nó tăng thêm 1℃. 
+D. nhiệt lượng cần để làm cho một kilogram chất đó nóng chảy hoàn toàn ở nhiệt độ nóng chảy. 
+Câu 2 (Đề thi thử tốt nghiệp THPT Sở Hà Nội năm 2025). Đơn vị của nhiệt hóa hơi riêng là 
+A. J/kg.K. 
+ 
+ 
+B. J/kg. 
+ 
+ 
+C. J. 
+ 
+ 
+ 
+D. J/K. 
+Câu 3. Gọi m, L lần lượt là khối lượng của chất lỏng và nhiệt hoá hơi riêng của chất lỏng. Nhiệt lượng Q cần thiết 
+để làm hóa hơi hoàn toàn lượng chất lỏng đó ở nhiệt độ xác định có hệ thức là 
+A. Q =
+:
+B. 
+ 
+ 
+B. Q =
+"
+5 m. L . 
+ 
+C. Q = m. L.  
+ 
+D. Q = 2m. L. 
+Câu 4 (SBT Vật lí 12 KNTT). Nhiệt hóa hơi riêng của một chất là nhiệt lượng cần cung cấp để 1 kg chất đó 
+A. hóa hơi hoàn toàn. 
+ 
+  
+B. hóa hơi hoàn toàn ở nhiệt độ sôi. 
+C. hóa hơi. 
+ 
+  
+D. bay hơi hết. 
+Câu 5 (Đề thi thử tốt nghiệp THPT Sở Kiên Giang năm 2025). Mỗi kilogram nước cần thu một lượng nhiệt là  
+2,3.10! J để bay hơi hoàn toàn ở nhiệt độ sôi và áp suất tiêu chuẩn. Nhận định nào sau đây là đúng? 
+A. 2,3.10! là nhiệt nóng chảy của nước đá. 
+  
+𝐁. 2,3.10! là nhiệt hóa hơi của nước. 
+C. 2,3.10! là nhiệt nóng chảy riêng của nước đá.   
+D. 2,3.10! là nhiệt hóa hơi riêng của nước. 
+Câu 6. Cồn y tế chuyển từ thể lỏng sang thể khí rất nhanh ở điều kiện thông thường. Khi xoa cồn vào da, ta cảm 
+thấy lạnh ở vùng da đó vì cồn  
+A. thu nhiệt lượng từ cơ thể qua chỗ da đó để bay hơi.  
+B. khi bay hơi tạo ra dòng nước mát tại chỗ da đó.  
+C. khi bay hơi kéo theo lượng nước chỗ da đó ra khỏi cơ thể.  
+D. toả nhiệt lượng vào chỗ da đó khi bay hơi. 
+Câu 7 (Đề thi thử tốt nghiệp THPT Sở Phú Thọ năm 2025). Ở áp suất chuẩn, nhiệt hóa hơi riêng của nước là 
+2,3.10! J/kg. Câu nào dưới đây là đúng? 
+A. Một kilogram nước cần thu năng lượng nhiệt là 2,3.10! J hơi hoàn toàn. 
+B. Một kilogram nước sẽ tỏa ra lượng nhiệt 2,3.10! J khi hóa hơi hoàn toàn ở nhiệt độ sôi và áp suất bất kỳ. 
+C. Một lượng nước bất kỳ cần thu nhiệt lượng 2,3.10! J để hóa hơi hoàn toàn. 
+D. Một kilogram nước cần thu lượng nhiệt là 2,3.10! J để hóa hơi hoàn toàn ở nhiệt độ sôi và áp suất chuẩn. 
+Câu 8 (Đề thi thử tốt nghiệp THPT Sở Bắc Giang năm 2025). Nhiệt lượng cần truyền cho một kilogram chất 
+lỏng để nó hóa hơi hoàn toàn ở nhiệt độ xác định gọi là  
+A. nhiệt nóng chảy riêng. 
+ 
+ 
+ 
+B. nhiệt hóa hơi. 
+C. nhiệt hóa hơi riêng. 
+ 
+ 
+ 
+D. nhiệt dung riêng.  
+Câu 9 (Đề thi thử tốt nghiệp THPT Sở Bình Phước năm 2025). Nhiệt hóa hơi riêng của một chất là nhiệt lượng 
+cần cung cấp để nhiệt độ của khối chất đó có khối lượng m chuyển hoàn toàn từ thể lỏng sang thể khí khi chất 
+lỏng đó sôi. Khối lượng m có giá trị bằng  
+
+---PAGE---
+ 
+ 
+9 
+A. 100 g. 
+ 
+ 
+B. 1 g.  
+ 
+ 
+C. 10 kg. 
+ 
+ 
+D. 1 kg. 
+Câu 10 (Đề thi thử tốt nghiệp THPT Lộc An – Lâm Đồng năm 2025). Phát biểu nào sau đây là sai khi nói về 
+nhiệt hoá hơi? 
+A. Nhiệt lượng cần cung cấp cho khối chất lỏng trong quá trình sôi gọi là nhiệt hoá hơi của khối chất lỏng ở nhiệt 
+độ sôi. 
+B. Nhiệt hoá hơi tỉ lệ với khối lượng của phần chất lỏng đã biến thành hơi. 
+C. Đơn vị của nhiệt hoá hơi là Joule trên kilogram (J/kg). 
+D. Nhiệt hoá hơi được tính bằng công thức Q = L.m trong đó L là nhiệt hoá hơi riêng của chất lỏng, m là khối 
+lượng của chất lỏng. 
+Câu 11 (Đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Thiết bị nào sau đây không dùng để 
+xác định nhiệt hoá hơi riêng của nước?  
+ 
+ 
+ 
+ 
+A. Nhiệt kế. 
+B. Cân điện tử. 
+C. Nhiệt lượng kế. 
+D. Watt kế. 
+Câu 12 (Đề thi thử tốt nghiệp THPT Nguyễn Khuyến Lê Thánh Tông – TP.HCM năm 2025). Trong thí nghiệm 
+đo nhiệt hoá hơi riêng của nước sử dụng ấm đun siêu tốc, thao tác đặt ấm đun lên cân điện tử, hiệu chỉnh cân về 
+số 0,00 sau đó mới rót nước vào ấm đun là để   
+ 
+A. cân khối lượng bình cho đơn giản. 
+B. số chỉ trên cân ổn định hơn. 
+C. an toàn và dễ tiến hành thí nghiệm hơn.  
+D. đo được chính xác và đồng thời khối lượng nước bay hơi và thời gian bay hơi tương ứng, phép đo đơn giản 
+hơn. 
+Câu 13. Một bạn học sinh tiến hành đun sôi 2 loại chất lỏng khác nhau: nước và rượu, cùng khối lượng ban đầu, 
+được đựng trong các cốc như nhau và cả 2 chất lỏng đều đã đạt đến nhiệt độ sôi. Tiếp tục đun trong một khoảng 
+thời gian, lượng chất lỏng trong bình nào còn ít nhất? Cho rằng cả 2 đèn cồn đều cung cấp nhiệt lượng như nhau. 
+ 
+A. Bình nước.  
+ 
+ 
+ 
+B. Bình rượu. 
+C. Cả hai bình đều như nhau.  
+ 
+D. Chưa đủ dữ kiện để kết luận. 
+Câu 14. Nhiệt hóa hơi riêng là thông tin cần thiết để thiết kế, chế tạo các sản phẩm sử dụng hiện tượng hóa hơi 
+nhằm tiết kiệm năng lượng bảo vệ môi trường. Thiết bị nào sau đây cần sử dụng thông tin này? 
+A. Nồi hấp tiệt trùng.  
+B. Quạt máy.  
+ 
+C. Máy sấy tóc. 
+ 
+D. Nhiệt kế. 
+
+---PAGE---
+ 
+ 
+10 
+Câu 15. Để xác định nhiệt hóa hơi riêng của chất lỏng, ta cần xác định 
+A. khối lượng và thể tích của khối chất lỏng. 
+B. nhiệt lượng cần cung cấp cho chất lỏng hoá hơi và phần khối lượng đã hóa hơi của chất lỏng. 
+C. nhiệt lượng cung cấp cho khối chất lỏng trong khoảng thời gian. 
+D. nhiệt lượng cung cấp cho khối chất lỏng và khoảng thời gian cung cấp nhiệt lượng đó. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+11 
+B. CÂU HỎI ĐỊNH LƯỢNG 
+ 
+Câu 16. Một lò chưng cấp cung cấp nhiệt để làm hóa hơi hoàn toàn 2,0 kg ethanol ở nhiệt độ sôi 78℃. Biết nhiệt 
+hóa hơi riêng của ethanol là 8,5.10@ J/kg. Nhiệt lượng cần cung cấp trong quá trình này là 
+A. 5,2.10! J.  
+ 
+B. 1,7.10! J.  
+ 
+C. 1,7.10@ J.  
+ 
+D. 5,2.10@ J. 
+Câu 17 (Đề thi thử tốt nghiệp THPT Sở Vĩnh Phúc năm 2025). Biết nhiệt hóa hơi riêng của nước ở 100℃ là 
+2,26.10! J/kg. Nhiệt lượng cần thiết để chuyển 2,5 kg nước ở 100℃ thành hơi hoàn toàn là 
+A. 5650 J. 
+ 
+ 
+B. 5650 kJ. 
+ 
+ 
+C. 904 J. 
+ 
+ 
+D. 904 kJ. 
+Câu 18. Một phòng thí nghiệm sử dụng 500g acetone (ở nhiệt độ sôi 56℃) để làm sạch thiết bị. Biết nhiệt hóa 
+hơi riêng của acetone là 5,2.10@ J/kg. Nhiệt lượng cần thiết để làm bay hơi hoàn toàn lượng acetone này là 
+A. 2,60.10@ J.  
+ 
+B. 2,60.10! J.  
+ 
+C. 1,04.10@ J.  
+ 
+D. 1,04.10! J. 
+Câu 19. Một ấm đun siêu tốc có công suất 2200 W tiến hành đun sôi một lượng nước. Do sự cố hỏng relay nên 
+khi nước đã bắt đầu sôi, ấm vẫn tiếp tục đun thêm 3 phút trước khi có người phát hiện và tắt thiết bị. Biết nhiệt 
+hóa hơi riêng của nước là 2,26.10! J/kg và hiệu suất của ấm gần bằng 100% và nhiệt dung riêng của ấm rất nhỏ. 
+Khối lượng nước đã bay hơi xấp xỉ 
+A. 0,175 g. 
+ 
+ 
+B. 2,92 g. 
+ 
+ 
+C. 175 g. 
+ 
+ 
+D. 292 g. 
+Câu 20 (Phát triển từ câu hỏi sách Vật lí 12 - CTST): Bạn A muốn đun sôi 1,5 lít nước bằng bếp gas. Do sơ 
+suất nên bạn quên không tắt bếp khi nước sôi. Biết nhiệt hóa hơi riêng của nước là 2,3.10! J/kg và khối lượng 
+riêng của nước là 1 kg/lít. Nhiệt lượng đã làm hóa hơi 1 lít nước trong ấm do sơ suất là 
+A. 3,45.10! J.  
+ 
+B. 2,30.10! J.  
+ 
+C. 3,45.10@ J.  
+ 
+D. 2,30.10! J. 
+Câu 21. Đun nóng 4 lít nước ở nhiệt độ 25℃ để chuyển hoàn toàn thành hơi nước ở 100℃. Biết nhiệt dung riêng 
+của nước là 4180 J/kg.K, nhiệt hóa hơi riêng của nước là 2,3.10! J/kg và khối lượng riêng của nước là 1kg/lít. 
+Nhiệt lượng tối thiểu cần cung cấp xấp xỉ 
+A. 9,2 MJ. 
+ 
+ 
+B. 9,2 kJ. 
+ 
+ 
+C. 10,5 kJ. 
+ 
+ 
+D. 10,5 MJ. 
+Câu 22 (Đề thi thử tốt nghiệp THPT Sở Đắk Lắk năm 2025). Biết nhiệt dung riêng của nươc là 4200 J/(kg.K), 
+nhiệt hóa hơi riêng của nước ở 100℃ là 2,26.10! J/kg. Nhiệt lượng cần thiết để làm cho 500g nước ở 20℃ 
+chuyển thành hơi nước ở 100℃ là 
+A. 2596 kJ. 
+ 
+ 
+B. 168 kJ. 
+ 
+ 
+C. 1130 kJ. 
+ 
+ 
+D. 1298 kJ. 
+Câu 23. Một nồi chứa 2,5 kg rượu ở 20℃ và được đun cho đến khi hóa hơi hoàn toàn. Biết nhiệt dung riêng của 
+rượu là 2500 J/kg.K, nhiệt độ sôi của rượu là 78℃, nhiệt hóa hơi riêng là 8,5.10@ J/kg, nhiệt dung riêng của nồi 
+rất nhỏ và bỏ qua mọi sự thất thoát về nhiệt trong quá trình đun. Nhiệt lượng cần cung cấp trong quá trình này 
+xấp xỉ 
+A. 2,61.10! J.  
+ 
+B. 2,49.10! J.  
+ 
+C. 2,25.10! J.  
+ 
+D. 2,13.10! J. 
+Câu 24. Cần cung cấp một nhiệt lượng 7,79.10! J để đun nóng 3kg nước từ nhiệt độ ban đầu to đến khi chuyển 
+hóa hoàn toàn thành hơi nước ở 100℃. Biết nhiệt dung riêng của nước là 4200 J/kg.K và nhiệt hóa hơi riêng của 
+nước là 2,26.10! J/kg. Nhiệt độ ban đầu to của nước gần bằng  
+A. 20℃. 
+ 
+ 
+B. 25℃. 
+ 
+ 
+C. 28℃. 
+ 
+ 
+D. 30℃. 
+Câu 25. Một cốc đun chứa 1,20 kg rượu ở nhiệt độ 27℃ và được đun sôi đến khi hóa hơi hoàn toàn. Tổng nhiệt 
+lượng cần thiết cho quá trình này là 1,234.10!J. Biết nhiệt dung riêng và nhiệt hóa hơi riêng của rượu lần lượt là 
+2400 J/kg.K và 0,9.10! J/kg và nhiệt dung riêng của cốc rất nhỏ. Nhiệt độ sôi của rượu xấp xỉ 
+A. 77,8℃. 
+ 
+ 
+B. 78,3℃. 
+ 
+ 
+C. 78,6℃. 
+ 
+ 
+D. 79,1℃. 
+
+---PAGE---
+ 
+ 
+12 
+Câu 26. Một cốc đựng một lượng nước có khối lượng m ở 30℃. Cần cung cấp 9,45.10! J để đun nóng và hóa 
+hơi hoàn toàn lượng nước trong cốc. Biết nhiệt dung riêng và nhiệt hóa hơi riêng của nước lần lượt là 4200 J/kg.K 
+và 2,26.10! J/kg; nhiệt độ sôi của nước là 100℃ và nhiệt dung riêng của cốc rất nhỏ. Khối lượng m gần bằng 
+A. 3,7 kg. 
+ 
+ 
+B. 5,4 kg. 
+ 
+ 
+C. 6,2 kg. 
+ 
+ 
+D. 7,5 kg. 
+Câu 27. Cần cung cấp 2,04.10! J để đun nóng và hóa hơi hoàn toàn m (kg) rượu ở nhiệt độ 30℃. Biết nhiệt dung 
+riêng và nhiệt hóa hơi riêng của rượu lần lượt là 2500 J/kg.K và 0,85.10! J/kg và nhiệt độ sôi của rượu là 78,5℃. 
+Giá trị của m xấp xỉ bằng 
+A. 1,7.  
+ 
+ 
+B. 1,9.  
+ 
+ 
+C. 2,1.  
+ 
+ 
+D. 2,3. 
+Câu 28. Một cốc nhôm có khối lượng 200g chứa 0,5 kg nước ở nhiệt độ ban đầu 25℃. Biết nhiệt dung riêng của 
+nước, nhôm lần lượt là 4200 J/kg.K, 880 J/kg.K; nhiệt hóa hơi riêng của nước là 2,26.10! J/kg và nhiệt độ sôi 
+của nước là 100℃. Nhiệt lượng cần thiết để hóa hơi hoàn toàn lượng nước trong cốc xấp xỉ  
+A. 1,0.10! J.  
+ 
+B. 1,1.10! J.  
+ 
+C. 1,3.10! J.  
+ 
+D. 1,5.10! J. 
+Câu 29. Một nồi chứa 1,5 kg rượu đang sôi, biết nhiệt hóa hơi riêng của rượu là 8,5.10@ J/kg và nhiệt dung riêng 
+của nồi rất nhỏ. Nếu ta tiếp tục cung cấp nhiệt lượng 6,2.10@ J thì lượng rượu còn lại trong nồi là 
+A. 0,73 kg. 
+ 
+ 
+B. 0,77 kg. 
+ 
+ 
+C. 0,93 kg. 
+ 
+ 
+D. 1,25 kg.  
+Câu 30. Một nồi inox có khối lượng 2,5 kg chứa 2 kg nước ở nhiệt độ 23℃ và tiến hành đun trên bếp. Trong quá 
+trình đun sôi, do sơ suất quên tắt bếp khi nước sôi nên một lượng nước đã bị hóa hơi. Biết nhiệt lượng cung cấp 
+cho toàn bộ quá trình này là 1,41.10! J; nhiệt dung riêng của nước, inox lần lượt là 4200 J/kg.K, 460 J/kg.K; 
+nhiệt hóa hơi riêng của nước là 2,26.10! J/kg và nhiệt độ sôi của nước là 100℃. Lượng nước đã bị hóa hơi xấp 
+xỉ bằng 
+A. 0,3 g. 
+ 
+ 
+B. 0,6 g. 
+ 
+ 
+C. 300 g. 
+ 
+ 
+D. 600 g.  
+Câu 31 (Đề thi thử tốt nghiệp THPT Hàm Rồng - Thanh Hóa năm 2025). Vận động viên điền kinh bị mất rất 
+nhiều nước trong khi thi đấu. Các vận động viên thường chỉ có thể chuyển hoá khoảng 22% năng lượng dự trữ 
+trong cơ thể thành năng lượng dùng cho các hoạt động của cơ thể. Phần năng lượng còn lại chuyển thành nhiệt 
+thải ra ngoài nhờ sự bay hơi của nước qua hô hấp và da để giữ cho nhiệt độ cơ thể không đổi. Nếu vận động viên 
+dùng hết 10800kJ trong cuộc thi thì có khoảng bao nhiêu lít nước đã thoát ra ngoài cơ thể? Coi nhiệt độ cơ thể 
+của vận động viên hoàn toàn không đổi và nhiệt hoá hơi riêng của nước ở nhiệt độ của vận động viên là 2,4.10! 
+J/kg. Biết khối lượng riêng của nước là 1,0.109 kg/m3. 
+A. 1,6 lít. 
+ 
+ 
+B. 2,6 lít. 
+ 
+ 
+C. 3,5 lít. 
+ 
+ 
+D. 4,6 lít. 
+ 
+ 
+Sử dụng các thông tin sau cho câu 32 và câu 33 (Đề thi thử tốt nghiệp THPT Vĩnh Kim – Kiên Giang năm 
+2025). Một học sinh làm thí nghiệm đo nhiệt hóa hơi riêng của nước với các dụng cụ: cân điện tử, ấm siêu tốc, 
+đồng hồ đo thời gian, chai nước. Biết ấm đun có công suất P = 2000 W và có hiệu suất H = 75%. Khi nước bắt 
+đầu sôi, khối lượng nước trong ấm đo được bằng cân điện từ là m = 300g, lúc này học sinh mở nắp ấm để nước 
+bay hơi, sau khoảng thời gian 77 giây thì thấy số chỉ trên cân điện tử còn m’ = 250g. 
+Câu 32. Điện năng mà ấm nước tiêu thụ trong thời gian trên bằng bao nhiêu? 
+A. 154000 J. 
+B. 115500 J. 
+ 
+ 
+C. 3500 J. 
+ 
+ 
+D. 114000 J. 
+Câu 33. Xác định được nhiệt hóa hơi riêng của nước bằng bao nhiêu? 
+A. 2,31.10! J/kg.              
+B. 6,62.10@ J/kg.            
+C. 2,31.10@ J/kg. 
+ 
+D. 4,62.10! J/kg. 
+Câu 34. Xác định lượng nhiệt cần cung cấp cho viên nước đá khối lượng 0,2 kg ở – 20℃ biến hoàn toàn thành 
+hơi nước ở 100℃. Biết nước đá có nhiệt nóng chảy riêng là 3,4.10@ J/kg và nhiệt dung riêng là 2,1.109 J/kg.K; 
+nước có nhiệt dung riêng là 4,2.109 J/kg.K và nhiệt hóa hơi là 2,3.10! J/kg. 
+
+---PAGE---
+ 
+ 
+13 
+A. 450,6 kJ. 
+B. 620,4 kJ. 
+ 
+ 
+C. 789,7 kJ. 
+ 
+ 
+D. 868,5 kJ. 
+Câu 35. Tính nhiệt lượng tỏa ra khi 4 kg hơi nước ở 100℃ ngưng tụ thành nước ở 22℃. Nước có nhiệt dung 
+riêng là 4180 J/kg.K và nhiệt hóa hơi riêng là 2,3.10! J/kg. 
+A. 10,5 MJ. 
+ 
+ 
+B. 11,5 MJ. 
+ 
+ 
+C. 12,5 MJ. 
+ 
+ 
+D. 13,5 MJ. 
+Câu 36. Một ấm nhôm khối lượng 700g chứa 2 kg nước ở nhiệt độ 27℃ được đun nóng bằng một bếp điện có 
+công suất không đổi và có 80% nhiệt lượng do bếp cung cấp được dùng vào việc đun nóng ấm nước. Sau 30 phút 
+thì có 400g nước đã hóa hơi ở 100℃. Biết nhiệt dung riêng của nước và của nhôm lần lượt là 4200 J/kg.K và 880 
+J/kg.K. Nhiệt hóa hơi riêng của nước ở 100 °C là 2,3. 10! J/kg. Công suất cung cấp nhiệt của bếp điện xấp xỉ 
+A. 1096 W. 
+B. 877 W. 
+ 
+C. 457 W. 
+ 
+ 
+D. 1065 W. 
+Câu 37. Một chai rượu etylic (hỗn hợp của etylic acohol và nước) có thể tích thực là 750ml và độ rượu là 20o. 
+Biểu thức xác định độ rượu ethylic là S =
+C!"#$%& (&)*)$
+C+ượ. !"*#$%& × 100. Ta có bảng số liệu sau: 
+ 
+Khối lượng 
+riêng (kg/m3) 
+Nhiệt độ sôi 
+(°C) 
+Nhiệt dung 
+riêng (J/kg.K) 
+Nhiệt hóa hơi 
+riêng (J/kg) 
+Etylic acohol 
+789 
+78 
+2460 
+0,9.106 
+Nước 
+997 
+100 
+4200 
+2,3.106 
+ Nhiệt lượng cần cung cấp để hóa hơi hoàn toàn lượng rượu ethylic trong chai kể từ thời điểm nhiệt độ của rượu 
+vừa đạt 78℃ xấp xỉ bằng 
+A. 1538 kJ. 
+B. 1431 kJ. 
+ 
+ 
+C. 162 kJ. 
+ 
+ 
+D. 1482 kJ. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+14 
+2. CÂU TRẮC NGHIỆM ĐÚNG SAI 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về quá trình hóa hơi của chất lỏng. 
+Phát biểu 
+Đúng 
+Sai 
+a) Trong quá trình sôi, nhiệt độ của chất lỏng luôn không đổi. 
+ 
+ 
+b) Với hai chất lỏng khác nhau có cùng khối lượng, nhiệt lượng cần cung cấp để hóa hơi hoàn 
+toàn hai lượng chất lỏng này là như nhau. 
+ 
+ 
+c) Trong quá trình hóa hơi, chất lỏng tỏa nhiệt lượng. 
+ 
+ 
+d) Nhiệt lượng cần cung cấp cho một chất lỏng hóa hơi ở nhiệt độ không đổi phụ thuộc vào 
+khối lượng và bản chất của chất lỏng. 
+ 
+ 
+Câu 2 (Đề thi thử tốt nghiệp THPT Lộc An – Lâm Đồng năm 2025). Một ấm điện có công suất 1000 W chứa 
+300g nước ở 20℃ đến khi sôi ở áp suất tiêu chuẩn. Cho nhiệt dung riêng và nhiệt hóa hơi riêng của nước lần lượt 
+là 4,2.109 J/kg.K và 2,26.10! J/kg. 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt lượng để làm nóng 300g nước từ 20℃ đến 100℃ là 100800 J. 
+ 
+ 
+b) Nhiệt lượng cần cung cấp để 200g nước hóa hơi hoàn toàn ở 100℃ là 678.10! J. 
+ 
+ 
+c) Thời gian cần thiết để đun nước trong ẩm đạt đến nhiệt độ sôi là 100,8 phút. 
+ 
+ 
+d) Sau khi nước đến nhiệt độ sôi, người ta để ấm tiếp tục đun nước sôi trong 226 s. Khối 
+lượng nước còn lại trong ẩm xấp xỉ 100g. 
+ 
+ 
+Câu 3. Hình bên là đồ thị biểu diễn sự phụ thuộc nhiệt t của một khối chất lỏng theo nhiệt lượng Q mà nó nhận 
+được. Biết nhiệt dung riêng của chất lỏng này là 2500 J/kg.K. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt độ sôi của chất lỏng này là 78℃. 
+ 
+ 
+b) Đoạn BC cho biết khối chất chỉ tồn tại ở thể khí. 
+ 
+ 
+c) Khối lượng của khối chất này là 1,5 kg. 
+ 
+ 
+d) Nhiệt hóa hơi riêng của chất lỏng này là 9,0.105 J/kg. 
+ 
+ 
+Câu 4 (Đề thi thử tốt nghiệp THPT Trưng Yên – Hưng Yên năm 2025). Đổ 1,5 lít nước ở nhiệt độ t" = 20℃ 
+vào một ấm nhôm có khối lượng 600 gam ở cùng nhiệt độ với nước, sau đó đun bằng bếp điện. Sau thời gian t = 
+35 phút thì có 20% khối lượng nước đã hóa hơi ở nhiệt độ sôi t5 = 100℃. Biết rằng, chỉ có 75% nhiệt lượng mà 
+bếp cung cấp được dùng vào việc đun nước. Cho biết nhiệt dung riêng của nước là 4190 J/kg.K, của nhôm là 880 
+J/kg.K, nhiệt hóa hơi riêng của nước ở 100℃ là L = 2,26.10! J/kg , khối lượng riêng của nước là D = 1000 kg/m3. 
+ 
+
+---PAGE---
+ 
+ 
+15 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt lượng có ích mà bếp đã cung cấp cho ấm đựng nước sau thời gian 35 phút là 1223040 
+J. 
+ 
+ 
+b) Công suất toàn phần của bếp điện xấp xỉ bằng 776,53 W. 
+ 
+ 
+c) Tỉ số giữa nhiệt lượng toàn phần của bếp và nhiệt lượng có ích mà bếp đã cung cấp cho ấm 
+đựng nước sau thời gian 35 phút là 0,75. 
+ 
+ 
+d) Nhiệt lượng toàn phần mà bếp đã cung cấp là 1630720 J. 
+ 
+ 
+ 
+Câu 5 (Đề thi thử tốt nghiệp Sở Nam Định năm 2025). Một nhóm học sinh làm thí nghiệm để xác định nhiệt 
+hóa hơi của nước như sau: nối Watt kế với một ấm siêu tốc chứa nước, đặt ấm lên một cân điện tử, cấp điện cho 
+ấm siêu tốc; khi nước đã sôi nhóm học sinh mở nắp ấm để hơi nước thoát ra, và ghi lại số chỉ của Watt kế, của 
+cân theo thời gian thì thu được bảng số liệu sau: 
+Thời gian (phút) 
+0 
+1 
+2 
+3 
+Số chỉ Watt kế (W) 
+1003 
+997 
+1001 
+999 
+Số chỉ cân (gam) 
+2500 
+2318 
+2138 
+1960 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Công suất trung bình của ấm điện bằng 1000 W. 
+ 
+ 
+b) Lượng nước bị bay hơi trong 3 phút khảo sát bằng 540 g. 
+ 
+ 
+c) Trong khoảng thời gian nước sôi, nhiệt độ của nước liên tục tăng. 
+ 
+ 
+d) Coi rằng mất mát nhiệt ra môi trường không đáng kể, từ bảng số liệu trên nhóm học sinh 
+tính toán được nhiệt hóa hơi riêng của nước trong thí nghiệm bằng 3,3.105 J/kg (làm tròn kết 
+quả đến chữ số hàng phần mười). 
+ 
+ 
+Câu 6 (Đề thi thử tốt nghiệp THPT Trần Đăng Ninh – Hà Nội năm 2025). Một bát bằng đồng nặng 150g đựng 
+220g nước đều ở nhiệt độ 20℃. Một miếng đồng hình trụ khối lượng 300g ở nhiệt độ cao rơi vào bát nước làm 
+nước sôi và chuyển 5,00g nước thành hơi. Nhiệt độ cuối của hệ là 100℃. Biết nhiệt dung riêng của đồng là 380 
+J/kg.K; nhiệt dung riêng của nước là 4200 J/kg.K và nhiệt hoá hơi riêng của nước là 2,26.10! J/kg. Bỏ qua sự 
+trao đổi nhiệt với không khí. Trong các câu sau đây, câu nào đúng, sai? 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt lượng bát đồng nhận được để tăng nhiệt độ từ 20℃ đến 100℃ là 4560 J . 
+ 
+ 
+b) Bát đồng và nước nhận nhiệt lượng từ miếng đồng. 
+ 
+ 
+c) Nhiệt lượng mà nước nhận được để tăng nhiệt độ từ 20℃ đến 100℃ là 124320 J . 
+ 
+ 
+d) Nhiệt độ ban đầu của miếng đồng gần đúng là 887,5℃. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+16 
+Câu 7. Một học sinh làm thí nghiệm đun nóng để làm 0,02 kg nước đá (thể rắn) ở 0℃ chuyển hoàn toàn thành 
+hơi nước ở 100℃. Cho nhiệt nóng chảy của nước ở 0℃ là 3,34.10@ J/kg; nhiệt dung riêng của nước là 4,2kJ/kg.K; 
+nhiệt hoá hơi riêng của nước là 2,26.10! J/kg. Bỏ qua hao phí nhiệt ra môi trường. 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt lượng cần thiết để làm nóng chảy hoàn toàn 0,02 kg nước đá tại nhiệt độ nóng chảy là 
+6860J. 
+ 
+ 
+b) Nhiệt lượng cần thiết để đưa 0,02 kg nước từ 0℃ đến 100℃ là 8400J. 
+ 
+ 
+c) Nhiệt lượng cần thiết để làm hoá hơi hoàn toàn 0,02 kg nước ở 100℃ là 42500J. 
+ 
+ 
+d) Nhiệt lượng để 0,02 kg nước đá ở 0℃ chuyển hóa toàn thành hơi nước ở 100℃ là 60280 J. 
+ 
+ 
+ 
+Câu 8 (phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Chu Văn An – Lạng Sơn năm 2025). Hình bên dưới 
+là bộ thí nghiệm nhiệt hóa hơi riêng của nước và các bước tiến hành thí nghiệm của nhóm học sinh. Xác định tính 
+đúng/sai của các phát biểu sau: 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Mục đích là xác định nhiệt hoá hơi riêng của nước ở 90℃. 
+ 
+ 
+b) Sử dụng dụng cụ sau: biến thế nguồn, bộ đo công suất nguồn điện (Watt kế) có tích hợp chức 
+năng đo thời gian, nhiệt lượng kế bằng nhựa có vỏ xốp, dây điện trở, cân điện tử, các dây nối, 
+nước đá. 
+ 
+ 
+c) Sau khi đun sôi nước trong bình nhiệt lượng kế. Tiến hành đo công suất của nguồn điện, đo 
+thời gian, khối lượng của nước sau mỗi khoảng thời gian 2 phút. 
+ 
+ 
+d) Tính công suất trung bình của nguồn điện, xác định 2 thời điểm và khối lượng tương ứng với 
+2 thời điểm đó. 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+17 
+Câu 9. Một học sinh thực hiện một thí nghiệm để tìm nhiệt hóa hơi riêng của nước. Một cốc thủy tinh chứa nước 
+được đặt trên cân điện tử. Nước được đun nóng bằng một máy sưởi nhúng với công suất P = 100 W, được nhúng 
+trong nước sao cho không chạm vào cốc thủy tinh, như hình vẽ. Coi nhiệt lượng toả ra môi trường xung quanh 
+không đáng kể. Cho biết nhiệt độ ban đầu của nước là 27℃ và sôi ở 100℃, nhiệt dung riêng của nước là 4180 
+J/kg.K. Khi nước bắt đầu sôi, học sinh đọc số cân. Sau 1,598 phút học sinh đọc lại số cân thu được kết quả như 
+sau: 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khối lượng nước trong cốc giảm không đáng kể từ lúc bắt đầu đun đến khi nước bắt đầu 
+sôi. 
+ 
+ 
+b) Năng lượng máy sưởi cung cấp trong 3 phút là 18000 J. 
+ 
+ 
+c) Nhiệt hóa hơi riêng của nước ở nhiệt độ 100℃ tính toán được là 2,35.10! J/kg. 
+ 
+ 
+d) Nhiệt lượng cung cấp cho nước từ lúc bắt đầu đun cho đến thời gian 1,598 phút là 24000 J. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+18 
+3. CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN 
+Câu 1. Nhiệt lượng cần cung cấp cho 750ml nước ở nhiệt độ sôi 100℃ hóa hơi hoàn toàn là bao nhiêu MJ? Biết 
+nhiệt hóa hơi riêng của nước là 2,3.10! J/kg và khối lượng riêng của nước là 1 kg/lít. (làm tròn đến chữ số thập 
+phân thứ hai) 
+Đáp số: 
+ 
+ 
+ 
+ 
+Câu 2 (Đề thi thử tốt nghiệp THPT Phù Cừ – Hưng Yên năm 2025). Nhiệt lượng cần cung cấp để làm bay hơi 
+hoàn toàn 1kg nước ở 100℃ là bao nhiêu MJ? Cho biết nhiệt hoá hơi riêng của nước là 2,3.106 J/kg. 
+Đáp số: 
+ 
+ 
+ 
+ 
+Câu 3. Cho biết nhiệt nóng chảy riêng của nước đá và nhiệt hóa hơi riêng của nước lần lượt là 3,34.10@ J/kg và 
+2,3.10! J/kg. Năng lượng để hóa hơi hoàn toàn 1kg nước ở nhiệt độ sôi có thể làm nóng chảy bao nhiêu kilogram 
+nước đá ở nhiệt độ 0℃? (làm tròn đến chữ số thập phân thứ nhất) 
+Đáp số: 
+ 
+ 
+ 
+ 
+Câu 4. Một ấm điện chứa 1,3 kg nước đang ở 100℃. Ấm điện có công suất không đổi 2 kW. Nếu công tắc tự 
+động của ấm không hoạt động thì nước trong ấm sẽ cạn hết sau bao nhiêu phút? Biết nhiệt hóa hơi của nước ở 
+100℃ là 2,26.10! J/kg và hiệu suất của ấm là 40% (làm tròn đến chữ số thập phân thứ nhất). 
+Đáp số: 
+ 
+ 
+ 
+ 
+Câu 5. Một ấm đun nước có công suất 500 W chứa 400g nước ở 30℃. Biết nhiệt dung riêng và nhiệt hóa hơi 
+riêng của nước lần lượt là 4180 J/kg.K và 2,26.10! J/kg. Nếu ấm đun trong 15 phút thì khối lượng nước còn lại 
+trong ấm là bao nhiêu gam? Xem nhiệt dung riêng của ấm là rất nhỏ và bỏ qua sự thất thoát năng lượng và áp suất 
+ở điều kiện tiêu chuẩn (làm tròn đến chữ số hàng đơn vị) 
+Đáp số: 
+ 
+ 
+ 
+ 
+Câu 6 (Đề thi thử tốt nghiệp THPT Chu Văn An – Lạng Sơn năm 2025). Các nhà máy điện hạt nhân thường 
+được xây dựng cạnh hồ, sông và bờ biển vì nhà máy điện hạt nhân toả ra rất nhiều nhiệt, cần nhiều nước để làm 
+mát và ngưng tụ hơi nước sau khi đi qua tua bin máy phát điện. Hình bên là sơ đồ hệ thống ngưng tụ hơi nước, 
+trong 1 h đã có 1000 m3 nước biển đi qua bồn ngưng tụ. Độ chênh lệch nhiệt độ giữa nước biển đầu vào và đầu 
+ra có giá trị ổn định là 40℃. Cho nhiệt dung riêng của nước biển là 3900 (J/kg.K), khối lượng riêng của nước 
+biển là 1030 (kg/m³), nhiệt hóa hơi riêng của nước là 2,3.10! (J/kg), nhiệt độ của hơi nước là 100℃ và chỉ có 
+60% lượng nhiệt truyền cho nước biển là của hơi nước. Trong khoảng thời gian trên lượng hơi nước đã bị ngưng 
+tụ là x.103 kg. Tìm x (kết quả làm tròn đến 1 chữ số sau dấu phẩy thập phân) 
+ 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+19 
+ 
+Câu 7 (Đề thi thử tốt nghiệp THPT Hậu Lộc 1 – Thanh Hóa năm 2025). Sự bay hơi của mồ hôi là một cơ chế 
+quan trọng để điều hòa nhiệt độ ở một số động vật máu nóng. Khối lượng nước cần bay hơi từ da của một người 
+đàn ông nặng 70 kg để nhiệt độ cơ thể anh ta hạ 1℃ là bao nhiêu? Nhiệt hóa hơi của nước ở nhiệt độ cơ thể 
+(37℃) là 2,42.10! J/kg. Nhiệt dung riêng của cơ thể con người bình thường là 3480 J/kg.K (m tính theo gam và 
+làm tròn đến hàng đơn vị) 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 8 (Đề thi thử tốt nghiệp TH – THCS – THPT Nguyễn Bỉnh Khiêm – Quảng Ninh năm 2025). Một lượng 
+hơi nước có khối lượng m ở 100℃ đi qua một bình chứa 10 gam nước đá và 100 gam nước ở 0℃ sao cho toàn 
+bộ nước đá tan chảy hết và nhiệt độ tăng lên đến 5℃. Bỏ qua sự trao đổi nhiệt với bình chứa và môi trường xung 
+quanh. Cho biết nhiệt dung riêng của nước, nhiệt hoá hơi riêng của nước và nhiệt nóng chảy riêng của nước đá 
+lần lượt là 4,186 J/g, 2300 J/g và 334 J/g. Khối lượng hơi nước là bao nhiêu gam? (Kết quả làm tròn đến một chữ 
+số thập phân). 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 9 (Đề thi thử tốt nghiệp THPT Yên Thành 2 – Nghệ An năm 2025). Có 0,50 lít nước ở nhiệt độ 30℃, nhiệt 
+lượng tổng cộng cần cung cấp để nó biến hoàn toàn thành hơi ở nhiệt độ sôi 100℃ là bao nhiêu MJ? Biết nhiệt 
+dung riêng của nước là 4200 J/kg.K và khối lượng riêng của nước là 1.109 kg/m3, nhiệt hóa hơi riêng của nước 
+là 2,3.10! J/kg (làm tròn kết quả đến chữ số hàng phần mười). 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 10 (Đề thi thử tốt nghiệp THPT Chuyên KHTN – Hà Nội năm 2025). Một thí nghiệm khảo sát sự thay đổi 
+nhiệt độ của một lượng rượu Etylic theo nhiệt lượng cung cấp thu được đồ thị có dạng như hình bên. Biết nhiệt 
+dung riêng của rượu Etylic là c =2500 J/kg.K. Nhiệt hóa hơi riêng của rượu Etylic xác định được trong thí nghiệm 
+trên là bao nhiêu kJ/kg? 
+ 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 11. Một học sinh dùng bếp điện để đun một ấm nhôm khối lượng 500g đựng 1,4 lít nước ở nhiệt độ 25℃. 
+Sau 30 phút đã có 25% lượng nước trong ấm hóa hơi ở nhiệt độ sôi 100℃. Biết nhiệt dung riêng của nhôm là 880 
+
+---PAGE---
+ 
+ 
+20 
+J/(kg.K), của nước là 4200 J/(kg.K); nhiệt hóa hơi riêng của nước ở nhiệt độ sôi là 2,26.10! J/kg. Khối lượng 
+riêng của nước là 1000 kg/m3. Hiệu suất của quá trình đun nước là 80%. Nhiệt lượng trung bình mà bếp điện cung 
+cấp cho ấm nước trong mỗi giây bằng bao nhiêu J? (làm tròn kết quả đến hàng đơn vị) 
+Đáp số: 
+ 
+ 
+ 
+ 
+4. TỰ LUẬN 
+Câu 1. Khi mồ hôi bốc hơi từ bề mặt da, cơ thể được làm mát. Một người hoạt động thể chất nhiều, mỗi ngày có 
+trung bình 600 ml mồ hôi được thải ra. Các động mạch nhỏ (arterioles) trong lớp da ngoài (dermis) giãn nở để 
+tản nhiệt thừa từ máu ra ngoài qua da và vào môi trường xung quanh. Ngược lại, khi trời lạnh làm cho nhiệt độ 
+cơ thể giảm xuống, các động mạch nhỏ co lại để giảm thiểu mất nhiệt, đặc biệt ở đầu ngón tay và mũi, khiến da 
+có thể trở nên trắng. 
+  
+ 
+a) Giải thích hiện tượng da có màu đỏ hồng khi tập thể dục.  
+b) Giả sử 80% lượng mồ hôi trung bình thoát ra khỏi cơ thể bị bay hơi. Tính nhiệt lượng trung bình mà cơ thể 
+mất đi để cung cấp cho sự hóa hơi của mồ hôi. Biết rằng nhiệt riêng hóa hơi của mồ hôi là 2260 kJ/kg và khối 
+lượng riêng của mồ hôi là 1 kg/lít.  
+Câu 2. Một ấm siêu tốc có thông số như hình bên dưới, được dùng để đun 1,5 lít nước ở nhiệt độ ban đầu là 20℃ 
+đến khi sôi ở áp suất tiêu chuẩn? Biết nhiệt dung riêng của nước là 4200 J/kg.K và khối lượng riêng của nước là 
+1 kg/lít. Xem như nhiệt dung riêng của ấm rất nhỏ. 
+ 
+a) Tính nhiệt lượng mà ấm điện cần cung cấp để đun sôi nước. 
+b) Cần thời gian bao nhiêu giây để đun sôi nước? Xem như hiệu suất đun nước là 100%. 
+c) Nếu để nước trong ấm sôi thêm 3 phút thì lượng nước còn lại trong ấm là bao nhiêu gam? Lấy nhiệt hoá hơi 
+riêng của nước 2.10! J/kg. 
+Câu 3. Trong chuyến đi cắm trại, các bạn học sinh sử dụng một bếp xăng để đun nước. Biết chỉ có 40% năng 
+lượng được giải phóng khi đốt xăng dùng cho việc đun nóng nước trong nồi, nhiệt dung riêng của nước là 4190 
+J/ kg.K, nhiệt hoá hơi riêng của nước là 2,256.10! J/kg, năng suất toả nhiệt của xăng là q = 46.10! J/kg. Hỏi cần 
+phải đốt bao nhiêu kg xăng để đun 1,0 kg nước từ 20℃ cho đến khi trong ấm chỉ còn lại 0,8 kg nước. 
+
+---PAGE---
+ 
+ 
+21 
+ 
+ 
+Câu 4. Dẫn 100g hơi nước ở 100℃ vào bình cách nhiệt đựng nước đá ở −4℃. Khi cân bằng nhiệt, thu được 
+nước ở nhiệt độ 10℃. Biết nhiệt nóng chảy riêng của nước đá là 3,4.10@ J/kg, nhiệt hóa hơi riêng của nước là 
+2,3.10! J/kg, nhiệt dung riêng của nước và nước đá lần lượt 4200 J/kg.K và 2100 J/kg.K. Tính: 
+a) Lượng nhiệt mà hơi nước tỏa ra khi ngưng tụ hoàn toàn thành nước ở 100℃. 
+b) Khối lượng nước đá ban đầu trong bình. 
+Câu 5 (phát triển từ câu hỏi đề thi thử tốt nghiệp THPT Sở Vĩnh Phúc năm 2025). Hình bên dưới mô tả một 
+chiếc bàn là hơi nước. Nước từ một bình chứa nhỏ giọt vào một tấm kim loại được nung nóng bằng điện. Bộ phận 
+làm nóng tiêu thụ công suất điện P. Giả sử rằng toàn bộ năng lượng từ bộ phận làm nóng được truyền đến tấm 
+kim loại. Tấm kim loại được duy trì ở nhiệt độ làm việc của nó. Nước ở 30℃ nhỏ giọt vào tấm kim loại làm hơi 
+nước ở 100℃ liên tục thoát ra từ bàn là. Nhiệt hóa hơi của nước là 2,26.10! J/kg, nhiệt dung riêng của nước 4200 
+J/kg.K, bỏ qua mọi hao phí do tỏa nhiệt ra môi trường. Mỗi phút bàn là tạo ra được 35,2 gam hơi nước. Tính: 
+ 
+a) Nhiệt lượng cần cung cấp để nước ở 30℃ chuyển thành hơi nước trong mỗi phút. 
+b) Công suất của bếp. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+22 
+III – ĐỀ KIỂM TRA THAM KHẢO 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi 
+câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1. Trong hệ SI, đơn vị của nhiệt hóa hơi riêng là 
+A. J/K.  
+ 
+ 
+B. J/kg.K. 
+ 
+ 
+C. J. 
+ 
+ 
+ 
+D. J/kg. 
+Câu 2. Nhiệt lượng cần cung cấp cho một lượng chất lỏng hóa hơi hoàn toàn ở nhiệt độ không đổi có biểu thức 
+A. Q =
+:
+B.  
+ 
+ 
+B. Q =
+:
+5B. 
+ 
+ 
+C. Q = m. L.   
+ 
+D. Q = 2m. L.  
+Câu 3. Lựa chọn từ khóa thích hợp để điền vào các chỗ trống sau: ……(1)…… của một chất lỏng là nhiệt 
+lượng cần để làm cho ……(2)…… chất lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi. 
+A. Nhiệt dung riêng; một kilogram.  
+ 
+B. Nhiệt hóa hơi riêng; một kilogram. 
+C. Nhiệt nóng chảy riêng; một kilogram. 
+ 
+D. Nhiệt hóa hơi riêng; một gram. 
+Câu 4. Ở áp suất chuẩn, nhiệt hóa hơi riêng của rượu là 8,5.10@ J/kg. Câu nào dưới đây là đúng? 
+A. Một kilogram rượu cần thu năng lượng nhiệt là 8,5.10@ J hơi hoàn toàn. 
+B. Một kilogram rượu sẽ tỏa ra lượng nhiệt 8,5.10@ J khi hóa hơi hoàn toàn ở nhiệt độ sôi và áp suất bất kỳ. 
+C. Một lượng rượu bất kỳ cần thu nhiệt lượng 8,5.10@ J để hóa hơi hoàn toàn. 
+D. Một kilogram rượu cần thu lượng nhiệt là 8,5.10@ J để hóa hơi hoàn toàn ở nhiệt độ sôi và áp suất chuẩn.  
+Câu 5. Nhiệt hóa hơi riêng của một chất là nhiệt lượng cần cung cấp để nhiệt độ của khối chất đó có khối lượng 
+m chuyển hoàn toàn từ thể lỏng sang thể khí khi chất lỏng đó sôi. Khối lượng m có giá trị bằng  
+A. 100 g. 
+ 
+ 
+B. 1 g.  
+ 
+ 
+C. 10 kg. 
+ 
+ 
+D. 1 kg.  
+Câu 6. Vì sao ở cùng nhiệt độ 100℃ (áp suất thông thường) nhưng bỏng do hơi nước nóng thường nguy hiểm 
+hơn bóng do nước nóng đối với người bị bỏng?  
+A. Vì hơi nước nóng có vùng lan tỏa rộng hơn trên cơ thể. 
+B. Vì hơi nước nóng có khả năng truyền nhiệt nhanh hơn nước nóng. 
+C. Vì hơi nước nóng chứa nhiều hơi nước hơn nước nóng. 
+D. Vì khi hơi nước ngưng tụ trên da, nó sẽ truyền thêm nhiệt vào da. 
+Câu 7. Quá trình hóa hơi của một chất là quá trình chuyển thể từ  
+A. thể rắn sang thể lỏng. 
+ 
+B. thể lỏng sang thể khí. 
+C. thể rắn sang thể khí. 
+ 
+D. thể khí sang thể lỏng. 
+Câu 8. Khi trẻ em bị sốt, bác sĩ thường hướng dẫn bố mẹ sử dụng khăn nhúng ấm để lau cơ thể trẻ. Nước ấm giúp 
+làm hở lỗ chân lông giúp cơ thể thoát mồ hôi dễ dàng hơn. Mồ hôi là một cơ chế tự nhiên giúp cơ thể giảm nhiệt 
+độ hiệu quả. Hiện tượng mồ hôi bốc hơi trên da có tác dụng gì? 
+A. Làm giảm nhiệt độ cơ thể do mồ hôi nhận một phần nhiệt lượng cơ thể để bay hơi. 
+B. Làm cơ thể giữ lại nhiệt nhiều hơn, tránh việc thân nhiệt bị giảm đột ngột. 
+C. Tăng nhiệt độ cơ thể để chống lại vi khuẩn. 
+D. Không có tác dụng gì đối với nhiệt độ cơ thể. 
+Câu 9. Trong suốt thời gian sôi, nhiệt độ của chất lỏng 
+A. giảm đi. 
+ 
+ 
+B. tăng lên. 
+ 
+ 
+C. không đổi.  
+ 
+D. tăng rồi giảm. 
+Câu 10. Nhiệt hóa hơi riêng là thông tin cần thiết trong việc thiết kế thiết bị nào sau đây? 
+A. Máy điều hòa. 
+ 
+B. Máy biến áp. 
+ 
+C. Nhiệt kế. 
+ 
+ 
+D. Quạt điện. 
+Câu 11. Một chất lỏng có nhiệt hoá hơi riêng của là 8,4.10@ J/kg. Nếu cung cấp 420 kJ nhiệt lượng cho chất 
+lỏng ở nhiệt độ sôi, ta có thể hóa hơi một lượng chất lỏng bằng  
+ 
+
+---PAGE---
+ 
+ 
+23 
+A. 0,5 g. 
+ 
+ 
+B. 500 g. 
+ 
+ 
+C. 2 g.  
+ 
+ 
+D. 200 g. 
+Câu 12. Biết nhiệt dung riêng của nước là 4200 J/kg.K và nhiệt hóa hơi riêng của nước là 2,3.10! J/kg ở 100℃. 
+Nhiệt lượng cần cung cấp để làm hóa hơi hoàn toàn 200g nước ở nhiệt độ 40℃ ở điều kiện tiêu chuẩn là 
+A. 50,40  kJ.  
+ 
+B. 409,6 kJ. 
+ 
+ 
+C. 460,0 kJ. 
+ 
+ 
+D. 510,4 kJ. 
+PHẦN II. Câu trắc nghiệm đúng sai (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở 
+mỗi câu, thí sinh chọn đúng hoặc sai. 
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về nhiệt lượng trong quá trình hóa hơi và nhiệt hóa 
+hơi riêng của chất lỏng. 
+Phát biểu 
+Đúng 
+Sai 
+a) Hệ thức tính nhiệt lượng cần cung cấp cho một lượng chất lỏng hóa hơi hoàn toàn ở nhiệt 
+độ sôi là Q = m.L với L được gọi là nhiệt hóa hơi riêng của chất lỏng. 
+ 
+ 
+b) Nhiệt hóa hơi riêng của một chất lỏng là nhiệt lượng cần để làm cho một kilogram chất 
+lỏng đó hóa hơi hoàn toàn ở nhiệt độ sôi. 
+ 
+ 
+c) Nhiệt hóa hơi riêng đặc trưng cho từng chất lỏng và có giá trị không đổi ở mọi nhiệt độ sôi 
+và áp suất. 
+ 
+ 
+d) Đơn vị của nhiệt hóa hơi là J/kg. 
+ 
+ 
+ 
+Câu 2. Người ta đun sôi 0,5 lít nước có nhiệt độ ban đầu 27℃ chứa trong chiếc ấm bằng đồng khối lượng m2 = 
+0,4 kg. Sau khi sôi được một lúc đã có 0,1 lít nước biến thành hơi. Biết nhiệt hóa hơi của nước là 2,3.10! J/kg, 
+nhiệt dung riêng của nước và của đồng tương ứng là 4180 J/kg.K, 380 J/kg.K, khối lượng riêng của nước là 
+1kg/lít. 
+Phát biểu 
+Đúng 
+Sai 
+a) Nhiệt lượng cần thiết để đưa ấm từ nhiệt độ 27℃ đến nhiệt độ sôi 100℃ là 163666 J.  
+ 
+ 
+b) Nhiệt lượng cần cung cấp cho 0,1 lít nước hóa hơi là 220000 J. 
+ 
+ 
+c) Độ chênh lệch giữa nhiệt lượng cần cung cấp cho 0,1 lít nước hóa hơi và nhiệt lượng cần 
+thiết để đưa ấm từ nhiệt độ 27℃ đến nhiệt độ sôi 100℃ là 56334 J. 
+ 
+ 
+d) Tổng nhiệt lượng đã cung cấp cho ấm nước để hoá hơi là 393666 J. 
+ 
+ 
+ 
+PHẦN III. Câu trắc nghiệm trả lời ngắn (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng 
+được 0,5 điểm. 
+Câu 1. Một tủ đông công nghiệp bay ammonia trong các ống làm mát để loại bỏ nhiệt từ máy làm đá. Ở nhiệt độ 
+−33℃, nhiệt hoá hơi riêng của ammonia 1,37.10! J/kg. Cần bay hơi bao nhiêu kilogram ammonia để loại bỏ 
+6850 kJ nhiệt? 
+Sử dụng các thông tin sau cho câu 2 và câu 3: Một lượng nước có khối lượng 3,0 kg được đun từ nhiệt độ 25℃  
+đến nhiệt độ sôi (100℃) và sau đó hóa hơi hoàn toàn. Biết rằng nhiệt dung riêng của nước là 4180 J/(kg.K) và 
+nhiệt hóa hơi riêng của nước là 2260 kJ/kg. 
+Câu 2. Nhiệt lượng cần thiết để lượng nước trên ở nhiệt độ 100℃ hóa hơi hoàn toàn là bao nhiêu MJ? 
+Câu 3. Nhiệt lượng cần cung cấp lượng nước ở nhiệt độ ban đầu hóa hơi hoàn toàn là bao nhiêu MJ? (làm tròn đến 
+chữ số thập phân thứ hai) 
+Câu 4. Một ấm điện chứa 1,5 lít nước đang ở 100℃. Ấm điện có công suất không đổi 2,2 kW. Nếu công tắc tự 
+động của ấm không hoạt động thì nước trong ấm sẽ cạn hết sau bao nhiêu phút? Biết nhiệt hóa hơi của nước ở 
+
+---PAGE---
+ 
+ 
+24 
+100℃ là 2,3.10! J/kg, khối lượng riêng của nước là 997 kg/m3 và hiệu suất của ấm là 70% (làm tròn đến chữ số 
+thập phân thứ nhất). 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm). Tại sao khi ra khỏi hồ bơi ta cảm thấy lạnh, mặc dù ở trong nước lại ấm? 
+ 
+Câu 2 (2,0 điểm). Một ấm điện khi hoạt động bình thường có điện trở 100 W và cường độ dòng điện qua ấm khi 
+đó là 2,5 A. Người ta dùng ấm điện này để đun 1,5 lít nước có nhiệt độ ban đầu là 25℃ thì thời gian đun sôi nước 
+là 15 phút. Biết nhiệt dung riêng, khối lượng riêng, nhiệt hóa hơi riêng của nước lần lượt là 4200 J/kg.K; 997 
+kg/m3; 2,26.106 J/kg. Công suất của ấm điện luôn không đổi, bỏ qua sự bay hơi của nước trong quá trình đun và 
+áp suất ở điều kiện tiêu chuẩn. Tính: 
+a) Hiệu suất của ấm điện. (1,0 điểm) 
+b) Thời gian cần thiết nếu ta tiếp tục đun đến khi nước trong ấm hóa hơi hoàn toàn. Nếu hiệu suất của ấm điện 
+luôn không đổi. (1,0 điểm) 
+ 
+
+---PAGE---

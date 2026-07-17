@@ -1,0 +1,1239 @@
+ 
+ 
+1 
+Chủ đề 4 : NHIỆT DUNG RIÊNG 
+ 
+I. TÓM TẮT LÝ THUYẾT – PHƯƠNG PHÁP GIẢI 
+1. Khái niệm nhiệt dung riêng 
+- Định nghĩa nhiệt dung riêng (c): 
+ 
+Nhiệt dung riêng của một chất là nhiệt lượng cần truyền cho 1 kg chất đó để làm cho nhiệt độ của nó 
+tăng thêm 1 oC (hay 1 K). 
+Nhiệt dung riêng là một thông tin quan trọng thường được dùng trong khi thiết kế các hệ thống làm 
+mát, sưởi ấm,...  
+- Hệ thức tính nhiệt lượng trong quá trình truyền nhiệt để làm thay đổi nhiệt độ của vật là: 
+𝐐= 𝐦. 𝐜. ∆𝐓 
+Trong đó: Q là nhiệt lượng cần truyền cho vật (J); 
+ 
+m là khối lượng vật (kg); 
+ 
+DT là độ tăng nhiệt độ của vật (K); 
+ 
+c là nhiệt dung riêng của chất làm vật (J/(kg.K)). 
+Khi đó, nhiệt dung riêng của một chất được xác định bằng biểu thức: 
+𝐜=
+𝐐
+𝐦. ∆𝐓 
+* Lưu ý: Khi nhiệt độ của vật tăng hay giảm DT (K) thì cũng tăng hay giảm Dt (°C) = DT (K). 
+Bảng 4.1. Nhiệt dung riêng của một số chất ở 0 °C. 
+Chất 
+Nhiệt dung riêng 
+(J/(kg.K)) 
+Chất 
+Nhiệt dung riêng 
+(J/(kg.K)) 
+Nhôm 
+880 
+Nước 
+4 180 
+Đồng 
+380 
+Nước biển 
+3 950 
+Chì 
+126 
+Rượu 
+2 500 
+Nước đá 
+1 800 
+Thủy ngân 
+140 
+2. Thực hành đo nhiệt dung riêng của nước 
+ 
+2.a. Mục đích thí nghiệm 
+ 
+Xác định nhiệt dung riêng của nước. 
+ 
+2.b. Dụng cụ thí nghiệm 
+
+---PAGE---
+ 
+ 
+2 
+- Biến thế nguồn (1). 
+- Bộ đo công suất nguồn điện (oát kế) có tích hợp 
+chức năng đo thời gian (2). 
+- Nhiệt kế điện tử hoặc cảm biến nhiệt độ có thang 
+đo từ - 20 °C đến 110 °C và độ phân giải nhiệt độ 
+± 0,1 °C (3). 
+- Nhiệt lượng kế bằng nhựa có vỏ xốp, kèm điện trở 
+nhiệt (gắn ở trong bình) (4). 
+- Cân điện tử (5) (hoặc bình đong). 
+- Các dây nối. 
+ 
+Hình 4.1. Bộ thí nghiệm thực hành đo nhiệt 
+dung riêng của nước 
+ 
+2.c. Tiến hành thí nghiệm 
+THÍ NGHIỆM ĐO NHIỆT DUNG RIÊNG CỦA NƯỚC 
+Bước 1 
+- Đổ một lượng nước vào bình nhiệt lượng kế, sao cho toàn bộ điện trở nhiệt chìm 
+trong nước, xác định khối lượng nước này. 
+Bước 2 
+- Cắm đầu đo của nhiệt kế vào nhiệt lượng kế. 
+Bước 3 
+- Nối oát kế với nhiệt lượng kế và nguồn điện. 
+Bước 4 
+- Bật nguồn điện. 
+Bước 5 
+- Khuấy liên tục để nước nóng đều. Cứ sau mỗi khoảng thời gian 1 phút, đọc công 
+suất dòng điện từ oát kế, nhiệt độ từ nhiệt kế rồi điền kết quả vào vở theo mẫu 
+tương tự Bảng 4.2. 
+Bước 6 
+- Tắt nguồn điện. 
+ 
+ 
+2.d. Kết quả thí nghiệm 
+- Bảng 4.2. Ví dụ về kết quả thí nghiệm đo nhiệt dung riêng của nước. 
+Khối lượng nước m = 0,15 kg. 
+Nhiệt độ 
+(t0C) 
+Thời gian 
+𝛕 (𝐬) 
+Công suất 
+𝓟 (𝐖) 
+25,2 
+60 
+15,04 
+25,4 
+120 
+15,07 
+27,0 
+180 
+15,03 
+28,7 
+240 
+15,94 
+31,2 
+300 
+15,84 
+32,3 
+360 
+15,94 
+33,8 
+420 
+15,94 
+ 
+- Vẽ đồ thị nhiệt độ của nước theo thời gian. 
+
+---PAGE---
+ 
+ 
+3 
+ 
+Hình 4.2. Đồ thị biểu diễn sự thay đổi nhiệt độ theo thời gian của nước trong bình nhiệt lượng kế được vẽ 
+từ Bảng 4.2. 
+- Xác định giá trị trung bình của công suất dòng điện: 
+𝓟/ =
+𝓟𝟏"𝓟𝟐"𝓟𝟑"𝓟𝟒"𝓟𝟓"𝓟𝟔"𝓟𝟕
+𝟕
+=
+$%,'("$%,')"$%,'*"$%,+("$%,,("$%,+("$%,+(
+)
+≈15,54 W. 
+- Xác định nhiệt dung riêng của nước bằng công thức: 
+𝒄𝑯𝟐𝑶=
+𝑸
+𝒎.∆𝑻=
+𝓟4.(𝝉𝑵7𝝉𝑴)
+𝒎.(𝒕𝑵7𝒕𝑴)  
+- Tính sai số tuyệt đối của phép đo nhiệt dung riêng của nước. 
+ 
+Ta kẻ ba đường thẳng khác nhau như hình 4.2, lập bảng số liệu và tính giá trị trung bình và sai số của 
+phép đo nhiệt dung riêng của nước như Bảng 4.3. 
+Bảng 4.3. Tính sai số phép đo nhiệt dung riêng của nước 
+𝜏= 300 s; 𝒫= 15,54 W. 
+STT đường thẳng 
+𝑡: (°C) 
+𝑡; (°C) 
+c (J/(kg.K)) 
+Dc (J/(kg.K)) 
+1 
+33 
+26 
+4 440 
+185 
+2 
+33,5 
+25,5 
+3 885 
+370 
+3 
+33 
+26 
+4 440 
+185 
+ 
+Trung bình 
+4 255 
+247 
+Nhiệt dung riêng của nước: c = 4 255 ± 247 (J/(kg.K)); dc = 5,8% 
+- So sánh kết quả đo với nhiệt dung riêng của nước ở Bảng 4.1 và giải thích tại sao có sự sai khác (nếu có). 
+ 
+Giá trị nhiệt dung riêng của nước thu được từ thí nghiệm cao hơn giá trị trong Bảng 4.1, nhưng sai số 
+trong phạm vi cho phép. Nguyên nhân gây ra sự chênh lệch này là do khi thực hiện thí nghiệm đã bỏ quả 
+sự truyền nhiệt ra môi trường. 
+ 
+3. Phương pháp giải + Ví dụ : 
+Sử dụng các kiến thức sau để giải bài tập định lượng: 
+
+---PAGE---
+ 
+ 
+4 
+- Biểu thức tính nhiệt lượng mà một khối lượng chất nhận vào hay tỏa ra để tăng hay giảm nhiệt độ là: 
+Q = m. c. ∆T 
+- Sử dụng phương trình cân bằng nhiệt: 
+|Q<ỏ>| = |Q<?@| 
+- Nhiệt lượng tỏa ra trên thiết bị có điện trở R khi dòng điện I chạy qua trong khoảng thời gian t là: 
+Q = 𝒫. t = IA. R. t 
+- Hiệu suất chuyển hóa năng lượng: 
+H =
+ABó íB?
+A<FàH I?ầH
+. 100% =
+Q<?@
+QB@HK BấI
+. 100% 
+Ví dụ 1: Nhiệt lượng của một vật đồng chất thu vào là 6 900 J làm nhiệt độ của vật tăng thêm 50 °C. Bỏ 
+qua sự trao đổi nhiệt với môi trường. Biết khối lượng của vật là 300 g. Tính nhiệt dung riêng của chất làm 
+vật. 
+Hướng dẫn giải 
+ 
+Nhiệt dung riêng của chất làm vật: 
+ 
+ 
+𝑐=
+M
+N.∆O =
+P +''
+',*.%' = 460 J/(kg.K). 
+Ví dụ 2: Một ấm đun siêu tốc có phần thân ấm làm bằng thép không gỉ có khối lượng 0,5 kg, đang chứa 
+1,8 lít nước ở 25 °C. Biết nhiệt dung riêng của thép và nước lần lượt là 460 J/(kg.K) và 4 180 J/(kg.K); khối 
+lượng riêng của nước là 1 000 kg/m3. 
+ 
+a) Tính nhiệt lượng cần cung cấp để đun ấm nước đến khi sôi ở 100 °C. 
+ 
+b) Biết công suất điện ghi trên ấm đun là 1 500 W và hiệu suất của ấm đun là 95%. Tính thời gian để 
+đun sôi ấm nước trên.  
+Hướng dẫn giải 
+a) Nhiệt lượng cần cung cấp để đun ấm nước đến khi sôi ở 100oC: 
+𝑄= 𝑄ấN + 𝑄QướT = 𝑚ấN. 𝑐UV. ∆𝑇+ 𝑚QướT. 𝑐QướT. ∆𝑇= (𝑚ấN. 𝑐UV + 𝐷QướT. 𝑉QướT. 𝑐QướT). ∆𝑇  
+Û 𝑄= (0,5.460 + 1000.1,8. 107*. 4180). (100 −25) = 581 550 J. 
+b) Thời gian đun sôi một ấm nước: 
+𝑄UỏW = 𝐻. 𝑄 Û 𝒫. 𝑡= 𝐻. 𝑄 Û 𝑡=
+X.M
+𝒫=
++%%.%,$ %%'
+$ %''
+≈368 s. 
+Ví dụ 3: Đồ thị ở Hình 4.3 biểu diễn sự phụ thuộc của nhiệt độ của khối băng (nước đá) theo nhiệt lượng 
+cung cấp. Dựa vào đồ thị, hãy tính khối lượng khối băng. Biết nhiệt dung riêng của nước là 4 180 J/(kg.K). 
+Bỏ qua sự hóa hơi của nước trong quá trình nước tăng nhiệt độ. 
+ 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+ 
+5 
+ 
+Từ đồ thị, ta thấy nhiệt lượng đã cung cấp cho lượng nước do khối băng nóng chảy tạo thanh tăng nhiệt 
+độ từ 0 °C lên 
+(,
+, . 7 = 42 °C là 
+A''
+$' . 4 = 80 kJ. 
+ 
+Khối lượng khối băng ban đầu bằng khối lượng nước tạo thành do khối băng nóng chảy và bằng: 
+ 
+ 
+𝑄= 𝑚. 𝑐. ∆𝑇 Û 𝑚=
+M
+T.∆O =
+,'.$'*
+( $,'.((A7') ≈0,46 kg. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+6 
+II. BÀI TẬP LUYỆN TẬP 
+1. CÂU TRẮC NGHIỆM NHIỀU PHƯƠNG ÁN LỰA CHỌN 
+ 
+a) CÂU HỎI ĐỊNH TÍNH  
+Câu 1: Hãy chỉ ra câu sai trong các câu sau: Nhiệt dung riêng của một chất là nhiệt lượng 
+ 
+A. cần thiết để nhiệt độ của 1 kg chất đó tăng thêm 1 K kể cả trong trường hợp việc tăng nhiệt độ như 
+vậy có thể làm thay đổi thể của nó. 
+ 
+B. cần thiết để nhiệt độ của 1 kg chất đó tăng thêm 1 K mà không làm thay đổi thể của nó. 
+ 
+C. toả ra khi 1 kg chất đó giảm đi 1 °C mà không làm thay đổi thể của nó. 
+ 
+D. cần thiết để nhiệt độ của 1 kg chất đó tăng thêm 1 °C mà không làm thay đổi thể của nó. 
+Câu 2: Khi tra thông tin trong bảng nhiệt dung riêng của một số chất, người ta đọc được nhiệt dung riêng 
+của sắt là 440 J/(kg.K). Điều này có nghĩa là cần cung cấp một nhiệt lượng 440 J để làm 
+ 
+A. nóng chảy hoàn toàn 1 kg sắt. 
+ 
+B. tăng nhiệt độ của 1 kg sắt từ 0 °C đến 100 °C. 
+ 
+C. tăng nhiệt độ của 1 kg sắt thêm 1 °C. 
+ 
+D. hóa hơi hoàn toàn 1 kg sắt. 
+Câu 3: Biểu thức tính nhiệt dung riêng của một chất là 
+ 
+A. c =
+[
+\. 
+B. c =
+\
+[. 
+C. c = Q. m. ∆T. 
+D. c =
+[
+\.∆]. 
+Câu 4: Một vật có khối lượng m, nhiệt dung riêng c, nhiệt độ ban đầu là t', nhiệt độ sau khi thu nhiệt 
+lượng Q là t. Biểu thức tính nhiệt lượng mà vật thu vào là 
+ A. Q = m. (t −t'). 
+B. Q = m. (t' −t). 
+C. Q = m. c. (t −t'). 
+D. Q = c. (t −t'). 
+Câu 5: Trong hệ đơn vị SI, đơn vị đo của nhiệt dung riêng của một chất là  
+ 
+A. J/(kg.K). 
+B. J. 
+C. J.K/kg. 
+D. J/kg.  
+Câu 6: Khoảng 70% bề mặt của Trái Đất được bao phủ bởi nước. Vì có ...(1)... nên 
+lượng nước này có thể hấp thụ năng lượng nhiệt khổng lồ của năng lượng Mặt Trời 
+mà vẫn giữ cho ...(2)... của bề mặt Trái Đất tăng không nhanh và không nhiều, tạo 
+điều kiện thuận lợi cho sự sống của con người và các sinh vật khác. Khoảng trống 
+(1) và (2) lần lượt là 
+ 
+A. “nhiệt độ sôi lớn”; “áp suất”. 
+ 
+B. “nhiệt độ sôi lớn”; “nhiệt độ”. 
+ 
+C. “nhiệt dung riêng lớn”; “nhiệt độ”. 
+ 
+D. “nhiệt dung riêng lớn”; “áp suất”. 
+Câu 7: Nhiệt dung riêng của đồng lớn hơn chì. Vì vậy để tăng nhiệt độ của khối đồng và khối chì có cùng 
+khối lượng thêm Dt (°C) thì 
+ 
+A. khối chì cần nhận nhiều nhiệt lượng hơn khối đồng.  
+ 
+B. khối đồng cần nhận nhiều nhiệt lượng hơn khối chì. 
+ 
+C. hai khối đều cần nhiệt lượng như nhau. 
+ 
+D. khối chì cần tỏa nhiều nhiệt lượng hơn khối đồng. 
+Câu 8: Khi thép đang nóng chảy được làm nguội nhanh về nhiệt độ phòng sẽ giúp tăng độ cứng cho thép 
+và cách làm như vậy được gọi là tôi thép. Người ta có thể sử dụng nước để làm hạ nhiệt độ nhanh cho thép 
+đang nóng đỏ vì 
+ 
+A. nhiệt dung riêng của nước cao hơn nhiều so với của thép trong khi đó nhiệt độ sôi của nước lại thấp 
+hơn nhiều so với nhiệt độ nóng chảy của thép. 
+
+---PAGE---
+ 
+ 
+7 
+ 
+B. nhiệt độ nóng chảy của nước thấp hơn nhiều so với của thép. 
+ 
+C. nước có khả năng bốc hơi rất nhanh khi gặp kim loại nóng. 
+ 
+D. sử dụng nước là do thói quen vì thật ra có thể để thép nóng đỏ trong không khí thì thép cũng hạ nhanh 
+về nhiệt độ phòng. 
+Câu 9: Có 4 bình A, B, C và D đều đựng nước ở cùng một nhiệt độ với thể tích lần lượt là 1 lít, 2 lít, 3 lít 
+và 4 lít. Sau khi dùng các đèn cồn giống hệt nhau để đun các bình này trong 8 phút ta thấy nhiệt độ của 
+nước trong các bình này khác nhau. Nước ở trong bình nào có nhiệt độ lúc sau cao nhất? 
+ 
+ 
+A. Bình A. 
+B. Bình B. 
+C. Bình C. 
+D. Bình D. 
+Câu 10: Người ta nhúng một khối sắt có khối lượng 1 kg vào 1 kg nước, cả hai cùng đều ở cùng nhiệt độ 
+ban đầu (nhiệt độ phòng). Sau đó, cung cấp cho hệ một nhiệt lượng 1 MJ và để hệ đạt cân bằng nhiệt. Biết 
+nhiệt dung riêng của nước lớn hơn nhiệt dung riêng của sắt. Khẳng định nào sau đây là đúng? 
+ 
+A. Nhiệt lượng mà nước và sắt đã nhận vào bằng nhau. 
+ 
+B. Sắt hấp thụ nhiệt lượng nhiều hơn. 
+ 
+C. Nước hấp thụ nhiệt lượng nhiều hơn. 
+ 
+D. Chỉ có nước hấp thụ nhiệt  
+Câu 11: Hình bên là các dụng cụ để đo nhiệt dung riêng của 
+nước. Dụng cụ số (3) là 
+ 
+A. Cân điện tử. 
+ 
+B. Biến thế nguồn. 
+ 
+C. Nhiệt lượng kế. 
+ 
+D. Nhiệt kế điện tử. 
+ 
+ 
+Câu 12: Cho các bước sau trong thí nghiệm đo nhiệt dung riêng của nước. 
+Bước 
+Nội dung của từng bước 
+1 
+Tắt nguồn điện. 
+2 
+Khuấy liên tục để nước nóng đều. Cứ sau mỗi khoảng thời gian 1 phút, đọc công 
+suất dòng điện từ oát kế, nhiệt độ từ nhiệt kế rồi điền kết quả vào vở. 
+3 
+Nối oát kế với nhiệt lượng kế và nguồn điện. 
+4 
+Cắm đầu đo của nhiệt kế vào nhiệt lượng kế. 
+5 
+Bật nguồn điện. 
+6 
+Đổ một lượng nước vào bình nhiệt lượng kế, sao cho toàn bộ điện trở nhiệt chìm 
+trong nước, xác định khối lượng nước này. 
+
+---PAGE---
+ 
+ 
+8 
+ 
+Thứ tự đúng của các bước tiến hành thí nghiệm đo nhiệt dung riêng là 
+ A. 1 – 2 – 4 – 5 – 6 – 3. 
+ 
+B. 2 – 3 – 4 – 5 – 6 – 1. 
+ C. 6 – 4 – 3 – 5 – 2 – 1. 
+ 
+D. 6 – 5 – 4 – 3 – 2 – 1. 
+Sử dụng các thông tin sau cho câu 13 và câu 14: (Sở Hải Dương – Cụm số 4 – TN THPT 2025) Ta sử 
+dụng bộ thiết bị có sơ đồ nguyên lí hoạt động như hình 1 để so sánh năng lượng nhiệt cần thiết để làm nóng 
+những khối vật liệu khác nhau. Các khối vật liệu có khối lượng bằng nhau và có nhiệt độ ban đầu là 22 °C. 
+Giáo viên cho học sinh tiến hành đo thời gian cần thiết để nhiệt độ của mỗi khối vật liệu tăng lên thêm 4 
+°C. Kết quả được biểu diễn ở hình 2. 
+ 
+Câu 13: Khi nhiệt độ của mỗi khối vật liệu tăng lên thêm 4 °C thì nhiệt lượng cung cấp cho khối 
+ 
+A. bằng nhau. 
+B. đồng là lớn nhất. 
+C. sắt là lớn nhất. 
+D. bê tông là lớn nhất. 
+Câu 14: Vật liệu nào có nhiệt dung riêng nhỏ nhất? 
+ 
+A. Bê tông. 
+B. Đồng. 
+C. Thiếc. 
+D. Sắt. 
+Câu 15: (Sở Ninh Bình lần 2 – TN THPT 2025) Một trong những thông số cần thiết để một chất được 
+ứng dụng làm mát của động cơ nhiệt là 
+ 
+A. có khối lượng riêng lớn. 
+B. có nhiệt dung riêng lớn. 
+ 
+C. có nhiệt nóng chảy riêng lớn. 
+D. có nhiệt độ nóng chảy lớn. 
+ 
+b)  CÂU HỎI ĐỊNH LƯỢNG 
+ 
+Câu 16: Một bạn học sinh làm thí nghiệm và xác định được rằng: để khối đồng có khối lượng 2 kg tăng 
+thêm 10 °C, cần cung cấp một nhiệt lượng là 7 600 J. Nhiệt dung riêng của đồng trong trường hợp này 
+bằng 
+ 
+A. 380 J/(kg.K). 
+B. 2 500 J/(kg.K). 
+C. 4 200 J/(kg.K). 
+D. 130 J/(kg.K). 
+
+---PAGE---
+ 
+ 
+9 
+Câu 17: Một khối chì có khối lượng 5 kg và nhiệt dung riêng là 130 J/(kg.K). Sau khi nhận được nhiệt 
+lượng 37,7 kJ, nhiệt độ của khối chì là 90 °C. Nhiệt độ ban đầu của khối chì này là 
+ 
+A. 30 °C. 
+B. 32 °C. 
+C. 45 °C. 
+D. 50 °C. 
+Câu 18: Biết nhiệt dung riêng của gỗ là 1 240 J/(kg.K). Khi 100 g gỗ giảm nhiệt độ đi 1 K thì nó 
+ 
+A. cần nhận nhiệt lượng 124 J từ môi trường bên ngoài. 
+ 
+B. giải phóng một năng lượng bằng 124 J ra môi trường bên ngoài. 
+ 
+C. giải phóng một năng lượng bằng 12,4 J ra môi trường bên ngoài. 
+ 
+D. cần nhận nhiệt lượng 1 240 J từ môi trường bên ngoài. 
+Câu 19: Một ca nhôm có khối lượng 0,3 kg dùng để chứa 2 kg nước. Biết nhiệt dung riêng của nước và 
+nhôm lần lượt là 4 180 J/(kg.K) và 880 J/(kg.K). Nhiệt lượng cần thiết để đun cả ca nhôm và nước nóng 
+lên từ 10 °C đến 70 °C xấp xỉ bằng 
+ 
+A. 502 kJ. 
+B. 15,8 kJ. 
+C. 517 kJ. 
+D. 619 kJ. 
+Câu 20: Hệ thống phanh bốc khói trên một chiếc xe tải đang phanh là bằng chứng rõ ràng về sự liên hệ 
+giữa cơ học và nhiệt học. Giả sử 12 kg vật liệu phanh có nhiệt dung riêng trung bình là 800 J/(kg.K) và giữ 
+lại 12% năng lượng từ một xe tải có khối lượng 12 tấn đang đi xuống dốc với vận tốc gần như không đổi 
+từ độ cao 75 m so với mặt đất. Lấy g = 9,8 m/s2. Độ tăng nhiệt độ của 12 kg vật liệu phanh xấp xỉ bằng 
+ 
+A. 110 K. 
+B. 92 K. 
+C. 94 K. 
+D. 919 K.  
+Câu 21: Một quả cầu nhôm có khối lượng 500 g được nung nóng tới 100 °C rồi thả vào một cốc chứa nước 
+ở nhiệt độ 20 °C. Sau một thời gian, nhiệt độ của hệ gồm quả cầu và nước ổn định ở 35 °C. Biết nhiệt dung 
+riêng của nhôm là 880 J/(kg.K) và của nước là 4 200 J/(kg.K). Bỏ qua sự trao đổi nhiệt với môi trường và 
+cốc. Khối lượng nước chứa trong cốc xấp xỉ bằng 
+ 
+A. 4,54 kg. 
+B. 5,63 kg. 
+C. 0,563 kg. 
+D. 0,454 kg. 
+Câu 22: Một người thợ xác định nhiệt độ của một lò nung bằng cách đưa vào trong lò một miếng sắt có 
+khối lượng 50 g. Coi thời gian nung là đủ dài và tốc độ nung chậm để miếng sắt có nhiệt độ bằng nhiệt độ 
+lò nung. Khi đó, người thợ lấy miếng sắt ra khỏi lò nung và thả nó vào một nhiệt lượng kế có vỏ bằng thép, 
+khối lượng 150 g chứa 700 g nước ở nhiệt độ 20 °C. Coi miếng sắt và nhiệt lượng kế chứa nước chỉ truyền 
+nhiệt cho nhau. Khi cân bằng nhiệt, nhiệt độ của nước lúc này tăng lên đến 26 °C. Biết nhiệt dung riêng 
+của sắt và thép xấp xỉ bằng 460 J/(kg.K), của nước là 4 180 J/(kg.K). Nhiệt độ của lò nung xấp xỉ bằng 
+ 
+A. 807 K. 
+B. 807 °C. 
+C. 789 °C. 
+D. 789 K. 
+Sử dụng các thông tin sau cho câu 23 và câu 24: (Cụm các trường THPT, các trung tâm GDTX, GDNN 
+– GDTX – Bắc Ninh – TN THPT 2025) Hình bên dưới là sơ đồ nguyên lí làm mát bằng dầu của một máy 
+biến áp. Lõi từ và các cuộn dây của máy biến áp được ngâm trong bể dầu. Khi lõi từ và các cuộn dây nóng 
+lên trong quá trình vận hành thì nhiệt độ của dầu cũng tăng theo. Dầu được tuần hoàn qua bộ trao đổi nhiệt 
+để làm mát. Biết rằng nhiệt độ của dầu khi bắt đầu đi vào bộ trao đổi nhiệt là 85 °C và sau khi được làm 
+mát là 55 0C; dầu sử dụng có nhiệt dung riêng là 2 000 J/(kg.K) và khối lượng riêng là 850 kg/m3; tổn thất 
+nhiệt của máy biến áp khi vận hành là 500 kW. 
+
+---PAGE---
+ 
+ 
+10 
+ 
+Câu 23: Nhiệt lượng tỏa ra khi có 4 lít dầu được làm mát qua bộ trao đổi nhiệt là  
+ 
+A. 240 kJ. 
+B. 240 MJ. 
+C. 204 MJ. 
+D. 204 kJ.  
+Câu 24: Giả sử toàn bộ nhiệt lượng do máy biến áp tỏa ra được hấp thụ hoàn toàn bởi dầu khi dầu lưu 
+thông qua bộ trao đổi nhiệt. Khối lượng dầu lưu thông qua bộ trao đổi nhiệt trong thời gian một phút là 
+ 
+A. 529 kg. 
+B. 8,33 kg. 
+C. 5 000 kg. 
+D. 500 kg. 
+Sử dụng các thông tin sau cho câu 25 và câu 26: Đồ thị hình bên dưới biểu diễn sự thay đổi nhiệt độ của 
+một miếng chì theo nhiệt lượng được cung cấp. Biết nhiệt dung riêng của chì là 126 J/(kg.K). Bỏ qua sự 
+truyền nhiệt ra môi trường. 
+ 
+Câu 25: Nhiệt lượng đã cung cấp cho miếng chì để tăng nhiệt độ từ 0 °C đến nhiệt độ nóng chảy của nó là 
+ 
+A. 41,30 kJ. 
+B. 20,06 kJ. 
+C. 14 160 J. 
+D. 7,08 kJ. 
+Câu 26: Khối lượng của miếng chì xấp xỉ bằng 
+ 
+A. 0,80 kg. 
+B. 0,67 kg. 
+C. 0,34 kg. 
+D. 2,06 kg. 
+Câu 27: Quá trình nấu rượu gạo (dung dịch ethanol) thủ công được thực hiện như 
+sau: 
+ 
+Gạo được nấu chín, để nguội, rắc men, ủ kín từ 3 đến 5 ngày thu được hỗn hợp 
+chủ yếu gồm nước, ethanol và bã rượu. 
+ 
+Đun nóng hỗn hợp trên (trong nồi chưng cất) đến nhiệt độ sôi để ethanol và 
+nước hóa hơi và đi vào đường ống dẫn. Hỗn hợp hơi (ethanol và nước) trong 
+đường ống được làm lạnh sẽ hóa lỏng và chảy vào bình hứng. Ta có bảng giá trị 
+của ethanol và nước như sau: 
+ 
+Nhiệt độ sôi 
+(°C) 
+Khối lượng riêng 
+(kg/m3) 
+Nhiệt dung riêng 
+(J/(kg.K)) 
+
+---PAGE---
+ 
+ 
+11 
+Ethanol 
+78 
+789 
+2 440 
+Nước 
+100 
+997 
+4 200 
+ 
+Giả thuyết trong quá trình nấu rượu, hỗn hợp được cung cấp nhiệt một cách đều đặn. Ethanol sôi và hóa 
+hơi trước ở 78 °C. Sau đó đến 100 °C thì nước bắt đầu sôi và hóa hơi. Bỏ qua lượng hơi nước ban đầu trong 
+ống dẫn. Bỏ qua sự truyền nhiệt với môi trường, ống dẫn và bình hứng. Thùng nước lạnh chứa lượng nước 
+có thể tích 250 lít ở nhiệt độ 20 °C. Khi thu được 20 lít rượu gạo 40° (thể tích ethanol chiếm 40%), người 
+ta đo nhiệt độ của rượu khi có cân bằng nhiệt là 45 °C. Biết nhiệt độ của ethanol khi ra khỏi thùng nước 
+lạnh là 35 °C. 
+ 
+Nhiệt độ của nước khi ra khỏi thùng nước lạnh là 
+ 
+A. 47 °C. 
+B. 48 °C. 
+C. 53 °C. 
+D. 54 °C. 
+Câu 28: Một bạn học sinh dùng ấm điện có công suất điện không thay đổi để đun hỗn hợp gồm nước và 
+nước đá có nhiệt độ 0 °C. Khảo sát sự thay đổi nhiệt độ của hỗn hợp nước và nước đá theo nhiệt lượng mà 
+ấm điện cung cấp, thu được đồ thị như hình bên dưới. Bỏ qua sự truyền nhiệt ra môi trường và ấm; bỏ qua 
+sự bay hơi của nước trong quá trình đun. Biết nhiệt dung riêng của nước là 4 200 J/(kg.K). 
+ 
+ 
+Khối lượng hỗn hợp ban đầu là 
+ 
+A. 1 kg. 
+B. 2 kg. 
+C. 3 kg. 
+D. 4 kg. 
+Câu 29: Một lò nung sử dụng điện có công suất 1 000 W được dùng 
+để nấu chảy 1 lượng vàng 24K (được xem là vàng nguyên chất) đang 
+ở nhiệt độ 25 °C. Biết 1 lượng vàng có khối lượng 37,5 g; nhiệt độ 
+nóng chảy và nhiệt dung riêng của vàng lần lượt là 1 064 °C và 128 
+J/(kg.K). Bỏ qua sự tỏa nhiệt ra môi trường. Thời gian cần thiết để 
+đun nóng lượng vàng trên đến nhiệt độ nóng chảy xấp xỉ bằng 
+ 
+A. 4 giây. 
+B. 5 giây. 
+ 
+C. 6 giây. 
+D. 7 giây. 
+Câu 30: Một ấm đun siêu tốc có phần thân ấm làm bằng thép không gỉ có khối lượng 0,4 kg, đang chứa 
+1,2 kg nước ở 25 °C. Biết nhiệt dung riêng của thép và nước lần lượt là 460 J/(kg.K) và 4 200 J/(kg.K). 
+Biết công suất điện ghi trên ấm đun là 1 500 W. Coi rằng điện năng chuyển hóa hoàn toàn thành năng lượng 
+nhiệt truyền cho ấm và nước. Thời gian để đun sôi lượng nước trong ấm xấp xỉ bằng 
+ 
+A. 4,4 phút. 
+B. 4,2 phút. 
+C. 6,5 phút. 
+D. 4,0 phút. 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+12 
+2. CÂU TRẮC NGHIỆM ĐÚNG SAI 
+Câu 1: Một vật đồng chất có khối lượng m được làm từ chất có nhiệt dung riêng c. Nhiệt độ ban đầu của 
+vật là t'. 
+ 
+a) Để nhiệt độ của vật tăng đến giá trị t ta cần cung cấp cho vật một nhiệt lượng Q = m. c. (t −t'). 
+ 
+b) Khi nhiệt độ của vật giảm từ t' đến t^, vật đã tỏa ra nhiệt lượng Q = m. c. (t' −t^). 
+ 
+c) Nhiệt lượng là số đo phần năng lượng nhiệt mà vật nhận được hoặc mất đi. 
+ 
+d) Các chất khác nhau khi ở cùng điều kiện môi trường thì nhiệt dung riêng bằng nhau. 
+ 
+ 
+Nội dung 
+Đúng 
+Sai 
+a Để nhiệt độ của vật tăng đến giá trị t ta cần cung cấp cho vật một nhiệt lượng Q =
+m. c. (t −t'). 
+ 
+ 
+b Khi nhiệt độ của vật giảm từ t' đến t^, vật đã tỏa ra nhiệt lượng Q = m. c. (t' −t^). 
+ 
+ 
+c 
+Nhiệt lượng là số đo phần năng lượng nhiệt mà vật nhận được hoặc mất đi. 
+ 
+ 
+d Các chất khác nhau khi ở cùng điều kiện môi trường thì nhiệt dung riêng bằng nhau. 
+ 
+ 
+ 
+ 
+Câu 2: Một máy nước nóng trong nhà bếp bạn Na có thể cung cấp nước sôi ngay lập tức. 
+Nước qua một bộ làm nóng bằng điện bên trong máy. Cho nhiệt dung riêng của nước là 
+4 180 J/(kg.K); khối lượng riêng của nước là 997 kg/m3. 
+ 
+a) Dùng nhiệt kế đo nhiệt độ của nước khi vừa chảy ra khỏi máy nước nóng, Na thu 
+được kết quả thấp hơn 100 °C. Na kết luận rằng nguyên nhân là do một phần nhiệt thất 
+thoát nhiệt ra môi trường, một phần truyền qua vỏ ống dẫn nước và vỏ cốc chứa nước, 
+làm các bộ phận này nóng lên. 
+ 
+b) Nhiệt độ sôi của nước luôn là 100 °C ở mọi điều kiện áp suất khí quyển. 
+ 
+c) Khi mở vòi nước nóng, Na đo được cường độ dòng điện qua bộ làm nóng là 13 A, 
+đồng thời điện áp ổn định là 220 V. Nhiệt lượng từ bộ phận làm nóng toả ra trong 5 giây 
+là 14 300 J. 
+ 
+d) Nếu nhiệt độ của nước khi vào và ra khỏi bộ phận làm nóng lần lượt là 25 °C và 
+100 °C thì lưu lượng nước chảy qua bộ làm nóng là 9. 107* kg/s. 
+ 
+ 
+Nội dung 
+Đúng 
+Sai 
+a Dùng nhiệt kế đo nhiệt độ của nước khi vừa chảy ra khỏi máy nước nóng, Na thu 
+được kết quả thấp hơn 100 °C. Na kết luận rằng nguyên nhân là do một phần nhiệt 
+thất thoát nhiệt ra môi trường, một phần truyền qua vỏ ống dẫn nước và vỏ cốc chứa 
+nước, làm các bộ phận này nóng lên. 
+ 
+ 
+b Nhiệt độ sôi của nước luôn là 100 °C ở mọi điều kiện áp suất khí quyển. 
+ 
+ 
+c 
+Khi mở vòi nước nóng, Na đo được cường độ dòng điện qua bộ làm nóng là 13 A, 
+đồng thời điện áp ổn định là 220 V. Nhiệt lượng từ bộ phận làm nóng toả ra trong 5 
+giây là 14 300 J. 
+ 
+ 
+d Nếu nhiệt độ của nước khi vào và ra khỏi bộ phận làm nóng lần lượt là 25 °C và 100 
+°C thì lưu lượng nước chảy qua bộ làm nóng là 9. 107* kg/s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+13 
+Câu 3: Hình vẽ là sơ đồ bố trí thí nghiệm đo nhiệt dung riêng của nước. Một học sinh làm thí nghiệm với 
+150 g nước, nhiệt độ ban đầu là 32 0C. Số chỉ vôn kế và ampe kế lần lượt là 3,20 V và 2,50 A. Sau khoảng 
+thời gian 2 phút 37 giây thì nhiệt độ của nước là 34 0C. Bỏ qua nhiệt lượng mà bình nhiệt lượng kế và đũa 
+khuấy thu vào; bỏ qua nhiệt lượng dây nung tỏa ra môi trường không khí. 
+ 
+ 
+a) Nhiệt lượng Q tỏa ra trên dây nung được xác định bằng biểu thức Q = U.I.t. 
+ 
+b) Trong quá trình làm thí nghiệm, học sinh dùng đũa khuấy khuấy nước nhẹ nhàng và liên tục để nhiệt 
+lượng nước tỏa ra môi trường xung quanh một cách đều đặn. 
+ 
+c) Nhiệt lượng nước cần thu vào để nhiệt độ tăng thêm DT (K) được xác định bằng biểu thức Q = m.c.DT. 
+ 
+d) Nhiệt dung riêng của nước thu được từ thí nghiệm trên (làm tròn đến hàng đơn vị) xấp xỉ bằng 4200 
+J/(kg.K).  
+ 
+ 
+Nội dung 
+Đúng 
+Sai 
+a 
+Nhiệt lượng Q tỏa ra trên dây nung được xác định bằng biểu thức Q = U.I.t. 
+ 
+ 
+b Trong quá trình làm thí nghiệm, học sinh dùng đũa khuấy khuấy nước nhẹ nhàng và 
+liên tục để nhiệt lượng nước tỏa ra môi trường xung quanh một cách đều đặn. 
+ 
+ 
+c 
+Nhiệt lượng nước cần thu vào để nhiệt độ tăng thêm DT (K) được xác định bằng biểu 
+thức Q = m.c.DT. 
+ 
+ 
+d Nhiệt dung riêng của nước thu được từ thí nghiệm trên (làm tròn đến hàng đơn vị) 
+xấp xỉ bằng 4200 J/(kg.K). 
+ 
+ 
+ 
+ 
+Câu 4: Một nhân viên pha chế một mẫu trà sữa bằng cách trộn các chất lỏng lại với nhau, gồm: nước trà 
+đen (mẫu T), nước đường nâu (mẫu D) và sữa tươi (mẫu S). Các mẫu chất lỏng này chỉ trao đổi nhiệt lẫn 
+nhau mà không gây ra các phản ứng hóa học. Bỏ qua sự trao đổi nhiệt với môi trường. Nhiệt độ trước khi 
+trộn của mẫu T, mẫu D và mẫu S lần lượt là 22 °C, 25 °C và 30 °C. Khối lượng của mẫu T, mẫu D và mẫu 
+S lần lượt là m] (kg), m_ (kg) và m` (kg).  
+ 
+Biết rằng : 
+
+---PAGE---
+ 
+ 
+14 
+Khi trộn mẫu T với mẫu D với nhau thì nhiệt độ cân bằng của hệ là 24 °C. 
+ 
+Khi trộn mẫu D với mẫu S với nhau thì nhiệt độ cân bằng của hệ là 28 °C. 
+ 
+a) Nhiệt độ cân bằng của hệ khi trộn mẫu T với mẫu S là t$ = 28 ℃. 
+ 
+b) Nhiệt độ cân bằng của hệ khi trộn cả ba mẫu là tA = 27 ℃. 
+ 
+c) Nếu nhân viên này pha thêm một mẫu sữa tươi (có khối lượng m` (kg)) nữa vào hỗn hợp ba mẫu ở 
+câu b thì nhiệt độ cân bằng của hệ lúc này là t* = 28 ℃. 
+ 
+d) Biết nhiệt dung riêng của nước trà đen là c] = 4 100 J/(kg.K), khối lượng của mẫu nước trà đen là 
+m] = 0,08 kg. Nhiệt dung riêng của nước là cH = 4 200 J/(kg.K). Nếu nhân viên tiếp tục thêm 0,3 kg nước 
+ở 0 °C vào hỗn hợp ở câu c thì nhiệt độ của hỗn hợp khi có sự cân bằng nhiệt xấp xỉ bằng 8 °C. 
+ 
+ 
+Nội dung 
+Đúng 
+Sai 
+a 
+Nhiệt độ cân bằng của hệ khi trộn mẫu T với mẫu S là 28 °C. 
+ 
+ 
+b Nhiệt độ cân bằng của hệ khi trộn cả ba mẫu là tA = 27 ℃. 
+ 
+ 
+c 
+Nếu nhân viên này pha thêm một mẫu sữa tươi (có khối lượng m` (kg)) nữa vào hỗn 
+hợp ba mẫu ở câu b thì nhiệt độ cân bằng của hệ lúc này là t* = 28 ℃. 
+ 
+ 
+d Biết nhiệt dung riêng của nước trà đen là c] = 4 100 J/(kg.K), khối lượng của mẫu 
+nước trà đen là m] = 0,08 kg. Nhiệt dung riêng của nước là cH = 4 200 J/(kg.K). 
+Nếu nhân viên tiếp tục thêm 0,3 kg nước ở 0 °C vào hỗn hợp ở câu c thì nhiệt độ của 
+hỗn hợp khi có sự cân bằng nhiệt xấp xỉ bằng 8 °C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. CÂU TRẮC NGHIỆM TRẢ LỜI NGẮN 
+Câu 1: Một miếng sắt có khối lượng 2 kg được làm nguội từ 500 °C xuống 150 °C. Biết nhiệt dung riêng 
+của sắt là 460 J/(kg.K). Nhiệt lượng mà miếng sắt này đã tỏa ra bằng bao nhiêu kJ? (Làm tròn kết quả đến 
+chữ số hàng đơn vị) 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 2: Một máy nước nóng có công suất 9 kW. Nước ở nhiệt độ 15 °C được làm nóng khi chảy qua buồng 
+đốt của máy với lưu lượng 5,8.10⁻³ kg/s. Biết nhiệt dung riêng của nước là 4 180 J/(kg.K), hiệu suất truyền 
+nhiệt 100%. Nhiệt độ của nước khi đi ra khỏi máy bằng bao °C? (Làm tròn kết quả đến chữ số hàng đơn 
+vị) 
+Đáp số: 
+ 
+ 
+ 
+ 
+ 
+Câu 3: Để diệt trừ các bào tử nấm và kích thích quá trình nảy mầm của 
+hạt giống lúa, người nông dân đã sử dụng một kinh nghiệm dân gian là 
+ngâm chúng vào trong nước ấm theo công thức “hai sôi, ba lạnh”. Tức là 
+nước ấm sẽ được tạo ra bằng cách pha hai phần nước sôi với ba phần nước 
+lạnh. 
+ 
+Nếu người nông dân sử dụng nước máy có nhiệt độ 25 0C để pha với 
+nước sôi theo công thức “hai sôi, ba lạnh” thì nước ấm thu được có nhiệt 
+độ bao nhiêu 0C (làm tròn đến hàng đơn vị)? 
+Đáp án 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+15 
+Câu 4: Một học sinh bố trí thí nghiệm đo nhiệt dung riêng của nước như hình bên. 
+Khối lượng nước được sử dụng là 115 g. Khi công tắc K đóng, số chỉ trên ampe 
+kế và vôn kế lần lượt là 5 A và 24 V. 
+ 
+Học sinh theo dõi và vẽ đồ thị biểu diễn sự thay đổi nhiệt độ của nước theo thời 
+gian như hình bên dưới. 
+ 
+ 
+Bỏ qua sự trao đổi nhiệt lượng với môi trường, nhiệt lượng kế và que khuấy. Dựa vào tọa độ của hai 
+điểm P và H, hãy tính nhiệt dung riêng của nước theo đơn vị J/(kg.K). 
+Đáp án 
+ 
+ 
+ 
+ 
+ 
+Câu 5: Một bình nhôm có khối lượng 0,5 kg chứa 4 kg nước ở nhiệt độ 20 oC. Người ta thả vào bình một 
+miếng sắt có khối lượng 0,2 kg đã được nung nóng tới 500 oC. Biết nhiệt dung riêng của nhôm là 896 
+J/(kg.K); của nước là 4 180 J/(kg.K); của sắt là 460 J/(kg.K). Bỏ qua sự truyền nhiệt ra môi trường. Nhiệt 
+độ của nước khi có sự cân bằng nhiệt bằng bao nhiêu °C? (Làm tròn kết quả đến chữ số hàng phần mười) 
+Đáp án 
+ 
+ 
+ 
+ 
+ 
+Câu 6: Người ta thả miếng đồng có khối lượng 0,5 kg vào 400 g nước. Miếng đồng nguội đi từ 180 °C 
+xuống còn 80 °C. Biết nhiệt dung riêng của đồng và nước lần lượt là 380 J/(kg.K) và 4 180 J/(kg.K). Bỏ 
+qua sự truyền nhiệt ra môi trường. Khi hệ đạt trạng thái cân bằng nhiệt, độ tăng nhiệt độ của nước là bao 
+nhiêu K? (Làm tròn kết quả đến chữ số hàng đơn vị) 
+Đáp án 
+ 
+ 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+16 
+4. TỰ LUẬN 
+ 
+Câu 1: Một khối chì có khối lượng 100 g được cung cấp nhiệt lượng 260 J, làm tăng nhiệt độ từ 15 °C lên 
+35 °C. Tính nhiệt dung riêng của chì theo đơn vị J/(kg.K) (làm tròn kết quả đến chữ số hàng đơn vị). 
+Câu 2: Đồ thị ở hình bên dưới biểu diễn sự thay đổi nhiệt độ của nước theo thời gian đun và sau đó để 
+nguội. Biết khối lượng nước ban đầu là 1,5 kg; nhiệt dung riêng của nước là 4 180 J/(kg.K). Bỏ qua sự hóa 
+hơi của nước trong quá trình nước tăng nhiệt độ. Tính nhiệt lượng nước đã nhận trong khoảng thời gian t$ 
+(h) đầu theo đơn vị kJ (làm tròn kết quả đến chữ số hàng đơn vị). 
+ 
+Câu 3: Một ấm đun nước có công suất 500 W, chứa 300 g nước ở 20 0C. Biết nhiệt dung riêng của nước là 
+4 180 J/(kg.K) và hiệu suất của ấm đun là 90 %. Tính thời gian cần thiết (theo đơn vị giây) để đun nước 
+trong ấm đạt đến nhiệt độ sôi (làm tròn kết quả đến chữ số hàng đơn vị). 
+Câu 4: (THPT Chu Văn An Lạng Sơn – TN THPT 2025) Bộ phận đóng ngắt mạch điện tự động trong 
+bàn là gọi là băng kép, được cấu tạo từ hai thanh kim loại khác nhau (đồng và thép), mỗi thanh có khối 
+lượng 50 g. Do có hệ số nở dài khác nhau nên khi bị đốt nóng đến một nhiệt độ nhất định, băng kép bị cong 
+và ngắt dòng điện. 
+ 
+ 
+Khi bàn là hoạt động, băng kép đạt đến nhiệt độ 187 °C thì ngắt điện. Nhiệt độ ban đầu của băng kép là 
+27 °C. Biết nhiệt dung riêng của đồng, thép lần lượt là 380 J/(kg.K) và 460 J/(kg.K). Bàn là có công suất 
+trung bình 1 000 W và chỉ có 10% công suất được dùng để làm nóng băng kép. Khi bàn là hoạt động, tốc 
+độ tỏa nhiệt ra môi trường của băng kép là nhỏ có thể bỏ qua so với tốc độ tăng nhiệt độ. Khoảng thời gian 
+từ lúc bàn là bắt đầu hoạt động đến khi dòng điện bị ngắt lần đầu tiên là bao nhiêu giây? (Làm tròn kết quả 
+đến chữ số hàng đơn vị) 
+Câu 5: (SBT Vật lí 12 – KNTT) Một bạn học sinh thực 
+hiện thí nghiệm đo nhiệt dung riêng của nước bằng bộ dụng 
+cụ như hình vẽ. Trong suốt quá trình đun, oát kế luôn chỉ 
+giá trị 950 W. Khối lượng nước được sử dụng trong thí 
+nghiệm là 1 kg. Đồ thị dưới đây biểu diễn sự phụ thuộc 
+nhiệt độ của nước vào thời gian. 
+
+---PAGE---
+ 
+ 
+17 
+ 
+ 
+a) Bỏ qua sự truyền nhiệt ra môi trường. Dựa vào giá trị tại điểm M và N trên đồ thị nhiệt độ theo thời 
+gian, hãy tính nhiệt dung riêng của nước theo đơn vị J/(kg.K) (làm tròn kết quả đến chữ số hàng đơn vị). 
+ 
+b) Biết nhiệt lượng tỏa ra môi trường là 1,4%. Dựa vào giá trị tại điểm M và N trên đồ thị nhiệt độ theo 
+thời gian, hãy tính lại nhiệt dung riêng của nước theo đơn vị J/(kg.K) (làm tròn kết quả đến chữ số hàng 
+đơn vị). 
+ 
+ 
+
+---PAGE---
+ 
+ 
+18 
+III – ĐỀ KIỂM TRA TỰ LUYỆN 
+ 
+Phần I. Câu trắc nhiệm nhiều phương án lựa chọn (3,00 điểm) 
+Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. 
+(Mỗi câu trả lời đúng thí sinh được 0,25 điểm) 
+Câu 1: Nhiệt dung riêng của một chất cho ta biết nhiệt lượng 
+ 
+A. cần cung cấp cho 1 kg chất đó giảm đi 1 K. 
+ 
+B. mà 1 kg chất đó tỏa ra để giảm nhiệt độ. 
+ 
+C. cần cung cấp cho 1 kg chất đó tăng thêm 1 °C. 
+ 
+D. mà 1 m3 chất đó tỏa ra để giảm nhiệt độ. 
+Câu 2: Chọn khẳng định sai. 
+ 
+A. Nhiệt lượng mà vật thu vào phụ thuộc vào khối lượng, độ tăng nhiệt độ và nhiệt dung riêng của vật. 
+ 
+B. Khối lượng của vật càng lớn thì nhiệt lượng cần thiết để làm vật nóng lên càng lớn. 
+ 
+C. Độ tăng nhiệt độ của vật càng lớn thì nhiệt lượng mà vật thu vào để nóng lên càng nhỏ. 
+ 
+D. Với cùng khối lượng và độ tăng nhiệt độ, vật nào có nhiệt dung riêng lớn hơn thì nhiệt lượng thu vào 
+sẽ lớn hơn. 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Một ấm nhôm có khối lượng 300 g chứa 
+0,5 kg nước ở nhiệt độ 25 °C. Biết nhiệt dung riêng của nhôm và nước lần lượt là 880 
+J/(kg.K) và 4 200 J/(kg.K). Biết năng suất tỏa nhiệt của khí gaz là 46 MJ/kg. 
+Câu 3: Nhiệt lượng tối thiểu cần cung cấp để đun sôi nước trong ấm là 
+ 
+A. 177,3 kJ. 
+B. 177,3 J. 
+C. 177 300 kJ. 
+D. 157 500 J. 
+Câu 4: Khối lượng khí gaz tối thiểu cần dùng để đun sôi nước trong ấm là 
+ 
+A. 0,385 kg. 
+B. 3,85 g. 
+C. 3,42 g. 
+D. 0,342 kg. 
+Câu 5: Người ta pha một lượng nước nóng ở nhiệt độ t (°C) vào nước lạnh ở nhiệt độ 10 °C. Nhiệt độ cuối 
+cùng của hỗn hợp là 20 °C. Biết khối lượng nước lạnh gấp 3 lần khối lượng nước nóng. Hỏi nhiệt độ ban 
+đầu t của nước nóng là bao nhiêu? (Bỏ qua sự trao đổi nhiệt với môi trường và vật chứa) 
+ A. 50 °C. 
+B. 60 °C. 
+C. 70 °C. 
+D. 80 °C. 
+Câu 6. Đơn vị nào sau đây không phải là đơn vị của nhiệt lượng? 
+ 
+A. J. 
+B. kJ. 
+C. calo. 
+D. N/m2. 
+Câu 7: Đầu thép của một búa máy có khối lượng 15 kg nóng lên thêm 20 °C sau 
+1,5 phút hoạt động. Biết rằng chỉ có 40% cơ năng của búa máy được chuyển hóa 
+thành nhiệt năng làm nóng đầu búa. Cho biết nhiệt dung riêng của thép là 460 
+J/(kg.K). Công mà búa máy đã thực hiện trong thời gian đó bằng bao nhiêu? 
+ 
+A. 345 000 J. 
+ 
+ 
+ 
+B. 138 000 J. 
+ 
+C. 55 200 J. 
+ 
+D. 230 000 J. 
+Câu 8: Một vật bằng đồng có khối lượng 10 kg đang ở nhiệt độ 30 °C. Để vật đạt đến nhiệt độ 100 °C, cần 
+cung cấp cho nó một nhiệt lượng bao nhiêu? Biết nhiệt dung riêng của đồng là 380 J/(kg.K). 
+ 
+A. 26 600 J. 
+B. 380 000 J. 
+C. 38 000 J. 
+D. 266 000 J. 
+Câu 9: Người ta cung cấp cho 10 lít nước một nhiệt lượng 840 kJ, làm nhiệt độ của nước tăng từ t$ = 25 
+°C đến tA (K). Biết nhiệt dung riêng của nước là 4 180 J/(kg.K), khối lượng riêng của nước là 997 kg/m3. 
+Nhiệt độ tA xấp xỉ bằng 
+
+---PAGE---
+ 
+ 
+19 
+ 
+A. 45 K. 
+B. 318 K. 
+C. 20 °C. 
+D. 297 K. 
+Câu 10: Nhiệt dung riêng của đồng lớn hơn chì. Vì vậy, để tăng nhiệt độ của 1 kg đồng và 1 kg chì thêm 
+1 °C thì 
+ 
+A. khối đồng cần nhiều nhiệt lượng hơn khối chì. 
+ 
+B. khối đồng cần nhận nhiệt lượng gấp đôi khối chì. 
+ 
+C. khối chì cần nhiều nhiệt lượng hơn khối đồng. 
+ 
+D. hai khối đều cần nhiệt lượng như nhau.  
+Câu 11: Một nhân viên spa muốn pha nước tắm cho các bé, nhân viên này mở 
+vòi nước nóng ở 90 °C và vòi nước lạnh ở 10 °C đồng thời chảy vào bể đã chứa 
+sẵn 50 lít nước ở 20 °C. Biết lưu lượng của mỗi vòi là 0,25 ℓ/s. Hệ thống massage 
+được mở liên tục trong quá trình bơm nước vào bể để tạo dòng nước, khuấy đều 
+để nhiệt độ nước tăng đều. Bỏ qua sự truyền nhiệt với bể chứa và môi trường. 
+Xem khối lượng riêng của nước nóng và lạnh đều bằng 997 kg/m3. Để thu được 
+nước có nhiệt độ 40 °C thì nhân viên cần mở hai vòi chảy liên tục trong bao 
+nhiêu giây? 
+ 
+A. 100 s. 
+B. 200 s. 
+C. 300 s. 
+D. 400 s. 
+Câu 12: Một bạn học sinh dùng ấm điện có công suất không đổi để cung cấp nhiệt lượng cho một khối 
+nước đá ở 0 °C, có khối lượng m (kg). Sau khi đun được một khoảng thời gian ngắn, bạn bắt đầu theo dõi 
+và thu được đồ thị biểu diễn sự phụ thuộc của nhiệt độ của nước đá theo nhiệt lượng cung cấp như hình bên 
+dưới. Bỏ qua sự truyền nhiệt ra môi trường và ấm điện. Xem sự bay hơi của nước trong quá trình nóng chảy 
+và tăng nhiệt độ là không đáng kể. Biết nhiệt dung riêng của nước là 4 200 J/(kg.K). 
+ 
+Khối lượng nước đá ban đầu là 
+ 
+A. 1 kg. 
+B. 2 kg. 
+C. 3 kg. 
+D. 4 kg. 
+Phần II. Câu trắc nghiệm đúng sai (2,00 điểm) 
+Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai. Điểm 
+tối đa của 01 câu hỏi là 1 điểm. 
+ 
+- Thí sinh chỉ lựa chọn chính xác 01 ý trong 1 câu hỏi được 0,10 điểm. 
+ 
+- Thí sinh chỉ lựa chọn chính xác 02 ý trong 1 câu hỏi được 0,25 điểm. 
+ 
+- Thí sinh chỉ lựa chọn chính xác 03 ý trong 1 câu hỏi được 0,50 điểm. 
+ 
+- Thí sinh lựa chọn chính xác cả 04 ý trong 1 câu hỏi được 1,00 điểm. 
+Câu 1: Một cốc nhôm có khối lượng l00 g chứa 300 g nước ở nhiệt độ 20 °C. Người ta thả vào cốc nước 
+một viên bi đồng có khối lượng 75 g, ở nhiệt độ 100 °C. Bỏ qua các hao phí nhiệt ra môi trường. Biết nhiệt 
+dung riêng của nhôm, đồng và nước lần lượt là 880 J/(kg.K), 380 J/(kg.K) và 4 180 J/(kg.K). Nhiệt độ cân 
+bằng của hệ là t (°C). 
+ 
+a) Viên bi đồng tỏa nhiệt cho cốc nhôm và nước nhận nhiệt. 
+ 
+b) Nhiệt lượng viên bi đồng đã tỏa ra là Q = 28 500. (100 −t) J. 
+
+---PAGE---
+ 
+ 
+20 
+ 
+c) Nhiệt độ của hệ ở trạng thái cân bằng nhiệt là t » 21,7 °C. 
+ 
+d) Nếu không bỏ qua hao phí nhiệt ra môi trường thì nhiệt độ cân bằng của hệ lớn hơn giá trị ở câu c.  
+ 
+Nội dung 
+Đúng 
+Sai 
+a 
+Viên bi đồng tỏa nhiệt cho cốc nhôm và nước nhận nhiệt. 
+ 
+ 
+b Nhiệt lượng viên bi đồng đã tỏa ra là Q = 28 500. (100 −t) J. 
+ 
+ 
+c 
+Nhiệt độ của hệ ở trạng thái cân bằng nhiệt là t » 21,7 °C. 
+ 
+ 
+d Nếu không bỏ qua hao phí nhiệt ra môi trường thì nhiệt độ cân bằng của hệ lớn hơn 
+giá trị ở câu c. 
+ 
+ 
+ 
+ 
+Câu 2: Một ấm đun nước có công suất không đổi 2 100 W và 
+có nhiệt kế hiển thị nhiệt độ tức thời của nước trong ấm. Một 
+bạn học sinh dùng ấm này để đun nước với lượng nước có sẵn 
+trong ấm, nhiệt độ hiển thị ban đầu là t' = 20℃. Sau khoảng 
+thời gian đun t$ = 1 phút thì nhiệt độ của nước tăng lên tới 
+t$ = 40℃ và bạn học sinh bắt đầu thêm nước ở nhiệt độ ta °C 
+(ta < t$) vào trong ấm (nước được đun liên tục và đảm bảo an 
+toàn về điện). Tại thời điểm tA = 5 phút thì nhiệt độ của nước 
+đạt tA = 60℃. Sau khoảng thời gian 5 phút kể từ thời điểm tA 
+thì nước bắt đầu sôi. 
+ 
+Hình vẽ bên là đồ thị biểu diễn nhiệt độ của nước trong ấm theo thời gian trong quá trình đun. Bỏ qua 
+sự truyền nhiệt ra môi trường. Quá trình trao đổi nhiệt diễn ra nhanh chóng. Biết nhiệt dung riêng của nước 
+và đồng lần lượt là 4 200 J/(kg.K) và 380 J/(kg.K). 
+ 
+a) Nhiệt lượng do ấm cung cấp từ thời điểm ban đầu đến thời điểm nước bắt đầu sôi là 21 000 J. 
+ 
+b) Lượng nước có sẵn trong ấm và lượng nước được thêm vào ấm lần lượt là 2,25 kg và 1,5 kg. 
+ 
+c) Nhiệt độ ban đầu của lượng nước được thêm vào ấm là ta = 20℃. 
+ 
+d) Khi nước sôi, bạn ngắt điện của ấm đun và thả vào ấm một miếng đồng có khối lượng 3 kg ở nhiệt 
+độ 30 °C. Nhiệt độ của hệ khi xảy ra cân bằng nhiệt là 50 °C. 
+ 
+ 
+Nội dung 
+Đúng 
+Sai 
+a 
+Nhiệt lượng do ấm cung cấp từ thời điểm ban đầu đến thời điểm nước bắt đầu sôi là 
+21 000 J. 
+ 
+ 
+b Lượng nước có sẵn trong ấm và lượng nước được thêm vào ấm lần lượt là 2,25 kg và 
+1,5 kg. 
+ 
+ 
+c 
+Nhiệt độ ban đầu của lượng nước được thêm vào ấm là ta = 20℃. 
+ 
+ 
+d Khi nước sôi, bạn ngắt điện của ấm đun và thả vào ấm một miếng đồng có khối lượng 
+3 kg ở nhiệt độ 30 °C. Nhiệt độ của hệ khi xảy ra cân bằng nhiệt là 50 °C. 
+ 
+ 
+ 
+ 
+Phần III. Câu trắc nghiệm trả lời ngắn (2,0 điểm) 
+Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng thí sinh được 0,50 điểm. 
+Câu 1. Biết nhiệt dung riêng của nước là 4 180 J/(kg.K), khối lượng riêng của nước là 997 g/ℓ. Nhiệt lượng 
+tối thiểu cần cung cấp để đun sôi 1,5 lít  nước ở nhiệt nhiệt độ 30 °C bằng bao nhiêu kJ? (Làm tròn kết quả 
+đến chữ số hàng đơn vị). 
+Đáp án 
+ 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+21 
+Câu 2: Máy đun nước nóng tự động có công suất định mức 2 000 W. Nước 
+được làm nóng khi đi qua buồng đốt của bình. Nước chảy qua buồng đốt với 
+lưu lượng 30 lít/giờ. Cho nhiệt dung riêng, khối lượng riêng của nước lần lượt 
+là 4 180 J/(kg.K), 997 kg/m3. Bỏ qua sự trao đổi nhiệt với môi trường. Nếu 
+nhiệt độ của nước khi đi vào buồng đốt là 20 0C thì khi máy hoạt động đúng 
+công suất định mức, nhiệt độ của nước khi ra khỏi buồng đốt là bao nhiêu °C? 
+(Làm tròn kết quả đến chữ số hàng phần mười) 
+Đáp án 
+ 
+ 
+ 
+ 
+Câu 3: Một nhiệt lượng kế bằng đồng có khối lượng 200 g chứa 100 g nước ở 
+nhiệt độ 20 °C. Người ta thả một miếng kim loại đồng chất có khối lượng 560 g đã nung nóng tới 100 oC 
+vào nhiệt lượng kế. Xác định nhiệt dung riêng của chất làm miếng kim loại theo đơn vị J/(kg.K). Biết nhiệt 
+độ khi bắt đầu có sự cân bằng nhiệt là 30 oC. Cho nhiệt dung riêng của nước là 4 180 J/(kg.K); của đồng là 
+380 J/(kg.K). Bỏ qua sự trao đổi nhiệt với môi trường. 
+Đáp án 
+ 
+ 
+ 
+ 
+Câu 4: Một lò nung đang bị hư màn hình hiển thị nhiệt độ lò. Để xác định 
+nhiệt độ của lò nung, một người công nhân đã lấy một mẫu sắt 100 g đang 
+nung trong lò ra và thả nó vào một nhiệt lượng kế chứa 1,06 kg nước ở 25 0C, 
+khi có cân bằng nhiệt xảy ra thì nhiệt độ của nước là 35 0C. Biết nhiệt dung 
+riêng của sắt và nước lần lượt là 460 J/(kg.K) và 4 200 J/(kg.K). Bỏ qua sự 
+trao đổi nhiệt với môi trường và nhiệt lượng kế; sự bay hơi của nước. Nhiệt 
+độ của lò nung khi đó bằng bao nhiêu °C? (Làm tròn kết quả đến chữ số hàng 
+đơn vị). 
+Đáp án 
+ 
+ 
+ 
+ 
+ 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm): Người ta thả miếng nhôm có khối lượng 0,5 kg vào 400 g nước. Miếng nhôm nguội đi 
+từ 180 °C xuống còn 80 °C. Biết nhiệt dung riêng của nhôm và nước lần lượt là 880 J/(kg.K) và 4 180 
+J/(kg.K). Bỏ qua sự truyền nhiệt ra môi trường. Nhiệt độ ban đầu của nước là bao nhiêu K? (Làm tròn kết 
+quả đến chữ số hàng đơn vị) 
+Câu 2 (2,0 điểm): Đồ thị ở hình bên dưới biểu diễn sự phụ thuộc nhiệt độ của khối nước đá theo nhiệt 
+lượng đã cung cấp. Biết nhiệt dung riêng của nước là 4 180 J/(kg.K). Bỏ qua sự bay hơi của nước trong quá 
+trình tăng nhiệt độ. Cho hiệu suất cung cấp nhiệt xấp xỉ 95%. 
+ 
+a) Tính nhiệt lượng nước nhận được để tăng nhiệt độ từ 0 °C đến 35 °C theo đơn vị kJ. 
+ 
+b) Tính khối lượng nước đá ban đầu theo đơn vị kg (Làm tròn kết quả đến chữ số hàng phần trăm). 
+ 
+ 
+ 
+
+---PAGE---

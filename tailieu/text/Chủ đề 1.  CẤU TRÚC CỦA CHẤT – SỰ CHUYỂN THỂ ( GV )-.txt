@@ -1,0 +1,1848 @@
+ 
+ 
+1 
+CHUYÊN ĐỀ 1 – VẬT LÝ NHIỆT 
+CHỦ ĐỀ 1: CẤU TRÚC CỦA CHẤT – SỰ CHUYỂN THỂ 
+I – TÓM TẮT LÝ THUYẾT  
+1. Mô hình động học phân tử về cấu tạo chất  
+Mô hình động học phân tử về cấu tạo chất có những nội dung sau đây: 
+- Các chất được cấu tạo từ các hạt riêng biệt là phân tử.  
+- Các phân tử chuyển động hỗn loạn, không ngừng. Nhiệt độ của vật càng cao thì tốc độ chuyển động của các 
+phân tử cấu tạo nên vật càng lớn. 
+- Giữa các phân tử có lực hút và đẩy gọi chung là lực liên kết phân tử. Khi các phân tử gần nhau thì lực đẩy chiếm 
+ưu thế và khi xa nhau thì lực hút chiếm ưu thế. 
+2. Cấu trúc của chất rắn, chất lỏng, chất khí 
+Dựa vào các đặc điểm sau đây của phân tử có thể nêu được sơ lược cấu trúc của hầu hết các chất rắn, chất lỏng, 
+chất khí: 
+- Khoảng cách giữa các phân tử lớn thì lực liên kết giữa chúng yếu. 
+- Các phân tử sắp xếp có trật tự thì lực liên kết giữa chúng mạnh. 
+ 
+ 
+ 
+Thể khí                   
+ 
+  
+Thể rắn  
+ 
+ 
+ Thể lỏng 
+Hình 1.1. (a) Khoảng cách và sự sắp xếp các phân tử ở các thể khác nhau. 
+          (b) Chuyển động của phân tử ở các thể khác nhau. 
+Hình cầu là phân tử, mũi tên là hướng chuyển động của phân tử. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a) Chất rắn (kết tinh) 
+b) Chất lỏng 
+c) Chất khí 
+Hình 1.2. Mô hình cấu trúc chất rắn, chất lỏng, chất khí 
+(Các phân tử được biểu diễn bằng các hình cầu) 
+ 
+
+---PAGE---
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cấu trúc 
+Thể rắn 
+Thể lỏng 
+Thể khí 
+Khoảng cách giữa các phân 
+tử 
+Rất gần nhau (cỡ kích 
+thước phân tử) 
+Xa nhau 
+Rất xa nhau (gấp hàng 
+chục lần kích thước 
+phân tử) 
+Sự sắp xếp của các phân tử 
+Trật tự 
+Kém trật tự hơn 
+Không có trật tự 
+Chuyển động của các phân 
+tử 
+Chỉ dao động quanh vị 
+trí cân bằng cố định 
+Dao động quanh vị trí cân 
+bằng luôn luôn thay đổi 
+Chuyển động hỗn loạn 
+Hình dạng 
+Xác định 
+Phụ thuộc vào bình chứa 
+Phụ thuộc bình chứa 
+Thể tích 
+Xác định 
+Xác định 
+Phụ thuộc bình chứa 
+3. Sự chuyển thể  
+a. Sự chuyển thể  
+- Khi các điều kiện như nhiệt độ, áp suất thay đổi, chất có thể chuyển 
+từ thể này sang thể khác. 
+- Quá trình chuyển từ thể rắn sang thể lỏng của các chất được gọi là 
+sự nóng chảy. Quá trình chuyển ngược lại, từ thể lỏng sang thể rắn 
+được gọi là sự đông đặc. 
+- Quá trình chuyển từ thể lỏng sang thể khí (hơi) của các chất được 
+gọi là sự hoá hơi. Quá trình chuyển ngược lại, từ thể khí (hơi) sang 
+thể lỏng được gọi là sự ngưng tụ. 
+Chú ý: Một số chất rắn như iodine (i-ốt), băng phiến, đá khô (CO2  
+ở thể rắn),… có khả năng chuyển trực tiếp sang thể hơi khi nó nhận 
+nhiệt. Hiện tượng trên gọi là sự thăng hoa. Ngược với sự thăng hoa là sự ngưng kết. 
+b. Dùng mô hình động học phân tử giải thích sự chuyển thể. 
+- Giải thích sự hoá hơi: Sự hoá hơi có thể xảy ra dưới hai hình thức là bay hơi và sôi. 
++ Sự bay hơi: là sự hoá hơi xảy ra ở mặt thoáng của chất lỏng. Nước đựng trong một cốc không đậy kín cạn dần 
+là một ví dụ về sự bay hơi. 
+Do các phân tử chuyển động hỗn loạn có thể va 
+chạm vào nhau, truyền năng lượng cho nhau nên có 
+một số phân tử ở gần mặt thoáng của chất lỏng có thể 
+có động năng đủ lớn để thắng lực hút của các phân tử 
+chất khác thì thoát được ra khỏi mặt thoáng của chất 
+lỏng trở thành các phân tử ở thể hơi. 
+Hình 1.4. Các phân tử chuyển động trong hình thức bay 
+hơi (Evaporation) và hình thức sôi (Boiling) 
+ 
+Hình 1.3. Sơ đồ sự chuyển thể của chất 
+
+---PAGE---
+ 
+ 
+3 
++ Sự sôi: Nếu tiếp tục được đun, số phân tử chất lỏng nhận được năng lượng để bứt ra khỏi khối chất lỏng tăng 
+dần, lớn gấp nhiều lần số phân tử khí (hơi) ngưng tụ, chất lỏng hoá hơi, chuyển dần thành chất khí. Trong quá 
+trình đó, nhiệt độ chất lỏng tăng dần và nếu nhận đủ nhiệt lượng, chất lỏng sẽ sôi. Khi chất lỏng sôi, sự hoá hơi 
+của chất lỏng xảy ra ở cả trong lòng và bề mặt chất lỏng. 
+- Giải thích sự nóng chảy:  
++ Khi nung nóng một vật rắn kết tinh, các phân tử 
+của vật rắn nhận được nhiệt lượng, dao động của 
+các phân tử mạnh lên. 
++ Nhiệt độ của vật rắn tăng đến một giá trị nào đó 
+thì một số phân tử thắng được lực tương tác với các 
+phân tử xung quanh và thoát khỏi liên kết với 
+chúng, đó là sự khởi đầu của quá trình nóng chảy. 
+Từ lúc này, vật rắn nhận nhiệt lượng để tiếp tục phá 
+vỡ các liên kết trong mạng tinh thể. Khi trật tự của 
+tinh thể bị phá vỡ hoàn toàn thì quá trình nóng chảy 
+kết thúc, vật rắn chuyển thành khối lỏng. 
+ 
+Hình 1.5. Đồ thị sự thay đổi của chất rắn kết tính khi 
+được làm nóng chảy 
++ Giai đoạn a: Chất rắn chưa nóng chảy; 
++ Giai đoạn b: Chất rắn đang nóng chảy; 
++ Giai đoạn c: Chất rắn đã nóng chảy hoàn toàn. 
+c. Chất rắn kết tinh và chất rắn vô định hình 
+Chất rắn kết tinh 
+Chất rắn vô định hình 
+- Có cấu trúc tinh thể 
+- Có nhiệt độ nóng chảy xác định 
+- Gồm: chất rắn đơn tinh thể: có tính dị hướng. 
+Chất rắn đa tinh thể: có tính đẳng hướng. 
+Ví dụ: đơn tinh thể: hạt muối, miếng thạch anh, viên kim 
+cương 
+Đa tinh thể: hầu hết các kim loại (sắt, nhôm, đồng,…) 
+ 
+- Không có cấu trúc tinh thể 
+- Không có nhiệt độ nóng chảy xác định 
+- Có tính đẳng hướng 
+- Ví dụ: thuỷ tinh, các loại nhựa, cao su, … 
+ 
+ 
+ 
+ 
+Lưu ý: Một số chất rắn như đường, lưu huỳnh,…có thể tồn tại ở dạng tinh thể hoặc vô định hình. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+4 
+II – BÀI TẬP LUYỆN TẬP  
+ 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn  
+A. CÂU HỎI LÝ THUYẾT 
+Câu 1. Chất được cấu tạo từ những hạt riêng biệt được gọi là  
+A. hạt vật chất. 
+ 
+B. phân tử. 
+ 
+ 
+C. điện tích. 
+ 
+ 
+D. electron. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử về cấu tạo chất: Các chất được cấu tạo từ các hạt riêng biệt là phân tử. 
+Câu 2 (SBT KNTT Vật lí 12). Chọn phát biểu sai khi nói về mô hình động học phân tử vể cấu tạo chất. 
+A. Các chất được cấu tạo từ các hạt riêng biệt là phân tử. 
+B. Các phân tử chuyển động hỗn loạn, không ngừng. 
+C. Tốc độ chuyển động của các phân tử cấu tạo nên vật càng lớn thì thể tích của vật càng lớn. 
+D. Giữa các phân tử có lực hút và đẩy gọi chung là lực liên kết phân tử. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử về cấu tạo chất: Nhiệt độ của vật càng cao thì tốc độ chuyển động của các phân 
+tử cấu tạo nên vật càng lớn. 
+Câu 3. Chuyển động của các phân tử được gọi là chuyển động 
+A. cơ học. 
+ 
+ 
+B. quang. 
+ 
+ 
+C. nhiệt. 
+ 
+ 
+D. từ. 
+Hướng dẫn giải 
+Chuyển động của các phân tử được gọi là chuyển động nhiệt. 
+Câu 4 (Đề thi THPTQG năm 2025). Theo mô hình động học phân tử, 
+A. giữa các phân tử chỉ có lực hút. 
+ 
+ 
+B. giữa các phân tử chỉ co lực đẩy. 
+C. các phân tử chuyển động không ngừng.  
+D. giữa các phân tử không có khoảng cách. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử, các phân tử chuyển động không ngừng. 
+Câu 5. Phát biểu nào sau đây là đúng khi nói về lực tương tác phân tử? 
+A. Lực tương tác phân tử không đáng kể khi các phân tử ở rất xa nhau. 
+B. Lực hút phân tử lớn hơn lực đẩy phân tử khi các phân tử ở gần nhau. 
+C. Lực hút phân tử không thể lớn hơn lực đẩy phân tử. 
+D. Lực đẩy phân tử lớn hơn lực hút phân tử khi các phân tử ở xa nhau. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử, giữa các phân tử có lực hút và đẩy gọi chung là lực liên kết phân tử. Khi các 
+phân tử gần nhau thì lực đẩy chiếm ưu thế và khi xa nhau thì lực hút chiếm ưu thế. Nếu các phân tử ở rất xa nhau 
+thì xem như lực tương tác phân tử không đáng kể. 
+Câu 6. Các chất có thể tồn tại ở những thể nào? 
+A. Thể rắn, thể lỏng.  
+ 
+ 
+ 
+B. Thể lỏng, thể khí. 
+C. Thể rắn, thể khí. 
+ 
+ 
+ 
+ 
+D. Thể rắn, thể lỏng, thể khí. 
+Hướng dẫn giải 
+Các chất có thể tồn tại ở các thể: Rắn, lỏng, khí. 
+Câu 7. Với mô hình động học phân tử, sự khác biệt về cấu trúc của chất rắn, chất lỏng và chất khí là do sự khác 
+biệt về 
+
+---PAGE---
+ 
+ 
+5 
+A. thành phần các phân tử cấu tạo của mỗi chất. 
+B. độ lớn của lực liên kết giữa các phân tử trong mỗi chất. 
+C. số lượng phân tử cấu tạo nên mỗi chất. 
+ 
+D. kích thước của các phân tử cấu tạo mỗi chất. 
+Hướng dẫn giải 
+Khoảng cách giữa các phân tử lớn thì lực liên kết giữa chúng yếu. Các phân tử sắp xếp có trật tự thì lực liên kết 
+giữa chúng mạnh. 
+Câu 8 (SBT KNTT Vật lí 12). Phát biểu nào sau đây là sai khi nói về lực liên kết giữa các phân tử. 
+A. Lực liên kết giữa các phân tử càng mạnh thì khoảng cách giữa chúng càng lớn. 
+B. Khi các phân tử sắp xếp càng có trật tự thì lực liên kết giữa chúng càng mạnh. 
+C. Lực liên kết giữa các phân tử một chất ở thể rắn sẽ lớn hơn lực liên kết giữa các phân tử chất đó ở thể khí. 
+D. Lực liên kết giữa các phân tử gồm cả lực hút và lực đẩy. 
+Hướng dẫn giải 
+Lực liên kết giữa các phân tử càng mạnh thì khoảng cách giữa chúng càng nhỏ. 
+Câu 9. Gọi X, Y, Z lần lượt là lực liên kết giữa các phân tử của một chất ở thể rắn, thể lỏng và thể khí. Hệ thức 
+nào sau đây là đúng? 
+A. X < Y < Z.  
+ 
+B. Z < Y < X.  
+ 
+C. Y < Z < X.  
+ 
+D. Z < X < Y. 
+Hướng dẫn giải 
+Lực liên kết phân tử ở thể rắn (X), thể lỏng (Y) và thể khí (Z): Z < Y < X. 
+Câu 10. Vật rắn có hình dạng xác định vì các phân tử cấu tạo nên vật rắn 
+A. không chuyển động. 
+ 
+ 
+ 
+B. chuyển động với vận tốc nhỏ không đáng kể. 
+C. đứng sát nhau. 
+ 
+ 
+ 
+ 
+D. chuyển động quanh một vị trí cân bằng xác định. 
+Hướng dẫn giải 
+Vật rắn có hình dạng xác định vì các phân tử cấu tạo nên vật rắn chuyển động quanh một vị trí cân bằng xác 
+định. 
+Câu 11. Phát biểu nào sau đây là đúng khi nói về những đặc điểm của chất rắn? 
+A. Có hình dạng xác định nhưng thể tích không xác định. 
+B. Có thể tích xác định nhưng không có hình dạng xác định. 
+C. Có thể tích và hình dạng xác định. 
+D. Có thể tích và hình dạng không xác định. 
+Hướng dẫn giải 
+Chất rắn có thể tích và hình dạng xác định các phân tử cấu tạo nên chất rắn chuyển động quanh vị trí cân bằng 
+xác định. 
+Câu 12. Chất rắn được phân loại thành 
+A. hai loại là chất rắn kết tinh và chất rắn đơn tinh thể. 
+B. hai loại là chất rắn đơn tinh thể và chất rắn đa tinh thể. 
+C. hai loại là chất rắn kết tinh và chất rắn vô định hình. 
+D. bốn loại là chất rắn kết tinh, chất rắn vô định hình, chất rắn đơn tinh thể và chất rắn đa tinh thể. 
+Hướng dẫn giải 
+Chất rắn được phân chia thành hai loại: chất rắn kết tinh và chất rắn vô định hình. 
+Câu 13. Chất rắn kết tinh là chất rắn  
+A. có cấu trúc đơn tinh thể. 
+ 
+ 
+ 
+B. có cấu trúc đa tinh thể. 
+C. không có cấu trúc mạng tinh thể.  
+ 
+D. có cấu trúc mạng tinh thể. 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+ 
+6 
+Chất rắn kết tinh là chất rắn có cấu trúc mạng tinh thể. 
+Câu 14. Chất rắn vô định hình là chất rắn  
+A. có cấu trúc đơn tinh thể. 
+ 
+ 
+ 
+B. có cấu trúc đa tinh thể. 
+C. không có cấu trúc mạng tinh thể.  
+ 
+D. có cấu trúc mạng tinh thể. 
+Hướng dẫn giải 
+Chất rắn vô định hình là chất rắn không có cấu trúc mạng tinh thể. 
+Câu 15. Chất rắn kết tinh bao gồm 
+A. muối, thạch anh, kim cương. 
+ 
+ 
+B. muối, thạch anh, cao su. 
+C. kim loại, lưa huỳnh, nhựa đường.  
+ 
+D. chì, kim cương, thủy tinh. 
+Hướng dẫn giải 
+Muối, thạch anh, kim cương là các chất rắn kết tinh. 
+Câu 16. Ở điều kiện thường, hầu hết các kim loại là 
+A. chất khí. 
+ 
+ 
+ 
+ 
+ 
+B. chất rắn vô định hình. 
+C. chất lỏng.  
+ 
+ 
+ 
+ 
+D. chất rắn kết tinh. 
+Hướng dẫn giải 
+Ở điều kiện thường, hầu hết các kim loại là chất rắn kết tinh. 
+Câu 17. Vật nào sau đây không có cấu trúc mạng tinh thể? 
+ 
+ 
+ 
+ 
+A. Thủy tinh. 
+B. Sắt. 
+C. Kim cương. 
+D. Thạch anh. 
+Hướng dẫn giải 
+Thủy tinh là chất rắn vô định hình nên không có cấu trúc mạng tinh thể. 
+Câu 18. Chất rắn nào dưới dây thuộc dạng chất rắn vô định hình? 
+A. Muối ăn. 
+ 
+ 
+B. Nhôm. 
+ 
+ 
+C. Sáp. 
+ 
+ 
+D. Vàng. 
+Hướng dẫn giải 
+Sáp, thủy tinh, cao su,… thuộc loại chất rắn vô định hình. 
+Câu 19. Đặc điểm nào sau đây là đặc điểm của thể lỏng? 
+A. Khoảng cách giữa các phân tử rất lớn so với kích thước của chúng. 
+B. Lực tương tác phân tử yếu hơn lực tương tác phân tử ở thể rắn. 
+C. Thể tích và hình dạng không xác định. 
+D. Các phân tử chuyển động quanh vị trí cân bằng xác định. 
+Hướng dẫn giải 
+Lực tương tác (lực liên kết) phân tử của chất ở thể lỏng yếu hơn lực tương tác phân tử ở thể rắn do khoảng cách 
+giữa các phân tử xa hơn. 
+Câu 20. Chất lỏng không có hình dạng xác định vì các phân tử chất lỏng 
+A. dao động tại các vị trí cân bằng xác định.  
+ 
+B. có thể chuyển động phân tán ra xa nhau. 
+C. dao động quanh các vị trí cân bằng luôn luôn thay đổi. D. có thể chuyển động tự do. 
+Hướng dẫn giải 
+Các phân tử ở thể lỏng dao động quanh vị trí cân bằng luôn luôn thay đổi dẫn đến hình dạng của khối vật chất 
+không xác định. 
+
+---PAGE---
+ 
+ 
+7 
+Câu 21 (Đề thi THPTQG năm 2025). Theo mô hình động học phân tử, ở thể lỏng, các phân tử 
+A. chỉ dao động quanh vị trí cân bằng xác định. 
+ 
+B. sắp xếp có trật tự. 
+C. dao động quanh vị trí cân bằng không xác định.  
+D. chuyển động hỗn loạn. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử, ở thể lỏng, các phân tử dao động quanh vị trí cân bằng không xác định. 
+Câu 22. Các phân tử khí chuyển động hỗn loạn không ngừng vì 
+A. phân tử khí có khối lượng không đáng kể. 
+B. khoảng cách giữa các phân tử khí ở rất gần nhau. 
+C. lực tương tác giữa các phân tử rất nhỏ. 
+ 
+D. các phân tử khí luôn đẩy nhau. 
+Hướng dẫn giải 
+Các phân tử ở thể khí chuyển động hỗn loạn, không ngừng vì lực liên kết giữa các phân tử rất nhỏ (do khoảng 
+cách giữa các phân tử rất lớn). 
+Câu 23. Tính chất nào sau đây không phải là tính chất của chất ở thể khí? 
+A. Có hình dạng và thể tích riêng. 
+ 
+ 
+B. Các phân tử chuyển động hỗn loạn. 
+C. Có thể nén dễ dàng. 
+ 
+ 
+ 
+D. Lực liên kết phân tử rất yếu. 
+Hướng dẫn giải 
+Lực liên kết phân tử ở thể khí rất yếu nên chất ở thể khí không có hình dạng và thể tích xác định mà sẽ phụ thuộc 
+vào vật chứa. 
+Câu 24. (Đề thi thử tốt nghiệp THPT Chuyên Phan Bội Châu – Nghệ An lần 2 năm 2025). Chất nào sau đây 
+có thể tích xác định?  
+A. Chất rắn và chất lỏng.  
+ 
+ 
+ 
+B. Chất khí.  
+C. Chất rắn và chất khí.  
+  
+ 
+ 
+D. Chất lỏng và chất khí.  
+Hướng dẫn giải 
+Chất ở thể rắn và thể lỏng có thể tích xác định, chất ở thể khí có thể tích phụ thuộc vào vật chứa. 
+Câu 25. Phát biểu nào sau đây là đúng khi nói về sự chuyển thể của chất? 
+A. Các chất không thể chuyển từ thể này sang thể khác. 
+B. Các chất có thể chuyển từ thể này sang thể khác. 
+C. Một vật ở thể rắn không thể chuyển trực tiếp sang thể khí. 
+D. Quá trình chuyển từ thể khí sang thể lỏng gọi là ngưng kết. 
+Hướng dẫn giải 
+Trong điều kiện áp suất, nhiệt độ,… thay đổi thì chất có thể chuyển từ thể này sang thể khác. 
+Câu 26 (Đề minh họa THPTQG 2025). Quá trình một chất chuyển từ thể lỏng sang thể khí được gọi là quá trình 
+A. nóng chảy.  
+ 
+B. hóa hơi. 
+ 
+ 
+C. hóa lỏng. 
+ 
+ 
+D. đông đặc. 
+Hướng dẫn giải 
+Quá trình chuyển từ thể lỏng sang thể khí được gọi là hóa hơi. 
+Câu 27. Ghép cột A và cột B tương ứng để thể hiện quá trình chuyển thể của vật chất. 
+Cột A 
+ 
+Cột B 
+(1). Lỏng sang khí 
+ 
+(a). nóng chảy 
+(2). Rắn sang lỏng 
+ 
+(b). đông đặc 
+(3). Khí sang rắn 
+ 
+(c). hóa hơi 
+(4). Lỏng sang rắn 
+ 
+(d). ngưng kết 
+
+---PAGE---
+ 
+ 
+8 
+(5). Khí sang lỏng 
+ 
+(e). thăng hoa 
+(6). Rắn sang khí 
+ 
+(f). ngưng tụ 
+A. (1) – (c); (2) – (a); (3) – (d); (4) – (b); (5) – (f); (6) – (e). 
+B. (1) – (c); (2) – (a); (3) – (e); (4) – (b); (5) – (f); (6) – (d). 
+C. (1) – (c); (2) – (e); (3) – (d); (4) – (b); (5) – (f); (6) – (a). 
+D. (1) – (e); (2) – (a); (3) – (f); (4) – (b); (5) – (d); (6) – (c). 
+Hướng dẫn giải 
+Sự chuyển thể giữa các chất có tên gọi theo sơ đồ sau: 
+ 
+Câu 28. Đặc điểm và tính chất nào dưới đây không phải của chất rắn kết tinh? 
+A. Có hình dạng xác định. 
+ 
+ 
+ 
+ 
+B. Có cấu trúc mạng tinh thể. 
+C. Có nhiệt độ nóng chảy không xác định. 
+ 
+ 
+D. Có nhiệt độ nóng chảy xác định. 
+Hướng dẫn giải 
+Chất rắn kết tinh có hình dạng xác định, cấu trúc mạng tinh thể và nhiệt độ nóng chảy xác định. 
+Câu 29. Một vật rắn khi nung nóng thì mềm dần. Đó là 
+A. chất rắn kết tinh. 
+ 
+ 
+ 
+ 
+ 
+B. chất rắn vô định hình. 
+C. chất rắn đơn tinh thể. 
+ 
+ 
+ 
+ 
+D. chất rắn đa tinh thể. 
+Hướng dẫn giải 
+Chất rắn vô định hình không có nhiệt độ nóng chảy xác định và nhiệt độ của chất sẽ tăng liên tục trong suốt quá 
+trình nóng chảy. Vì vậy khi nung nóng, nhiệt độ chất rắn vô định hình sẽ tăng liên tục và chất rắn mềm dần. 
+Sử dụng các thông tin sau cho câu 30 và câu 31: Đồ thị thực nghiệm ở hình bên dưới biểu diễn sự thay đổi của 
+nhiệt độ theo thời gian trong quá trình chuyển thể của benzene. Cho biết ở 12°C, benzene ở thể lỏng. 
+ 
+Câu 30. Quá trình chuyển thể của benzene tương ứng với đồ thị thực nghiệm trên là quá trình nào? 
+A. Quá trình ngưng tụ. 
+ 
+B. Quá trình ngưng kết. 
+C. Quá trình đông đặc. 
+ 
+D. Quá trình nóng chảy. 
+
+---PAGE---
+ 
+ 
+9 
+Hướng dẫn giải 
+Dựa vào đồ thị ta thấy, nhiệt độ của benzene giảm đến 6℃ rồi không đổi trong một khoảng thời gian. Sau đó 
+nhiệt độ của benzene tiếp tục giảm. Mà ở 12℃ benzene ở thể lỏng nên đây là quá trình đông đặc. 
+Câu 31. Dựa vào đồ thị thực nghiệm biểu diễn sự thay đổi của nhiệt độ theo thời gian trong quá trình chuyển thể 
+của benzene ở hình trên, cho biết nhận định nào sau đây là đúng? 
+A. Benzene là chất rắn vô định hình. 
+B. Nhiệt độ nóng chảy của benzene là 6 °C. 
+C. Sau thời điểm 2 phút 15 giây, benzen chỉ tồn tại ở thể rắn. 
+D. Khoảng thời gian diễn ra sự chuyển thể là 4 phút 7 giây. 
+Hướng dẫn giải 
+Dựa vào đồ thị ta thấy, trong khoảng thời gian từ thời điểm 2 phút 15 giây đến thời điểm 4 phút 7 giây (trong 1 
+phút 52 giây) nhiệt độ của benzene luôn bằng 6℃ (mà benzene ở thể lỏng khi ở 12℃) nên benzene đang diễn ra 
+sự chuyển thể từ thể lỏng sang thể rắn (benzene tồn tại ở thể lỏng và rắn), nhiệt độ nóng chảy của benzene là 6℃ 
+và benzene là chất rắn kết tinh. 
+Câu 32. Sự bay hơi xảy ra 
+A. ở bất kì nhiệt độ nào của chất lỏng. 
+ 
+B. ở một nhiệt độ xác định của chất lỏng. 
+C. trên bề mặt và trong lòng chất lỏng. 
+ 
+D. với tốc độ như nhau ở mọi nhiệt độ. 
+Hướng dẫn giải 
+Sự bay hơi xảy ra trên bề mặt chất lỏng ở bất kì nhiệt độ nào của chất lỏng. Tốc độ bay hơi của chất lỏng càng 
+nhanh khi nhiệt độ càng cao. 
+Câu 33. “Ở điều kiện áp suất tiêu chuẩn, quá trình sôi của chất lỏng diễn ra ……(1)…… chất lỏng tại nhiệt độ 
+……(2)……. Trong suốt thời gian sôi, nhiệt độ của chất lỏng ……(3)…….”. Điều vào chỗ trống các cụm từ thích 
+hợp. 
+(a). trên bề mặt 
+ 
+(b). trên bề mặt và trong lòng  
+ 
+(c). sôi 
+(d). không thay đổi 
+ 
+(e). bất kì 
+ 
+ 
+ 
+ 
+(f). thay đổi liên tục 
+A. (1) – (a); (2) – (c); (3) – (f). 
+ 
+ 
+B. (1) – (b); (2) – (e); (3) – (d). 
+C. (1) – (b); (2) – (c); (3) – (d). 
+ 
+ 
+D. (1) – (b); (2) – (e); (3) – (f). 
+Hướng dẫn giải 
+Quá trình sôi của chất lỏng diễn ra trên bề mặt và trong lòng chất lỏng tại nhiệt độ sôi. Trong suốt thời gian sôi, 
+nhiệt độ của chất lỏng không thay đổi. 
+ 
+B. CÂU HỎI THỰC TẾ VỀ SỰ CHUYỂN THỂ : 
+Câu 34 (Đề thi thử tốt nghiệp THPT Chuyên Phan Bội Châu – Nghệ An lần 2 năm 2025). Viên long não 
+thường dùng giảm kích thước theo thời gian mà không chảy thành chất lỏng. Hiện tượng này minh hoạ cho sự 
+chuyển thể nào trong vật lí? 
+ 
+
+---PAGE---
+ 
+ 
+10 
+A. Nóng chảy.  
+ 
+B. Ngưng tụ.  
+ 
+C. Thăng hoa.  
+ 
+D. Bay hơi. 
+Hướng dẫn giải 
+Viên long não chuyển từ thể rắn sang thể khí. Quá trình này là quá trình thăng hoa. 
+Câu 35 (Đề thi thử tốt nghiệp THPT Marie Curie – TP.HCM năm 2025). Đầu năm 
+2024, các quốc gia Bắc Âu đã chứng kiến thời tiết cực lạnh, với nhiệt độ thấp nhất 
+trong 25 năm ở mức −44,3℃, người dân đã đun sôi nước, nhanh chóng mang ra ngoài 
+và hất tung nó theo hình vòng cung trên không trung, ngay lập tức biến thành một đám 
+mây băng giá. Đây là hiện tượng 
+A. ngưng kết.  
+ 
+B. đông đặc.  
+ 
+C. ngưng tụ.  
+ 
+D. nóng chảy. 
+Hướng dẫn giải 
+Nước chuyển từ thể lỏng sang thể rắn. Quá trình này là quá trình đông đặc. 
+ 
+Câu 36 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Khi đúc đồng, gang, thép,… người ta đã ứng dụng các 
+hiện tượng vật lí nào? 
+ 
+A. Nung nóng. 
+ 
+ 
+ 
+ 
+B. Nóng chảy và đông đặc. 
+C. Thăng hoa.  
+ 
+ 
+ 
+ 
+D. Hóa hơi và ngưng tụ. 
+Hướng dẫn giải 
+Để tạo ra sản phẩm từ đồng, gang, thép,… ban đầu người ta cần làm nóng chảy (rắn sang lỏng) vật liệu. Sau đó 
+đổ vào khuôn và để nguội để chất đông đặc (lỏng sang rắn) trở lại. 
+Câu 37 (Đề thi thử tốt nghiệp Lê Quý Đôn – Hải Phòng năm 2025). Vào mùa hè, khi phơi quần áo ngoài trời, 
+ta thường thấy quần áo khô nhanh hơn so với các mùa khác trong năm. Hiện tượng trên có nguyên nhân chủ yếu 
+liên quan đến sự chuyển thể nào dưới đây? 
+A. Sự bay hơi.  
+ 
+B. Sự đông đặc.  
+ 
+C. Sự thăng hoa. 
+ 
+D. Sự ngưng tụ 
+Hướng dẫn giải 
+Nước bên trong áo từ thể lỏng chuyển sang thể khí. Đây là hình thức bay hơi thuộc quá trình hóa hơi. 
+Câu 38. Vào mùa hè, khi ta lấy chai nước ra khỏi tủ lạnh thì trên bề mặt chai nước sẽ xuất hiện một lớp nước. 
+Đây là hiện tượng 
+ 
+A. ngưng tụ.  
+ 
+B. thăng hoa.  
+ 
+C. ngưng kết.  
+ 
+D. nóng chảy. 
+Hướng dẫn giải 
+Do vỏ chai nước lạnh hơn so với nhiệt độ bên ngoài môi trường nên hơi nước trong không khí ngưng tụ trên vỏ 
+chai tạo thành nước. 
+
+---PAGE---
+ 
+ 
+11 
+Câu 39. Đá khô (dry ice) là tên gọi của carbon dioxide ở dạng đóng băng (thể rắn). Ở điều kiện áp suất khí quyển, 
+đá khô gặp nước sẽ chuyển sang thể khí. Người ta ứng dụng hiện tượng này của đá khô để tạo khói trong tổ chức 
+sự kiện, giải trí, ăn uống,… Hiện tượng tạo khói của đá khô liên quan đến sự chuyển thể nào sau đây? 
+ 
+A. Sự nóng chảy. 
+ 
+B. Sự hóa hơi.  
+ 
+C. Sự ngưng kết. 
+ 
+D. Sự thăng hoa. 
+Hướng dẫn giải 
+Đá khô chuyển từ thể rắn sang thể khí. Đây là quá trình thăng hoa. 
+Câu 40 (Đề thi thử tốt nghiệp Sở Bạc Liêu năm 2025). Ở điều kiện thường, iodine là chất rắn dạng tinh thể màu 
+đen tím. Khi đun nóng, iodine có sự thăng hoa. Sự thăng hoa của iodine là sự chuyển trạng thái từ thể 
+A. lỏng sang rắn. 
+ 
+B. rắn sang lỏng. 
+ 
+C. khí sang rắn. 
+ 
+D. rắn sang khí. 
+Hướng dẫn giải 
+Thăng hoa là sự chuyển thể từ rắn sang khí. 
+Câu 41. Tơ nhện được hình thành từ một loại protein dạng lỏng trong cơ thể nhện. Khi làm tơ, nhện nhả protein 
+đó ra khỏi cơ thể, protein đó sẽ chuyển thành tơ nhện. Quá trình protein chuyển thành tơ nhện là 
+ 
+A. sự bay hơi.  
+ 
+B. sự nóng chảy. 
+ 
+C. sự ngưng tụ. 
+ 
+D. sự đông đặc. 
+ 
+Hướng dẫn giải 
+Protein chuyển từ thể lỏng sang thể rắn. Đây là quá trình đông đặc. 
+Câu 42 (Đề thi thử tốt nghiệp Sở Bà Rịa Vũng Tàu năm 2025). Một nghiên cứu được công bố cuối tháng 2/2024 
+trên tạp chí Geophysical Research Letters băng biển Bắc cực đang tan nhanh với tốc độ kinh ngạc, nhanh hơn so 
+với những gì mà các nhà khoa học dự báo trước đó. Băng tan liên quan đến hiện tượng nào sau đây? 
+ 
+A. Nóng chảy.  
+ 
+B. Đông đặc.  
+ 
+C. Ngưng tụ.  
+ 
+D. Bay hơi. 
+Hướng dẫn giải 
+Các tảng băng chuyển từ thể rắn sang thể lỏng. Đây là quá trình nóng chảy. 
+
+---PAGE---
+ 
+ 
+12 
+Câu 43. Vào những ngày trời lạnh, khi người ngồi trong ô tô đóng kín cửa, thường 
+xuất hiện hiện tượng “hấp hơi” ở mặt trong của kính xe. Hiện tượng này có thể làm 
+hạn chế tầm nhìn và gây nguy hiểm khi lưu thông. Quá trình chuyển thể nào đã xảy 
+ra trong trường hợp này? 
+A. Đông đặc.  
+ 
+ 
+ 
+B. Ngưng kết. 
+C. Ngưng tụ.  
+ 
+ 
+ 
+D. Nóng chảy. 
+Hướng dẫn giải 
+Khi trời lạnh, nhiệt độ của mặt kính nhỏ hơn nhiệt độ của không khí bên trong xe, khi này hơi nước sẽ ngưng tụ 
+trên bề mặt kính và tạo ra hiện tượng hấp hơi. 
+Câu 44. Sau những trận mưa lớn, tại các khu vực trũng thường xuất hiện các vũng 
+nước đọng. Sau một khoảng thời gian, dù tác động nào nhưng những vùng trũng 
+này vẫn trở nên khô ráo theo thời gian. Nguyên nhân khiến các vũng nước dần biến 
+mất theo thời gian là do quá trình 
+A. ngưng tụ.  
+ 
+ 
+ 
+B. thăng hoa. 
+C. hóa hơi. 
+ 
+ 
+ 
+ 
+D. ngưng kết. 
+Hướng dẫn giải 
+Nước chuyển từ thể lỏng sang thể khí. Đây là quá trình hóa hơi. 
+ 
+ 
+ 
+
+---PAGE---
+ 
+ 
+13 
+C. CÂU HỎI VỀ ĐỒ THỊ QUÁ TRÌNH CHUYỂN THỂ 
+Câu 45. Hình bên là đồ thị phác hoạ sự thay đổi nhiệt độ theo thời gian trong quá trình chuyển thể từ rắn sang 
+lỏng của chất rắn kết tinh và chất rắn vô định hình tương ứng lần lượt là 
+ 
+A. Đường (1) và đường (3).  
+B. Đường (1) và đường (2). 
+C. Đường (2) và đường (3).  
+D. Đường (3) và đường (2).  
+ 
+Hướng dẫn giải 
+Chất rắn kết tinh là chất rắn có nhiệt độ nóng chảy xác định ⟹ Đường (3); 
+Chất rắn vô định hình là chất rắn không có nhiệt độ nóng chảy xác định ⟹ Đường (2). 
+Câu 46. Hình bên dưới là đường biểu diễn sự thay đổi nhiệt độ theo thời gian của một chất. Nhiệt độ nóng chảy 
+của chất đó là 
+A. 80℃. 
+B. 40℃. 
+ 
+C. 160℃. 
+ 
+ 
+ 
+D. 120℃. 
+Hướng dẫn giải 
+Nhiệt độ nóng chảy của một chất cũng chính bằng nhiệt độ đông đặc của chất đó. Quan sát đồ thị, ta thấy quá 
+trình đông đặc bắt đầu diễn ra khi nhiệt độ của chất lỏng là 40℃. Vậy nhiệt độ nóng chảy là 40℃. 
+Sử dụng các thông tin sau cho câu 47 và câu 48: Đồ thị bên biểu diễn sự phụ thuộc nhiệt độ của một kim loại 
+vào nhiệt lượng. Biết ban đầu kim loại ở thể rắn và không có sự thất thoát năng lượng trong quá trình nung nóng. 
+       
+ 
+Câu 47. Kim loại được nhắc đến trong đồ thị trên là 
+A. sắt.  
+ 
+ 
+B. đồng. 
+ 
+ 
+C. vàng. 
+ 
+ 
+ 
+D. nhôm. 
+
+---PAGE---
+ 
+ 
+14 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy được kim loại bước vào quá trình nóng chảy tại nhiệt độ 1064℃. Vậy 1064℃ là nhiệt 
+độ nóng chảy của kim loại này ⟹ Kim loại này là vàng. 
+ 
+Câu 48. Quá trình nóng chảy của kim loại diễn ra  
+A. trong khoảng thời gian từ 0s đến 49s. 
+ 
+B. trong khoảng thời gian từ 33s đến 49s. 
+C. thì kim loại chỉ tồn tại ở trạng thái lỏng.  
+D. thì nhiệt độ của kim loại thay đổi liên tục. 
+Hướng dẫn giải 
+Quá trình nóng chảy của kim loại bắt đầu từ giây thứ 33 và kết thúc tại giây thứ 49. 
+Câu 49 (Đề thi thử tốt nghiệp THPT Chu Văn An – Lạng Sơn năm 2025). Cho đồ thị biểu diễn sự thay đổi 
+nhiệt độ theo thời gian của một chất lỏng như hình bên. 
+ 
+A. Thời gian chất lỏng sôi là từ 0s đến 60s.  
+B. Thời gian chất lỏng sôi là từ 60s đến 180s. 
+C. Thời gian chất lỏng đông đặc từ 60s đến 180s. 
+D. Thời gian chất lỏng ở thể khí là từ 150s đến 220s. 
+Hướng dẫn giải 
+Thời gian chất lỏng bắt đầu sôi tương ứng với thời điểm tại vị trí B (60s) và kết thúc quá trình sôi tại vị trí C 
+(180s). 
+Câu 50 (Đề thi thử tốt nghiệp THPT Marie Curie – TP.HCM năm 2025). Hình bên dưới là đường biểu diễn sự 
+thay đổi nhiệt độ theo thời gian của nước khi được đun nóng và để nguội. Thời gian nước sôi là 
+ 
+A. 8 phút. 
+ 
+ 
+B. 6 phút. 
+ 
+ 
+C. 2 phút. 
+ 
+ 
+ 
+D. 4 phút. 
+Hướng dẫn giải 
+Ta quan sát đồ thị và thu được 1 ô tương ứng với 2 phút. Quá trình sôi của nước diễn ra từ điểm B đến điểm C, 
+tương ứng với khoảng thời gian từ 10 phút đến 14 phút. Vậy thời gian nước sôi là 4 phút. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+15 
+PHẦN II. Câu trắc nghiệm đúng sai  
+Câu 1. Xác định tính đúng/sai của các phát biểu sau khi nói về cấu tạo của chất theo mô hình động học phân tử. 
+Phát biểu 
+Đúng 
+Sai 
+a) Các chất được cấu tạo từ các hạt riêng biệt gọi là các ion. 
+ 
+S 
+b) Các phân tử chuyển động không ngừng và được gọi là chuyển động nhiệt. 
+Đ 
+ 
+c) Giữa các phân tử tồn tại lực tương tác gọi là lực liên kết phân tử. 
+Đ 
+ 
+d) Lực liên kết giữa các phân tử gồm cả lực hút và lực đẩy và không phụ thuộc vào khoảng 
+cách giữa các chúng. 
+ 
+S 
+Hướng dẫn giải 
+a) SAI 
+Các chất được cấu tạo từ các hạt riêng biệt gọi là các phân tử. 
+b) ĐÚNG 
+Các phân tử chuyển động không ngừng và được gọi là chuyển động nhiệt. 
+c) ĐÚNG 
+Giữa các phân tử tồn tại lực tương tác gọi là lực liên kết phân tử. 
+d) SAI 
+Lực liên kết giữa các phân tử bao gồm cả lực hút và lực đẩy. Lực liên kết này phụ thuộc vào khoảng cách giữa 
+các phân tử. 
+Câu 2. Xác định tính đúng/sai của các phát biểu sau khi nói về cấu trúc của chất ở các thể khác nhau. 
+Phát biểu 
+Đúng 
+Sai 
+a) Lực tương tác giữa các phân tử của chất ở thể rắn bé hơn so với thể lỏng và thể khí. 
+ 
+S 
+b) Chất ở thể rắn có hình dạng và thể tích riêng là do các phân tử đứng yên. 
+ 
+S 
+c) Chất ở thể khí có thể dễ dàng bị nén là do khoảng cách giữa các phân tử ở rất xa nhau. 
+Đ 
+ 
+d) Khi tồn tại ở thể lỏng, các phân tử của chất dao động quanh vị trí cân bằng không xác định. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Do khoảng cách giữa các phân tử ở thể rắn bé hơn so với thể lỏng và thể khí nên lực tương tác giữa các phân tử 
+ở thể rắn lớn hơn so với thể lỏng và thể khí. 
+b) SAI 
+Chất ở thể rắn có hình dạng và thể tích riêng là do các phân tử chuyển động quanh một vị trí cân bằng xác định. 
+c) ĐÚNG 
+Khoảng cách giữa các phân tử chất khí rất lớn nên ta có thể dễ dàng nén chất ở thể khí. 
+d) ĐÚNG 
+Các phân tử ở thể lỏng dao động quanh vị trí cân bằng không xác định. 
+Câu 3. Dựa vào thuyết động học phân tử về cấu tạo chất, xét tính đúng/sai của các phát biểu sau. 
+Phát biểu 
+Đúng 
+Sai 
+a) Ở thể rắn, các phân tử dao động quanh vị trí cân bằng luôn thay đổi. 
+ 
+S 
+b) Các phân tử chuyển động càng nhanh thì nhiệt độ của vật càng cao. 
+Đ 
+ 
+
+---PAGE---
+ 
+ 
+16 
+c) Ở thể khí, các phân tử ở rất gần nhau và chuyển động hỗn loạn không ngừng. 
+ 
+S 
+d) Khi nóng chảy, các phân tử chất rắn nhận năng lượng sẽ phá vỡ liên kết với một số các 
+phân tử xung quanh và trở nên linh động hơn. 
+Đ 
+ 
+Hướng dẫn giải 
+a) SAI 
+Ở thể rắn, các phân tử dao động quanh vị trí cân bằng xác định. 
+b) ĐÚNG 
+Chuyển động của các phân tử gọi là chuyển động nhiệt. Các phân tử chuyển động càng nhanh thì nhiệt độ của 
+vật càng cao. 
+c) SAI 
+Ở thể khí, các phân tử ở rất xa nhau và chuyển động hỗn loạn, không ngừng. 
+d) ĐÚNG 
+Trong quá trình nóng chảy, các phân tử chất rắn nhận năng lượng sẽ phá vỡ liên kết với một số các phân tử xung 
+quanh và trở nên linh động hơn. 
+Câu 4. Xác định tính đúng/sai của các phát biểu sau khi nói về chất rắn. 
+Phát biểu 
+Đúng 
+Sai 
+a) Chất rắn được chia thành hai loại: Chất rắn kết tinh và chất rắn vô định hình. 
+Đ 
+ 
+b) Chất rắn kết tinh là những chất rắn không có cấu trúc mạng tinh thể. 
+ 
+S 
+c) Mọi chất rắn đều có nhiệt độ nóng chảy và nhiệt độ đông đặc xác định. 
+ 
+S 
+d) Trong quá trình nóng chảy, nhiệt độ của chất rắn vô định hình tăng liên tục. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Chất rắn được chia thành hai loại: Chất rắn kết tinh và chất rắn vô định hình. 
+b) SAI 
+Chất rắn kết tinh là chất rắn có cấu trúc mạng tinh thể. Chất rắn vô định hình là chất rắn không có cấu trúc mạng 
+tinh thể. 
+c) SAI 
+Chất rắn kết tinh có nhiệt độ nóng chảy và nhiệt độ đông đặc xác định. 
+Chất rắn vô định hình không có nhiệt độ nóng chảy và nhiệt độ đông đặc xác định. 
+d) ĐÚNG 
+Trong quá trình nóng chảy, nhiệt độ của chất rắn vô định hình tăng liên tục và chất rắn mềm đi, chuyển dần sang 
+thể lỏng. 
+Câu 5 (Đề thi thử tốt nghiệp Sở Bắc Giang năm 2025). Hình bên dưới là đồ thị biểu diễn sự thay đổi nhiệt độ 
+theo thời gian trong quá trình chuyển từ thể rắn sang thể lỏng của chất rắn A và B. 
+
+---PAGE---
+ 
+ 
+17 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Khi nung nóng liên tục, chất rắn A mềm đi và chuyển dần sang thể lỏng. 
+Đ 
+ 
+b) Chất rắn B không có cấu trúc tinh thể. 
+ 
+S 
+c) Chất rắn B có nhiệt độ nóng chảy xác định.   
+Đ 
+ 
+d) Chất rắn A là chất rắn vô định hình. 
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Dựa vào đồ thị, ta kết luận rằng: Chất A là chất rắn vô định hình; chất B là chất rắn kết tinh. 
+Khi nung nóng liên tục, chất A sẽ mềm đi và chuyển dần sang thể lỏng. 
+b) SAI 
+Chất B là chất rắn kết tinh nên có cấu trúc mạng tinh thể. 
+c) ĐÚNG 
+Chất B là chất rắn kết tinh nên có nhiệt độ nóng chảy xác định. 
+d) ĐÚNG 
+Câu 6. Ở áp suất tiêu chuẩn, cho một ít nước đá ở dưới 0℃ vào bình chứa. Sau đó ta tiến hành đun nóng và thu 
+được đồ thị bên dưới. 
+Phát biểu 
+Đúng 
+Sai 
+a) Đun nóng bình chứa thì nhiệt độ nước đá tăng dần, khi đạt nhiệt độ 0℃ thì nước đá tan dần 
+thành nước. 
+Đ 
+ 
+b) Trong suốt quá trình chuyển thành nước, nhiệt độ nước đá luôn tăng. 
+ 
+S 
+c) Khi nước đá chuyển hoàn toàn thành nước, tiếp tục đun nóng thì nhiệt độ của nước sẽ tăng 
+dần và khi đạt 100℃ nước sẽ sôi và chuyển dần sang thể hơi. 
+Đ 
+ 
+d) Nhiệt độ nóng chảy của nước đá là 100℃. 
+ 
+S 
+Hướng dẫn giải 
+a) ĐÚNG 
+!"#AB&'(
+)"*#&+#,-
+.
+/
+0
+
+---PAGE---
+ 
+ 
+18 
+Ban đầu nước đá ở thể rắn và ở nhiệt độ dưới 0℃. Khi đun nóng, nhiệt độ nước đá tăng dần đến 0℃ (nhiệt độ 
+nóng chảy của nước đá). Khi đạt đến 0℃ thì nước đá bắt đầu bước vào quá trình nóng chảy. 
+b) SAI 
+Trong suốt quá trình nóng chảy, nhiệt độ của nước đá luôn không đổi. 
+c) ĐÚNG 
+Sau khi kết thúc quá trình nóng chảy, ta tiếp tục đun nóng thì nhiệt độ của nước sẽ tăng dần và khi đạt 100℃ 
+nước sẽ sôi và chuyển dần sang thể hơi. 
+d) SAI 
+Nhiệt độ nóng chảy của nước đá là 0℃. 
+Câu 7 (Đề thi thử tốt nghiệp THPT Nguyễn Khuyến – Lê Thánh Tông TP.HCM năm 2025). Bảng dưới đây 
+ghi nhiệt độ nóng chảy và nhiệt độ sôi của một số chất. 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Chất có nhiệt độ sôi cao nhất là chì.    
+Đ 
+ 
+b) Chất có nhiệt độ nóng chảy thấp nhất là nước.   
+ 
+S 
+c) Ở nhiệt độ 25℃ thì chì ở thể rắn. 
+Đ 
+ 
+d) Ở nhiệt độ 25℃ thì oxygen ở thể khí.   
+Đ 
+ 
+Hướng dẫn giải 
+a) ĐÚNG 
+Từ bảng số liệu, ta thu được chì là chất có nhiệt độ sôi cao nhất 1613℃. 
+b) SAI 
+Từ bảng số liệu, ta thu được oxygen là chất có nhiệt độ nóng chảy thấp nhất −219℃. 
+c) ĐÚNG 
+Từ bảng số liệu, ta thu được nhiệt độ nóng chảy của chì là 327℃. Nên tại 25℃, chì ở thể rắn. 
+d) ĐÚNG 
+Từ bảng số liệu, ta thu được nhiệt độ sôi của oxygen là −183℃. Nên tại 25℃, oxygen ở thể khí. 
+Câu 8 (Đề thi thử tốt nghiệp Sở Bình Dương năm 2025). Một học sinh lấy một viên nước đá từ tủ lạnh, cho vào 
+hủ, đậy kín và đặt trong phòng có nhiệt độ 24℃. 
+Phát biểu 
+Đúng 
+Sai 
+a) Đun nóng bình chứa thì nhiệt độ nước đá tăng dần, khi đạt nhiệt độ 0℃ thì nước đá tan dần 
+thành nước. 
+Đ 
+ 
+b) Trong suốt quá trình chuyển thành nước, nhiệt độ nước đá luôn tăng. 
+ 
+S 
+
+---PAGE---
+ 
+ 
+19 
+c) Khi nước đá chuyển hoàn toàn thành nước, tiếp tục đun nóng thì nhiệt độ của nước sẽ tăng 
+dần và khi đạt 100℃ nước sẽ sôi và chuyển dần sang thể hơi. 
+Đ 
+ 
+d) Nhiệt độ nóng chảy của nước đá là 100℃. 
+ 
+S 
+Hướng dẫn giải 
+a) ĐÚNG 
+Ban đầu nước đá ở thể rắn và ở nhiệt độ dưới 0℃. Khi đun nóng, nhiệt độ nước đá tăng dần đến 0℃ (nhiệt độ 
+nóng chảy của nước đá). Khi đạt đến 0℃ thì nước đá bắt đầu bước vào quá trình nóng chảy. 
+b) SAI 
+Trong suốt quá trình nóng chảy, nhiệt độ của nước đá luôn không đổi. 
+c) ĐÚNG 
+Sau khi kết thúc quá trình nóng chảy, ta tiếp tục đun nóng thì nhiệt độ của nước sẽ tăng dần và khi đạt 100℃ 
+nước sẽ sôi và chuyển dần sang thể hơi. 
+d) SAI 
+Nhiệt độ nóng chảy của nước đá là 0℃.
+
+---PAGE---
+ 
+ 
+20 
+PHẦN III. Câu trắc nghiệm trả lời ngắn 
+Câu 1 (Đề thi thử tốt nghiệp Sở Bình Dương năm 2025). Đồ thị hình bên dưới mô tả quá trình đun nóng một 
+khối nước đá. Dựa vào đồ thị, hãy xác định thời gian diễn ra quá trình nóng chảy của khối nước đá theo đơn vị 
+phút? (Làm tròn đến chữ số thập phân thứ nhất 
+ 
+Đáp số: 
+1 
+, 
+5 
+ 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy quá trình nóng chảy diễn ra từ phút thứ 1 đến phút thứ 2,5. Vậy quá trình nóng chảy diễn 
+ra trong 1,5 phút. 
+Sử dụng các thông tin sau cho câu 2, câu 3 và câu 4: Đồ thị bên dưới biểu diễn sự thay đổi nhiệt độ của chất 
+rắn theo thời gian. 
+ 
+Câu 2. Sau 14 phút, nhiệt độ của chất bằng bao nhiêu ℃? 
+Đáp số: 
+6 
+ 
+ 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thu được tại phút thứ 14 thì nhiệt độ của chất là 6℃. 
+Câu 3. Nhiệt độ đông đặc của chất rắn này bằng bao nhiêu ℃? 
+Đáp số: 
+0 
+ 
+ 
+ 
+Hướng dẫn giải 
+Nhiệt độ đông đặc của chất rắn cũng chính là nhiệt độ nóng chảy của nó. Ta quan sát đồ thị và thu được nhiệt 
+độ nóng chảy của chất rắn là 0℃. 
+Câu 4. Quá trình nóng chảy của chất rắn diễn ra trong bao nhiêu giây? 
+Đáp số: 
+2 
+4 
+0 
+ 
+
+---PAGE---
+ 
+ 
+21 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy quá trình nóng chảy diễn ra từ phút thứ 6 đến phút thứ 10. Vậy quá trình nóng chảy diễn 
+ra trong 4 phút = 240 giây. 
+ 
+
+---PAGE---
+ 
+ 
+22 
+PHẦN IV. Tự luận 
+Câu 1 (phát triển từ câu hỏi SBT Vật lí 12 – KNTT). Một người thợ sửa xe máy phát hiện trên một số bộ phận 
+bằng nhựa của chiếc xe bị nứt vỡ. Để hàn các bộ phận này, người ta đưa mỏ hàn nhiệt vào chỗ nứt vỡ để gắn 
+chúng lại với nhau, sau đó thực hiện một số biện pháp gia công làm tăng tính thẩm mĩ của chỗ hàn. 
+a) Quá trình chuyển thể nào xảy ra trong trường hợp này? Mô tả quy trình của các quá trình chuyển thể đó. 
+b) Phương pháp hàn nhiệt như trên có thể dùng để hàn các vật liệu kim loại khác hay không? Tại sao? 
+Hướng dẫn giải 
+a)  
+ 
+- Các quá trình chuyển thể diễn ra trong trường hợp này: Nóng chảy và đông đặc; 
+- Quy trình: Khi người thợ đưa mỏ hàn nhiệt chạm vào vết nứt, do nhiệt độ mỏ hàn cao hơn nhiệt độ nóng chảy 
+của nhựa nên nhựa bị nóng chảy chuyển từ thể rắn sang thể lỏng. Sau một khoảng thời gian thì chúng dính lại 
+khi nguội đi nhờ quá trình đông đặc. 
+b) 
+Phương pháp hàn nhiệt vẫn có thể áp dụng cho các vật liệu kim loại khác nếu như nhiệt độ của dụng cụ hàn cao 
+hơn nhiệt độ nóng chảy của kim loại. Ngoài ra, trong một số trường hợp người ta có thể đưa thêm một kim loại 
+khác có nhiệt độ thấp hơn vào chỗ cần hàn và tạo ra một mối hàn là hợp kim. 
+ 
+Câu 2 (phát triển từ câu hỏi SBT Vật lí 12 – KNTT). Thép là hợp kim gồm có kim loại chính là Fe và C chiếm 
+từ 0,02% đến 2,14%, ngoài ra còn bổ sung một số kim loại khác tùy thuộc từng loại thép. Gang cũng là một hợp 
+kim gồm chủ yếu là Fe và C, trong đó kim loại chính là Fe và C chiếm hơn 2,14%. Một người thợ nấu chảy thép 
+phế liệu trong một chiếc nồi kim loại. Để chế tạo gang, người đó bỏ thêm vào nồi thép nóng chảy đỏ rực đó một 
+ít rơm (thân cây lúa đã phơi khô). Biết nhiệt độ nóng chảy của thép và gang lần lượt là 1535℃ và 1200℃, thành 
+phần chính của rơm gồm các nguyên tố carbon, hydrogen, oxygen, nitrogen,… và các nguyên tố này (ngoại trừ 
+carbon) sẽ hóa hơi ở nhiệt độ cao. 
+a) Kim loại làm nồi nấu có đặc điểm gì để không bị hòa tan với thép nóng chảy? 
+b) Hãy giải thích cách chế tạo gang của người thợ. 
+Hướng dẫn giải 
+a) Để có thể làm nóng chảy thép, kim loại làm nồi nấu cần có nhiệt độ nóng chảy cao hơn nhiệt độ nóng chảy 
+của thép. 
+b) Khi chế tạo gang, người thợ bỏ thêm một ít rơm vào nồi thép nóng chảy vì ở nhiệt độ này, các nguyên tố như 
+hydrogen, oxygen, nitrogen,… sẽ hóa hơi và trong nồi chỉ tồn tại hợp chất bao gồm thép nóng chảy và carbon. 
+Lúc này hàm lượng carbon trong nồi đã tăng lên và chúng trở thành gang. 
+ 
+ 
+
+---PAGE---
+ 
+ 
+23 
+III – ĐỀ KIỂM TRA TỰ LUYỆN 
+ 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm). Thí sinh trả lời từ câu 1 đến câu 12. Mỗi 
+câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1. Lựa chọn từ khóa thích hợp để điền vào các chỗ trống sau: Theo mô hình động học phân tử về cấu tạo 
+chất, các chất được cấu tạo từ các ……(1)…… gọi chung là các ……(2)…….  
+(a). phân tử; 
+ 
+ 
+(b). hạt mang điện; 
+ 
+(c). hạt riêng biệt; 
+ 
+ 
+(d). electron;  
+ 
+(e). điện tích. 
+A. (1) – (b); (2) – (c).  
+ 
+ 
+ 
+B. (1) – (c); (2) – (e). 
+C. (1) – (c); (2) – (a).  
+ 
+ 
+ 
+D. (1) – (b); (2) – (d). 
+Câu 2. Khi khoảng cách giữa các phân tử khí rất nhỏ thì giữa các phân tử 
+A. chỉ tồn tại lực hút.  
+ 
+B. tồn tại cả lực hút và lực đẩy, nhưng lực đẩy lớn hơn lực hút. 
+C. chỉ tồn tại lực đẩy.  
+ 
+D. tồn tại cả lực hút và lực đẩy, nhưng lực đẩy nhỏ hơn lực hút. 
+Câu 3. Hình vẽ dưới đây mô tả, so sánh sự sắp xếp các phân tử ở các thể (a), chuyển động của phân tử ở các thể 
+(b). Hình nào mô tả cấu trúc của thể lỏng? 
+ 
+A. Hình 1. 
+ 
+ 
+B. Hình 2. 
+ 
+ 
+C. Hình 3. 
+ 
+ 
+D. Hình 2 và 3. 
+Câu 4. Phát biểu nào dưới đây là không đúng khi nói về sự nóng chảy của các chất rắn? 
+A. Chất rắn kết tinh nóng chảy ở một nhiệt độ xác định không đổi tương ứng với một áp suất bên ngoài xác định. 
+B. Nhiệt độ nóng chảy của chất rắn kết tinh phụ thuộc áp suất bên ngoài. 
+C. Chất rắn kết tinh nóng chảy và đông đặc ở cùng một nhiệt độ. 
+D. Chất rắn vô định hình nóng chảy ở một nhiệt độ xác định không đổi. 
+Câu 5 .Trong quy trình làm muối thủ công truyền thống tại xã Bạch Long, huyện Giao 
+Thủy, tỉnh Nam Định, người dân có thực hiện như sau: vào những ngày nắng ráo, sáng 
+sớm người dân đổ nước mặn lên nền sân sạch, buổi chiều người dân thu gom được các 
+hạt muối. Sự hình thành muối hạt trong quy trình trên liên quan trực tiếp tới hiện tượng  
+ A. bay hơi. 
+ 
+ 
+B. ngưng kết.   
+ 
+C. ngưng tụ.   
+ 
+D. thăng hoa  
+Câu 6 . Bảng bên dưới cho biết nhiệt độ nóng chảy và nhiệt độ sôi của bốn chất khác nhau. Chất nào tồn tại ở thể 
+lỏng tại 0℃? 
+Chất 
+Nhiệt độ nóng chảy (oC) 
+Nhiệt độ sôi (oC) 
+1 
+-219 
+-183 
+2 
+-7 
+58 
+3 
+98 
+890 
+4 
+1083 
+2582 
+A. Chất 1. 
+ 
+ 
+B. Chất 2. 
+ 
+ 
+C. Chất 3. 
+ 
+ 
+D. Chất 4. 
+Câu 7 . Cách nào sau đây không làm chất lỏng bay hơi nhanh hơn? 
+
+---PAGE---
+ 
+ 
+24 
+A. Tăng nhiệt độ môi trường. 
+B. Tăng diện tích bề mặt chất lỏng. 
+C. Tăng độ ẩm không khí. 
+ 
+D. Thổi không khí qua bề mặt chất lỏng. 
+Câu 8 . Trong công nghệ sản xuất nhôm, người ta làm cho quặng nhôm chuyển từ dạng rắn sang dạng lỏng trước 
+khi điện phân. Quá trình chuyển thể này gọi là 
+ 
+A. đông đặc. 
+B. ngưng tụ. 
+C. nóng chảy. 
+ 
+D. hóa hơi. 
+Câu 9. Phát biểu nào sau đây là sai khi nói về sự sôi? 
+A. Sự sôi là một hình thức của quá trình hóa hơi. 
+B. Khi đang sôi thì nhiệt độ của chất lỏng không thay đổi. 
+C. Sự sôi xảy ra ở cùng một nhiệt độ xác định đối với mọi chất lỏng. 
+D. Sự sôi là quá trình hóa hơi diễn ra ở cả bên trong và trên bề mặt chất lỏng. 
+Câu 10. Phát biểu nào sau đây không phải đặc điểm của chất khí? 
+A. Các phân tử sắp xếp một cách có trật tự.  
+B. Các phân tử chuyển động hỗn loạn, không ngừng. 
+C. Lực tương tác giữa các phân tử rất nhỏ.  
+D. Nhiệt độ càng cao thì phân tử chuyển động càng nhanh. 
+Câu 11. Với cùng một chất, trong quá trình nào sau đây thì lực tương tác giữa các phân tử giảm nhiều nhất?  
+ A. Đông đặc.  
+ 
+B. Ngưng tụ.  
+ 
+C. Nóng chảy.  
+ 
+D. Thăng hoa  
+Câu 12. Đổ vào ba bình có cùng một lượng nước như nhau và đặt trong cùng một phòng. Sau một khoảng thời 
+gian, lượng nước trong bình nào còn nhiều nhất? 
+ 
+A. Bình A. 
+ 
+ 
+B. Bình B. 
+ 
+ 
+C. Bình C. 
+ 
+ 
+D. Cả ba bằng nhau. 
+PHẦN II. Câu trắc nghiệm đúng sai (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở 
+mỗi câu, thí sinh chọn đúng hoặc sai. 
+Câu 1. Xét về hiện tượng bay hơi, hãy xác định tính đúng/sai của các phát biểu sau:  
+Phát biểu 
+Đúng 
+Sai 
+a) Mọi chất lỏng đều bay hơi ở một nhiệt độ xác định. 
+ 
+ 
+b) Sự bay hơi là sự hoá hơi xảy ra ở mặt thoáng của khối chất lỏng. 
+ 
+ 
+c) Tốc độ bay hơi càng nhanh nếu diện tích mặt thoáng càng bé. 
+ 
+ 
+d) Khi bay hơi nhiệt độ của chất lỏng giảm đi. 
+ 
+ 
+ 
+Câu 2 . Khi tiến hành đun nóng một lượng băng phiến ở thể rắn, người ta đã vẽ được đồ thị biểu diễn sự thay đổi 
+nhiệt độ của băng phiến theo thời 90 gian đun như hình bên. 
+
+---PAGE---
+ 
+ 
+25 
+ 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Trong khoảng thời gian từ thời điểm 3 phút đến thời điểm 6 phút, nhiệt độ của băng phiến 
+không tăng chứng tỏ lượng băng phiến trong thí nghiệm trên không nhận nhiệt lượng. 
+ 
+ 
+b) Đồ thị trên mô tả quá trình chuyển thể từ thể rắn sang thể lỏng và từ thể lỏng sang thể khí 
+của lượng băng phiến khi bị đun nóng.   
+ 
+ 
+c) Băng phiến là chất rắn kết tinh và có nhiệt độ nóng chảy là 80℃. 
+ 
+ 
+d) Đoạn AC trên đồ thị cho biết băng phiến đang tan chảy. 
+ 
+ 
+ 
+PHẦN III. Câu trắc nghiệm trả lời ngắn (2,0 điểm). Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng 
+được 0,5 điểm. 
+Sử dụng các thông tin sau cho câu 1 và câu 2: Đồ thị bên dưới biểu diễn sự thay đổi nhiệt độ của chất rắn theo 
+thời gian.  
+Câu 1. Nhiệt độ ban đầu của chất rắn bằng bao nhiêu ℃? 
+Câu 2. Nhiệt độ sôi của chất bằng bao nhiêu ℃? 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Hình bên dưới là đường biểu diễn sự thay đổi nhiệt độ theo thời 
+gian của nước khi được đun nóng và để nguội. 
+ 
+!
+"# $B
+CD()#*+,
+-D.(*/(0N*
+"OD3#B
+4!
+5!
+5!
+6!
+T!
+8!
+4!!
+9
+:
+$
+;
+
+---PAGE---
+ 
+ 
+26 
+Câu 3. Nhiệt độ của nước đạt đến 60℃ lần đầu tiên tại phút thứ bao nhiêu? 
+Câu 4. Thời gian nước sôi bằng bao nhiêu giây? 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm). Hình bên dưới là sơ đồ mô tả vòng tuần hoàn của nước trong thực tế. Hãy cho biết quá trình 
+này liên quan đến các quá trình nào của sự chuyển thể? Quá trình diễn ra dưới hình thức nào? 
+Câu 2 (2,0 điểm). Tại cửa hàng PNJ trên đường Nguyễn Trãi (Phường Cầu Ông Lãnh, TP. Hồ Chí Minh), một 
+kỹ thuật viên chế tác đang thực hiện quy trình đúc một vàng nhẫn 1 lượng (tương đương 37,5 g) từ vàng 9999 
+nguyên chất. Quy trình thực hiện gồm 4 bước:  
+(1) Cân và kiểm tra độ tinh khiết của vàng; 
+(2) Đưa vàng vào lò nung để nung chảy hoàn toàn; 
+(3) Rót vàng lỏng vào khuôn nhẫn; 
+(4) Làm nguội và đánh bóng sản phẩm.  
+ 
+ 
+a) Quá trình chuyển thể nào diễn ra trong các bước tiến hành chế tác? (1,0 điểm) 
+b) Dựa vào bảng tra nhiệt độ nóng chảy được cung cấp, người thợ cần sử dụng khuôn làm bằng kim loại nào để 
+tạo hình cho vàng lỏng? Vì sao? (1,0 điểm) 
+ 
+ 
+
+---PAGE---
+ 
+ 
+27 
+HƯỚNG DẪN GIẢI 
+ 
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (3,0 điểm).  
+Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi thí sinh chỉ chọn một phương án. 
+Câu 1. Lựa chọn từ khóa thích hợp để điền vào các chỗ trống sau: Theo mô hình động học phân tử về cấu tạo 
+chất, các chất được cấu tạo từ các ……(1)…… gọi chung là các ……(2)…….  
+(a). phân tử; 
+ 
+ 
+(b). hạt mang điện; 
+ 
+(c). hạt riêng biệt; 
+ 
+ 
+(d). electron;  
+ 
+(e). điện tích. 
+A. (1) – (b); (2) – (c).  
+ 
+ 
+ 
+B. (1) – (c); (2) – (e). 
+C. (1) – (c); (2) – (a).  
+ 
+ 
+ 
+D. (1) – (b); (2) – (d). 
+Hướng dẫn giải 
+Theo mô hình động học phân tử về cấu tạo chất, các chất được cấu tạo từ các hạt riêng biệt gọi chung là các 
+phân tử. 
+Câu 2. Khi khoảng cách giữa các phân tử khí rất nhỏ thì giữa các phân tử 
+A. chỉ tồn tại lực hút.  
+ 
+B. tồn tại cả lực hút và lực đẩy, nhưng lực đẩy lớn hơn lực hút. 
+C. chỉ tồn tại lực đẩy.  
+ 
+D. tồn tại cả lực hút và lực đẩy, nhưng lực đẩy nhỏ hơn lực hút. 
+Hướng dẫn giải 
+Theo mô hình động học phân tử về cấu tạo chất, giữa các phân tử có lực hút và lực đẩy gọi chung là lực liên kết 
+phân tử. Khi khoảng cách giữa các phân tử rất nhỏ thì lực đẩy sẽ chiếm ưu thế. 
+Câu 3. Hình vẽ dưới đây mô tả, so sánh sự sắp xếp các phân tử ở các thể (a), chuyển động của phân tử ở các thể 
+(b). Hình nào mô tả cấu trúc của thể lỏng? 
+ 
+A. Hình 1. 
+ 
+ 
+B. Hình 2. 
+ 
+ 
+C. Hình 3. 
+ 
+ 
+D. Hình 2 và 3. 
+Hướng dẫn giải 
+Hình 1: Chất ở thể khí. 
+ 
+Hình 2: Chất ở thể rắn. 
+ 
+Hình 3: Chất ở thể lỏng. 
+Câu 4. Phát biểu nào dưới đây là không đúng khi nói về sự nóng chảy của các chất rắn? 
+A. Chất rắn kết tinh nóng chảy ở một nhiệt độ xác định không đổi tương ứng với một áp suất bên ngoài xác định. 
+B. Nhiệt độ nóng chảy của chất rắn kết tinh phụ thuộc áp suất bên ngoài. 
+C. Chất rắn kết tinh nóng chảy và đông đặc ở cùng một nhiệt độ. 
+D. Chất rắn vô định hình nóng chảy ở một nhiệt độ xác định không đổi. 
+Hướng dẫn giải 
+- Chất rắn kết tinh có nhiệt độ nóng chảy xác định (ở một áp suất cụ thể); 
+- Chât rắn vô định hình không có nhiệt độ nóng chảy xác định.  
+
+---PAGE---
+ 
+ 
+28 
+Câu 5 (Đề thi thử tốt nghiệp Sở Nam Định năm 2025). Trong quy trình làm muối thủ 
+công truyền thống tại xã Bạch Long, huyện Giao Thủy, tỉnh Nam Định, người dân có 
+thực hiện như sau: vào những ngày nắng ráo, sáng sớm người dân đổ nước mặn lên nền 
+sân sạch, buổi chiều người dân thu gom được các hạt muối. Sự hình thành muối hạt trong 
+quy trình trên liên quan trực tiếp tới hiện tượng  
+ A. bay hơi. 
+ 
+ 
+B. ngưng kết.   
+ 
+C. ngưng tụ.   
+ 
+D. thăng hoa  
+Hướng dẫn giải 
+Sự hình thành muối hạt trong quy trình làm muối thủ công liên quan trực tiếp đến sự bay hơi của nước (một hình 
+thức của sự hóa hơi). 
+Câu 6 (Đề thi thử tốt nghiệp TH-THCS-THPT Nguyễn Bỉnh Khiêm - Quảng Ninh năm 2025). Bảng bên dưới 
+cho biết nhiệt độ nóng chảy và nhiệt độ sôi của bốn chất khác nhau. Chất nào tồn tại ở thể lỏng tại 0℃? 
+Chất 
+Nhiệt độ nóng chảy (oC) 
+Nhiệt độ sôi (oC) 
+1 
+-219 
+-183 
+2 
+-7 
+58 
+3 
+98 
+890 
+4 
+1083 
+2582 
+A. Chất 1. 
+ 
+ 
+B. Chất 2. 
+ 
+ 
+C. Chất 3. 
+ 
+ 
+D. Chất 4. 
+Hướng dẫn giải 
+Từ bảng số liệu, ta thu được nhiệt độ nóng chảy của chất 2 là −7℃ và nhiệt độ sôi của chất 2 là 58℃. Vậy tại 
+0℃, chất 2 sẽ ở thể lỏng. 
+Câu 7 (Đề thi thử tốt nghiệp TH-THCS-THPT Nguyễn Bỉnh Khiêm - Quảng Ninh năm 2025). Cách nào sau 
+đây không làm chất lỏng bay hơi nhanh hơn? 
+A. Tăng nhiệt độ môi trường. 
+B. Tăng diện tích bề mặt chất lỏng. 
+C. Tăng độ ẩm không khí. 
+ 
+D. Thổi không khí qua bề mặt chất lỏng. 
+Hướng dẫn giải 
+Tốc độ bay hơi của chất lỏng càng nhanh nếu: 
++ Tăng nhiệt độ môi trường; 
++ Tăng diện tích mặt thoáng chất lỏng; 
++ Giảm độ ẩm không khí; 
++ Tăng tốc độ gió (thổi không khí qua bề mặt chất lỏng). 
+Câu 8 (Đề thi thử tốt nghiệp Liên trường Nghệ An lần 1 năm 2025). Trong công nghệ sản xuất nhôm, người ta 
+làm cho quặng nhôm chuyển từ dạng rắn sang dạng lỏng trước khi điện phân. Quá trình chuyển thể này gọi là 
+ 
+A. đông đặc. 
+B. ngưng tụ. 
+C. nóng chảy. 
+ 
+D. hóa hơi. 
+Hướng dẫn giải 
+Quặng nhôm chuyển từ thể rắn sang thể lỏng. Đây là quá trình nóng chảy. 
+
+---PAGE---
+ 
+ 
+29 
+Câu 9. Phát biểu nào sau đây là sai khi nói về sự sôi? 
+A. Sự sôi là một hình thức của quá trình hóa hơi. 
+B. Khi đang sôi thì nhiệt độ của chất lỏng không thay đổi. 
+C. Sự sôi xảy ra ở cùng một nhiệt độ xác định đối với mọi chất lỏng. 
+D. Sự sôi là quá trình hóa hơi diễn ra ở cả bên trong và trên bề mặt chất lỏng. 
+Hướng dẫn giải 
+Nhiệt độ sôi của chất lỏng phụ thuộc áp suất khí trên mặt thoáng và bản chất của chất lỏng. 
+Câu 10. Phát biểu nào sau đây không phải đặc điểm của chất khí? 
+A. Các phân tử sắp xếp một cách có trật tự.  
+B. Các phân tử chuyển động hỗn loạn, không ngừng. 
+C. Lực tương tác giữa các phân tử rất nhỏ.  
+D. Nhiệt độ càng cao thì phân tử chuyển động càng nhanh. 
+Hướng dẫn giải 
+Các phân tử của chất khí ở rất xa nhau (dẫn đến lực liên kết phân tử rất yếu); chuyển động hỗn loạn, không 
+ngừng; nhiệt độ càng cao thì chuyển động càng nhanh và sắp xếp hỗn loạn, không có trật tự. 
+Câu 11 (Đề thi thử tốt nghiệp Sở Nam Định năm 2025).Với cùng một chất, trong quá trình nào sau đây thì lực 
+tương tác giữa các phân tử giảm nhiều nhất?  
+ A. Đông đặc.  
+ 
+B. Ngưng tụ.  
+ 
+C. Nóng chảy.  
+ 
+D. Thăng hoa  
+Hướng dẫn giải 
+Lực tương tác phân tử sắp xếp theo thứ tự giảm dần theo các thể của chất: rắn; lỏng; khí. Vậy lực liên kết phân 
+tử giảm nhiều nhất khi vật chuyển trực tiếp từ thể rắn sang thể khí. Đây chính là quá trình thăng hoa. 
+Câu 12. Đổ vào ba bình có cùng một lượng nước như nhau và đặt trong cùng một phòng. Sau một khoảng thời 
+gian, lượng nước trong bình nào còn nhiều nhất? 
+ 
+A. Bình A. 
+ 
+ 
+B. Bình B. 
+ 
+ 
+C. Bình C. 
+ 
+ 
+D. Cả ba bằng nhau. 
+Hướng dẫn giải 
+Tốc độ bay hơi của chất lỏng phụ thuộc vào các yếu tố sau: nhiệt độ môi trường; diện tích mặt thoáng chất lỏng; 
+độ ẩm không khí; tốc độ gió. Ta quan sát thấy được diện tích mặt thoáng bình C nhỏ nhất. Vì vậy nếu đặt trong 
+cùng một phòng (nhiệt độ, độ ẩm, tốc độ gió,… như nhau) thì sau một khoảng thời gian, bình C sẽ còn nhiều nước 
+nhất do tốc độ bay hơi chậm nhất. 
+ 
+PHẦN II. Câu trắc nghiệm đúng sai (2,0 điểm).  
+Thí sinh trả lời từ câu 1 đến câu 2. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai. 
+Câu 1. Khi nói về sự bay hơi thì 
+Phát biểu 
+Đúng 
+Sai 
+a) Mọi chất lỏng đều bay hơi ở một nhiệt độ xác định. 
+ 
+S 
+b) Sự bay hơi là sự hoá hơi xảy ra ở mặt thoáng của khối chất lỏng. 
+Đ 
+ 
+c) Tốc độ bay hơi càng nhanh nếu diện tích mặt thoáng càng bé. 
+ 
+S 
+d) Khi bay hơi nhiệt độ của chất lỏng giảm đi. 
+Đ 
+ 
+ 
+Hướng dẫn giải 
+
+---PAGE---
+ 
+ 
+30 
+a) SAI 
+Sự bay hơi ở chất lỏng xảy ra ở nhiệt độ bất kì. 
+b) ĐÚNG 
+Sự bay hơi là hình thức của quá trình hóa hơi, xảy ra tại mặt thoáng của khối chất lỏng. 
+c) SAI 
+Tốc độ bay hơi càng nhanh khi: 
++ Tăng nhiệt độ môi trường; 
++ Tăng diện tích mặt thoáng chất lỏng; 
++ Giảm độ ẩm không khí; 
++ Tăng tốc độ gió (thổi không khí qua bề mặt chất lỏng). 
+d) ĐÚNG 
+Khi bay hơi, các phân tử trên bề mặt của chất lỏng hấp thụ năng lượng nhiệt để động năng tăng và phá vỡ liên 
+kết giữa các phân tử và thoát ra ngoài. Các phân tử còn lại sẽ có động năng trung bình thấp hơn. Vì vậy nhiệt độ 
+của chất lỏng giảm xuống. 
+Câu 2 (Phát triền câu hỏi đề thi thử tốt nghiệp Sở Bình Phước năm 2025). Khi tiến hành đun nóng một lượng 
+băng phiến ở thể rắn, người ta đã vẽ được đồ thị biểu diễn sự thay đổi nhiệt độ của băng phiến theo thời 90 gian 
+đun như hình bên. 
+ 
+ 
+Phát biểu 
+Đúng 
+Sai 
+a) Trong khoảng thời gian từ thời điểm 3 phút đến thời điểm 6 phút, nhiệt độ của băng phiến 
+không tăng chứng tỏ lượng băng phiến trong thí nghiệm trên không nhận nhiệt lượng. 
+ 
+S 
+b) Đồ thị trên mô tả quá trình chuyển thể từ thể rắn sang thể lỏng và từ thể lỏng sang thể khí 
+của lượng băng phiến khi bị đun nóng.   
+ 
+S 
+c) Băng phiến là chất rắn kết tinh và có nhiệt độ nóng chảy là 80℃. 
+Đ 
+ 
+d) Đoạn AC trên đồ thị cho biết băng phiến đang tan chảy. 
+ 
+S 
+Hướng dẫn giải 
+a) SAI 
+Trong khoảng thời gian từ thời điểm 3 phút đến thời điểm 6 phút, băng phiến đang trong quá trình nóng chảy. 
+Nhiệt độ của băng phiến không tăng nhưng vẫn nhận nhiệt lượng để cung cấp cho quá trình nóng chảy. 
+b) SAI 
+Đồ thị mô tả quá trình cung cấp năng lượng để băng phiến (thể rắn) tăng nhiệt độ (đoạn AB); sự chuyển thể từ 
+thể rắn sang thể lỏng (đoạn BC) và một phần quá trình cung cấp năng lượng để nước tăng nhiệt độ (đoạn CD).  
+c) ĐÚNG 
+
+---PAGE---
+ 
+ 
+31 
+Quan sát đồ thị, ta thu được trong giai đoạn nóng chảy của băng phiến (đoạn BC), nhiệt độ của khối chất luôn ở 
+mức 80℃. Do băng phiến có nhiệt độ nóng chảy xác định, băng phiến là chất rắn kết tinh. 
+d) SAI 
+Băng phiến tan chảy trong giai đoạn BC. 
+PHẦN III. Câu trắc nghiệm trả lời ngắn (2,0 điểm).  
+Thí sinh trả lời từ câu 1 đến câu 4. Mỗi câu trả lời đúng được 0,5 điểm. 
+Sử dụng các thông tin sau cho câu 1 và câu 2: Đồ thị bên dưới biểu diễn sự thay đổi nhiệt độ của chất rắn theo 
+thời gian.  
+ 
+Câu 1. Nhiệt độ ban đầu của chất rắn bằng bao nhiêu ℃? 
+Đáp số: 
+- 
+1 
+0 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thu được nhiệt độ ban đầu của chất rắn là −10℃. 
+Câu 2. Nhiệt độ sôi của chất bằng bao nhiêu ℃? 
+Đáp số: 
+1 
+0 
+0 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thấy chất bắt đầu bước vào giai đoạn sôi ở nhiệt độ 100℃. 
+Sử dụng các thông tin sau cho câu 3 và câu 4: Hình bên dưới là đường biểu diễn sự thay đổi nhiệt độ theo thời 
+gian của nước khi được đun nóng và để nguội. 
+ 
+Câu 3. Nhiệt độ của nước đạt đến 60℃ lần đầu tiên tại phút thứ bao nhiêu? 
+Đáp số: 
+6 
+ 
+ 
+ 
+Hướng dẫn giải 
+Quan sát đồ thị, ta thu được nhiệt độ của nước đạt đến 60℃ lần đầu tiên tại phút thứ 6. 
+Câu 4. Thời gian nước sôi bằng bao nhiêu giây? 
+!
+"# $B
+CD()#*+,
+-D.(*/(0N*
+"OD3#B
+4!
+5!
+5!
+6!
+T!
+8!
+4!!
+9
+:
+$
+;
+
+---PAGE---
+ 
+ 
+32 
+Đáp số: 
+2 
+4 
+0 
+ 
+Hướng dẫn giải 
+Nước sôi trong giai đoạn BC (từ phút thứ 10 đến phút thứ 14). Khoảng thời gian nước sôi là 4 phút = 240 giây. 
+ 
+PHẦN IV. Tự luận (3,0 điểm). Thí sinh trả lời câu 1 và câu 2. 
+Câu 1 (1,0 điểm). Hình bên dưới là sơ đồ mô tả vòng tuần hoàn của nước trong thực tế. Hãy cho biết quá trình 
+này liên quan đến các quá trình nào của sự chuyển thể? Quá trình diễn ra dưới hình thức nào? 
+ 
+ 
+ 
+Hướng dẫn giải 
+Điểm 
+ 
+Trong vòng tuần hoàn của nước có hai quá trình chuyển thể: 
+- Nước từ trong ao, hồ,… hóa hơi tạo thành hơi nước trong không khí. Quá trình hóa hơi 
+diễn ra dưới hình thức bay hơi. 
+- Hơi nước khi lên cao thì ngưng tụ thành mây. 
+ 
+0,5 đ 
+ 
+0,5 đ 
+ 
+ 
+ 
+ 
+Câu 2 (2,0 điểm). Tại cửa hàng PNJ trên đường Nguyễn Trãi (Phường Cầu Ông Lãnh, TP. Hồ Chí Minh), một 
+kỹ thuật viên chế tác đang thực hiện quy trình đúc một vàng nhẫn 1 lượng (tương đương 37,5 g) từ vàng 9999 
+nguyên chất. Quy trình thực hiện gồm 4 bước:  
+(1) Cân và kiểm tra độ tinh khiết của vàng; 
+(2) Đưa vàng vào lò nung để nung chảy hoàn toàn; 
+(3) Rót vàng lỏng vào khuôn nhẫn; 
+(4) Làm nguội và đánh bóng sản phẩm.  
+  
+
+---PAGE---
+ 
+ 
+33 
+a) Quá trình chuyển thể nào diễn ra trong các bước tiến hành chế tác? (1,0 điểm) 
+b) Dựa vào bảng tra nhiệt độ nóng chảy được cung cấp, người thợ cần sử dụng khuôn làm bằng kim loại nào để 
+tạo hình cho vàng lỏng? Vì sao? (1,0 điểm) 
+ 
+ 
+Hướng dẫn giải 
+Điểm 
+a 
+Quá trình chuyển thể diễn ra trong 2 bước (2) và (4): 
+- Tại bước (2), vàng được đưa vào lò nung để nấu chảy hoàn toàn, khi này vàn từ thể rắn 
+chuyển sang thể lỏng. Đây là quá trình nóng chảy. 
+- Tại bước (4), vàng chuyển từ thể lỏng sang thể rắn trong quá trình làm nguội. Đây là quá 
+trình đông đặc. 
+0,5 đ 
+ 
+0,5 đ 
+b 
+Người thợ cần sử dụng khuôn làm bằng sắt để tạo hình cho vàng lỏng. Vì nhiệt độ nóng 
+chảy của sắt lớn hơn của vàng, nên khi cho vàng lỏng tiếp xúc với sắt thì sắt sẽ không bị 
+nóng chảy. Điều này vừa giúp cho khuôn không bị hư hỏng mà còn giữ được độ tinh khiết 
+cho vàng. 
+1,0 đ 
+ 
+ 
+ 
+
+---PAGE---
