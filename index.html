@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Tài liệu học Vật Lý 12 Chương 1: Vật Lí Nhiệt - Phiên bản dễ hiểu nhất dành cho em">
+    <title>📚 Vật Lý 12 — Chương 1: Vật Lí Nhiệt</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Floating Particles Background -->
+    <div class="particles" id="particles" aria-hidden="true"></div>
+
+    <!-- Reading Progress Bar -->
+    <div class="reading-progress" id="readingProgress" aria-hidden="true"></div>
+
+    <!-- Navigation -->
+    <nav class="nav" id="mainNav">
+        <div class="nav-inner">
+            <a href="#top" class="nav-logo">
+                <span class="nav-logo-icon">⚛️</span>
+                <span class="nav-logo-text">Vật Lý 12</span>
+            </a>
+            <div class="nav-links" id="navLinks">
+                <a href="#lessons" class="nav-link">📖 Bài Học</a>
+                <a href="#formulas" class="nav-link">📋 Công Thức</a>
+                <a href="#quiz" class="nav-link nav-link-quiz">🎮 Làm Trắc Nghiệm</a>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero" id="top">
+        <div class="hero-content">
+            <div class="hero-badge">Chương trình GDPT 2018 • Lớp 12</div>
+            <h1 class="hero-title">
+                <span class="hero-title-line1">Chương 1</span>
+                <span class="hero-title-line2">Vật Lí Nhiệt 🔥</span>
+            </h1>
+            <p class="hero-subtitle">Học Vật Lý thật dễ dàng, vui vẻ và thân thiện! Mỗi bài học đều có ví dụ thực tế và thí nghiệm tại nhà 💕</p>
+            <div class="hero-actions">
+                <a href="#lessons" class="btn btn-primary">
+                    <span>📖</span> Bắt Đầu Học
+                </a>
+                <a href="#quiz" class="btn btn-secondary">
+                    <span>🎮</span> Làm Trắc Nghiệm
+                </a>
+            </div>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <div class="hero-stat-number">7</div>
+                    <div class="hero-stat-label">Bài Học</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">30</div>
+                    <div class="hero-stat-label">Câu Hỏi</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="hero-stat-number">6</div>
+                    <div class="hero-stat-label">Thí Nghiệm</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Lessons Section -->
+        <section class="section" id="lessons">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">📖 Tài Liệu Bài Học</h2>
+                    <p class="section-desc">Nhấn vào từng bài để mở rộng nội dung. Đọc từ từ, không cần vội nhé! 💪</p>
+                </div>
+
+                <!-- Lesson 1 -->
+                <div class="lesson-card" data-lesson="1">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson1-content">
+                        <div class="lesson-number">01</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Cấu Trúc Của Chất</h3>
+                            <p class="lesson-subtitle">Mọi vật đều do các hạt nhỏ xíu tạo thành 🧱</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson1-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Ý chính:</strong> Tất cả mọi vật — từ cái bàn, ly nước, cho tới không khí — đều được tạo ra từ những hạt nhỏ xíu gọi là <strong>PHÂN TỬ</strong>.
+                                </div>
+                            </div>
+
+                            <h4>🔬 Mô hình động học phân tử — 3 điều cần nhớ:</h4>
+                            <div class="key-points">
+                                <div class="key-point">
+                                    <div class="key-point-num">1</div>
+                                    <div class="key-point-content">
+                                        <strong>Mọi vật đều do các hạt nhỏ (phân tử) tạo thành</strong>
+                                        <p>🧱 Giống như bức tường xây bằng nhiều viên gạch nhỏ</p>
+                                    </div>
+                                </div>
+                                <div class="key-point">
+                                    <div class="key-point-num">2</div>
+                                    <div class="key-point-content">
+                                        <strong>Các hạt luôn chuyển động, không bao giờ đứng yên</strong>
+                                        <p>🐜 Giống đàn kiến trong tổ, lúc nào cũng bò qua bò lại</p>
+                                    </div>
+                                </div>
+                                <div class="key-point">
+                                    <div class="key-point-num">3</div>
+                                    <div class="key-point-content">
+                                        <strong>Càng nóng → hạt chuyển động càng nhanh</strong>
+                                        <p>😄 Trời lạnh thì lười biếng, trời nóng thì chạy lung tung</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <h4>🧊💧💨 So sánh 3 thể: Rắn — Lỏng — Khí</h4>
+                            <div class="comparison-table">
+                                <div class="comparison-col comparison-solid">
+                                    <div class="comparison-header">🧊 RẮN</div>
+                                    <div class="comparison-analogy">Học sinh xếp hàng chào cờ</div>
+                                    <ul>
+                                        <li>Hạt đứng <strong>sát nhau</strong></li>
+                                        <li>Xếp theo <strong>trật tự</strong></li>
+                                        <li>Lực liên kết <strong>rất mạnh</strong></li>
+                                        <li>Có <strong>hình dạng cố định</strong></li>
+                                    </ul>
+                                    <div class="comparison-example">Viên đá, cục sắt, cái bàn</div>
+                                </div>
+                                <div class="comparison-col comparison-liquid">
+                                    <div class="comparison-header">💧 LỎNG</div>
+                                    <div class="comparison-analogy">Học sinh giờ ra chơi</div>
+                                    <ul>
+                                        <li>Hạt cách <strong>xa hơn</strong></li>
+                                        <li><strong>Không có</strong> trật tự</li>
+                                        <li>Lực liên kết <strong>yếu hơn</strong></li>
+                                        <li>Đổ vào đâu <strong>theo hình đó</strong></li>
+                                    </ul>
+                                    <div class="comparison-example">Nước, nước cam, dầu ăn</div>
+                                </div>
+                                <div class="comparison-col comparison-gas">
+                                    <div class="comparison-header">💨 KHÍ</div>
+                                    <div class="comparison-analogy">Học sinh tan học</div>
+                                    <ul>
+                                        <li>Hạt cách <strong>rất xa</strong></li>
+                                        <li>Chuyển động <strong>hỗn loạn</strong></li>
+                                        <li>Lực liên kết <strong>gần = 0</strong></li>
+                                        <li>Bay tung tóe, <strong>không nhìn thấy</strong></li>
+                                    </ul>
+                                    <div class="comparison-example">Không khí, hơi thở</div>
+                                </div>
+                            </div>
+
+                            <div class="experiment-box">
+                                <div class="experiment-title">🧪 Thí nghiệm: "Giọt mực trong nước"</div>
+                                <p><strong>Chuẩn bị:</strong> 2 ly nước (1 ấm, 1 lạnh) + mực/nước màu</p>
+                                <p><strong>Làm:</strong> Nhỏ 1 giọt mực vào mỗi ly → Quan sát!</p>
+                                <p><strong>Kết quả:</strong> Ly nước ấm → mực loang <strong>nhanh hơn</strong> vì hạt nước chuyển động nhanh hơn! 🎉</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 2 -->
+                <div class="lesson-card" data-lesson="2">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson2-content">
+                        <div class="lesson-number">02</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Sự Chuyển Thể</h3>
+                            <p class="lesson-subtitle">Đá → Nước → Hơi nước: Phép biến hình kỳ diệu! ✨</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson2-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Ý chính:</strong> Vật chất có thể "biến đổi" từ dạng này sang dạng khác khi thay đổi nhiệt độ!
+                                </div>
+                            </div>
+
+                            <h4>🔄 Sơ đồ chuyển thể:</h4>
+                            <div class="phase-diagram">
+                                <div class="phase phase-solid">🧊 RẮN</div>
+                                <div class="phase-arrow phase-arrow-right">
+                                    <span class="arrow-label">🔥 Nóng chảy</span>
+                                    <span class="arrow-icon">→</span>
+                                </div>
+                                <div class="phase phase-liquid">💧 LỎNG</div>
+                                <div class="phase-arrow phase-arrow-right">
+                                    <span class="arrow-label">🔥 Bay hơi</span>
+                                    <span class="arrow-icon">→</span>
+                                </div>
+                                <div class="phase phase-gas">💨 KHÍ</div>
+                            </div>
+                            <div class="phase-diagram phase-diagram-reverse">
+                                <div class="phase phase-solid">🧊 RẮN</div>
+                                <div class="phase-arrow phase-arrow-left">
+                                    <span class="arrow-label">❄️ Đông đặc</span>
+                                    <span class="arrow-icon">←</span>
+                                </div>
+                                <div class="phase phase-liquid">💧 LỎNG</div>
+                                <div class="phase-arrow phase-arrow-left">
+                                    <span class="arrow-label">❄️ Ngưng tụ</span>
+                                    <span class="arrow-icon">←</span>
+                                </div>
+                                <div class="phase phase-gas">💨 KHÍ</div>
+                            </div>
+
+                            <h4>📋 Bảng 6 quá trình chuyển thể:</h4>
+                            <div class="info-table">
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">🫠 Nóng chảy</div>
+                                    <div class="info-table-cell">Rắn → Lỏng</div>
+                                    <div class="info-table-cell info-table-example">Đá lạnh tan thành nước</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">🥶 Đông đặc</div>
+                                    <div class="info-table-cell">Lỏng → Rắn</div>
+                                    <div class="info-table-cell info-table-example">Nước bỏ tủ đông → đá</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">💨 Bay hơi</div>
+                                    <div class="info-table-cell">Lỏng → Khí</div>
+                                    <div class="info-table-cell info-table-example">Quần áo phơi nắng → khô</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">🫧 Sôi</div>
+                                    <div class="info-table-cell">Lỏng → Khí</div>
+                                    <div class="info-table-cell info-table-example">Nước đun sôi bốc hơi</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">💧 Ngưng tụ</div>
+                                    <div class="info-table-cell">Khí → Lỏng</div>
+                                    <div class="info-table-cell info-table-example">Ly nước đá có giọt bám ngoài</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">✨ Thăng hoa</div>
+                                    <div class="info-table-cell">Rắn → Khí</div>
+                                    <div class="info-table-cell info-table-example">Long não để lâu bay mất</div>
+                                </div>
+                            </div>
+
+                            <div class="concept-card concept-warning">
+                                <div class="concept-icon">⚠️</div>
+                                <div class="concept-text">
+                                    <strong>Cực kỳ quan trọng!</strong> Khi đang nóng chảy hoặc sôi, <strong>nhiệt độ KHÔNG TĂNG</strong> dù vẫn đang đun! Ví dụ: nước sôi ở 100°C, dù đun tiếp vẫn là 100°C!
+                                </div>
+                            </div>
+
+                            <div class="experiment-box">
+                                <div class="experiment-title">🧪 Thí nghiệm: "Nước đá → Nước → Hơi"</div>
+                                <p><strong>Bước 1:</strong> Bỏ đá vào nồi → Đá CỨNG (rắn)</p>
+                                <p><strong>Bước 2:</strong> Để 5 phút → Đá tan thành NƯỚC → <strong>Nóng chảy!</strong></p>
+                                <p><strong>Bước 3:</strong> Đun nước → Bốc HƠI → <strong>Bay hơi/Sôi!</strong></p>
+                                <p><strong>Bước 4:</strong> Đặt nắp lạnh phía trên → Giọt nước bám → <strong>Ngưng tụ!</strong></p>
+                                <p class="experiment-result">🎉 Vừa thấy CẢ 3 THỂ trong 1 thí nghiệm!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 3 -->
+                <div class="lesson-card" data-lesson="3">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson3-content">
+                        <div class="lesson-number">03</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Nội Năng & Định Luật I</h3>
+                            <p class="lesson-subtitle">Năng lượng bên trong mọi vật 💰</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson3-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Nội năng là gì?</strong> Vì các hạt nhỏ xíu luôn chuyển động nên chúng có <strong>năng lượng bên trong</strong>. Giống tiền tiết kiệm trong heo đất — nhìn bên ngoài không thấy nhưng bên trong có! 💰
+                                </div>
+                            </div>
+
+                            <h4>✌️ 2 cách thay đổi nội năng:</h4>
+                            <div class="two-cols">
+                                <div class="col-card col-heat">
+                                    <div class="col-card-icon">🔥</div>
+                                    <h5>Truyền nhiệt</h5>
+                                    <p>Đưa nhiệt vào hoặc lấy nhiệt ra</p>
+                                    <div class="col-card-example">VD: Đun nước trên bếp → nước nóng lên</div>
+                                </div>
+                                <div class="col-card col-work">
+                                    <div class="col-card-icon">💪</div>
+                                    <h5>Thực hiện công</h5>
+                                    <p>Dùng lực tác động</p>
+                                    <div class="col-card-example">VD: Xoa hai tay vào nhau → tay nóng lên</div>
+                                </div>
+                            </div>
+
+                            <div class="formula-box">
+                                <div class="formula-title">⭐ Định Luật I Nhiệt Động Lực Học</div>
+                                <div class="formula-main">ΔU = A + Q</div>
+                                <div class="formula-explain">
+                                    <p>• <strong>ΔU</strong>: Độ thay đổi nội năng</p>
+                                    <p>• <strong>A</strong>: Công (A > 0: nhận công, A < 0: thực hiện công)</p>
+                                    <p>• <strong>Q</strong>: Nhiệt lượng (Q > 0: nhận nhiệt, Q < 0: truyền nhiệt)</p>
+                                </div>
+                            </div>
+
+                            <div class="experiment-box">
+                                <div class="experiment-title">🧪 Thí nghiệm: "2 cách làm nóng"</div>
+                                <p><strong>Cách 1 — Thực hiện công:</strong> Xoa hai lòng bàn tay thật nhanh 10 giây → Tay nóng lên! Không cần lửa!</p>
+                                <p><strong>Cách 2 — Truyền nhiệt:</strong> Ôm cốc nước nóng → Tay cũng nóng! Nhiệt từ cốc truyền sang tay.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 4 -->
+                <div class="lesson-card" data-lesson="4">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson4-content">
+                        <div class="lesson-number">04</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Nhiệt Độ & Thang Đo</h3>
+                            <p class="lesson-subtitle">Đo xem nóng hay lạnh bao nhiêu 🌡️</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson4-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Nhiệt độ cho mình biết vật NÓNG hay LẠNH bao nhiêu.</strong> Có 2 thang đo phổ biến: Celsius (°C) và Kelvin (K).
+                                </div>
+                            </div>
+
+                            <h4>🌡️ 2 thang đo cần nhớ:</h4>
+                            <div class="two-cols">
+                                <div class="col-card col-celsius">
+                                    <div class="col-card-icon">🌡️</div>
+                                    <h5>Celsius (°C)</h5>
+                                    <p>Thang mình dùng hàng ngày</p>
+                                    <div class="col-card-example">Nước đá = 0°C • Nước sôi = 100°C</div>
+                                </div>
+                                <div class="col-card col-kelvin">
+                                    <div class="col-card-icon">🔬</div>
+                                    <h5>Kelvin (K)</h5>
+                                    <p>Thang "sang chảnh" của nhà khoa học</p>
+                                    <div class="col-card-example">0 K = -273°C (lạnh nhất vũ trụ!)</div>
+                                </div>
+                            </div>
+
+                            <div class="formula-box">
+                                <div class="formula-title">⭐ Đổi đơn vị nhiệt độ</div>
+                                <div class="formula-main">T(K) = t(°C) + 273</div>
+                                <div class="formula-explain">
+                                    <p>• 27°C = 27 + 273 = <strong>300 K</strong></p>
+                                    <p>• 0°C = 0 + 273 = <strong>273 K</strong></p>
+                                    <p>• 100°C = 100 + 273 = <strong>373 K</strong></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 5 -->
+                <div class="lesson-card" data-lesson="5">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson5-content">
+                        <div class="lesson-number">05</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Nhiệt Dung Riêng</h3>
+                            <p class="lesson-subtitle">Mỗi chất "khó tính" khác nhau! 🔥</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson5-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Ý chính:</strong> Mỗi chất cần lượng nhiệt <strong>KHÁC NHAU</strong> để nóng lên cùng 1 mức. Nước cần rất nhiều nhiệt mới nóng, còn sắt thì nóng nhanh lắm!
+                                </div>
+                            </div>
+
+                            <div class="formula-box formula-box-big">
+                                <div class="formula-title">⭐⭐⭐ Công thức tính nhiệt lượng</div>
+                                <div class="formula-main">Q = m × c × ΔT</div>
+                                <div class="formula-explain">
+                                    <p>• <strong>Q</strong>: Nhiệt lượng (đơn vị: Jun - J)</p>
+                                    <p>• <strong>m</strong>: Khối lượng (đơn vị: kg)</p>
+                                    <p>• <strong>c</strong>: Nhiệt dung riêng (J/kg.K) — mỗi chất khác nhau!</p>
+                                    <p>• <strong>ΔT</strong>: Chênh lệch nhiệt độ = T₂ − T₁</p>
+                                </div>
+                            </div>
+
+                            <h4>📊 Nhiệt dung riêng thường gặp:</h4>
+                            <div class="info-table">
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">💧 Nước</div>
+                                    <div class="info-table-cell"><strong>4200 J/kg.K</strong></div>
+                                    <div class="info-table-cell info-table-example">Khó nóng nhất! 💪</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">🥄 Nhôm</div>
+                                    <div class="info-table-cell"><strong>880 J/kg.K</strong></div>
+                                    <div class="info-table-cell info-table-example">Nóng khá nhanh</div>
+                                </div>
+                                <div class="info-table-row">
+                                    <div class="info-table-cell info-table-label">🔩 Sắt</div>
+                                    <div class="info-table-cell"><strong>460 J/kg.K</strong></div>
+                                    <div class="info-table-cell info-table-example">Rất dễ nóng! 🔥</div>
+                                </div>
+                            </div>
+
+                            <div class="example-box">
+                                <div class="example-title">📝 Bài tập mẫu — Giải từng bước:</div>
+                                <p class="example-question"><strong>Đề:</strong> Đun 2 kg nước từ 25°C lên 75°C. Tính nhiệt lượng?</p>
+                                <div class="example-steps">
+                                    <div class="example-step">
+                                        <div class="step-num">1</div>
+                                        <div class="step-content">Ghi ra đề cho: m = 2 kg, T₁ = 25°C, T₂ = 75°C, c = 4200</div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">2</div>
+                                        <div class="step-content">Tính ΔT = 75 − 25 = <strong>50°C</strong></div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">3</div>
+                                        <div class="step-content">Áp công thức: Q = 2 × 4200 × 50</div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">4</div>
+                                        <div class="step-content">Kết quả: Q = <strong>420.000 J = 420 kJ</strong> 🎉</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 6 -->
+                <div class="lesson-card" data-lesson="6">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson6-content">
+                        <div class="lesson-number">06</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Nhiệt Nóng Chảy Riêng</h3>
+                            <p class="lesson-subtitle">Cần bao nhiêu nhiệt để tan đá? 🫠</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson6-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Khi đá đang tan thành nước</strong>, mình vẫn phải cấp nhiệt nhưng nhiệt độ <strong>KHÔNG TĂNG</strong>. Nhiệt đó dùng để "phá vỡ" cấu trúc rắn.
+                                </div>
+                            </div>
+
+                            <div class="formula-box">
+                                <div class="formula-title">⭐ Nhiệt nóng chảy</div>
+                                <div class="formula-main">Q = λ × m</div>
+                                <div class="formula-explain">
+                                    <p>• <strong>Q</strong>: Nhiệt lượng để nóng chảy (J)</p>
+                                    <p>• <strong>λ</strong> (lambda): Nhiệt nóng chảy riêng (J/kg)</p>
+                                    <p>• <strong>m</strong>: Khối lượng vật rắn (kg)</p>
+                                    <p>📌 Nước đá: λ = 334.000 J/kg</p>
+                                </div>
+                            </div>
+
+                            <div class="example-box">
+                                <div class="example-title">📝 Ví dụ nhanh:</div>
+                                <p class="example-question">Muốn tan 0,5 kg đá thành nước. Cần bao nhiêu nhiệt?</p>
+                                <div class="example-steps">
+                                    <div class="example-step">
+                                        <div class="step-num">→</div>
+                                        <div class="step-content">Q = 334.000 × 0,5 = <strong>167.000 J ≈ 167 kJ</strong></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Lesson 7 -->
+                <div class="lesson-card" data-lesson="7">
+                    <button class="lesson-header" aria-expanded="false" aria-controls="lesson7-content">
+                        <div class="lesson-number">07</div>
+                        <div class="lesson-info">
+                            <h3 class="lesson-title">Nhiệt Hóa Hơi Riêng</h3>
+                            <p class="lesson-subtitle">Cần bao nhiêu nhiệt để nước sôi cạn? 💨</p>
+                        </div>
+                        <div class="lesson-toggle">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </button>
+                    <div class="lesson-content" id="lesson7-content">
+                        <div class="lesson-body">
+                            <div class="concept-card concept-highlight">
+                                <div class="concept-icon">💡</div>
+                                <div class="concept-text">
+                                    <strong>Khi nước đang sôi</strong>, dù đun tiếp nhiệt độ vẫn 100°C. Nhiệt đó dùng để "đẩy" các hạt nước bay đi thành hơi.
+                                </div>
+                            </div>
+
+                            <div class="formula-box">
+                                <div class="formula-title">⭐ Nhiệt hóa hơi</div>
+                                <div class="formula-main">Q = L × m</div>
+                                <div class="formula-explain">
+                                    <p>• <strong>Q</strong>: Nhiệt lượng để hóa hơi (J)</p>
+                                    <p>• <strong>L</strong>: Nhiệt hóa hơi riêng (J/kg)</p>
+                                    <p>• <strong>m</strong>: Khối lượng chất lỏng (kg)</p>
+                                    <p>📌 Nước: L = 2.260.000 J/kg (CẦN RẤT NHIỀU!)</p>
+                                </div>
+                            </div>
+
+                            <div class="example-box">
+                                <div class="example-title">📝 Bài tập tổng hợp — "Hành trình viên đá":</div>
+                                <p class="example-question"><strong>Đề:</strong> Đun 0,2 kg đá ở 0°C cho đến khi thành hơi ở 100°C</p>
+                                <div class="example-steps">
+                                    <div class="example-step">
+                                        <div class="step-num">1</div>
+                                        <div class="step-content">Đá 0°C → Nước 0°C: Q₁ = λ×m = 334.000 × 0,2 = <strong>66.800 J</strong></div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">2</div>
+                                        <div class="step-content">Nước 0°C → Nước 100°C: Q₂ = mcΔT = 0,2 × 4200 × 100 = <strong>84.000 J</strong></div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">3</div>
+                                        <div class="step-content">Nước 100°C → Hơi 100°C: Q₃ = L×m = 2.260.000 × 0,2 = <strong>452.000 J</strong></div>
+                                    </div>
+                                    <div class="example-step">
+                                        <div class="step-num">🎯</div>
+                                        <div class="step-content">Tổng: Q = 66.800 + 84.000 + 452.000 = <strong>602.800 J ≈ 603 kJ</strong></div>
+                                    </div>
+                                </div>
+                                <p class="experiment-result">💡 Giai đoạn sôi → hơi cần nhiệt lượng NHIỀU NHẤT!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Formulas Summary Section -->
+        <section class="section section-formulas" id="formulas">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">📋 Tổng Hợp Công Thức</h2>
+                    <p class="section-desc">In ra dán lên bàn học nha em! 📌</p>
+                </div>
+                <div class="formulas-grid">
+                    <div class="formula-card">
+                        <div class="formula-card-num">1</div>
+                        <div class="formula-card-formula">ΔU = A + Q</div>
+                        <div class="formula-card-name">Định luật I NĐLH</div>
+                        <div class="formula-card-when">Khi hỏi về nội năng thay đổi</div>
+                    </div>
+                    <div class="formula-card">
+                        <div class="formula-card-num">2</div>
+                        <div class="formula-card-formula">Q = m × c × ΔT</div>
+                        <div class="formula-card-name">Nhiệt lượng</div>
+                        <div class="formula-card-when">Khi vật nóng/lạnh (không chuyển thể)</div>
+                    </div>
+                    <div class="formula-card">
+                        <div class="formula-card-num">3</div>
+                        <div class="formula-card-formula">Q = λ × m</div>
+                        <div class="formula-card-name">Nóng chảy / Đông đặc</div>
+                        <div class="formula-card-when">Khi chuyển Rắn ↔ Lỏng</div>
+                    </div>
+                    <div class="formula-card">
+                        <div class="formula-card-num">4</div>
+                        <div class="formula-card-formula">Q = L × m</div>
+                        <div class="formula-card-name">Hóa hơi / Ngưng tụ</div>
+                        <div class="formula-card-when">Khi chuyển Lỏng ↔ Khí</div>
+                    </div>
+                    <div class="formula-card">
+                        <div class="formula-card-num">5</div>
+                        <div class="formula-card-formula">T(K) = t(°C) + 273</div>
+                        <div class="formula-card-name">Đổi nhiệt độ</div>
+                        <div class="formula-card-when">Khi cần đổi Celsius ↔ Kelvin</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Section -->
+        <section class="section section-quiz" id="quiz">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">🎮 Làm Trắc Nghiệm</h2>
+                    <p class="section-desc">Kiểm tra xem em nhớ được bao nhiêu nha! Không sao nếu sai — sai để học mà 💕</p>
+                </div>
+
+                <!-- Quiz Progress -->
+                <div class="quiz-progress" id="quizProgress">
+                    <div class="quiz-progress-bar">
+                        <div class="quiz-progress-fill" id="quizProgressFill"></div>
+                    </div>
+                    <div class="quiz-progress-text">
+                        Câu <span id="quizCurrentNum">1</span> / <span id="quizTotalNum">15</span>
+                    </div>
+                </div>
+
+                <!-- Quiz Container -->
+                <div class="quiz-container" id="quizContainer">
+                    <!-- Questions will be dynamically generated -->
+                </div>
+
+                <!-- Quiz Results -->
+                <div class="quiz-results" id="quizResults" style="display:none;">
+                    <div class="results-card">
+                        <div class="results-icon" id="resultsIcon">🎉</div>
+                        <h3 class="results-title" id="resultsTitle">Giỏi quá!</h3>
+                        <div class="results-score">
+                            <span class="results-score-num" id="resultsScore">0</span>
+                            <span class="results-score-total">/ <span id="resultsTotalScore">15</span></span>
+                        </div>
+                        <p class="results-message" id="resultsMessage">Em làm tốt lắm!</p>
+                        <div class="results-breakdown" id="resultsBreakdown"></div>
+                        <button class="btn btn-primary btn-large" id="retryQuizBtn">
+                            <span>🔄</span> Làm Lại
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Quiz Start -->
+                <div class="quiz-start" id="quizStart">
+                    <div class="quiz-start-card">
+                        <div class="quiz-start-icon">🧠</div>
+                        <h3>Sẵn sàng kiểm tra chưa?</h3>
+                        <p>15 câu trắc nghiệm • Không giới hạn thời gian • Có giải thích đáp án</p>
+                        <button class="btn btn-primary btn-large" id="startQuizBtn">
+                            <span>🚀</span> Bắt Đầu Ngay!
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>Được tạo với 💕 để em học Vật Lý thật dễ dàng</p>
+            <p class="footer-sub">Chương trình GDPT 2018 • Vật Lý 12 • Chương 1: Vật Lí Nhiệt</p>
+        </div>
+    </footer>
+
+    <!-- Back to Top -->
+    <button class="back-to-top" id="backToTop" aria-label="Lên đầu trang">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>
+    </button>
+
+    <script src="app.js"></script>
+</body>
+</html>
