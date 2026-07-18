@@ -496,6 +496,27 @@ body::before {
 }
 .lesson-content td { color: var(--text-secondary); }
 
+/* Example boxes for worked problems */
+.lesson-content .example-box {
+    background: rgba(16, 185, 129, 0.08);
+    border: 1px solid rgba(16, 185, 129, 0.25);
+    border-left: 4px solid var(--success);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    padding: 1rem 1.25rem;
+    margin: 1rem 0;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+.lesson-content .example-box strong {
+    color: var(--success);
+}
+
+/* Enhanced note-box for warnings */
+.lesson-content .note-box strong {
+    color: inherit;
+}
+
 .lesson-footer {
     text-align: center;
     margin-bottom: 2rem;
