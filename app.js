@@ -13,7 +13,7 @@
 
 // Legacy fallback (should not be needed)
 if (typeof LESSON_CONTENT === 'undefined') {
-    var LESSON_CONTENT = { 1: '<p>Đang tải nội dung...</p>' };
+    window.LESSON_CONTENT = { 1: '<p>Đang tải nội dung...</p>' };
     console.warn('LESSON_CONTENT not loaded! Check lessonContent.js');
 }
 
